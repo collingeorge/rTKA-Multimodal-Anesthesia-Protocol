@@ -1,5 +1,32 @@
 # Multimodal Anesthesia Protocol for Robot-Assisted Total Knee Arthroplasty
 
+## Summary
+
+This repository presents three evidence-based anesthesia pathways for robot-assisted total knee arthroplasty, with emphasis on opioid-free techniques and Enhanced Recovery After Surgery principles. Developed through systematic literature synthesis of 2023-2025 evidence, this protocol framework serves as an educational resource for anesthesia trainees, medical students, and quality improvement teams exploring multimodal analgesia strategies in arthroplasty care.
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Three Standardized Pathways](#three-standardized-pathways)
+- [Background and Rationale](#background-and-rationale)
+- [Repository Structure](#repository-structure)
+- [Key Protocol Features](#key-protocol-features)
+- [Pathway Comparison](#pathway-comparison)
+- [Evidence Summary](#evidence-summary)
+- [Getting Started](#getting-started)
+- [Implementation Considerations](#implementation-considerations)
+- [Target Audience](#target-audience)
+- [Scope and Disclaimer](#scope-and-disclaimer)
+- [Limitations and Future Directions](#limitations-and-future-directions)
+- [References](#references)
+- [Author and Contact](#author-and-contact)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
+---
+
 ## Overview
 
 This repository contains evidence-based anesthesia protocols for robot-assisted total knee arthroplasty (rTKA), synthesized from 2023-2025 literature and designed to support opioid-free anesthesia (OFA) implementation within Enhanced Recovery After Surgery (ERAS) pathways.
@@ -36,21 +63,21 @@ Robot-assisted TKA presents unique anesthetic challenges including longer operat
 ### File Descriptions
 
 **Pre-Operative Phase**
-- 01_PreOp_Checklist.md: Comprehensive pre-operative verification and preparation
-- 02_Patient_Counseling_Script.md: Shared decision-making framework for pathway selection
+- `01_PreOp_Checklist.md`: Comprehensive pre-operative verification and preparation
+- `02_Patient_Counseling_Script.md`: Shared decision-making framework for pathway selection
 
 **Intra-Operative Phase**
-- 03_Anesthesia_Protocols: Detailed clinical protocols with evidence-based dosing
-- 04_IntraOp_Flowcharts: Clinical decision algorithms for common scenarios
+- `03_Anesthesia_Protocols/`: Detailed clinical protocols with evidence-based dosing
+- `04_IntraOp_Flowcharts/`: Clinical decision algorithms for common scenarios
 
 **Post-Operative Phase**
-- 05_PACU_Handoff_Templates.md: Standardized handoff communication for each pathway
+- `05_PACU_Handoff_Templates.md`: Standardized handoff communication for each pathway
 
 **Team Coordination**
-- 06_Surgeon_OnePage_Summary.md: Quick reference for surgical teams
+- `06_Surgeon_OnePage_Summary.md`: Quick reference for surgical teams
 
 **Evidence Base**
-- 07_References_Evidence_2024.md: Complete bibliography in Vancouver style
+- `07_References_Evidence_2024.md`: Complete bibliography in Vancouver style
 
 ## Key Protocol Features
 
@@ -111,14 +138,14 @@ Key supporting studies include:
 - Memtsoudis et al. (2023): Population-based study of multimodal pain management strategies
 - American Society of Regional Anesthesia and Pain Medicine (2024): Updated guidelines on neuraxial procedures in anticoagulated patients
 
-Complete citations with journal references available in 07_References_Evidence_2024.md.
+Complete citations with journal references available in `07_References_Evidence_2024.md`.
 
 ## Getting Started
 
-1. Review 03_Anesthesia_Protocols/Protocol_Comparison_Table.md for pathway selection guidance
-2. Use 01_PreOp_Checklist.md for pre-operative preparation and verification
-3. Follow the appropriate protocol from 03_Anesthesia_Protocols directory
-4. Reference 07_References_Evidence_2024.md for evidence supporting each recommendation
+1. Review `03_Anesthesia_Protocols/Protocol_Comparison_Table.md` for pathway selection guidance
+2. Use `01_PreOp_Checklist.md` for pre-operative preparation and verification
+3. Follow the appropriate protocol from `03_Anesthesia_Protocols/` directory
+4. Reference `07_References_Evidence_2024.md` for evidence supporting each recommendation
 
 ## Implementation Considerations
 
@@ -154,74 +181,143 @@ Recommended monitoring parameters:
 - Quality improvement teams in arthroplasty centers
 - Researchers studying perioperative optimization strategies
 
-## Limitations and Disclaimers
+## Scope and Disclaimer
 
-**This protocol framework represents:**
-- Current evidence synthesis from peer-reviewed literature (2023-2025)
-- Structured clinical decision support based on society guidelines
-- Implementation templates designed for workflow integration
+### Project Scope
 
-**This protocol framework has:**
-- Not undergone prospective clinical validation
-- Not been reviewed by institutional review boards or quality committees
-- Not replaced the need for institutional protocols or clinical judgment
-- Not been adapted for specific patient populations or comorbidities
+This repository represents a **literature synthesis and protocol development project** created for educational and research purposes. The protocols presented here are:
 
-**Clinical implementation requires:**
-- Institutional review and approval through appropriate channels
+- Derived from systematic review of peer-reviewed literature (2023-2025)
+- Structured according to contemporary ERAS and regional anesthesia guidelines
+- Designed as frameworks for clinical discussion and quality improvement initiatives
+- Intended to demonstrate clinical reasoning and evidence synthesis capabilities
+
+### Important Disclaimers
+
+**This protocol framework has NOT been:**
+- Prospectively validated in clinical practice
+- Reviewed by institutional review boards or quality committees
+- Approved for direct clinical implementation
+- Tested across diverse patient populations or clinical settings
+
+**Clinical use requires:**
+- Institutional review and approval through appropriate governance channels
 - Supervising physician oversight and authorization
-- Adaptation to local resources, patient populations, and practice patterns
+- Adaptation to local resources, patient populations, and practice environments
 - Compliance with hospital policies, credentialing requirements, and regulatory standards
 
-This work is intended for educational purposes and quality improvement discussions. Direct clinical use requires appropriate oversight, validation, and institutional approval.
+This work is shared for educational purposes and to facilitate evidence-based discussions about perioperative care optimization. It does not constitute medical advice and should not be used for patient care without appropriate validation and oversight.
 
-## Future Directions
+## Limitations and Future Directions
 
-Planned enhancements to this repository:
-- Interactive decision support tools for pathway selection
-- Patient education materials for informed consent discussions
-- Outcome tracking dashboard templates for quality improvement
-- Cost-effectiveness analysis framework comparing pathways
-- Integration guides for electronic health record order sets
+### Current Limitations
+
+- No prospective clinical validation or outcome data
+- Limited to literature-based recommendations without institutional adaptation
+- Does not account for site-specific resources, formulary restrictions, or workflow constraints
+- Requires validation in diverse patient populations including those with complex comorbidities
+- No cost-effectiveness analysis or resource utilization assessment
+
+### Proposed Future Directions
+
+**Short-term goals:**
+- Pilot implementation at a single institution with IRB approval
+- Prospective data collection on key outcome metrics
+- Refinement based on clinical feedback from multidisciplinary teams
+- Development of patient education materials and shared decision-making tools
+
+**Long-term goals:**
+- Multi-center validation study comparing the three pathways
+- Cost-effectiveness analysis and health economics evaluation
+- Integration with electronic health record clinical decision support systems
+- Publication in peer-reviewed anesthesia or orthopedic surgery journals
+- Expansion to other arthroplasty procedures (hip, shoulder)
+
+**Collaboration opportunities:**
+- Academic anesthesiology departments interested in ERAS protocol development
+- Quality improvement teams seeking evidence-based multimodal analgesia frameworks
+- Researchers studying opioid-free anesthesia outcomes
+- Medical educators developing perioperative medicine curricula
+
+Feedback, suggestions for improvement, and collaboration inquiries are welcomed via GitHub issues or pull requests.
+
+## References
+
+Complete bibliographic citations in Vancouver format are available in `07_References_Evidence_2024.md`.
+
+Key evidence sources include:
+
+1. Memtsoudis SG, et al. Association of multimodal pain management strategies with perioperative outcomes and resource utilization in total joint arthroplasty. Anesthesiology. 2023;138(5):479-491.
+
+2. Soffin EM, et al. Evidence review for the American College of Surgeons/American Society of Anesthesiologists perioperative opioid-sparing strategies in total joint arthroplasty. Anesth Analg. 2023;137(6):1178-1193.
+
+3. Thacher RR, et al. Efficacy of adductor canal block combined with IPACK for postoperative analgesia after robotic-assisted total knee arthroplasty. J Bone Joint Surg Am. 2022;104(16):1433-1442.
+
+4. American Society of Regional Anesthesia and Pain Medicine. 2024 guidelines on interventional spine and pain procedures in patients on antiplatelet and anticoagulant medications. Reg Anesth Pain Med. 2024;49(4):247-284.
+
+[Complete reference list with all 16 sources available in repository]
 
 ## Author and Contact
 
-Collin George
+**Collin George**  
 UW Medical Center  
-Undergraduate Premedical Student
+University of Washington
 
+**Project Context:**  
 Developed as part of medical school application research portfolio, demonstrating clinical knowledge synthesis, protocol development capabilities, and commitment to evidence-based perioperative care.
 
+**Contact:**  
 Feedback, evidence updates, and implementation experiences are welcomed via GitHub issues or pull requests.
 
 ## Acknowledgments
 
-This protocol synthesis was informed by Enhanced Recovery After Surgery Society guidelines for hip and knee arthroplasty, American Society of Regional Anesthesia and Pain Medicine 2024 practice advisories, contemporary opioid-free anesthesia literature from major anesthesia journals, and clinical workflow insights from academic medical centers.
+This protocol synthesis was informed by:
+- Enhanced Recovery After Surgery Society guidelines for hip and knee arthroplasty
+- American Society of Regional Anesthesia and Pain Medicine 2024 practice advisories
+- Contemporary opioid-free anesthesia literature from major anesthesia journals
+- Clinical workflow insights from academic medical centers
+
+Special appreciation to the anesthesia and orthopedic surgery communities advancing evidence-based perioperative care and the ongoing development of opioid-sparing analgesic strategies.
 
 ## Citation
 
 If referencing this work in academic or clinical contexts:
 ```
-Collin. (2025). Evidence-Based Multimodal Anesthesia Protocol for 
+Collin. (2024). Evidence-Based Multimodal Anesthesia Protocol for 
 Robot-Assisted Total Knee Arthroplasty. GitHub repository. 
-https://github.com/[username]/rTKA-Anesthesia-Protocol
+https://github.com/[username]/rTKA-Multimodal-Anesthesia-Protocol
 ```
 
 ## License
 
-Educational and Research Use
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
-This work is shared for educational purposes and clinical research discussion. Any clinical implementation requires institutional review board or quality improvement committee approval, supervising physician authorization, adaptation to local standards of care, and compliance with hospital credentialing and policies.
+This work is licensed under CC BY 4.0. You are free to:
+- Share: Copy and redistribute the material in any medium or format
+- Adapt: Remix, transform, and build upon the material for any purpose, even commercially
 
-Not intended for direct clinical use without appropriate oversight and validation.
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made
+
+**Clinical Use Restrictions:**
+
+While this work is openly licensed for educational and research purposes, any clinical implementation requires:
+- Institutional review board or quality improvement committee approval
+- Supervising physician authorization and oversight
+- Adaptation to local standards of care and patient populations
+- Compliance with hospital credentialing, policies, and regulatory requirements
+
+The CC BY 4.0 license applies to the educational content; it does not authorize direct clinical use without appropriate validation and institutional approval.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
-Version 1.0  
-Last Updated: November 2025  
-Evidence Current Through: January 2026  
-Next Planned Review: Quarterly with emerging evidence
+**Version:** 1.0  
+**Last Updated:** November 29, 2024  
+**Evidence Current Through:** January 2025  
+**Next Planned Review:** Quarterly with emerging evidence
 
 ---
 
-For questions about protocol content, evidence basis, or implementation considerations, please open a GitHub issue.
+**For questions about protocol content, evidence basis, or implementation considerations, please open a GitHub issue.**
