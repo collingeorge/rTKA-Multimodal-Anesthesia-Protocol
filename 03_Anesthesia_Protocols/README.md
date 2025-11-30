@@ -6,6 +6,8 @@ This directory contains three standardized anesthesia pathways developed for rob
 
 These protocols are intended as **educational, non-validated clinical frameworks** for understanding modern multimodal, opioid-sparing anesthesia approaches. They are not institutional policy and should always be adapted by supervising anesthesiologists.
 
+**Terminology Note:** "Opioid-free anesthesia" in this project refers specifically to opioid-free intraoperative anesthesia (OFIA). Postoperative opioid rescue remains available when clinically needed.
+
 ---
 
 ## Contents
@@ -214,3 +216,7 @@ This work is shared for educational purposes. It does not constitute medical adv
 ---
 
 **For questions about protocol selection, adaptation, or implementation, refer to main repository README or contact repository author.**
+
+---
+
+[← Return to Repository Overview](../README.md)
