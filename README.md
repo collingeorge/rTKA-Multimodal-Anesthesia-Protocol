@@ -339,7 +339,7 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ## Changelog
 
-### Version 1.0 (November 29, 2024)
+### Version 1.0 (November 29, 2026)
 **Initial Release**
 - Complete three-pathway protocol framework
 - Evidence synthesis from 16 primary sources (2022-2024)
@@ -351,7 +351,7 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 - Complete Vancouver-style references
 
 **Evidence Base:**
-- Current through January 2025
+- Current through January 2026
 - Next planned review: Quarterly
 
 **Known Issues:**
@@ -362,9 +362,9 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 ---
 
 **Version:** 1.0  
-**Last Updated:** November 29, 2024  
+**Last Updated:** November 29, 2026  
 **Evidence Current Through:** January 2025  
-**Next Planned Review:** February 2025
+**Next Planned Review:** February 2026
 
 ---
 
