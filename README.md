@@ -363,7 +363,7 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 
 **Version:** 1.0  
 **Last Updated:** November 29, 2026  
-**Evidence Current Through:** January 2025  
+**Evidence Current Through:** January 2026  
 **Next Planned Review:** February 2026
 
 ---
