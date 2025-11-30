@@ -551,9 +551,9 @@ Complete bibliographic citations in Vancouver format are available in [`07_Refer
 
 ## Author and Contact
 
-**Collin**  
-Clinical Laboratory Technician, UW Medical Center  
-Undergraduate Premedical Student, University of Washington
+**Collin George**  
+UW Medical Center  
+University of Washington
 
 **Project Context:**  
 Developed as part of medical school application research portfolio, demonstrating clinical knowledge synthesis, protocol development capabilities, and commitment to evidence-based perioperative care.
