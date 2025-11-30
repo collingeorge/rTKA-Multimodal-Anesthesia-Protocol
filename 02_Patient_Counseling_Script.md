@@ -121,9 +121,9 @@ This is a simpler plan that completely avoids any extra needles before surgery."
 
 "Pain control is still good with this option, but:
 - The first 12-24 hours may be a little more uncomfortable than with nerve blocks
-- You might be more likely to request a small amount of opioid in the recovery room
+- You might be more likely to request a small amount of pain medication in the recovery room
 
-But again — we keep opioids as a backup, not the main plan."
+But again — we keep opioid-based analgesia as a backup, not the main plan."
 
 **Key phrases you may use:**
 - "No needle pokes from anesthesia at all — everything is done through your IV."
