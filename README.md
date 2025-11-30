@@ -314,8 +314,8 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 ---
 
 **Version:** 1.0  
-**Last Updated:** November 29, 2024  
-**Evidence Current Through:** January 2025  
+**Last Updated:** November 29, 2025  
+**Evidence Current Through:** January 2026 
 **Next Planned Review:** Quarterly with emerging evidence
 
 ---
