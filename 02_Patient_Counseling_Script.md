@@ -84,26 +84,52 @@ You can still receive a small dose of opioid later if you really need it, but th
 
 ---
 
-#### Option 2: Opioid-Free Intraoperative Anesthesia WITHOUT Nerve Blocks
+#### Option 2: Opioid-Free Anesthesia Without Nerve Blocks (No Needle Pokes From Anesthesia)
 
-"The second option uses the same non-opioid medicines, but without the nerve blocks.
+"Your second option uses all the same non-opioid medicines, but without any nerve block injections. This means **you will not receive any needle pokes from the anesthesia team** before surgery.
 
-In this approach:
+Here's exactly what that means:
+- No nerve block injections
+- No needles into the leg from anesthesia
+- No injections while you're awake
+- All IV medicines go through the single IV line you already have
+
+Instead, after you are fully asleep, the surgeon places a large-volume local anesthetic injection directly inside the knee joint to help with early pain control. You will not be awake for this injection, and you will not feel it."
+
+**Clinical Description**
+
+"With this plan:
 - You still get acetaminophen, anti-inflammatories, dexamethasone, and low-dose ketamine and dexmedetomidine
-- Instead of nerve blocks, the surgeon injects local anesthetic into the knee using a large-volume periarticular technique to numb the tissues
+- There are no nerve blocks, so no ultrasound-guided injections
+- Pain control comes from:
+  - Your pre-operative medications
+  - The non-opioid anesthesia
+  - The surgeon's injection after you're asleep
 
-This option is helpful if:
-- You prefer not to have nerve blocks
-- Your blood thinner schedule means blocks are not ideal
-- We need a simpler or faster workflow
+This is a simpler plan that completely avoids any extra needles before surgery."
 
-Pain control is still good, but:
-- The first 12-24 hours may be more uncomfortable compared to having blocks
-- There is a slightly higher chance you may need a small amount of opioid in the recovery room"
+**Why Choose This Option?**
+
+"This approach is helpful if:
+- You prefer not to have any nerve block injections
+- You're anxious about needles and want to avoid extra pokes
+- Your blood thinner schedule makes blocks less ideal
+- We want a simpler workflow that still avoids opioids during surgery
+- You want to minimize medications but also avoid block injections"
+
+**Pain Expectations**
+
+"Pain control is still good with this option, but:
+- The first 12-24 hours may be a little more uncomfortable than with nerve blocks
+- You might be more likely to request a small amount of opioid in the recovery room
+
+But again — we keep opioids as a backup, not the main plan."
 
 **Key phrases you may use:**
-- "This option still avoids opioids during surgery."
-- "We keep opioids as a backup, not the main plan."
+- "No needle pokes from anesthesia at all — everything is done through your IV."
+- "The only injection is done by the surgeon after you are completely asleep."
+- "This option still keeps you opioid-free during surgery."
+- "We will still keep opioids available if you need them — but they're a backup, not the plan."
 
 ---
 
@@ -205,7 +231,7 @@ All evidence sources are cited in the repository's master reference list ([`07_R
 
 ---
 
-**Reviewed:** January 2025  
+**Reviewed:** November 2026  
 **Next Review Due:** January 2026
 
 ---
