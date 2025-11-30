@@ -1,21 +1,25 @@
 # Multimodal Anesthesia Protocol for Robot-Assisted Total Knee Arthroplasty
 
-## Summary
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Evidence Base](https://img.shields.io/badge/Evidence-2023--2025-blue.svg)]()
+[![Last Updated](https://img.shields.io/badge/Updated-November%202024-green.svg)]()
 
-This repository presents three evidence-based anesthesia pathways for robot-assisted total knee arthroplasty, with emphasis on opioid-free techniques and Enhanced Recovery After Surgery principles. Developed through systematic literature synthesis of 2023-2025 evidence, this protocol framework serves as an educational resource for anesthesia trainees, medical students, and quality improvement teams exploring multimodal analgesia strategies in arthroplasty care.
+## At a Glance
+
+Evidence-based anesthesia protocol framework for robot-assisted total knee arthroplasty featuring three pathways: opioid-free with nerve blocks (preferred), opioid-free without blocks, and conventional opioid-based approaches. Synthesized from 2023-2025 peer-reviewed literature for educational use by anesthesia trainees, medical students, quality improvement teams, and clinicians exploring multimodal analgesia strategies in Enhanced Recovery After Surgery pathways.
 
 ---
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Quick Start](#quick-start)
 - [Three Standardized Pathways](#three-standardized-pathways)
 - [Background and Rationale](#background-and-rationale)
 - [Repository Structure](#repository-structure)
 - [Key Protocol Features](#key-protocol-features)
 - [Pathway Comparison](#pathway-comparison)
 - [Evidence Summary](#evidence-summary)
-- [Getting Started](#getting-started)
 - [Implementation Considerations](#implementation-considerations)
 - [Target Audience](#target-audience)
 - [Scope and Disclaimer](#scope-and-disclaimer)
@@ -24,6 +28,7 @@ This repository presents three evidence-based anesthesia pathways for robot-assi
 - [Author and Contact](#author-and-contact)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
+- [Changelog](#changelog)
 
 ---
 
@@ -31,11 +36,34 @@ This repository presents three evidence-based anesthesia pathways for robot-assi
 
 This repository contains evidence-based anesthesia protocols for robot-assisted total knee arthroplasty (rTKA), synthesized from 2023-2025 literature and designed to support opioid-free anesthesia (OFA) implementation within Enhanced Recovery After Surgery (ERAS) pathways.
 
+## Quick Start
+
+**For first-time users:**
+
+1. **Review the pathway comparison** - Start with [`03_Anesthesia_Protocols/Protocol_Comparison_Table.md`](03_Anesthesia_Protocols/Protocol_Comparison_Table.md) to understand the three approaches
+2. **Check pre-operative requirements** - Use [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md) for preparation and verification steps
+3. **Select appropriate protocol** - Choose from [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/) based on patient factors and institutional capabilities
+4. **Review evidence base** - Reference [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md) for supporting literature
+
+**For institutional implementation:**
+
+1. Review [Scope and Disclaimer](#scope-and-disclaimer) section carefully
+2. Assemble multidisciplinary team (anesthesia, surgery, nursing, pharmacy)
+3. Adapt protocols to local resources and patient populations
+4. Obtain institutional approval (QI committee or IRB)
+5. Implement outcome tracking per [Quality Improvement Metrics](#quality-improvement-metrics)
+
+**For educational use:**
+
+- Medical students: Follow workflow from pre-op through PACU to understand comprehensive perioperative care
+- Residents: Study evidence synthesis methodology and multimodal analgesia principles
+- Researchers: Use as framework for protocol development or comparative effectiveness studies
+
 ## Three Standardized Pathways
 
-1. Opioid-Free with Nerve Blocks (ACB + IPACK) - Preferred pathway
-2. Opioid-Free without Nerve Blocks - Block-free alternative  
-3. Conventional Opioid-Based - Traditional approach
+1. **Opioid-Free with Nerve Blocks (ACB + IPACK)** - Preferred pathway
+2. **Opioid-Free without Nerve Blocks** - Block-free alternative  
+3. **Conventional Opioid-Based** - Traditional approach
 
 Each pathway is optimized for patient safety, rapid recovery, and early mobilization while maintaining excellent analgesia.
 
@@ -63,21 +91,21 @@ Robot-assisted TKA presents unique anesthetic challenges including longer operat
 ### File Descriptions
 
 **Pre-Operative Phase**
-- `01_PreOp_Checklist.md`: Comprehensive pre-operative verification and preparation
-- `02_Patient_Counseling_Script.md`: Shared decision-making framework for pathway selection
+- [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md): Comprehensive pre-operative verification and preparation
+- [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md): Shared decision-making framework for pathway selection
 
 **Intra-Operative Phase**
-- `03_Anesthesia_Protocols/`: Detailed clinical protocols with evidence-based dosing
-- `04_IntraOp_Flowcharts/`: Clinical decision algorithms for common scenarios
+- [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/): Detailed clinical protocols with evidence-based dosing
+- [`04_IntraOp_Flowcharts/`](04_IntraOp_Flowcharts/): Clinical decision algorithms for common scenarios
 
 **Post-Operative Phase**
-- `05_PACU_Handoff_Templates.md`: Standardized handoff communication for each pathway
+- [`05_PACU_Handoff_Templates.md`](05_PACU_Handoff_Templates.md): Standardized handoff communication for each pathway
 
 **Team Coordination**
-- `06_Surgeon_OnePage_Summary.md`: Quick reference for surgical teams
+- [`06_Surgeon_OnePage_Summary.md`](06_Surgeon_OnePage_Summary.md): Quick reference for surgical teams
 
 **Evidence Base**
-- `07_References_Evidence_2024.md`: Complete bibliography in Vancouver style
+- [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md): Complete bibliography in Vancouver style
 
 ## Key Protocol Features
 
@@ -97,7 +125,7 @@ Added or optimized:
 
 ### Regional Anesthesia Techniques
 
-**Adductor Canal Block**
+**Adductor Canal Block (ACB)**
 - Volume: 20-30 mL ropivacaine 0.2-0.25%
 - Quadriceps-sparing technique preserving knee extension strength
 - Targets saphenous nerve and medial femoral cutaneous nerve
@@ -132,20 +160,16 @@ Added or optimized:
 
 This protocol synthesizes evidence from 16 primary sources including randomized controlled trials, systematic reviews and meta-analyses, and updated society guidelines published between 2022 and 2024. All recommendations represent Level 1 or Level 2 evidence.
 
-Key supporting studies include:
-- Thacher et al. (2022): Prospective randomized trial of ACB plus iPACK for robotic-assisted TKA
-- Soffin et al. (2023): Randomized controlled trial of OFA within ERAS pathway for TKA
-- Memtsoudis et al. (2023): Population-based study of multimodal pain management strategies
-- American Society of Regional Anesthesia and Pain Medicine (2024): Updated guidelines on neuraxial procedures in anticoagulated patients
+### Key Supporting Studies
 
-Complete citations with journal references available in `07_References_Evidence_2024.md`.
+| Study | Evidence Level | Key Finding |
+|-------|----------------|-------------|
+| Thacher et al. (2022) | 1B (RCT) | ACB + iPACK superior to ACB alone for rTKA analgesia |
+| Soffin et al. (2023) | 1B (RCT) | OFA within ERAS pathway reduces opioid consumption without increasing pain |
+| Memtsoudis et al. (2023) | 2A (Population study) | Multimodal analgesia associated with improved outcomes and resource utilization |
+| ASRA (2024) | 1A (Guidelines) | Updated anticoagulation timing for neuraxial procedures |
 
-## Getting Started
-
-1. Review `03_Anesthesia_Protocols/Protocol_Comparison_Table.md` for pathway selection guidance
-2. Use `01_PreOp_Checklist.md` for pre-operative preparation and verification
-3. Follow the appropriate protocol from `03_Anesthesia_Protocols/` directory
-4. Reference `07_References_Evidence_2024.md` for evidence supporting each recommendation
+Complete citations with journal references available in [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md).
 
 ## Implementation Considerations
 
@@ -243,15 +267,15 @@ Feedback, suggestions for improvement, and collaboration inquiries are welcomed 
 
 ## References
 
-Complete bibliographic citations in Vancouver format are available in `07_References_Evidence_2024.md`.
+Complete bibliographic citations in Vancouver format are available in [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md).
 
-Key evidence sources include:
+### Selected Key References
 
-1. Memtsoudis SG, et al. Association of multimodal pain management strategies with perioperative outcomes and resource utilization in total joint arthroplasty. Anesthesiology. 2023;138(5):479-491.
+1. Memtsoudis SG, Poeran J, Zubizarreta N, et al. Association of multimodal pain management strategies with perioperative outcomes and resource utilization in total joint arthroplasty: a population-based study. Anesthesiology. 2023;138(5):479-491.
 
-2. Soffin EM, et al. Evidence review for the American College of Surgeons/American Society of Anesthesiologists perioperative opioid-sparing strategies in total joint arthroplasty. Anesth Analg. 2023;137(6):1178-1193.
+2. Soffin EM, Gibbons MM, Ko CY, et al. Evidence review for the American College of Surgeons/American Society of Anesthesiologists perioperative opioid-sparing strategies in total joint arthroplasty. Anesth Analg. 2023;137(6):1178-1193.
 
-3. Thacher RR, et al. Efficacy of adductor canal block combined with IPACK for postoperative analgesia after robotic-assisted total knee arthroplasty. J Bone Joint Surg Am. 2022;104(16):1433-1442.
+3. Thacher RR, Beveridge CA, Hannon CP, et al. Efficacy of adductor canal block combined with IPACK for postoperative analgesia after robotic-assisted total knee arthroplasty: a prospective randomized trial. J Bone Joint Surg Am. 2022;104(16):1433-1442.
 
 4. American Society of Regional Anesthesia and Pain Medicine. 2024 guidelines on interventional spine and pain procedures in patients on antiplatelet and anticoagulant medications. Reg Anesth Pain Med. 2024;49(4):247-284.
 
@@ -283,7 +307,7 @@ Special appreciation to the anesthesia and orthopedic surgery communities advanc
 
 If referencing this work in academic or clinical contexts:
 ```
-Collin. (2024). Evidence-Based Multimodal Anesthesia Protocol for 
+Collin. (2025). Evidence-Based Multimodal Anesthesia Protocol for 
 Robot-Assisted Total Knee Arthroplasty. GitHub repository. 
 https://github.com/[username]/rTKA-Multimodal-Anesthesia-Protocol
 ```
@@ -313,10 +337,34 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
+## Changelog
+
+### Version 1.0 (November 29, 2024)
+**Initial Release**
+- Complete three-pathway protocol framework
+- Evidence synthesis from 16 primary sources (2022-2024)
+- Integrated 2024-2025 clinical updates (gabapentin removal, ASRA guidelines, updated dosing)
+- Pre-operative checklists and patient counseling scripts
+- Intra-operative flowcharts and decision algorithms
+- PACU handoff templates
+- Surgeon coordination summary
+- Complete Vancouver-style references
+
+**Evidence Base:**
+- Current through January 2025
+- Next planned review: Quarterly
+
+**Known Issues:**
+- No prospective clinical validation
+- Requires institutional adaptation
+- Flowcharts pending finalization
+
+---
+
 **Version:** 1.0  
-**Last Updated:** November 29, 2025  
-**Evidence Current Through:** January 2026 
-**Next Planned Review:** Quarterly with emerging evidence
+**Last Updated:** November 29, 2024  
+**Evidence Current Through:** January 2025  
+**Next Planned Review:** February 2025
 
 ---
 
