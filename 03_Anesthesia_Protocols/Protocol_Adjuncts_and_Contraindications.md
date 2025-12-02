@@ -1,48 +1,100 @@
 ---
 title: Adjuncts, Contraindications, and Safety Considerations
-version: 1.0
+version: 1.1
 last-updated: 2025-12-01
 ---
 
 # Adjuncts, Contraindications, and Safety Considerations  
 Robot-Assisted Total Knee Arthroplasty (rTKA) – 2025 Update
 
-## Opioid-Free Adjuncts – Absolute & Relative Contraindications
+This document summarizes safety considerations, contraindications, and monitoring requirements for adjunct medications and regional anesthesia used within the rTKA multimodal pathways. Content reflects ERAS Society guidance (2019–2025), ASA/APSF safety statements (2023–2025), and ASRA 2024–2025 anticoagulation guidelines.
 
-| Agent                  | Absolute Contraindications                          | Relative / Use Caution                                 | Notes / Monitoring                                      |
-|------------------------|-----------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------|
-| **Ketamine**           | Acute psychosis, uncontrolled schizophrenia         | Uncontrolled hypertension (SBP >180), severe CAD, recent CVA/TIA | Avoid induction doses >0.5 mg/kg in severe CAD; psychomimetic risk low at sub-anesthetic doses |
-| **Dexmedetomidine**    | High-degree AV block (2°/3° without pacemaker), HR <45 despite atropine | Baseline HR <55, hypovolemia, severe LV dysfunction    | Bradycardia usually responsive to glycopyrrolate; stop infusion if HR <50 and symptomatic |
-| **Magnesium sulfate**  | Myasthenia gravis, complete heart block, CrCl <30 mL/min | CrCl 30–50 mL/min (reduce dose 25–50 %)                | Infuse over ≥15 min; monitor patellar reflexes if >8 mmol/L serum level suspected |
-| **Lidocaine infusion** (block-free pathway) | Severe hepatic dysfunction, known allergy           | Heart block, CHF, weight <50 kg                         | Max 2 mg/kg/h; keep total dose <300 mg without lipid rescue prep |
+---
 
-## Regional Anesthesia (ACB + IPACK) – Contraindications
+## 1. Opioid-Free Adjuncts – Absolute & Relative Contraindications
 
-| Absolute                                      | Relative / Shared Decision-Making                  |
-|-----------------------------------------------|----------------------------------------------------|
-| Patient refusal                               | Local infection at block site                      |
-| Active systemic infection / sepsis            | Chronic pain syndrome on high-dose opioids         |
-| Coagulopathy or therapeutic anticoagulation outside ASRA 2024 windows | Severe spinal deformity (if considering spinal)    |
-| Known allergy to local anesthetics            | Neurologic deficit in operative limb (baseline exam required) |
+| Agent | Absolute Contraindications | Relative / Use With Caution | Monitoring & Notes |
+|-------|-----------------------------|------------------------------|---------------------|
+| **Ketamine** | Acute psychosis; uncontrolled schizophrenia | Uncontrolled HTN (SBP >180), severe CAD, recent CVA/TIA, history of severe PTSD flashbacks | Avoid induction doses >0.5 mg/kg in CAD; sub-anesthetic infusions have very low psychomimetic risk |
+| **Dexmedetomidine** | High-degree AV block (2°/3° without pacemaker); HR <45 despite anticholinergic | Baseline HR <55, hypovolemia, severe LV dysfunction, age >70 | Stop infusion if HR <50 with symptoms; glycopyrrolate > atropine for treatment; hypotension possible in frail patients |
+| **Magnesium sulfate** | Myasthenia gravis; complete heart block; CrCl <30 mL/min | CrCl 30–50 mL/min (reduce dose 25–50%) | Infuse over ≥15–20 minutes; monitor reflexes if overdose suspected; enhances NMBD effects |
+| **Lidocaine infusion** (block-free pathway) | Severe hepatic impairment; amide local anesthetic allergy | Heart block, CHF, weight <50 kg, baseline QT prolongation | Max 2 mg/kg/hr; keep total dose <300 mg; lipid rescue available for LAST |
 
-**ASRA 2024 Quick Reference (deep blocks including IPACK)**  
-- Rivaroxaban, apixaban, edoxaban: ≥72 h (CrCl >50) / ≥120 h (CrCl <50)  
-- Dabigatran: ≥72–120 h depending on CrCl  
-- Warfarin: INR ≤1.4  
-- Therapeutic LMWH: ≥24 h  
+---
 
-## Opioid-Inclusive Pathway – Relative Contraindications  
-(Consider switching to OFIA + blocks if any of the following present)
+## 2. Regional Anesthesia – ACB + IPACK Contraindications
 
-- Untreated or severe OSA (STOP-Bang ≥5 + witnessed apneas)  
-- Chronic respiratory disease (home O₂, severe COPD, OHS)  
-- History of prolonged post-op ventilation or ICU admission after prior surgery  
-- Neuromuscular disease with poor cough (e.g., ALS, advanced Parkinson’s)
+| Absolute | Relative (Shared Decision-Making) |
+|----------|----------------------------------|
+| Patient refusal | Local skin infection |
+| Active systemic infection / sepsis | Chronic pain on high-dose opioids |
+| Coagulopathy outside ASRA 2024 windows | Baseline sensory or motor deficits in operative limb |
+| Allergy to amide local anesthetics | Severe spinal deformity (if spinal also considered) |
 
-## Agents to Avoid Routinely in rTKA (2024–2025 Consensus)
+### **ASRA 2024 Timing Reference**  
+Applicable for deep peripheral blocks (IPACK):
 
-| Agent                     | Reason (Level of Evidence)                                 | Reference |
-|---------------------------|--------------------------------------------------------------------|-----------|
-| Gabapentinoids (gabapentin, pregabalin) | ↑ respiratory depression, delirium, dizziness in elderly TKA patients without added opioid-sparing benefit when modern multimodal used | Angst 2024, Memtsoudis 2023, ASA/APSF 2024 |
-| Routine intraoperative opioids in opioid-naïve patients | ↑ PONV, ileus, respiratory events, delayed mobilization | Soffin 2023, ERAS Society 2020/2024 |
-| High-dose dexamethasone (>10 mg) | Minimal additional benefit; small hyperglycemia risk | De Oliveira 2022, Li 2024 |
+- **DOACs (rivaroxaban / apixaban / edoxaban):** ≥72 h (CrCl >50) / ≥120 h (CrCl <50)  
+- **Dabigatran:** 72–120 h depending on renal function  
+- **Warfarin:** INR ≤1.4  
+- **Therapeutic LMWH:** ≥24 h  
+- **Prophylactic LMWH:** ≥12 h  
+
+**Local anesthetic safety:**  
+Total volume for ACB + IPACK (~40–50 mL ropivacaine 0.2–0.25%) requires readiness for **LAST management**.
+
+---
+
+## 3. Opioid-Inclusive Pathway – Relative Contraindications
+
+These favor choosing OFIA + ACB/IPACK instead.
+
+- Severe or untreated OSA (STOP-Bang ≥5 + witnessed apneas)  
+- Obesity hypoventilation syndrome  
+- COPD or chronic respiratory disease requiring home O₂  
+- History of post-op respiratory failure or prolonged ventilation  
+- Neuromuscular disease (impaired cough/glottic closure)  
+- Frail elderly with high delirium risk  
+
+---
+
+## 4. Agents to Avoid Routinely in rTKA (2024–2025 Consensus)
+
+| Agent | Reason (Evidence Level) | Key References |
+|--------|---------------------------|----------------|
+| **Gabapentinoids (gabapentin, pregabalin)** | Increase dizziness, delirium, respiratory suppression; provide no additional opioid-sparing benefit in modern multimodal pathways | Angst 2024; Memtsoudis 2023; ASA/APSF 2024 |
+| **Routine intraoperative opioids in opioid-naïve patients** | Higher PONV, respiratory depression, ileus, delayed mobilization | Soffin 2023; ERAS 2024 |
+| **High-dose dexamethasone (>10 mg)** | No added analgesic benefit; unnecessary hyperglycemia risk | De Oliveira 2022; Li 2024 |
+
+---
+
+## 5. Dose Adjustments for Special Populations
+
+### Frail / Older Adults (>70 years)
+- Ketamine induction: max **0.3 mg/kg**
+- Dex infusion: **0.2–0.4 mcg/kg/hr**
+- Magnesium: lower end of **30 mg/kg**
+- Avoid benzodiazepines unless necessary
+
+### Cardiac Disease (CAD, HFrEF)
+- Avoid rapid bolus of dexmedetomidine  
+- Avoid tachycardia-triggering ketamine doses >0.3 mg/kg  
+- Maintain MAP >65, slow titration
+
+### Renal Impairment
+- Reduce magnesium dose by 25–50% for CrCl 30–50 mL/min  
+- Avoid MgSO₄ if CrCl <30 mL/min  
+
+---
+
+## 6. Local Anesthetic Systemic Toxicity (LAST) Preparedness
+- Keep lipid emulsion immediately available  
+- Max ropivacaine recommended doses should be respected  
+- Early signs: perioral numbness, tinnitus, agitation, metallic taste  
+- Advanced: seizures, arrhythmias  
+- Treat with 20% lipid emulsion per ASRA LAST guidelines
+
+---
+
+## 7. References
+For complete references, see `07_References_Evidence_2024.md`.
