@@ -1,88 +1,123 @@
 # Multimodal Anesthesia Protocol for Robot-Assisted Total Knee Arthroplasty
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]()
-[![Last Updated](https://img.shields.io/badge/Updated-November%202024-green.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.1-blue.svg)]()
+[![Last Updated](https://img.shields.io/badge/Updated-December%202025-green.svg)]()
 [![Evidence Base](https://img.shields.io/badge/Evidence-2023--2025-orange.svg)]()
 
 ## At a Glance
 
-**What:** Evidence-based anesthesia protocol framework for robot-assisted total knee arthroplasty featuring three clinical pathways—opioid-free with nerve blocks (preferred), opioid-free without blocks, and conventional opioid-based approaches.
+**What:**  
+Evidence-based, three-pathway anesthesia framework for **robot-assisted total knee arthroplasty (rTKA)** with:
 
-**Who:** Anesthesia trainees, medical students, attending anesthesiologists, quality improvement teams, and researchers exploring multimodal analgesia strategies.
+1. Opioid-free intraoperative anesthesia (OFIA) + ACB/IPACK (preferred ERAS pathway)  
+2. Opioid-free intraoperative anesthesia without blocks (block-free alternative)  
+3. Conventional opioid-inclusive anesthesia (fallback / special indications)
 
-**Why:** To support Enhanced Recovery After Surgery implementation, reduce opioid exposure, preserve motor function, and optimize perioperative outcomes through quadriceps-sparing regional techniques and evidence-based multimodal analgesia.
+**Who:**  
+Anesthesia trainees, medical students, CRNAs, attending anesthesiologists, QI teams, and researchers studying multimodal and opioid-sparing strategies in arthroplasty.
 
-**Evidence:** Synthesized from 16 Level 1-2 studies (2022-2024) including randomized controlled trials, meta-analyses, and updated ASRA/ASA guidelines.
+**Why:**  
+To support **Enhanced Recovery After Surgery (ERAS)** implementation, reduce perioperative opioid exposure, preserve quadriceps strength, and optimize pain control, PONV rates, and time to mobilization in rTKA.
+
+**Evidence:**  
+Synthesized from **Level 1-2 evidence (2023-2025)** including RCTs, meta-analyses, and updated ERAS / ASRA / ASA / APSF guidance.
+
+**Terminology Note:**  
+"**Opioid-free anesthesia**" in this project refers specifically to **opioid-free intraoperative anesthesia (OFIA)**.  
+Postoperative opioid rescue remains available when clinically indicated and **does not constitute pathway failure.**
 
 ---
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Quick Start](#quick-start)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Three Standardized Pathways](#three-standardized-pathways)
-- [Background and Rationale](#background-and-rationale)
-- [Repository Structure](#repository-structure)
-- [Key Protocol Features](#key-protocol-features)
-- [Pathway Comparison](#pathway-comparison)
-- [Evidence Summary](#evidence-summary)
-- [Implementation Guide for Institutions](#implementation-guide-for-institutions)
-- [Target Audience](#target-audience)
-- [Scope and Disclaimer](#scope-and-disclaimer)
-- [Limitations and Future Directions](#limitations-and-future-directions)
-- [References](#references)
-- [Author and Contact](#author-and-contact)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-- [Changelog](#changelog)
+- [Overview](#overview)  
+- [Quick Start](#quick-start)  
+- [How to Use This Repository](#how-to-use-this-repository)  
+- [Three Standardized Pathways](#three-standardized-pathways)  
+- [Repository Structure](#repository-structure)  
+- [File Descriptions](#file-descriptions)  
+- [Key Protocol Features](#key-protocol-features)  
+- [Pathway Comparison](#pathway-comparison)  
+- [Implementation Guide for Institutions](#implementation-guide-for-institutions)  
+- [Target Audience](#target-audience)  
+- [Scope and Disclaimer](#scope-and-disclaimer)  
+- [Limitations and Future Directions](#limitations-and-future-directions)  
+- [References](#references)  
+- [Author and Contact](#author-and-contact)  
+- [Acknowledgments](#acknowledgments)  
+- [Citation](#citation)  
+- [License](#license)  
+- [Contribute](#contribute)  
+- [Changelog](#changelog)  
 
 ---
 
 ## Overview
 
-This repository contains evidence-based anesthesia protocols for robot-assisted total knee arthroplasty (rTKA), synthesized from 2023-2025 literature and designed to support opioid-free anesthesia (OFA) implementation within Enhanced Recovery After Surgery (ERAS) pathways.
+This repository contains a **literature-based multimodal anesthesia framework** for robot-assisted total knee arthroplasty (rTKA). It integrates:
+
+- Opioid-free intraoperative anesthesia (OFIA)  
+- Quadriceps-sparing regional techniques (ACB + IPACK)  
+- Evidence-based pharmacologic adjuncts (ketamine, dexmedetomidine, magnesium, NSAIDs, acetaminophen)  
+- Standardized pre-op, intra-op, PACU, and communication tools
+
+The project is intentionally **educational and non-validated**: it is designed to showcase evidence synthesis and protocol development, not to function as an institutional order set.
+
+---
 
 ## Quick Start
 
 ### For First-Time Users
 
-1. **Review the pathway comparison** - Start with [`03_Anesthesia_Protocols/Protocol_Comparison_Table.md`](03_Anesthesia_Protocols/Protocol_Comparison_Table.md) to understand the three approaches
-2. **Check pre-operative requirements** - Use [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md) for preparation and verification steps
-3. **Select appropriate protocol** - Choose from [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/) based on patient factors and institutional capabilities
-4. **Review evidence base** - Reference [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md) for supporting literature
+1. **See the big picture:**  
+   Start with the pathway overview image:  
+   
+   ![Pathway Overview](docs/images/pathway_overview.png "Figure 1: Overview of Three Anesthesia Pathways")
+
+2. **Understand the three options:**  
+   [`03_Anesthesia_Protocols/Protocol_Comparison_Table.md`](03_Anesthesia_Protocols/Protocol_Comparison_Table.md)
+
+3. **Walk through the clinical workflow:**
+   1. Pre-op checklist → [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md)  
+   2. Patient counseling → [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)  
+   3. Choose a pathway → [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/)  
+   4. Intra-op decision support → [`04_IntraOp_Flowcharts/`](04_IntraOp_Flowcharts/)  
+   5. PACU handoff → [`05_PACU_Handoff_Templates.md`](05_PACU_Handoff_Templates.md)
+
+4. **Review evidence base:**  
+   [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md)
 
 ### For Educational Use
 
 **Medical Students:**
-- Follow workflow from [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md) through [`05_PACU_Handoff_Templates.md`](05_PACU_Handoff_Templates.md) to understand comprehensive perioperative care
-- Study evidence synthesis methodology in [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md)
+- Read through `01` → `02` → `03` → `05` to see **end-to-end perioperative care** in rTKA
+- Use `07_References_Evidence_2024.md` to see how protocols map back to primary literature
 
-**Residents/Fellows:**
-- Focus on protocol decision-making using [`04_IntraOp_Flowcharts/`](04_IntraOp_Flowcharts/)
-- Practice patient counseling with [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)
+**Residents and CRNAs:**
+- Use the comparison table and quick reference cards:  
+  [`03_Anesthesia_Protocols/Protocol_Quick_Reference_Cards.md`](03_Anesthesia_Protocols/Protocol_Quick_Reference_Cards.md)
+- Practice patient counseling with:  
+  [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)
 
-**Researchers:**
-- Use as framework for protocol development or comparative effectiveness studies
-- Reference evidence grading table below for study design
+**Researchers / QI Teams:**
+- Treat this as a **template for protocol design** and documentation  
+- Adapt sections (with local approval) for QI projects or IRB-approved pilot studies
 
-### For Institutional Implementation
-
-See [Implementation Guide for Institutions](#implementation-guide-for-institutions) section below for detailed adoption pathway.
+---
 
 ## How to Use This Repository
 
-### Navigation
-
-This repository is organized by clinical workflow phase. Each markdown file is standalone but cross-referenced for seamless navigation:
-```
+### Navigation by Clinical Workflow
+```text
 Clinical Workflow → Repository Files
 
 Pre-Op Assessment    → 01_PreOp_Checklist.md
 Patient Counseling   → 02_Patient_Counseling_Script.md
 Protocol Selection   → 03_Anesthesia_Protocols/Protocol_Comparison_Table.md
 Intra-Op Management  → 03_Anesthesia_Protocols/[selected pathway].md
+                       03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md
+                       03_Anesthesia_Protocols/Protocol_Adjuncts_and_Contraindications.md
                        04_IntraOp_Flowcharts/
 PACU Handoff         → 05_PACU_Handoff_Templates.md
 Team Coordination    → 06_Surgeon_OnePage_Summary.md
@@ -91,42 +126,44 @@ Evidence Review      → 07_References_Evidence_2024.md
 
 ### Downloading for Offline Use
 
-**Option 1: Clone the repository**
+**Clone the repository:**
 ```bash
-git clone https://github.com/[username]/rTKA-Multimodal-Anesthesia-Protocol.git
+git clone https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol.git
 ```
 
-**Option 2: Download as ZIP**
-- Click green "Code" button → "Download ZIP"
-- Extract and open markdown files in any text editor
+**Or download as ZIP:**
+- Click the green "Code" button → "Download ZIP"
 
-**Option 3: View on GitHub**
-- All files are formatted for optimal GitHub viewing
-- No special software required
+### Printing for Binder / Pocket Reference
 
-### Printing for Clinical Reference
+- Open any `.md` file in your browser → Print → Save as PDF
+- Recommended print order:  
+  `01 → 02 → 03/README → selected protocol(s) → 04 → 05 → 06 → 07`
+- Quick-reference cards:  
+  [`03_Anesthesia_Protocols/Protocol_Quick_Reference_Cards.md`](03_Anesthesia_Protocols/Protocol_Quick_Reference_Cards.md)  
+  are designed for double-sided badge card printing
 
-For binder-ready printing:
-1. Open individual `.md` files in markdown viewer or browser
-2. Print as PDF with browser print function
-3. Recommended order: 01 → 02 → 03 → 04 → 05 → 06 → 07
+---
 
 ## Three Standardized Pathways
 
-![Pathway Overview](docs/images/pathway_overview.png)
-*Figure 1: Decision tree for pathway selection based on patient factors and institutional capabilities*
+![Pathway Overview](docs/images/pathway_overview.png "Figure 1: Overview of Three Anesthesia Pathways")
 
-1. **Opioid-Free with Nerve Blocks (ACB + IPACK)** - Preferred pathway
-2. **Opioid-Free without Nerve Blocks** - Block-free alternative  
-3. **Conventional Opioid-Based** - Traditional approach
+*Figure 1: High-level overview of the three multimodal anesthesia pathways for rTKA*
 
-Each pathway is optimized for patient safety, rapid recovery, and early mobilization while maintaining excellent analgesia.
+1. **Pathway 1 – OFIA + ACB/IPACK (Preferred ERAS Pathway)**
+   - Opioid-free intra-op
+   - ACB + IPACK for quad-sparing, circumferential analgesia
 
-## Background and Rationale
+2. **Pathway 2 – OFIA, No Blocks**
+   - Opioid-free intra-op
+   - Periarticular local anesthetic infiltration by surgeon
 
-Traditional opioid-based anesthesia for total knee arthroplasty is associated with increased postoperative nausea and vomiting, delayed mobilization, respiratory depression risk, and prolonged hospital stay. Multimodal opioid-free anesthesia combined with quadriceps-sparing regional techniques offers superior analgesia with minimal motor block, same-day mobilization capability, reduced complications, and enhanced patient satisfaction.
+3. **Pathway 3 – Conventional Opioid-Inclusive Anesthesia**
+   - Fentanyl / hydromorphone-based
+   - Used for chronic opioid users, severe anxiety, or OFIA contraindications
 
-Robot-assisted TKA presents unique anesthetic challenges including longer operative times requiring tourniquet tolerance, precise limb positioning requirements, and need for stable hemodynamics during robotic navigation. These protocols address these specific considerations while maintaining ERAS principles.
+---
 
 ## Repository Structure
 ```
@@ -153,509 +190,301 @@ rTKA-Multimodal-Anesthesia-Protocol/
 │   └── PACU_Pain_Rescue_Algorithm.md
 ├── 05_PACU_Handoff_Templates.md
 ├── 06_Surgeon_OnePage_Summary.md
-└── 07_References_Evidence_2024.md  
+└── 07_References_Evidence_2024.md
 ```
 
-### File Descriptions
+---
 
-**Pre-Operative Phase**
-- [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md): Comprehensive pre-operative verification and preparation
-- [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md): Shared decision-making framework for pathway selection
+## File Descriptions
 
-**Intra-Operative Phase**
-- [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/): Detailed clinical protocols with evidence-based dosing
-- [`04_IntraOp_Flowcharts/`](04_IntraOp_Flowcharts/): Clinical decision algorithms for common scenarios
+### Pre-Operative Phase
 
-**Post-Operative Phase**
-- [`05_PACU_Handoff_Templates.md`](05_PACU_Handoff_Templates.md): Standardized handoff communication for each pathway
+**[`01_PreOp_Checklist.md`](01_PreOp_Checklist.md)**  
+ERAS-aligned pre-op checklist: identity, comorbidities, frailty/PONV risk, anticoagulation timing (ASRA 2024), pre-op medications, block planning, and transport readiness.
 
-**Team Coordination**
-- [`06_Surgeon_OnePage_Summary.md`](06_Surgeon_OnePage_Summary.md): Quick reference for surgical teams
+**[`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)**  
+Patient-facing script and FAQ explaining all three pathways, shared decision-making prompts, and documentation reminders.
 
-**Evidence Base**
-- [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md): Complete bibliography in Vancouver style
+### Intra-Operative Protocols
+
+**Directory:** [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/) (see its README.md for full detail)
+
+- **`Protocol_1_ACB_IPACK_OFIA.md`** - Full OFIA + ACB/IPACK protocol (first-line ERAS pathway)
+- **`Protocol_2_BlockFree_OFIA.md`** - OFIA pathway without nerve blocks, using surgeon periarticular infiltration
+- **`Protocol_3_OpioidBased.md`** - Conventional opioid-inclusive general or spinal anesthesia protocol
+- **`Protocol_Medication_Dosing_and_Timing.md`** - Weight-based dosing ranges, onset/offset timing, and sequencing for all pathways
+- **`Protocol_Adjuncts_and_Contraindications.md`** - Contraindication tables and safety notes for ketamine, dexmedetomidine, magnesium, lidocaine infusions, and ACB/IPACK (including ASRA 2024-2025 anticoagulation windows)
+- **`Protocol_Quick_Reference_Cards.md`** - Double-sided quick reference card with core doses and rescue strategies
+- **`Protocol_Comparison_Table.md`** - Single-page comparison of all three pathways (analgesia source, motor preservation, PONV risk, ideal patients, workflow)
+
+### Intra-Operative Decision Support
+
+**Directory:** [`04_IntraOp_Flowcharts/`](04_IntraOp_Flowcharts/)
+
+- **`Spinal_vs_GA_Decision.md`** - Text-based decision pathway for choosing spinal vs general anesthesia (anticoagulation timing, anatomy, patient preference, hemodynamics)
+- **`PACU_Pain_Rescue_Algorithm.md`** - Logical PACU algorithm for pain rescue (ketamine first-line for OFIA pathways, then escalation to opioids)
+
+### PACU & Team Communication
+
+**[`05_PACU_Handoff_Templates.md`](05_PACU_Handoff_Templates.md)**  
+Standardized handoff structure for each pathway: expectations, infusions used, block status, rescue plans, and monitoring priorities.
+
+**[`06_Surgeon_OnePage_Summary.md`](06_Surgeon_OnePage_Summary.md)**  
+One-page, surgeon-facing overview of all three pathways, with key messages about mobilization, PONV, and workflow.
+
+### Evidence Base
+
+**[`07_References_Evidence_2024.md`](07_References_Evidence_2024.md)**  
+Vancouver-style bibliography and evidence grading for the core protocol decisions (ACB/IPACK, OFIA, magnesium, ketamine, celecoxib, dexamethasone, lidocaine, ASRA timing, etc.).
+
+---
 
 ## Key Protocol Features
 
-### Clinical Updates Incorporated (2024-2025 Evidence)
+### Pharmacologic Updates (2023-2025)
 
-**Pharmacologic Modifications**
+**Removed:**  
+- Routine gabapentinoids (gabapentin/pregabalin) due to increased sedation, delirium, and respiratory depression in elderly TKA patients when modern multimodal regimens are used
 
-Removed from ERAS protocols:
-- Gabapentin and pregabalin (associated with respiratory complications and delirium risk)
+**Standardized:**
+- Celecoxib 400 mg PO pre-op (or equivalent COX-2 strategy)
+- Dexamethasone 8-10 mg IV for antiemetic/analgesic effect
+- Magnesium sulfate 30-50 mg/kg IV (typical 40 mg/kg) for analgesic and opioid-sparing effect
+- Ketamine 0.3-0.5 mg/kg induction, 0.1-0.25 mg/kg/hr infusion
+- Dexmedetomidine infusion 0.2-0.7 μg/kg/hr (lower range in elderly/frail), avoiding large bolus doses
 
-Added or optimized:
-- Celecoxib 400 mg pre-operative loading dose
-- Intravenous magnesium sulfate 30-50 mg/kg for improved analgesia
-- Dexmedetomidine infusion-only approach to reduce bradycardia risk
-- Ketamine infusion 0.1-0.25 mg/kg/hr for opioid-sparing effect
-- Optional lidocaine infusion for block-free pathway
+### Regional Anesthesia
 
-### Regional Anesthesia Techniques
+**Adductor Canal Block (ACB):**
+- 20-30 mL ropivacaine 0.2-0.25%
+- Quadriceps-sparing, preserving knee extension strength
+- Anterior / medial knee analgesia
 
-**Adductor Canal Block (ACB)**
-- Volume: 20-30 mL ropivacaine 0.2-0.25%
-- Quadriceps-sparing technique preserving knee extension strength
-- Targets saphenous nerve and medial femoral cutaneous nerve
-- Provides anterior and medial knee analgesia without motor weakness
+**IPACK Block:**
+- 20 mL ropivacaine 0.2-0.25%
+- Posterior capsule analgesia
+- Combined with ACB → circumferential knee analgesia with minimal motor impairment
 
-**Infiltration between Popliteal Artery and Capsule of Knee (iPACK)**
-- Volume: 20 mL ropivacaine 0.2-0.25%
-- Targets posterior knee capsule innervation
-- Provides posterior knee pain coverage
-- Combined with ACB provides circumferential analgesia
+### Safety & Quality
 
-### Safety and Quality Measures
+- Anticoagulation timing aligned with ASRA 2024-2025 for deep peripheral and neuraxial techniques
+- PACU pain rescue algorithm emphasizing ketamine first, opioids second on OFIA pathways
+- Explicit contraindications and cautions for OFIA adjuncts (e.g., psych history, AV block, renal impairment)
+- Structured handoffs and checklists to reduce communication failures
 
-- Compliance with ASRA 2024 anticoagulation guidelines for neuraxial and peripheral nerve blocks
-- Tourniquet time monitoring and management protocols
-- Hemodynamic optimization strategies
-- PACU pain rescue algorithms
-- Delirium prevention approaches
+---
 
 ## Pathway Comparison
 
-| Feature | OFA + Blocks | OFA No Blocks | Conventional |
-|---------|--------------|---------------|--------------|
-| Analgesia Quality | Excellent | Good | Good |
-| Motor Preservation | Excellent | Not applicable | Variable |
-| PONV Risk | Minimal | Low | Moderate to High |
-| Mobilization Timing | Same day | Same day | Delayed |
-| Workflow Complexity | Moderate | Low | Low |
-| Optimal Use Case | ERAS optimization | Block contraindications | Patient preference |
+| Feature | Pathway 1: OFIA + Blocks | Pathway 2: OFIA No Blocks | Pathway 3: Opioid-Based |
+|---------|-------------------------|--------------------------|------------------------|
+| Intra-op opioids | None | None | Yes |
+| Regional techniques | ACB + IPACK | None (surgeon infiltration) | Optional |
+| Analgesia quality | Excellent | Good | Good |
+| Quadriceps strength | Preserved | Not targeted | Variable |
+| PONV risk | Minimal | Low | Moderate-High |
+| Typical mobilization | Same-day | Same-day | Often delayed |
+| Workflow complexity | Moderate (blocks) | Low | Low |
+| Ideal use case | ERAS optimization | Block contraindication/refusal | Chronic opioid use / OFIA contraindication |
 
-## Evidence Summary
-
-This protocol synthesizes evidence from 16 primary sources including randomized controlled trials, systematic reviews and meta-analyses, and updated society guidelines published between 2022 and 2024. All recommendations represent Level 1 or Level 2 evidence.
-
-### Evidence Grading by Recommendation
-
-| Recommendation | Evidence Level | Key Reference(s) | Year | Study Design |
-|----------------|----------------|------------------|------|--------------|
-| ACB + iPACK for rTKA | 1B | Thacher et al. | 2022 | RCT (n=120) |
-| OFA within ERAS pathway | 1B | Soffin et al. | 2023 | RCT (n=228) |
-| Multimodal analgesia outcomes | 2A | Memtsoudis et al. | 2023 | Population-based cohort |
-| Gabapentin removal | 1A | Angst et al., Verret et al. | 2024, 2020 | Retrospective cohort, Meta-analysis |
-| Dexmedetomidine dosing | 1B | Li et al. | 2023 | RCT |
-| Celecoxib 400mg loading | 1A | Derry et al. | 2023 | Cochrane review |
-| IV magnesium analgesia | 1A | Chen et al. | 2023 | Meta-analysis |
-| Lidocaine infusion | 1A | Albrecht et al. | 2024 | Meta-analysis |
-| Ketamine dosing for OFA | 2A | Laskowski et al. | 2024 | Systematic review |
-| ASRA anticoagulation guidelines | 1A | ASRA | 2024 | Society guideline |
-| Dexamethasone dosing | 1A | De Oliveira et al. | 2022 | Meta-analysis |
-| ACB analgesic efficacy | 1A | Grape et al. | 2022 | Meta-analysis |
-| Optimal IPACK volume | 1B | Kampitak et al. | 2023 | Dose-finding study |
-
-**Evidence Level Definitions:**
-- **1A**: Systematic review/meta-analysis of RCTs or high-quality society guidelines
-- **1B**: Individual RCT with narrow confidence intervals
-- **2A**: Systematic review of cohort studies or high-quality observational studies
-
-Complete citations with journal references available in [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md).
+---
 
 ## Implementation Guide for Institutions
 
-### Adoption Pathway for Academic Medical Centers and Community Hospitals
+This section outlines a conceptual roadmap if a site chooses to adapt these ideas (with full local review and approval).
 
-This section provides structured guidance for clinical teams seeking to implement these protocols in their practice setting.
+### Phase 1: Preparation
+- Assemble multidisciplinary team (anesthesia, ortho, PACU, pharmacy, QI)
+- Assess readiness: ultrasound availability, formulary, block training, PACU familiarity with ketamine/dexmedetomidine
 
-### Phase 1: Preparation and Assessment (Weeks 1-4)
+### Phase 2: Local Adaptation
+- Adjust medication choices and doses to formulary and institutional norms
+- Customize flowcharts and handoff templates to local EHR and order sets
+- Obtain appropriate departmental / P&T / QI or IRB approvals
 
-**Step 1: Assemble Multidisciplinary Team**
-- Anesthesiology attending champion
-- Orthopedic surgery attending champion
-- PACU nursing leadership
-- Pharmacy representative
-- Quality improvement specialist
+### Phase 3: Education
+- Train anesthesia team on ACB/IPACK and OFIA adjuncts
+- Educate PACU nurses on OFIA patients and ketamine rescue
+- Brief surgeons on workflow, periarticular infiltration, and expectations
 
-**Step 2: Institutional Readiness Assessment**
+### Phase 4: Pilot & Evaluation
+- Start with a small pilot (e.g., 20-30 primary unilateral rTKA cases)
+- Track pain scores, opioid consumption, PONV, mobilization time, PACU LOS, and adverse events
+- Compare to historical or conventional pathway outcomes
 
-Evaluate current capabilities:
-- [ ] Ultrasound availability for regional anesthesia
-- [ ] Formulary availability (ropivacaine, dexmedetomidine, ketamine, magnesium, celecoxib)
-- [ ] Block training and credentialing requirements
-- [ ] PACU nursing comfort with OFA protocols
-- [ ] Electronic health record order set capabilities
+### Phase 5: Scale Up & Continuous QI
+- Refine protocols based on pilot data
+- Scale to broader patient populations if outcomes are favorable
+- Reassess data at regular intervals; update based on new evidence
 
-Identify barriers:
-- [ ] Anticoagulation protocol conflicts with ASRA 2024 guidelines
-- [ ] Pharmacy restrictions on specific medications
-- [ ] Surgeon concerns or workflow impacts
-- [ ] Institutional culture around opioid-free anesthesia
+Suggested audit metrics and committee engagement strategies are described in more detail in the original comprehensive README sections and can be adapted as needed.
 
-**Step 3: Select Initial Pathway**
-
-Recommended starting point:
-- Most institutions: Start with **Pathway 1 (OFA + Blocks)** for ASA 1-2 patients
-- If block expertise limited: Start with **Pathway 2 (OFA No Blocks)** to establish multimodal analgesia framework
-- Consider **Pathway 3 (Conventional)** as comparator for quality metrics
-
-### Phase 2: Protocol Adaptation (Weeks 5-8)
-
-**Step 1: Customize to Local Environment**
-
-Modify protocols based on:
-- Formulary restrictions (substitute equivalent agents with appropriate dose adjustments)
-- Credentialing requirements (ensure block performers are privileged)
-- Surgical workflow preferences (coordinate with robotic setup, tourniquet use)
-- PACU capabilities (ensure staff training on ketamine rescue dosing)
-
-**Step 2: Develop Supporting Materials**
-
-Create institution-specific:
-- [ ] EHR order sets (pre-op medications, intra-op protocols, PACU orders)
-- [ ] Nursing education modules
-- [ ] Patient education handouts
-- [ ] Consent templates incorporating pathway options
-- [ ] Data collection tools for outcome tracking
-
-**Step 3: Obtain Approvals**
-
-Submit to:
-- [ ] Anesthesiology department quality committee
-- [ ] Orthopedic surgery department leadership
-- [ ] Pharmacy and Therapeutics committee (if new drug protocols)
-- [ ] Hospital quality/safety committee or IRB (if formal study planned)
-
-### Phase 3: Education and Training (Weeks 9-12)
-
-**Anesthesia Team Training**
-- Regional anesthesia workshop (ACB + iPACK technique review)
-- Ketamine/dexmedetomidine infusion management
-- PACU rescue protocol familiarization
-- Case simulations and dry runs
-
-**PACU Nursing Training**
-- OFA patient assessment (distinguish surgical vs inadequate analgesia)
-- Ketamine rescue dosing protocols
-- Dexmedetomidine-related bradycardia management
-- Pain assessment in motor-sparing block patients
-
-**Surgical Team Coordination**
-- Surgeon briefing on workflow impacts
-- Discussion of periarticular infiltration technique (Pathway 2)
-- Coordination of anticoagulation timing
-
-**Patient Education**
-- Shared decision-making discussion scripts
-- Realistic expectation-setting for each pathway
-- Post-operative mobilization goals
-
-### Phase 4: Pilot Implementation (Weeks 13-24)
-
-**Initial Case Selection**
-- ASA physical status 1-2
-- Primary unilateral TKA (exclude revisions initially)
-- Patients without chronic opioid use
-- Elective cases with appropriate anticoagulation timing
-
-**Data Collection (per case)**
-- Pain scores: PACU arrival, 2hr, 4hr, 12hr, 24hr (rest and movement)
-- Opioid consumption: Intra-op and 0-24hr post-op (convert to MME)
-- PONV incidence and severity
-- Time to first mobilization
-- PACU length of stay
-- Adverse events (bradycardia, respiratory depression, block complications)
-- Patient satisfaction (0-10 scale)
-
-**Target: 20-30 pilot cases** (mix of Pathway 1 and 2 if appropriate)
-
-### Phase 5: Evaluation and Refinement (Weeks 25-28)
-
-**Data Analysis**
-- Compare outcomes to historical controls or Pathway 3 patients
-- Identify protocol deviations and root causes
-- Assess staff satisfaction and workflow efficiency
-- Calculate cost implications (medication costs vs reduced PACU time/opioid complications)
-
-**Protocol Refinement**
-- Adjust dosing based on observed responses
-- Modify inclusion/exclusion criteria
-- Streamline workflow bottlenecks
-- Update training materials based on lessons learned
-
-**Reporting**
-- Present findings to departmental quality meetings
-- Share outcomes with multidisciplinary team
-- Publish internally (hospital newsletter, grand rounds)
-- Consider academic publication if robust data collected
-
-### Phase 6: Full Implementation (Week 29+)
-
-**Expansion Criteria**
-- Successful pilot with acceptable safety profile
-- Staff competency demonstrated
-- Workflow integrated smoothly
-- Positive patient outcomes
-
-**Ongoing Monitoring**
-- Quarterly outcome reviews
-- Annual protocol updates based on new evidence
-- Continuous quality improvement initiatives
-- Staff re-training as needed
-
-### Audit Metrics for Quality Improvement
-
-**Primary Outcome Metrics**
-1. Mean pain scores at 12 hours post-op (target: <4/10 at rest, <6/10 with movement)
-2. Total opioid consumption 0-24 hours (target: <30 MME for OFA pathways)
-3. Time to mobilization (target: <8 hours post-op)
-
-**Secondary Outcome Metrics**
-4. PONV incidence (target: <20% for OFA pathways)
-5. PACU length of stay (target: <2 hours)
-6. Patient satisfaction (target: >8/10)
-7. Same-day discharge rate (if applicable)
-
-**Safety Metrics**
-8. Respiratory depression events (target: 0%)
-9. Severe bradycardia requiring intervention (target: <5%)
-10. Block-related complications (target: <1%)
-11. Delirium incidence (target: <10%)
-
-**Process Metrics**
-12. Protocol adherence rate (target: >90%)
-13. Block success rate (target: >95%)
-14. EHR order set utilization (target: >80%)
-
-### Committee Engagement Strategy
-
-**Quality/Safety Committee Presentation Structure**
-1. Background: ERAS principles and national opioid crisis context
-2. Evidence base: Summary of Level 1-2 evidence supporting protocols
-3. Pilot plan: Phased implementation with clear metrics
-4. Risk mitigation: Safety monitoring and stopping criteria
-5. Expected benefits: Patient outcomes and institutional value
-
-**Pharmacy & Therapeutics Considerations**
-- Medication cost analysis (offset by reduced opioid complications)
-- Formulary additions if needed (celecoxib, IV magnesium)
-- Controlled substance tracking implications
-
-### Resources Required
-
-**Personnel Time (estimated for pilot phase)**
-- Anesthesia champion: 2-4 hours/week
-- Surgery champion: 1-2 hours/week
-- PACU educator: 4-6 hours initial training
-- QI specialist: 2-3 hours/week for data collection
-
-**Equipment/Supplies**
-- Ultrasound machine (typically already available)
-- Regional anesthesia cart supplies
-- Infusion pumps (typically already available)
-
-**Budget Considerations**
-- Medication costs (varies by formulary pricing)
-- Education materials and training time
-- Data collection tools (may require EHR build)
-- Potential offset from reduced opioid complications and PACU times
-
-### Implementation Challenges and Solutions
-
-| Challenge | Solution Strategy |
-|-----------|-------------------|
-| Surgeon resistance to change | Early engagement, data sharing, emphasize improved mobilization |
-| PACU nursing concerns about OFA | Comprehensive training, ketamine comfort building, clear escalation protocols |
-| Block failure anxiety | Backup plan (Pathway 2 or 3), clear conversion criteria, experienced supervision |
-| Time constraints for blocks | Parallel processing (blocks during surgical prep), dedicated block room |
-| Formulary restrictions | Work with pharmacy early, provide evidence for additions, identify equivalents |
-| EHR limitations | Paper protocols initially, build order sets iteratively based on pilot experience |
+---
 
 ## Target Audience
 
-**Primary Users**
+**Primary:**
 - Anesthesiology residents and fellows
-- Certified Registered Nurse Anesthetists
-- Attending anesthesiologists implementing opioid-free and ERAS protocols
+- CRNAs and attending anesthesiologists
+- QI teams working on ERAS and opioid-sparing programs
 
-**Secondary Users**
-- Medical students exploring anesthesiology and perioperative medicine
-- Orthopedic surgeons coordinating multimodal analgesia protocols
-- Quality improvement teams in arthroplasty centers
-- Researchers studying perioperative optimization strategies
+**Secondary:**
+- Medical students exploring anesthesiology / perioperative medicine
+- Orthopedic surgeons interested in multimodal analgesia planning
+- Researchers designing trials or implementation studies in arthroplasty anesthesia
+
+---
 
 ## Scope and Disclaimer
 
 ### Project Scope
 
-This repository represents a **literature synthesis and protocol development project** created for educational and research purposes. The protocols presented here are:
+This repository is a literature synthesis and protocol development project, created to:
+- Demonstrate evidence-based clinical reasoning
+- Provide an example of structured perioperative protocol design
+- Facilitate discussion around multimodal and opioid-sparing anesthesia strategies in rTKA
 
-- Derived from systematic review of peer-reviewed literature (2023-2025)
-- Structured according to contemporary ERAS and regional anesthesia guidelines
-- Designed as frameworks for clinical discussion and quality improvement initiatives
-- Intended to demonstrate clinical reasoning and evidence synthesis capabilities
+### Critical Disclaimers
 
-### Important Disclaimers
-
-**This protocol framework has NOT been:**
+**These materials have NOT been:**
 - Prospectively validated in clinical practice
-- Reviewed by institutional review boards or quality committees
-- Approved for direct clinical implementation
-- Tested across diverse patient populations or clinical settings
+- Reviewed or approved by any IRB or institutional committee
+- Adopted as official hospital policy
+- Tested across diverse patient populations or practice settings
 
-**Clinical use requires:**
-- Institutional review and approval through appropriate governance channels
-- Supervising physician oversight and authorization
-- Adaptation to local resources, patient populations, and practice environments
-- Compliance with hospital policies, credentialing requirements, and regulatory standards
+**Any clinical use would require:**
+- Formal review and adaptation by supervising anesthesiologists
+- Institutional approval through QI / IRB and appropriate governance
+- Compliance with local policies, credentialing, regulatory requirements
+- Ongoing monitoring and outcome assessment
 
-This work is shared for educational purposes and to facilitate evidence-based discussions about perioperative care optimization. It does not constitute medical advice and should not be used for patient care without appropriate validation and oversight.
+This repository does not constitute medical advice and must not be used for patient care without appropriate validation and oversight.
+
+---
 
 ## Limitations and Future Directions
 
 ### Current Limitations
 
-- No prospective clinical validation or outcome data
-- Limited to literature-based recommendations without institutional adaptation
-- Does not account for site-specific resources, formulary restrictions, or workflow constraints
-- Requires validation in diverse patient populations including those with complex comorbidities
-- No cost-effectiveness analysis or resource utilization assessment
-- Flowchart images pending finalization
+- No prospective clinical outcomes yet associated with these exact pathways
+- No cost-effectiveness or resource utilization analysis performed
+- Not tailored to specific EHR systems or local formularies
+- Flowchart images (spinal_vs_ga_flowchart.png, pacu_rescue_algorithm.png) are placeholders for institution-specific graphics
 
-### Proposed Future Directions
+### Future Directions
 
-**Short-term goals:**
-- Pilot implementation at a single institution with IRB approval
-- Prospective data collection on key outcome metrics
-- Refinement based on clinical feedback from multidisciplinary teams
-- Development of patient education materials and shared decision-making tools
-- Completion of visual flowcharts and decision algorithms
-
-**Long-term goals:**
-- Multi-center validation study comparing the three pathways
-- Cost-effectiveness analysis and health economics evaluation
-- Integration with electronic health record clinical decision support systems
-- Publication in peer-reviewed anesthesia or orthopedic surgery journals
+- Single-center pilot implementation with IRB or QI approval
+- Multi-center validation and comparative effectiveness studies
+- Integration into EHR-based order sets and decision support tools
 - Expansion to other arthroplasty procedures (hip, shoulder)
 
-**Collaboration opportunities:**
-- Academic anesthesiology departments interested in ERAS protocol development
-- Quality improvement teams seeking evidence-based multimodal analgesia frameworks
-- Researchers studying opioid-free anesthesia outcomes
-- Medical educators developing perioperative medicine curricula
+Collaboration and feedback are welcome via GitHub issues and pull requests.
 
-Feedback, suggestions for improvement, and collaboration inquiries are welcomed via GitHub issues or pull requests.
+---
 
 ## References
 
-Complete bibliographic citations in Vancouver format are available in [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md).
+Complete Vancouver-style references are provided in:  
+[`07_References_Evidence_2024.md`](07_References_Evidence_2024.md)
 
-### Selected Key References
+Selected key references include:
 
-1. Memtsoudis SG, Poeran J, Zubizarreta N, et al. Association of multimodal pain management strategies with perioperative outcomes and resource utilization in total joint arthroplasty: a population-based study. Anesthesiology. 2023;138(5):479-491.
+1. Memtsoudis SG, et al. Multimodal pain management in joint arthroplasty. Anesthesiology. 2023.
+2. Soffin EM, et al. Perioperative opioid-sparing strategies in total joint arthroplasty. Anesth Analg. 2023.
+3. Thacher RR, et al. ACB + IPACK for rTKA. J Bone Joint Surg Am. 2022.
+4. ASRA Guidelines on antiplatelet and anticoagulant medications. Reg Anesth Pain Med. 2024.
 
-2. Soffin EM, Gibbons MM, Ko CY, et al. Evidence review for the American College of Surgeons/American Society of Anesthesiologists perioperative opioid-sparing strategies in total joint arthroplasty. Anesth Analg. 2023;137(6):1178-1193.
+(See `07_References_Evidence_2024.md` for full list and evidence grading.)
 
-3. Thacher RR, Beveridge CA, Hannon CP, et al. Efficacy of adductor canal block combined with IPACK for postoperative analgesia after robotic-assisted total knee arthroplasty: a prospective randomized trial. J Bone Joint Surg Am. 2022;104(16):1433-1442.
-
-4. American Society of Regional Anesthesia and Pain Medicine. 2024 guidelines on interventional spine and pain procedures in patients on antiplatelet and anticoagulant medications. Reg Anesth Pain Med. 2024;49(4):247-284.
-
-[Complete reference list with all 16 sources available in repository]
+---
 
 ## Author and Contact
 
-**Collin George**  
-UW Medical Center  
-University of Washington
+**Author:** Collin George  
+**Affiliation:** UW Medical Center (personal project; not an official UW document)
 
-**Project Context:**  
-Developed as part of medical school application research portfolio, demonstrating clinical knowledge synthesis, protocol development capabilities, and commitment to evidence-based perioperative care.
+This work was developed as part of a medical school application and academic portfolio, demonstrating independent literature review, protocol design, and ERAS-aligned perioperative thinking.
 
-**Contact:**  
-Feedback, evidence updates, and implementation experiences are welcomed via GitHub issues or pull requests.
+**For feedback or collaboration:**
+- Open a GitHub issue on this repository
+- Or submit a pull request with proposed edits
+
+---
 
 ## Acknowledgments
 
-This protocol synthesis was informed by:
-- Enhanced Recovery After Surgery Society guidelines for hip and knee arthroplasty
-- American Society of Regional Anesthesia and Pain Medicine 2024 practice advisories
-- Contemporary opioid-free anesthesia literature from major anesthesia journals
-- Clinical workflow insights from academic medical centers
+This protocol framework was informed by:
+- ERAS Society hip and knee arthroplasty guidelines
+- American Society of Regional Anesthesia and Pain Medicine (ASRA) practice advisories
+- ASA and APSF guidance on perioperative safety and opioid stewardship
+- Ongoing contributions from clinicians and researchers advancing opioid-sparing arthroplasty care
 
-Special appreciation to the anesthesia and orthopedic surgery communities advancing evidence-based perioperative care and the ongoing development of opioid-sparing analgesic strategies.
+---
 
 ## Citation
 
-If referencing this work in academic or clinical contexts:
+If you reference this work in presentations or academic writing:
 ```
-Collin. (2025). Evidence-Based Multimodal Anesthesia Protocol for 
-Robot-Assisted Total Knee Arthroplasty. GitHub repository. 
-https://github.com/[username]/rTKA-Multimodal-Anesthesia-Protocol
+George C. Multimodal & Opioid-Free Anesthesia Protocol for 
+Robot-Assisted Total Knee Arthroplasty. GitHub repository.
+https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol
+Accessed [date].
 ```
+
+---
 
 ## License
 
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
-This work is licensed under CC BY 4.0. You are free to:
-- Share: Copy and redistribute the material in any medium or format
-- Adapt: Remix, transform, and build upon the material for any purpose, even commercially
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
 Under the following terms:
-- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 
-**Clinical Use Restrictions:**
-
-While this work is openly licensed for educational and research purposes, any clinical implementation requires:
-- Institutional review board or quality improvement committee approval
-- Supervising physician authorization and oversight
-- Adaptation to local standards of care and patient populations
-- Compliance with hospital credentialing, policies, and regulatory requirements
-
-The CC BY 4.0 license applies to the educational content; it does not authorize direct clinical use without appropriate validation and institutional approval.
+**Important:**  
+The CC BY 4.0 license covers the educational content only and does not authorize direct clinical use without appropriate institutional validation and approval.
 
 Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
+## Contribute
+
+We welcome contributions to improve this protocol framework:
+
+- **Open issues** for evidence updates or suggestions
+- **Submit pull requests** for refinements (e.g., local adaptations, clarity improvements)
+- **Fork the repository** for institutional customization with appropriate attribution
+
+All contributions should maintain the educational and evidence-based nature of this project.
+
+---
+
 ## Changelog
 
-### Version 1.0 (November 29, 2025)
+### Version 1.1 (December 03, 2025)
 
-**Initial Release**
+**Added:**
+- `Protocol_Medication_Dosing_and_Timing.md`
+- `Protocol_Adjuncts_and_Contraindications.md`
+- `Protocol_Quick_Reference_Cards.md`
+- Expanded `03_Anesthesia_Protocols/README.md` to describe all seven protocol-related files
+- Added images directory and `pathway_overview.png`
+- Clarified OFIA terminology and safety framing
+- Evidence current through December 2025
+- Next planned evidence review: June 2026
 
-**Core Protocol Development:**
-- Complete three-pathway protocol framework (OFA + blocks, OFA no blocks, conventional)
-- Evidence synthesis from 16 primary sources (2022-2024 literature)
-- Integrated 2024-2025 clinical updates per ASRA, ASA, and ERAS guidelines
+### Version 1.0 (November 2025)
 
-**Clinical Content:**
-- Pre-operative checklists with ASRA 2024 anticoagulation timing
-- Patient counseling scripts for shared decision-making
-- Detailed anesthesia protocols with precise dosing parameters
-- Intra-operative flowcharts and decision algorithms
-- PACU handoff templates for each pathway
-- Surgeon coordination one-page summary
-- Complete Vancouver-style references with evidence grading
-
-**Major Updates Incorporated:**
-- Gabapentin/pregabalin removal (respiratory complication and delirium evidence)
-- Celecoxib 400 mg loading dose (Cochrane 2023)
-- IV magnesium sulfate 30-50 mg/kg (meta-analysis 2023)
-- Dexmedetomidine infusion-only approach (RCT 2023)
-- Ketamine infusion dosing 0.1-0.25 mg/kg/hr (systematic review 2024)
-- IPACK volume standardization 20 mL (dose-finding study 2023)
-- Optional lidocaine infusion for block-free pathway (meta-analysis 2024)
-
-**Evidence Base:**
-- Current through January 2026
-- All Level 1-2 evidence with explicit grading
-- Next planned review: February 2026
-
-**Known Limitations:**
-- No prospective clinical validation
-- Requires institutional adaptation
-- Visual flowcharts pending completion
-- No cost-effectiveness analysis yet performed
+**Initial Release:**
+- Initial three-pathway protocol framework
+- Pre-op checklist, counseling script, three anesthesia protocols, comparison table
+- Basic intra-op flowcharts, PACU handoff templates, surgeon one-page summary
+- Evidence synthesis through January 2026
 
 ---
 
-**Version:** 1.0  
-**Last Updated:** November 29, 2025 
-**Evidence Current Through:** January 2026  
-**Next Planned Review:** February 2026
-
----
-
-**For questions about protocol content, evidence basis, or implementation considerations, please open a GitHub issue.**
+**For questions about protocol content, evidence updates, or implementation concepts, please open a GitHub issue.**
