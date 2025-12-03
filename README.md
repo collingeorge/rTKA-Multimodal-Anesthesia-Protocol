@@ -131,25 +131,29 @@ Robot-assisted TKA presents unique anesthetic challenges including longer operat
 ## Repository Structure
 ```
 rTKA-Multimodal-Anesthesia-Protocol/
-├── README.md (this file)
+├── README.md
 ├── docs/
 │   └── images/
 │       ├── pathway_overview.png
 │       ├── spinal_vs_ga_flowchart.png
 │       └── pacu_rescue_algorithm.png
-├── 01_PreOp_Checklist.md              
-├── 02_Patient_Counseling_Script.md    
-├── 03_Anesthesia_Protocols/           
+├── 01_PreOp_Checklist.md
+├── 02_Patient_Counseling_Script.md
+├── 03_Anesthesia_Protocols/
+│   ├── README.md
 │   ├── Protocol_1_ACB_IPACK_OFIA.md
 │   ├── Protocol_2_BlockFree_OFIA.md
 │   ├── Protocol_3_OpioidBased.md
+│   ├── Protocol_Medication_Dosing_and_Timing.md
+│   ├── Protocol_Adjuncts_and_Contraindications.md
+│   ├── Protocol_Quick_Reference_Cards.md
 │   └── Protocol_Comparison_Table.md
 ├── 04_IntraOp_Flowcharts/
 │   ├── Spinal_vs_GA_Decision.md
 │   └── PACU_Pain_Rescue_Algorithm.md
-├── 05_PACU_Handoff_Templates.md       
-├── 06_Surgeon_OnePage_Summary.md      
-└── 07_References_Evidence_2024.md     
+├── 05_PACU_Handoff_Templates.md
+├── 06_Surgeon_OnePage_Summary.md
+└── 07_References_Evidence_2024.md  
 ```
 
 ### File Descriptions
