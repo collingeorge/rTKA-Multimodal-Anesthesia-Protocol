@@ -1,5 +1,3 @@
-**Default pathway = OFIA + ACB/IPACK unless contraindicated**
-
 ---
 title: One-Page Anesthesia Summary for Surgeons – rTKA
 version: 1.0
@@ -10,6 +8,8 @@ last-updated: 2025-12-02
 Robot-Assisted Total Knee Arthroplasty (rTKA)
 
 This one-page document summarizes the anesthesia pathways and key expectations for orthopedic surgeons performing rTKA.
+
+**Default pathway = OFIA + ACB/IPACK unless contraindicated**
 
 ---
 
