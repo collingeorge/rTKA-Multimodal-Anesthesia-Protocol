@@ -1,7 +1,7 @@
 ---
 title: Conventional Opioid-Inclusive Anesthesia
-version: 1.0
-last-updated: 2025-11-30
+version: 1.1
+last-updated: 2025-12-07
 ---
 
 # Conventional Opioid-Inclusive Anesthesia
@@ -16,14 +16,15 @@ Traditional anesthesia pathway for:
 ---
 
 ## 2. Preoperative Medications
-- Acetaminophen **1 g**
-- Celecoxib **400 mg** (if no contraindication)
+- Acetaminophen **1 g PO**
+- Celecoxib **400 mg PO** (if no contraindication)
 - Dexamethasone **8 mg IV**
-- Optional midazolam **0.5–2 mg IV**
+- Midazolam **1–2 mg IV** (anxiolysis/amnesia)
 
 ---
 
 ## 3. Induction
+- Midazolam **1–2 mg IV** (if not given preoperatively)
 - Propofol **1.5–2 mg/kg**
 - Fentanyl **1–2 mcg/kg** OR hydromorphone **0.2–0.4 mg**
 - Rocuronium as needed
@@ -31,15 +32,16 @@ Traditional anesthesia pathway for:
 ---
 
 ## 4. Maintenance
-- Sevoflurane or TIVA
+- **Sevoflurane (0.8–1.2 MAC) or propofol infusion (75–150 mcg/kg/min)**
 - Repeated fentanyl boluses PRN
-- Optional ketamine **0.2 mg/kg** induction if opioid-tolerant
+- Optional ketamine **0.2–0.3 mg/kg** induction if opioid-tolerant
 - Optional dexmedetomidine **0.2–0.4 mcg/kg/hr**
 
 ---
 
 ## 5. Emergence
-- Ondansetron **4 mg**
+- Ondansetron **4 mg IV**
+- Sugammadex PRN
 - Extubate when awake and following commands
 - Monitor carefully for:
   - Sedation
@@ -60,6 +62,8 @@ Traditional anesthesia pathway for:
 ## 7. Notes
 - Higher PONV and sedation risk compared to OFIA.
 - Use only when clinically indicated.
+- Midazolam provides anxiolysis without interfering with conventional opioid-based anesthesia.
+- Sevoflurane preferred by many practitioners for ease of titration.
 
 ---
 
