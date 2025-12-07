@@ -79,7 +79,7 @@ The project is intentionally **educational and non-validated**: it is designed t
    [`03_Anesthesia_Protocols/Protocol_Comparison_Table.md`](03_Anesthesia_Protocols/Protocol_Comparison_Table.md)
 
 3. **Walk through the clinical workflow:**
-   1. OR Checklist [OR_Checklist_Pre-Induction.md](OR_Checklist_Pre-Induction.md)
+   1. OR Checklist [`OR_Checklist_Pre-Induction.md`](OR_Checklist_Pre-Induction.md)
    1. Pre-op checklist → [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md)  
    2. Patient counseling → [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)  
    3. Choose a pathway → [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/)  
