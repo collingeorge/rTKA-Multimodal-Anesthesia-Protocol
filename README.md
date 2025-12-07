@@ -80,11 +80,11 @@ The project is intentionally **educational and non-validated**: it is designed t
 
 3. **Walk through the clinical workflow:**
    1. OR Checklist [`OR_Checklist_Pre-Induction.md`](OR_Checklist_Pre-Induction.md)
-   1. Pre-op checklist → [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md)  
-   2. Patient counseling → [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)  
-   3. Choose a pathway → [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/)  
-   4. Intra-op decision support → [`04_IntraOp_Flowcharts/`](04_IntraOp_Flowcharts/)  
-   5. PACU handoff → [`05_PACU_Handoff_Templates.md`](05_PACU_Handoff_Templates.md)
+   2. Pre-op checklist → [`01_PreOp_Checklist.md`](01_PreOp_Checklist.md)  
+   3. Patient counseling → [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)  
+   4. Choose a pathway → [`03_Anesthesia_Protocols/`](03_Anesthesia_Protocols/)  
+   5. Intra-op decision support → [`04_IntraOp_Flowcharts/`](04_IntraOp_Flowcharts/)  
+   6. PACU handoff → [`05_PACU_Handoff_Templates.md`](05_PACU_Handoff_Templates.md)
 
 4. **Review evidence base:**  
    [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md)
