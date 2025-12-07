@@ -1,7 +1,7 @@
 ---
 title: Adjuncts, Contraindications, and Safety Considerations
-version: 1.1
-last-updated: 2025-12-01
+version: 1.2
+last-updated: 2025-12-07
 ---
 
 # Adjuncts, Contraindications, and Safety Considerations  
@@ -15,10 +15,12 @@ This document summarizes safety considerations, contraindications, and monitorin
 
 | Agent | Absolute Contraindications | Relative / Use With Caution | Monitoring & Notes |
 |-------|-----------------------------|------------------------------|---------------------|
+| **Midazolam** | Known benzodiazepine allergy | Severe respiratory disease, myasthenia gravis, sleep apnea (use lower doses 1 mg), advanced age >80 | Standard anxiolytic; does not compromise OFIA principles; typical dose 1–2 mg IV |
 | **Ketamine** | Acute psychosis; uncontrolled schizophrenia | Uncontrolled HTN (SBP >180), severe CAD, recent CVA/TIA, history of severe PTSD flashbacks | Avoid induction doses >0.5 mg/kg in CAD; sub-anesthetic infusions have very low psychomimetic risk |
 | **Dexmedetomidine** | High-degree AV block (2°/3° without pacemaker); HR <45 despite anticholinergic | Baseline HR <55, hypovolemia, severe LV dysfunction, age >70 | Stop infusion if HR <50 with symptoms; glycopyrrolate > atropine for treatment; hypotension possible in frail patients |
 | **Magnesium sulfate** | Myasthenia gravis; complete heart block; CrCl <30 mL/min | CrCl 30–50 mL/min (reduce dose 25–50%) | Infuse over ≥15–20 minutes; monitor reflexes if overdose suspected; enhances NMBD effects |
 | **Lidocaine infusion** (block-free pathway) | Severe hepatic impairment; amide local anesthetic allergy | Heart block, CHF, weight <50 kg, baseline QT prolongation | Max 2 mg/kg/hr; keep total dose <300 mg; lipid rescue available for LAST |
+| **Sevoflurane** | Malignant hyperthermia susceptibility; known volatile anesthetic hypersensitivity | Severe intracranial hypertension, neuromuscular disease (prolonged emergence possible) | Preferred volatile agent for OFIA and conventional pathways; easily titratable with favorable recovery profile |
 
 ---
 
@@ -71,19 +73,22 @@ These favor choosing OFIA + ACB/IPACK instead.
 ## 5. Dose Adjustments for Special Populations
 
 ### Frail / Older Adults (>70 years)
+- Midazolam: reduce to **1 mg** or avoid if severe frailty
 - Ketamine induction: max **0.3 mg/kg**
 - Dex infusion: **0.2–0.4 mcg/kg/hr**
 - Magnesium: lower end of **30 mg/kg**
-- Avoid benzodiazepines unless necessary
+- Consider reducing volatile agent concentration to minimize delirium risk
 
 ### Cardiac Disease (CAD, HFrEF)
 - Avoid rapid bolus of dexmedetomidine  
 - Avoid tachycardia-triggering ketamine doses >0.3 mg/kg  
 - Maintain MAP >65, slow titration
+- Sevoflurane well-tolerated in cardiac patients when titrated appropriately
 
 ### Renal Impairment
 - Reduce magnesium dose by 25–50% for CrCl 30–50 mL/min  
 - Avoid MgSO₄ if CrCl <30 mL/min  
+- No dose adjustment needed for midazolam or sevoflurane
 
 ---
 
@@ -96,5 +101,13 @@ These favor choosing OFIA + ACB/IPACK instead.
 
 ---
 
-## 7. References
+## 7. Clinical Pearls
+- **Midazolam** is standard practice for anxiolysis and does not interfere with OFIA principles
+- **Sevoflurane** is preferred by many practitioners for its ease of titration and favorable recovery profile
+- All protocols should maintain flexibility based on patient-specific factors and practitioner preference
+- Regional blocks remain the gold standard for rTKA analgesia when not contraindicated
+
+---
+
+## 8. References
 For complete references, see `07_References_Evidence_2024.md`.
