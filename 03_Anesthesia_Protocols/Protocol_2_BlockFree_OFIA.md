@@ -1,7 +1,7 @@
 ---
 title: Opioid-Free Intraoperative Anesthesia (OFIA) Without Nerve Blocks
-version: 1.0
-last-updated: 2025-11-30
+version: 1.1
+last-updated: 2025-12-07
 ---
 
 # Opioid-Free Intraoperative Anesthesia (OFIA) — Block-Free Pathway
@@ -15,6 +15,7 @@ Provide a block-free OFIA pathway for patients who:
 ---
 
 ## 2. Preoperative Phase
+
 ### Medications
 Same as Protocol 1:
 - Acetaminophen **1 g**
@@ -24,11 +25,12 @@ Same as Protocol 1:
 - **No gabapentinoids**
 
 ### Documentation
-- “Block omitted due to ___ (anticoagulation, patient refusal, workflow).”
+- "Block omitted due to ___ (anticoagulation, patient refusal, workflow)."
 
 ---
 
 ## 3. Induction
+- Midazolam **1–2 mg IV** (anxiolysis/amnesia)
 - Propofol **1.5–2 mg/kg**
 - Ketamine **0.4–0.5 mg/kg**
 - Dexmedetomidine **0.5 mcg/kg over 10–20 min** (optional)
@@ -38,14 +40,23 @@ Same as Protocol 1:
 ---
 
 ## 4. Maintenance
+- **Sevoflurane (0.8–1.2 MAC) or propofol infusion (75–150 mcg/kg/min)**
 - Dexmedetomidine **0.3–0.7 mcg/kg/hr**
 - Ketamine **0.15–0.25 mg/kg/hr**
 - Optional lidocaine infusion **1–2 mg/kg/hr**
-- No opioids
+- **No opioids**
 
 ---
 
-## 5. Analgesia Plan
+## 5. Emergence
+- Stop dexmedetomidine 10–15 minutes before emergence.
+- Ondansetron **4 mg IV**
+- Sugammadex PRN
+- Smooth extubation expected due to OFIA regimen.
+
+---
+
+## 6. Analgesia Plan
 - Surgeon performs **large-volume periarticular injection**
 - Scheduled acetaminophen + NSAID
 - Rescue:
@@ -54,10 +65,12 @@ Same as Protocol 1:
 
 ---
 
-## 6. Notes
+## 7. Notes
 - Faster workflow than block pathway.
 - Slightly higher pain in first 12–24 hours.
 - Still maintains benefits of OFIA: reduced PONV, smooth emergence.
+- Midazolam provides anxiolysis without compromising opioid-free principles.
+- Sevoflurane preferred by many practitioners for ease of titration and recovery profile.
 
 ---
 
