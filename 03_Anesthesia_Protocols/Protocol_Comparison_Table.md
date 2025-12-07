@@ -98,4 +98,3 @@ These favor choosing OFIA + ACB/IPACK instead.
 
 ## 7. References
 For complete references, see `07_References_Evidence_2024.md`.
-
