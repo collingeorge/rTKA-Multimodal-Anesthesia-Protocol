@@ -1,7 +1,7 @@
 ---
 title: Opioid-Free Intraoperative Anesthesia (OFIA) With ACB + IPACK
-version: 1.0
-last-updated: 2025-11-30
+version: 1.1
+last-updated: 2025-12-07
 ---
 
 # Opioid-Free Intraoperative Anesthesia (OFIA) With ACB + IPACK
@@ -12,6 +12,7 @@ Provide a standardized opioid-free intraoperative anesthesia (OFIA) protocol for
 ---
 
 ## 2. Preoperative Phase
+
 ### Patient Assessment
 - ASA classification, airway exam, METs, allergies.
 - Review opioid tolerance history.
@@ -41,6 +42,7 @@ Document sensory-only block (quad-sparing).
 ---
 
 ## 3. Induction
+- Midazolam **1–2 mg IV** (anxiolysis/amnesia)
 - Propofol **1.5–2 mg/kg**
 - Ketamine **0.3–0.5 mg/kg**
 - Dexmedetomidine loading **0.5 mcg/kg over 10–20 minutes** (optional)
@@ -67,6 +69,7 @@ Document sensory-only block (quad-sparing).
 ---
 
 ## 6. Postoperative Phase
+
 ### Scheduled Analgesia
 - Acetaminophen 1 g q6h
 - NSAID of choice
@@ -82,6 +85,7 @@ Document sensory-only block (quad-sparing).
 - First-line pathway for ERAS rTKA.
 - Lowest nausea, best early ambulation, and least delirium.
 - Ideal for opioid-naïve, elderly, or high-PONV patients.
+- Midazolam provides anxiolysis without compromising opioid-free principles.
 
 ---
 
