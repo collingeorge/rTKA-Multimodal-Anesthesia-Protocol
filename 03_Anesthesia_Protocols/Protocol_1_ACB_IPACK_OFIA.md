@@ -95,7 +95,9 @@ Provide a standardized opioid-free intraoperative anesthesia (OFIA) protocol for
 - **Ketamine 0.1–0.25 mg/kg/hr**
 
 **Hemodynamic Management:**
-- **Maintain MAP >65 mmHg** (phenylephrine 50-100 mcg or ephedrine 5-10 mg boluses PRN)
+- **Maintain MAP >65 mmHg**
+  - **Phenylephrine 50-100 mcg IV** (preferred if HR >70)
+  - **Ephedrine 5-10 mg IV** (preferred if HR <60)
 - Monitor for dexmedetomidine-related bradycardia (HR <50)
   - Treat with **glycopyrrolate 0.2-0.4 mg IV** (preferred over atropine - longer duration, less tachycardia)
 
@@ -104,6 +106,7 @@ Provide a standardized opioid-free intraoperative anesthesia (OFIA) protocol for
 
 **Monitoring:**
 - Standard ASA monitors (ECG, NIBP, SpO2, ETCO2, temperature)
+- **Agent analyzer** for MAC/expired agent concentration (if using sevoflurane)
 - Neuromuscular monitoring (TOF) if rocuronium used
 - Consider BIS/depth monitoring (especially in elderly to minimize delirium risk)
 
