@@ -1,262 +1,223 @@
-# Preoperative Anesthesia Checklist
+# Preoperative Anesthesia Checklist  
+## Robot-Assisted Total Knee Arthroplasty (rTKA)  
+### Version 1.2 — December 2025
 
-## Robot-Assisted Total Knee Arthroplasty (rTKA)
-### 2025 Edition — Version 1.1
-
-A standardized, ERAS-aligned preoperative workflow for patients undergoing robot-assisted total knee arthroplasty. Designed for anesthesia clinicians, surgeons, OR staff, and PACU teams to ensure safety, consistency, and evidence-based practice.
-
----
-
-## 1. Patient Verification
-
-- [ ] **Confirm patient identity** using 2 identifiers
-- [ ] **Confirm procedure**, laterality, and surgeon
-- [ ] **Review consent** (surgery + anesthesia + regional blocks if applicable)
-- [ ] **Time-out readiness** verified
+A standardized, ERAS-aligned preoperative workflow for patients undergoing robot-assisted total knee arthroplasty. This checklist integrates the three rTKA anesthesia pathways (OFIA with blocks, OFIA block-free, and conventional opioid-inclusive) and ensures readiness, safety, and clear interdisciplinary communication.
 
 ---
 
-## 2. Medical and Anesthesia Evaluation
-
-- [ ] Review medical history, H&P, and prior anesthesia record
-- [ ] Assign **ASA classification**
-- [ ] Airway exam (Mallampati, thyromental distance, mouth opening, neck ROM)
-- [ ] Functional capacity (**METs ≥4** or document if <4)
-- [ ] Allergies reviewed (including local anesthetics, NSAIDs, opioids)
-- [ ] PONV risk factors reviewed (female, non-smoker, history of motion sickness, prior PONV with opioids)
-- [ ] **Delirium/frailty assessment** (especially age >70; consider baseline cognitive screening)
-- [ ] Opioid tolerance status: opioid-naïve vs chronic user (document MME if chronic)
-- [ ] High-risk factors identified:
-  - [ ] OSA (STOP-Bang score documented)
-  - [ ] Cognitive impairment or dementia
-  - [ ] Severe anxiety requiring additional counseling
-  - [ ] Cardiac disease (CHF, CAD, arrhythmias)
-  - [ ] Respiratory disease (COPD, asthma, restrictive lung disease)
-- [ ] Infection/COVID status if required by institutional policy
+# 1. Patient Verification
+- [ ] Confirm **patient identity** with two identifiers  
+- [ ] Confirm **procedure**, laterality, and surgeon  
+- [ ] Verify **signed consent** (surgery, anesthesia, regional anesthesia if applicable)  
+- [ ] Time-out readiness confirmed  
 
 ---
 
-## 3. Anticoagulation and Block Safety (ASRA 2024-2025)
-
-- [ ] Review DOACs, warfarin, LMWH, and antiplatelets
-- [ ] Apply **ASRA 2024 guidelines** (deep peripheral blocks treated like neuraxial):
-  
-  **DOACs (rivaroxaban/apixaban/edoxaban):**
-  - [ ] **≥72 hours** since last dose (CrCl >50 mL/min)
-  - [ ] **≥120 hours** if CrCl <50 mL/min
-  - [ ] Adjust for renal impairment
-  
-  **Dabigatran:**
-  - [ ] 72-120 hours depending on renal function
-  
-  **LMWH therapeutic dosing:**
-  - [ ] Hold ≥24 hours
-  
-  **LMWH prophylactic dosing:**
-  - [ ] Hold ≥12 hours
-  
-  **Warfarin:**
-  - [ ] INR ≤1.4 for deep blocks/neuraxial
-  
-  **Antiplatelets:**
-  - [ ] Document aspirin/clopidogrel/ticagrelor status
-  - [ ] Generally safe for peripheral blocks per ASRA
-
-- [ ] Confirm ACB/IPACK safety and document decision
-- [ ] If blocks contraindicated, document reason and select block-free pathway
-- [ ] VTE prophylaxis plan reviewed with surgeon
+# 2. Medical & Anesthesia Evaluation
+- [ ] Review medical history, H&P, and previous anesthesia records  
+- [ ] Assign **ASA classification**  
+- [ ] Perform airway exam (Mallampati, mouth opening, thyromental distance, neck ROM)  
+- [ ] Assess **functional capacity (METs ≥4)**; document if <4  
+- [ ] Review allergies (local anesthetics, NSAIDs, opioids)  
+- [ ] Assess **PONV risk** (female, non-smoker, prior PONV, motion sickness)  
+- [ ] Frailty/cognition evaluation (high importance age >70)  
+- [ ] Determine **opioid tolerance**; calculate daily MME if chronic user  
+- [ ] Screen for high-risk comorbidities:
+  - [ ] OSA (STOP-Bang documented; CPAP use confirmed)  
+  - [ ] Dementia or cognitive impairment  
+  - [ ] Severe baseline anxiety  
+  - [ ] CAD/CHF/arrhythmias  
+  - [ ] Chronic lung disease  
+- [ ] Review infection/COVID status per institutional policy  
 
 ---
 
-## 4. Required Preoperative Testing
+# 3. Anticoagulation & Block Safety (ASRA 2024–2025)
+Nerve blocks for rTKA (ACB/IPACK) are treated as **deep peripheral blocks**, requiring neuraxial-like timing.
 
-- [ ] CBC (if anemia risk, age >65, cardiac disease, or concern for bleeding disorder)
-- [ ] Electrolytes + **creatinine** (essential for DOAC clearance and magnesium dosing)
-- [ ] ECG for age ≥50 or cardiac history
-- [ ] Pregnancy test (per institutional policy for reproductive-age patients)
-- [ ] Additional testing **only if indicated** (ERAS principle: avoid unnecessary labs)
-- [ ] Coagulation studies (PT/INR, aPTT) only if on warfarin or bleeding history
+**DOACs (apixaban, rivaroxaban, edoxaban):**
+- [ ] Hold **≥72 hours** if CrCl >50 mL/min  
+- [ ] Hold **≥120 hours** if CrCl <50 mL/min  
 
----
+**Dabigatran:**  
+- [ ] Hold 72–120 hours depending on renal function  
 
-## 5. ERAS-Aligned Preoperative Medications
+**LMWH:**  
+- [ ] Therapeutic dosing: hold ≥24 hours  
+- [ ] Prophylactic dosing: hold ≥12 hours  
 
-- [ ] **Acetaminophen 1 g PO** (give 30-60 min pre-op; peak effect 45-60 min)
-- [ ] **Celecoxib 400 mg PO** (give 1-2 hours pre-op; provides 24h coverage)
-  - [ ] Alternative: Meloxicam 15 mg PO if celecoxib contraindicated
-- [ ] **Dexamethasone 8-10 mg IV** (give after IV placement; onset 10-15 min)
-- [ ] **Scopolamine 1.5 mg patch** (apply night before or ≥2 hours pre-op for high PONV risk)
-- [ ] **Midazolam 1-2 mg IV** (standard anxiolytic; does not compromise OFIA principles)
-- [ ] **Avoid gabapentinoids** (gabapentin/pregabalin) — ↑ sedation, ↑ delirium, no additional benefit in multimodal pathways
-- [ ] Chronic opioid patient? Continue home opioid dose morning of surgery (if prescribed)
-- [ ] Hold metformin morning of surgery per institutional protocol
+**Warfarin:**  
+- [ ] INR ≤1.4 for deep blocks  
 
----
+**Antiplatelets:**  
+- [ ] Aspirin/clopidogrel documented (generally safe for ACB/IPACK per ASRA)  
 
-## 6. Fasting and Hydration Status
-
-- [ ] Clear liquids allowed up to **2 hours pre-op** (water, black coffee, clear juice)
-- [ ] Solids stopped per ASA fasting guidelines (6-8 hours for solid food)
-- [ ] Optional **carbohydrate load**: 200-400 mL clear carb drink 2-3 hours pre-op (unless diabetic or gastroparesis)
-- [ ] Assess hydration status (avoid dehydration before neuraxial anesthesia)
-- [ ] IV access established with isotonic crystalloid running
+- [ ] **Block plan determined:** ACB/IPACK safe → proceed  
+- [ ] If blocks contraindicated → reason documented + select **OFIA Block-Free** pathway  
+- [ ] VTE prophylaxis plan confirmed with surgeon  
 
 ---
 
-## 7. Anesthesia Plan and Patient Counseling
-
-- [ ] Discuss **three anesthesia pathways**:
-  - [ ] Pathway 1: OFIA + ACB/IPACK (preferred for most patients)
-  - [ ] Pathway 2: OFIA Block-Free (anticoagulation or block contraindications)
-  - [ ] Pathway 3: Conventional Opioid-Inclusive (chronic opioid users or patient preference)
-- [ ] Discuss **spinal vs general anesthesia** options if applicable
-- [ ] Answer patient questions and confirm understanding
-- [ ] Document **shared decision-making** conversation
-- [ ] Review ERAS goals: early ambulation, reduced opioids, multimodal analgesia, faster recovery
-- [ ] Confirm patient preference for **GA vs spinal** (if both appropriate)
-- [ ] Document decision + rationale in preoperative note
-- [ ] Explain role of midazolam for anxiolysis (standard practice)
+# 4. Required Preoperative Testing
+- [ ] CBC if age >65, anemia risk, or cardiac disease  
+- [ ] Electrolytes + **creatinine** (required for DOAC clearance, magnesium dosing)  
+- [ ] ECG for age ≥50 or cardiac history  
+- [ ] Pregnancy test per institutional policy  
+- [ ] Coagulation studies only if on warfarin or bleeding history  
+- [ ] Avoid routine labs unless indicated (ERAS principle)  
 
 ---
 
-## 8. Regional Anesthesia Preparation (If Applicable)
-
-**Adductor Canal Block (ACB):**
-- [ ] Ultrasound-guided with high-frequency linear probe
-- [ ] Ropivacaine **0.2-0.25%**, **20-30 mL**
-- [ ] Target: subsartorial/vastoadductor compartment
-- [ ] Confirm quad-sparing (sensory-only block)
-
-**IPACK Block (Interspace between Popliteal Artery and Capsule of Knee):**
-- [ ] Ultrasound-guided
-- [ ] Ropivacaine **0.2-0.25%**, **20 mL**
-- [ ] Target: posterior knee capsule innervation
-
-**Additional safety checks:**
-- [ ] No vascular puncture
-- [ ] Negative aspiration before each injection
-- [ ] No intraneural injection (no pain/paresthesia on injection)
-- [ ] Document sensory dermatomal coverage (no motor block expected)
-- [ ] **Lipid emulsion 20% immediately available** (LAST preparedness)
-- [ ] Total ropivacaine dose documented (max ~3 mg/kg)
-- [ ] Block performed in monitored setting with resuscitation equipment
+# 5. ERAS-Aligned Preoperative Medications
+- [ ] **Acetaminophen 1 g PO** (30–60 min pre-op)  
+- [ ] **Celecoxib 400 mg PO** (1–2 hr pre-op)  
+  - Alternative: **Meloxicam 15 mg** if celecoxib contraindicated  
+- [ ] **Dexamethasone 8–10 mg IV** (after IV placement)  
+- [ ] **Scopolamine patch** ≥2 hours pre-op (high PONV risk)  
+- [ ] **Midazolam 1–2 mg IV** for anxiolysis (standard; OFIA-compatible)  
+- [ ] Avoid **gabapentinoids** (ASA/APSF 2024 — ↑ sedation & delirium risk)  
+- [ ] Chronic opioid users: continue **home morning opioid dose**  
+- [ ] Hold metformin morning of surgery (institution-dependent)  
 
 ---
 
-## 9. Intraoperative Adjuncts Prepared
-
-**OFIA Pathways (1 and 2):**
-- [ ] **Midazolam**: 1-2 mg IV for anxiolysis/amnesia
-- [ ] **Ketamine**: 0.3-0.5 mg/kg induction; infusion 0.1-0.25 mg/kg/hr
-- [ ] **Dexmedetomidine**: optional loading 0.5 mcg/kg over 10-20 minutes, then 0.2-0.7 mcg/kg/hr
-- [ ] **Magnesium sulfate**: 30-50 mg/kg (typical 40 mg/kg) over 15-20 minutes
-- [ ] **Lidocaine infusion** (Pathway 2 only): 1-2 mg/kg/hr if **no regional blocks** (max 300 mg total)
-- [ ] **Sevoflurane** for maintenance (0.8-1.2 MAC) or propofol TIVA (75-150 mcg/kg/min)
-
-**Conventional Pathway (3):**
-- [ ] **Midazolam**: 1-2 mg IV
-- [ ] **Fentanyl**: 1-2 mcg/kg or hydromorphone 0.2-0.4 mg at induction
-- [ ] **Sevoflurane** 0.8-1.2 MAC for maintenance
-
-**Equipment and Pharmacy:**
-- [ ] Ultrasound machine with nerve block capability
-- [ ] Nerve stimulator (backup)
-- [ ] Block needles (appropriate gauge and length)
-- [ ] Monitoring equipment verified
-- [ ] Pharmacy notified for dexmedetomidine/ketamine/magnesium preparation
-- [ ] Sugammadex available for neuromuscular reversal
+# 6. Fasting & Hydration
+- [ ] Clear liquids up to **2 hr** before induction  
+- [ ] Solids stopped ≥6 hr (per ASA fasting guidelines)  
+- [ ] Optional carb drink 2–3 hr pre-op (unless diabetic/gastroparesis)  
+- [ ] Assess hydration; avoid hypovolemia  
+- [ ] Patent IV with crystalloid running  
 
 ---
 
-## 10. Interdisciplinary Communication
-
-- [ ] **Surgeon**: 
-  - [ ] Local periarticular infiltration plan
-  - [ ] Tourniquet duration and pressure
-  - [ ] Expected blood loss
-  - [ ] Preferred anesthesia technique (if any)
-- [ ] **PACU**: 
-  - [ ] Expected postoperative pain levels (based on pathway and blocks)
-  - [ ] Rescue analgesia plan
-  - [ ] Special monitoring needs (OSA, frailty, delirium risk)
-- [ ] **OR nursing**: 
-  - [ ] Airway plan and equipment needs
-  - [ ] Patient positioning requirements
-  - [ ] Forced-air warming device
-- [ ] **PT/Ortho floor**: 
-  - [ ] Early mobilization expectations (same-day or POD 1)
-  - [ ] Quad-sparing block performed (ACB)
-  - [ ] Multimodal analgesia plan
+# 7. Anesthesia Plan & Patient Counseling
+- [ ] Discuss **three pathway options**:
+  - Pathway 1: **OFIA + ACB/IPACK** (preferred ERAS pathway)  
+  - Pathway 2: **OFIA Block-Free** (contraindications/refusal)  
+  - Pathway 3: **Conventional Opioid-Inclusive**  
+- [ ] Discuss spinal vs general anesthesia (if both appropriate)  
+- [ ] Review expected pain profile per pathway  
+- [ ] Explain ERAS goals: early mobilization, minimal opioids, multimodal analgesia  
+- [ ] Document **shared decision-making** and final pathway selected  
+- [ ] Document GA vs spinal decision + rationale  
 
 ---
 
-## 11. Preoperative Documentation
+# 8. Regional Anesthesia Preparation (If Performing ACB/IPACK)
 
-- [ ] Regional anesthesia consent signed and scanned
-- [ ] Comprehensive anesthesia plan note including:
-  - [ ] Pathway selection and rationale
-  - [ ] Spinal vs GA decision (if applicable)
-  - [ ] Block plan or reason for omission
-  - [ ] Special considerations (frailty, OSA, anticoagulation)
-- [ ] Block documentation (if performed):
-  - [ ] Local anesthetic type, concentration, volume
-  - [ ] Ultrasound confirmation
-  - [ ] Sensory coverage achieved
-- [ ] Pre-op vitals (BP, HR, RR, SpO₂, temperature)
-- [ ] Pregnancy test results (if applicable)
-- [ ] Timeout checklist completed
+### **Adductor Canal Block (ACB)**
+- [ ] US-guided, linear probe  
+- [ ] Ropivacaine **0.2–0.25%**, **20–30 mL**  
+- [ ] Sub-sartorial approach; quad-sparing sensory block  
 
----
+### **IPACK Block**
+- [ ] US-guided  
+- [ ] Ropivacaine **0.2–0.25%**, **20 mL**  
+- [ ] Target posterior capsule innervation  
 
-## 12. Ready for Transport to OR
-
-- [ ] **Forced-air warming device applied** (prevents hypothermia/PONV)
-- [ ] IV patent; isotonic crystalloid infusing
-- [ ] Monitoring applied or ready (ECG, BP, SpO₂)
-- [ ] Regional block updates communicated to surgeon and PACU
-- [ ] Patient comfortable, anxious managed (midazolam given if needed)
-- [ ] Patient stable hemodynamically
-- [ ] All preoperative medications administered as ordered
-- [ ] Anesthesia team ready to proceed
+### Block Safety
+- [ ] Negative aspiration before each injection  
+- [ ] No paresthesia or intraneural symptoms  
+- [ ] **Total ropivacaine dose** recorded (max ~3 mg/kg ≈ 210 mg for 70 kg)  
+- [ ] **20% lipid emulsion available** (LAST preparedness)  
+- [ ] Block performed in monitored setting  
 
 ---
 
-## Evidence Base
+# 9. Intraoperative Adjuncts Prepared
 
-This checklist is derived from:
+### **OFIA Pathways (1 & 2)**
+- [ ] Midazolam 1–2 mg IV for anxiolysis  
+- [ ] Ketamine **0.3–0.5 mg/kg** induction; infusion **0.1–0.25 mg/kg/hr**  
+- [ ] Dexmedetomidine **0.2–0.7 mcg/kg/hr** (0.2–0.6 if elderly)  
+- [ ] Magnesium sulfate **30–50 mg/kg** over 15–20 min  
+  - Contraindicated if **CrCl <30 mL/min** or **myasthenia gravis**  
+- [ ] **Lidocaine infusion 1–2 mg/kg/hr** (Pathway 2 only; max 300 mg)  
+- [ ] Maintenance:  
+  - **Sevoflurane 0.8–1.2 MAC** OR  
+  - **Propofol TIVA 75–150 mcg/kg/min**
 
-- **ERAS Society Guidelines** (2019 core, reaffirmed 2024-2025 updates)
-- **ASRA 2024-2025 Anticoagulation Guidelines** for deep peripheral blocks
-- **ASA 2024 Practice Advisories** on fasting, preoperative testing, and multimodal analgesia
-- **ASA/APSF 2024 Safety Statements** on gabapentinoid avoidance
-- 2023-2025 RCTs and meta-analyses on ACB/IPACK efficacy, OFIA protocols, dexamethasone dosing, celecoxib efficacy, magnesium analgesia, and ketamine/dexmedetomidine safety
+### **Conventional Opioid-Inclusive Pathway (3)**
+- [ ] Midazolam 1–2 mg IV  
+- [ ] Fentanyl **1–2 mcg/kg** or hydromorphone **0.2–0.4 mg** at induction  
+- [ ] Standard volatile or TIVA maintenance  
 
-All evidence sources are cited in the repository's master reference list ([`07_References_Evidence_2024.md`](../07_References_Evidence_2024.md)).
-
----
-
-## Clinical Updates (Version 1.1)
-
-This version incorporates feedback from practicing anesthesiologists emphasizing:
-- Standardization of **midazolam 1-2 mg IV** as routine anxiolytic across all pathways
-- Explicit **sevoflurane dosing ranges** (0.8-1.2 MAC) with propofol TIVA alternatives
-- Enhanced **special population screening** (cardiac, respiratory, cognitive)
-- Improved **anticoagulation assessment** with specific timing windows
-- **LAST preparedness** with lipid emulsion availability
-- Comprehensive **documentation expectations** for medicolegal protection
-
----
-
-**Last Updated:** December 7, 2025  
-**Version:** 1.1  
-**Next Review Due:** December 2026
+### Equipment
+- [ ] Ultrasound machine ready (blocks)  
+- [ ] Nerve stimulator backup  
+- [ ] Block needles  
+- [ ] Infusion pumps for OFIA pathways  
+- [ ] Sugammadex immediately available  
 
 ---
 
-**Related Documents:**
-- [Patient Counseling Script](02_Patient_Counseling_Script.md)
-- [Anesthesia Protocols](03_Anesthesia_Protocols/)
-- [Medication Dosing and Timing](03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md)
-- [Adjuncts and Contraindications](03_Anesthesia_Protocols/Protocol_4_Adjuncts_Contraindications.md)
-- [PACU Handoff Templates](05_PACU_Handoff_Templates.md)
-- [Quick Reference Cards](08_Quick_Reference_Cards.md)
+# 10. Interdisciplinary Communication
+
+### **With Surgeon**
+- [ ] Plan for periarticular infiltration (Pathway 2)  
+- [ ] Tourniquet pressure & expected duration  
+- [ ] Anticipated blood loss  
+- [ ] Preferred anesthesia technique (if any)  
+
+### **With PACU**
+- [ ] Expected pain level based on pathway  
+- [ ] Ketamine rescue plan for OFIA  
+- [ ] Opioid rescue plan for Pathway 3  
+- [ ] Special monitoring needs (OSA, frailty, delirium risk)  
+
+### **With OR Nursing**
+- [ ] Airway plan and required equipment  
+- [ ] Forced-air warming  
+- [ ] Positioning details  
+
+### **With PT / Ortho Floor**
+- [ ] Early ambulation expectations  
+- [ ] Quad-sparing block performed? (ACB)  
+- [ ] Multimodal analgesia plan  
+
+---
+
+# 11. Preoperative Documentation
+- [ ] Regional anesthesia consent completed  
+- [ ] Anesthesia plan note includes:
+  - Pathway selection + rationale  
+  - Spinal vs GA decision  
+  - Block plan or reason for exclusion  
+  - High-risk comorbidities  
+- [ ] Block documentation completed (if applicable)  
+- [ ] Pre-op vitals recorded  
+- [ ] Pregnancy test result (when relevant)  
+- [ ] Final pre-op timeout completed  
+
+---
+
+# 12. Ready for Transport to OR
+- [ ] Forced-air warming applied  
+- [ ] Patent IV + crystalloid infusing  
+- [ ] Standard monitors applied or immediately available  
+- [ ] Block status communicated  
+- [ ] Patient comfortable and anxiety addressed  
+- [ ] Hemodynamically stable  
+- [ ] All pre-op medications administered  
+- [ ] Anesthesia team prepared to proceed  
+
+---
+
+# Evidence Base
+Checklist developed using:
+
+- ERAS Society 2019–2024 arthroplasty updates  
+- ASRA 2024–2025 anticoagulation guidelines  
+- ASA 2024 preoperative fasting/testing guidance  
+- ASA/APSF 2024 gabapentinoid safety statements  
+- 2023–2025 RCTs and meta-analyses on ACB/IPACK, OFIA adjuncts, dexamethasone dosing, and multimodal analgesia  
+
+Full citations:  
+[`../07_References_Evidence_2024.md`](../07_References_Evidence_2024.md)
+
+---
+
+**Version:** 1.2  
+**Last Updated:** December 8, 2025  
+**Next Review:** December 2026
