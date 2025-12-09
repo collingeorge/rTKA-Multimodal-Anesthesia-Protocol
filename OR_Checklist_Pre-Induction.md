@@ -1,346 +1,333 @@
 # Anesthesia OR Readiness & Safety Checklist  
-**Validated, Clinically Accurate, Pre-Case OR Setup Guide**  
-**Version 1.2 — December 7, 2025**
+**Evidence-Informed, Clinically Reviewed Pre-Case OR Setup Guide**  
+**Version 1.3 — December 8, 2025**
 
 ---
 
 ## Purpose
-A standardized, reproducible pre-case anesthesia preparation workflow ensuring equipment integrity, medication readiness, crisis preparedness, and environmental safety prior to patient arrival. This checklist promotes patient safety, reliability, and disciplined clinical habits. **Optimized for robot-assisted total knee arthroplasty (rTKA) multimodal anesthesia pathways.**
+A standardized, reproducible pre-case anesthesia preparation workflow ensuring equipment integrity, medication readiness, regional block safety, crisis preparedness, and optimal communication prior to patient arrival.  
+**Designed for robot-assisted total knee arthroplasty (rTKA) multimodal anesthesia pathways**, but applicable to most major orthopedic cases.
 
 ---
 
 # I. OR Environment & Station Readiness
 
 ## 1. Room & Workstation
-- ✓ Confirm correct OR assignment
-- ✓ Room temperature appropriate for patient type (warming to 68-72°F for longer cases)
-- ✓ Table positioned and locked; safety straps available
-- ✓ **Forced-air warming device available and tested**
-- ✓ Suction functioning with Yankauer
-- ✓ Overhead lights functional
-- ✓ Waste and sharps containers present and not overfilled
-- ✓ **Robotic equipment positioned appropriately (if rTKA)**
+- ✓ Correct OR assignment confirmed  
+- ✓ Room temperature appropriate (68–72°F)  
+- ✓ Table positioned, locked, and safety straps present  
+- ✓ Forced-air warming device available and functional  
+- ✓ Suction on and tested (Yankauer attached)  
+- ✓ Overhead lights functional  
+- ✓ Waste and sharps containers present and not overfilled  
+- ✓ Robotic system positioned appropriately (if rTKA)
 
 ## 2. Anesthesia Machine (ASA/APSF Checkout)
-- ✓ Power on; complete automated self-test
+- ✓ Automated self-test completed  
 - ✓ Verify:
   - Circuit integrity (leak test)  
   - APL valve function  
   - Reservoir bag integrity  
-  - **Two oxygen sources:** pipeline + **full E-cylinder (≥ 1800–2200 psi preferred)**  
-  - Face mask seal  
-  - CO₂ absorber status (fresh lime indicator)
-- ✓ Vaporizers filled and locked (**sevoflurane preferred for rTKA**)
-- ✓ Fresh gas flows at safe baseline (2-4 L/min O₂)
+  - **Two oxygen sources:** pipeline + full E-cylinder (≥1800–2200 psi)  
+  - CO₂ absorber fresh  
+  - Face mask seal confirmed  
+- ✓ Vaporizer filled and locked (**sevoflurane preferred for rTKA**)  
+- ✓ Fresh gas flows confirmed (2–4 L/min)
 
 ## 3. Airway Equipment
-- ✓ Laryngoscope handles with charged batteries
-- ✓ Blades: Mac/Miller appropriate sizes (#3, #4 Mac for adults)
-- ✓ Video laryngoscope tested (blade inserted and screen functional)
-- ✓ Oral and nasal airways (range of sizes)
-- ✓ Endotracheal tubes (primary + size up/down, typically 7.0-8.0 for adults)
-- ✓ Supraglottic airway device (LMA/iGel, size 4-5 for adults)
-- ✓ Stylet, bougie, tube exchanger
-- ✓ Syringe (10 mL) for cuff inflation
-- ✓ ETCO₂ line tested
-- ✓ Difficult airway cart location verified and accessible
+- ✓ Laryngoscope handle with working batteries  
+- ✓ Blades: Mac 3–4, Miller as needed  
+- ✓ Video laryngoscope tested (blade inserted, camera functional)  
+- ✓ Oral and nasal airways (all sizes)  
+- ✓ ETTs: primary + one size up/down (7.0–8.0 mm typical adult)  
+- ✓ LMA/i-Gel sizes 4–5  
+- ✓ Stylet, bougie, tube exchanger  
+- ✓ Syringe for cuff inflation  
+- ✓ ETCO₂ line tested  
+- ✓ Difficult airway cart location verified
 
 ---
 
 # II. IV Access, Fluids & Blood Prep
 
 ## 4. IV Access
-- ✓ Primary IV catheter prepared and flushed (18G preferred for rTKA)
-- ✓ Secondary IV/rapid line if anticipated for high-risk cases
-- ✓ Pressure bags available and tested
-- ✓ IV extension tubing available
+- ✓ Primary IV placed and flushed (18G preferred for rTKA)  
+- ✓ Second IV available if patient is high-risk  
+- ✓ Pressure bags tested  
+- ✓ Extension tubing available
 
 ## 5. Fluids
-- ✓ Balanced crystalloid spiked and ready (LR or Plasma-Lyte, 1-2 L bags)
+- ✓ Balanced crystalloid (LR or Plasma-Lyte) spiked and ready  
 - ✓ Additional fluids staged:
-  - Colloid (if institutional protocol)
-  - Blood products (if high-risk patient)
-  - Rapid infuser availability confirmed if needed  
+  - Colloid (institution-specific)  
+  - Blood products (if indicated)  
+  - Rapid infuser available for high-risk cases  
 
-## 6. Blood & Labs
-- ✓ Type & Screen / Crossmatch verified (if applicable)
-- ✓ Blood units available if required
-- ✓ Critical labs reviewed: 
-  - H/H (baseline hemoglobin)
-  - Electrolytes
-  - **Creatinine (for DOAC clearance and magnesium dosing)**
-  - Glucose (especially diabetics)
-  - **INR (if on warfarin, must be ≤1.4 for blocks)**
-  - Pregnancy test (if applicable)
+## 6. Blood & Lab Review
+- ✓ Type & Screen / Crossmatch verified  
+- ✓ Blood units available as required  
+- ✓ Critical labs reviewed:
+  - Hemoglobin/hematocrit  
+  - Electrolytes  
+  - **Creatinine** (DOAC clearance, magnesium dosing)  
+  - Glucose (diabetics)  
+  - **INR ≤1.4** if neuraxial/blocks planned  
+- ✓ Pregnancy test completed if applicable
 
 ---
 
-# III. Medication Setup (Safety-Validated)
+# III. Medication Setup (Safety-Verified)
 
 ## 7. Induction Medications (Drawn & Labeled)
 
-### Standard Induction Agents
-- ✓ **Midazolam 1-2 mg (standard anxiolytic for all pathways)**
-- ✓ Propofol (induction: 1.5-2 mg/kg; infusion prepared if TIVA)
-- ✓ Ketamine (OFIA pathways: 0.3-0.5 mg/kg induction)
-- ✓ Neuromuscular blocker: rocuronium 0.6-1.0 mg/kg (or vecuronium)
+### Standard Induction
+- ✓ **Midazolam 1–2 mg IV** (universal anxiolysis)  
+- ✓ Propofol 1.5–2 mg/kg  
+- ✓ Ketamine 0.3–0.5 mg/kg (OFIA pathways)  
+- ✓ Rocuronium 0.6–1.0 mg/kg (or vecuronium)
 
-### Pathway-Specific Preparation
+### OFIA Pathways (1 & 2)
+- ✓ Dexmedetomidine: 0.5 mcg/kg over 10–20 min → infusion 0.2–0.7 mcg/kg/hr  
+- ✓ Magnesium sulfate: 30–50 mg/kg over 15–20 min  
+- ✓ Ketamine infusion: 0.1–0.25 mg/kg/hr  
+- ✓ Lidocaine infusion (Pathway 2): 1–2 mg/kg/hr (max ~300 mg)
 
-**OFIA Pathways (1 & 2) - Verify Available:**
-- ✓ **Dexmedetomidine:** Loading 0.5 mcg/kg over 10-20 min, infusion 0.2-0.7 mcg/kg/hr
-- ✓ **Magnesium sulfate:** 30-50 mg/kg (typical 40 mg/kg) over 15-20 min
-- ✓ **Ketamine infusion:** 0.1-0.25 mg/kg/hr
-- ✓ **Lidocaine infusion (Pathway 2 only):** 1-2 mg/kg/hr, max 300 mg total
-
-**Conventional Pathway (3) - Verify Available:**
-- ✓ Fentanyl 1-2 mcg/kg or hydromorphone 0.2-0.4 mg
+### Conventional Opioid-Based Pathway (3)
+- ✓ Fentanyl 1–2 mcg/kg or hydromorphone 0.2–0.4 mg
 
 ## 8. Emergency Drugs (Immediate Access)
-- ✓ **Epinephrine 10 mcg/mL (push-dose) + 1 mg crash vial**
-- ✓ Phenylephrine 100 mcg/mL
-- ✓ Ephedrine 5-10 mg/mL
-- ✓ **Glycopyrrolate 0.2-0.4 mg (preferred over atropine for dexmedetomidine-related bradycardia)**
-- ✓ Atropine 0.4-1.0 mg
-- ✓ Vasopressin (if institutionally allowed)
-- ✓ Local anesthetic for airway topicalization (lidocaine 4%)
-- ✓ **Naloxone 0.4 mg (for opioid-inclusive pathway)**
+- ✓ Epinephrine 10 mcg/mL (push-dose) + 1 mg vial  
+- ✓ Phenylephrine 100 mcg/mL  
+- ✓ Ephedrine 5–10 mg/mL  
+- ✓ **Glycopyrrolate 0.2–0.4 mg** (preferred for dexmedetomidine-induced bradycardia)  
+- ✓ Atropine 0.4–1 mg  
+- ✓ Vasopressin (if institutionally allowed)  
+- ✓ Lidocaine 4% for airway topicalization  
+- ✓ **Naloxone 0.4 mg IV** for opioid pathways
 
 ## 9. Adjuvant / Maintenance Medications
 
 ### Preoperative (Verify Given or Available)
-- ✓ **Acetaminophen 1 g PO** (given 30-60 min preop)
-- ✓ **Celecoxib 400 mg PO** or alternative NSAID (given 1-2 hrs preop)
-- ✓ **Dexamethasone 8-10 mg IV** (antiemetic + analgesic)
-- ✓ **Scopolamine 1.5 mg patch** (if high PONV risk, applied preop)
+- ✓ Acetaminophen 1 g PO  
+- ✓ Celecoxib 400 mg PO (or alternative NSAID)  
+- ✓ Dexamethasone 8–10 mg IV  
+- ✓ Scopolamine patch (if high PONV risk)
 
 ### Intraoperative
-- ✓ **Ondansetron 4 mg IV** (near emergence)
-- ✓ Antibiotics (timing confirmed with surgical team, typically cefazolin 2 g)
-- ✓ **Sugammadex 2 mg/kg** (for neuromuscular reversal, ensure available)
+- ✓ Ondansetron 4 mg IV  
+- ✓ Antibiotics timed correctly (cefazolin 2 g or alternative)  
+- ✓ **Sugammadex 2 mg/kg** available
 
-### Maintenance Infusions (As Applicable)
-- ✓ Sevoflurane vaporizer filled and set to 0.8-1.2 MAC
-- ✓ Propofol TIVA 75-150 mcg/kg/min (if not using volatile)
-- ✓ Remifentanil (if applicable)
-- ✓ Esmolol (for heart rate control)
-- ✓ Clevidipine (for blood pressure control)
+### Maintenance Options
+- ✓ Sevoflurane 0.8–1.2 MAC  
+- ✓ Propofol TIVA 75–150 mcg/kg/min  
+- ✓ Remifentanil (if applicable)  
+- ✓ Esmolol or clevidipine for hemodynamic management  
 
-**All syringes labeled with medication, concentration, date, time drawn, and initials.**
+**All syringes labeled** with medication, concentration, date, and initials.
 
 ---
 
 # IV. Airway & Ventilator Safety
 
 ## 10. Pre-Oxygenation Setup
-- ✓ Circuit connected and functioning
-- ✓ ETCO₂ waveform confirmed (normal square wave)
-- ✓ Oxygen flow verified (100% FiO₂ for pre-oxygenation)
-- ✓ Mask seal checked (tight seal, no leaks)
-- ✓ Reservoir bag moves appropriately with breathing
+- ✓ Circuit functional  
+- ✓ ETCO₂ waveform confirmed  
+- ✓ 100% FiO₂ for preoxygenation  
+- ✓ Mask seal tested  
+- ✓ Reservoir bag responds to ventilation
 
 ## 11. Ventilator Settings
-- ✓ Initial ventilator mode selected (volume control or pressure control)
-- ✓ Tidal volume set: 6-8 mL/kg ideal body weight
-- ✓ Respiratory rate: 10-14 bpm initially
-- ✓ PEEP: 5 cm H₂O baseline
-- ✓ Verify alarms set and functional:
-  - High pressure (typically 30-40 cm H₂O)
-  - Low pressure (disconnect alarm)
+- ✓ Mode selected (VC or PC)  
+- ✓ Tidal volume 6–8 mL/kg ideal body weight  
+- ✓ RR 10–14  
+- ✓ PEEP 5 cm H₂O  
+- ✓ Alarms functional:
+  - High pressure (30–40 cm H₂O)  
+  - Low pressure  
   - Low tidal volume  
-  - Apnea alarm
-  - Low minute ventilation
-- ✓ FiO₂ appropriate for induction (100%, then titrate to SpO₂ >92%)
+  - Apnea / low minute ventilation  
+- ✓ FiO₂ titrated (goal SpO₂ >92%)
 
 ---
 
 # V. Monitoring & Documentation
 
 ## 12. Standard ASA Monitors
-- ✓ **ECG:** 5-lead placed, waveform clear
-- ✓ **NIBP cuff:** Correct size on contralateral arm (non-surgical side)
-- ✓ **Pulse oximeter:** Primary finger probe + backup site available (ear/forehead)
-- ✓ **Capnography:** ETCO₂ line connected, waveform confirmed
-- ✓ **Temperature probe:** Esophageal or nasopharyngeal ready
-- ✓ **Neuromuscular monitoring (TOF):** Electrodes placed, baseline established
-- ✓ **BIS/depth monitor:** If applicable, sensor applied and reading obtained
+- ✓ ECG (5-lead)  
+- ✓ NIBP arm correctly sized  
+- ✓ SpO₂ with backup probe  
+- ✓ Capnography connected  
+- ✓ Temperature probe placed  
+- ✓ TOF monitor baseline obtained  
+- ✓ BIS (if used)
 
-## 13. Special Monitors (If Indicated)
-- ✓ Arterial line setup with transducer leveled and zeroed
-- ✓ Central venous kit available
-- ✓ Cardiac output/PPV monitoring (if applicable)
-- ✓ Ultrasound machine with sterile covers for line placement
+## 13. Special Monitors (As Indicated)
+- ✓ Arterial line placed or ready  
+- ✓ Central venous kit available  
+- ✓ PPV/cardiac output monitors available  
+- ✓ Ultrasound machine ready for access placement
 
-## 14. Documentation
-- ✓ EMR anesthesia record open and functional
-- ✓ Patient consent verified and documented
-- ✓ **Allergies reviewed and prominently displayed** (especially local anesthetics, NSAIDs, opioids)
-- ✓ Surgical site and laterality confirmed
-- ✓ Timeout checklist ready
-- ✓ **Anesthesia pathway documented:** OFIA + blocks / OFIA block-free / Conventional
+## 14. Documentation Review
+- ✓ EMR open and functioning  
+- ✓ Consent verified  
+- ✓ Allergies reviewed and displayed  
+- ✓ Surgical site and laterality confirmed  
+- ✓ Timeout checklist ready  
+- ✓ **Anesthesia pathway documented:**  
+  - Pathway 1 (OFIA + Blocks)  
+  - Pathway 2 (OFIA Block-Free)  
+  - Pathway 3 (Conventional)
 
 ---
 
-# VI. Regional Anesthesia Prep (If Applicable - rTKA Specific)
+# VI. Regional Anesthesia Setup (For ACB + IPACK)
 
-## 15. Block Setup for ACB + IPACK
+## 15. Block Equipment & Medications
 
 ### Equipment
-- ✓ **Ultrasound machine operational** with nerve block capability
-- ✓ High-frequency linear probe (10-15 MHz)
-- ✓ Sterile ultrasound probe cover and gel
-- ✓ Block tray with sterile drapes and gloves
-- ✓ **Block needles:** 21G or 22G, 80-100 mm length
-- ✓ Nerve stimulator (backup, though ultrasound-guided preferred)
+- ✓ Ultrasound on, high-frequency linear probe ready  
+- ✓ Sterile probe cover + sterile gel  
+- ✓ Block tray, drapes, gloves  
+- ✓ Block needles: 21–22G, 80–100 mm  
+- ✓ Nerve stimulator available
 
 ### Medications
-- ✓ **Ropivacaine 0.2-0.25%** prepared and labeled
-  - ACB: 20-30 mL
-  - IPACK: 20 mL
-  - **Total dose documented** (max ~3 mg/kg)
-- ✓ **Midazolam 1-2 mg** for anxiolysis during block placement
+- ✓ **Ropivacaine 0.2–0.25%**:
+  - ACB: 20–30 mL  
+  - IPACK: 20 mL  
+  - **Total dose documented** (≤3 mg/kg)  
+- ✓ Midazolam 1–2 mg for anxiolysis
 
 ### Safety
-- ✓ **Lipid emulsion 20% (100-250 mL) immediately available** for LAST
-- ✓ ASRA LAST protocol accessible
-- ✓ Resuscitation equipment ready (airway, oxygen, suction)
-- ✓ **Anticoagulation status verified per ASRA 2024 guidelines:**
-  - DOACs ≥72 hrs off (CrCl >50)
-  - Therapeutic LMWH ≥24 hrs off
-  - Prophylactic LMWH ≥12 hrs off
-  - Warfarin INR ≤1.4
+- ✓ **Lipid emulsion 20% immediately accessible**  
+- ✓ ASRA LAST protocol visible  
+- ✓ Resuscitation equipment available  
+- ✓ **Anticoagulation verified per ASRA (2024–25):**
+  - DOACs ≥72 hrs  
+  - Therapeutic LMWH ≥24 hrs  
+  - Prophylactic LMWH ≥12 hrs  
+  - Warfarin INR ≤1.4  
 
 ---
 
 # VII. Crisis & Emergency Preparedness
 
 ## 16. Airway Rescue Ready
-- ✓ Supraglottic airway device ready at bedside (appropriate size)
-- ✓ Video laryngoscope functional and within reach
-- ✓ Bougie at bedside
-- ✓ Suction on and tested (Yankauer attached)
-- ✓ Difficult airway cart location verified
-- ✓ **Surgical airway kit location known**
+- ✓ Supraglottic airway at bedside  
+- ✓ Video laryngoscope within reach  
+- ✓ Bougie available  
+- ✓ Suction functioning  
+- ✓ Difficult airway cart location confirmed  
+- ✓ Cricothyrotomy kit location known  
 
 ## 17. Hemodynamic Rescue
-- ✓ **Push-dose pressors drawn and labeled:**
-  - Epinephrine 10 mcg/mL
-  - Phenylephrine 100 mcg/mL
-- ✓ Vasopressor infusions prepared if high-risk
-- ✓ Fluids warmed and ready
-- ✓ Rapid infuser availability confirmed for high-risk cases
-- ✓ **Glycopyrrolate ready** for dexmedetomidine-related bradycardia
+- ✓ Push-dose pressors drawn & labeled  
+- ✓ Vasopressor infusions available  
+- ✓ Warmed fluids ready  
+- ✓ Rapid infuser available for high-risk cases  
+- ✓ Glycopyrrolate ready (for bradycardia)
 
 ## 18. Code & Safety Equipment
-- ✓ Defibrillator location verified and pads available
-- ✓ Code cart nearby (location confirmed)
-- ✓ **Malignant hyperthermia cart location verified + dantrolene immediately available**
-- ✓ POCUS (point-of-care ultrasound) availability confirmed
-- ✓ **Intralipid 20% for LAST** (location confirmed)
+- ✓ Defibrillator and pads available  
+- ✓ Code cart location confirmed  
+- ✓ **Malignant hyperthermia cart available; dantrolene not expired**  
+- ✓ POCUS available  
+- ✓ **Intralipid 20% location confirmed**
 
 ---
 
 # VIII. Team Communication & Surgical Coordination
 
-## 19. Pre-Induction Huddle (Surgeon, CRNA/Anesthesiologist, Circulator, Scrub Tech)
+## 19. Pre-Induction Huddle (Surgeon + Anesthesia + RN + Scrub Tech)
 
-### Discuss and Confirm:
+### Patient-Specific
+- ✓ Identity, procedure, laterality  
+- ✓ **Anesthesia pathway** (1, 2, or 3)  
+- ✓ Airway plan + predicted difficulty  
+- ✓ Allergies reviewed
 
-**Patient-Specific:**
-- ✓ Patient identity, procedure, and laterality (RIGHT vs LEFT knee)
-- ✓ **Anesthesia pathway selected:** OFIA + ACB/IPACK / OFIA block-free / Conventional
-- ✓ Airway plan and **anticipated difficulty** (Mallampati, prior history)
-- ✓ **Allergies** (especially local anesthetics, NSAIDs, opioids)
+### Surgical
+- ✓ Expected duration (rTKA typically 90–120 min)  
+- ✓ Tourniquet pressure + expected time  
+- ✓ Positioning and padding  
+- ✓ Expected blood loss (<200 mL typical)  
+- ✓ **Periarticular infiltration plan** (volume, components)
 
-**Surgical:**
-- ✓ Anticipated case duration (typical rTKA: 90-120 minutes)
-- ✓ **Tourniquet use:** pressure (typically 250-300 mmHg), estimated inflation time
-- ✓ Positioning and padding strategy (supine, leg holder)
-- ✓ Anticipated blood loss (typically minimal for rTKA, <200 mL)
-- ✓ **Periarticular infiltration plan** (Pathway 2: volume, concentration, additives)
+### Anesthesia
+- ✓ Blocks performed or planned  
+- ✓ Antibiotic timing  
+- ✓ PONV prophylaxis  
+- ✓ PACU pain expectations
 
-**Anesthesia:**
-- ✓ **Regional blocks performed:** ACB + IPACK status
-- ✓ **Antibiotic timing:** Cefazolin 2 g (or alternative) within 60 min of incision
-- ✓ **PONV prophylaxis:** Dexamethasone + ondansetron + scopolamine (if applicable)
-- ✓ Pain management plan and expected PACU pain scores
-
-**Postoperative:**
-- ✓ PACU/floor disposition
-- ✓ **Early mobilization goals:** POD 0 ambulation expected
-- ✓ Discharge planning (same-day vs POD 1)
-
-**Critical Findings:**
-- ✓ **Severe comorbidities:** AS, low EF, pulmonary HTN, OSA, delirium risk
-- ✓ Special equipment or implants
-- ✓ **Anticoagulation restart timing** post-procedure
+### Postoperative
+- ✓ Disposition (PACU → floor)  
+- ✓ POD 0 ambulation plan  
+- ✓ Same-day vs POD 1 discharge  
+- ✓ Anticoagulation restart plan
 
 ---
 
-# IX. Final Check Before Patient Enters the OR
+# IX. Final “Wheels-In” Verification
 
-## 20. "Wheels-In" Verification
+## 20. 30-Second Readiness Check
+- ✓ Machine OK; O₂ cylinder full  
+- ✓ Monitors functional  
+- ✓ Medications drawn & labeled  
+- ✓ Airway tray complete  
+- ✓ Suction functioning  
+- ✓ IV fluids running  
+- ✓ Documentation ready  
+- ✓ Team aware of anesthesia plan  
+- ✓ Emergency drugs accessible  
+- ✓ Block equipment prepped (if applicable)
 
-### Quick Final Check (30 seconds):
-- ✓ **Machine:** Self-test passed, oxygen cylinder full
-- ✓ **Monitors:** ECG, NIBP, SpO₂, capnography functional
-- ✓ **Medications:** All syringes drawn and labeled
-- ✓ **Airway tray:** Fully stocked, video scope functional
-- ✓ **Suction:** On and tested
-- ✓ **Fluids:** IV running, additional fluids available
-- ✓ **Documentation:** EMR ready, consent verified
-- ✓ **Team:** Entire team aware of plan and prepared
-- ✓ **Regional blocks:** Equipment ready if applicable
-- ✓ **Emergency drugs:** Push-dose pressors and naloxone accessible
-
-### Team Verbal Confirmation:
-**Anesthesiologist/CRNA:** "Anesthesia ready, [PATHWAY] selected, blocks [done/not done]"  
-**Surgeon:** "Surgical team ready, correct site marked"  
-**Circulator:** "Room ready, timeout checklist prepared"
+**Verbal confirmation:**
+- **Anesthesia:** “Anesthesia ready, [PATHWAY] selected.”  
+- **Surgeon:** “Surgical team ready, correct site marked.”  
+- **Circulator:** “Room ready, timeout prepared.”
 
 ---
 
-# X. Special Considerations for rTKA
+# X. rTKA-Specific Considerations
 
-## 21. Robotic Surgery Specific
-- ✓ Robot positioned appropriately (does not interfere with anesthesia access)
-- ✓ Emergency robot undocking procedure reviewed with surgical team
-- ✓ **Patient access maintained** throughout case (especially head/airway)
-- ✓ Communication plan if urgent airway intervention needed
+## 21. Robotic Workflow
+- ✓ Robot positioned without obstructing airway access  
+- ✓ Emergency undocking protocol reviewed  
+- ✓ Head and airway accessible throughout the case  
+- ✓ Plan for rapid airway intervention if needed
 
-## 22. Enhanced Recovery Protocol
-- ✓ **Multimodal analgesia confirmed:** Acetaminophen + NSAID + blocks/infiltration
-- ✓ **Opioid-sparing pathway** prioritized unless contraindicated
-- ✓ **PONV prophylaxis** complete (dexamethasone + ondansetron ± scopolamine)
-- ✓ **Normothermia plan:** Forced-air warmer + warmed fluids
-- ✓ **Early mobilization discussed** with PACU and PT
+## 22. Enhanced Recovery (ERAS) Integration
+- ✓ Multimodal analgesia confirmed  
+- ✓ Opioid-sparing strategy prioritized  
+- ✓ Normothermia plan (warming blanket + warmed fluids)  
+- ✓ Early mobilization communicated to PACU/PT
 
 ---
 
 # XI. Post-Case Verification
 
 ## 23. End-of-Case Documentation
-- ✓ Total medication doses recorded (including local anesthetic volume)
-- ✓ Fluid balance documented (crystalloid, blood products)
-- ✓ Estimated blood loss recorded
-- ✓ **PACU handoff prepared** with pathway-specific pain expectations
-- ✓ **Block quality documented** (sensory coverage, motor-sparing confirmed)
-- ✓ Complications or critical events documented
-- ✓ Equipment restocked for next case
+- ✓ Total medication doses documented (especially local anesthetic)  
+- ✓ Fluid intake/output recorded  
+- ✓ Estimated blood loss documented  
+- ✓ PACU handoff prepared with pathway-specific expectations  
+- ✓ Block quality documented  
+- ✓ Any complications noted  
+- ✓ Room restocked for next case
 
 ---
 
-**This document is licensed under CC BY 4.0 and may be used, adapted, and distributed freely with attribution.**
+**License:** CC BY 4.0  
+**Version History:**  
+- 1.0: Initial checklist  
+- 1.1: General optimization  
+- 1.2: rTKA-focused version  
+- **1.3: Attending-reviewed, evidence-informed version; safety and ASRA alignment improved**  
 
-**Version History:**
-- Version 1.0: Initial general OR checklist
-- Version 1.1: Enhanced for general cases
-- **Version 1.2 (December 7, 2025): Optimized for rTKA multimodal anesthesia pathways per Drs. Mandalia and Pauldine clinical feedback**
+**Related Documents:**  
+- Preoperative Checklist  
+- Anesthesia Protocols (1–4)  
+- PACU Handoff Templates  
+- Quick Reference Cards  
 
----
-
-**Related Documents:**
-- [Preoperative Anesthesia Checklist](01_PreOp_Checklist.md)
-- [Anesthesia Protocols](03_Anesthesia_Protocols/)
-- [PACU Handoff Templates](05_PACU_Handoff_Templates.md)
-- [Quick Reference Cards](08_Quick_Reference_Cards.md)
