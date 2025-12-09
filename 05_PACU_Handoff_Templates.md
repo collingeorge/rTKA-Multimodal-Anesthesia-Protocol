@@ -1,289 +1,283 @@
 ---
 title: PACU Handoff Templates – rTKA Anesthesia Pathways
-version: 1.1
-last-updated: 2025-12-07
+version: 1.2
+last-updated: 2025-12-08
 ---
 
 # PACU Handoff Templates  
 Robot-Assisted Total Knee Arthroplasty (rTKA)
 
-This document provides standardized PACU handoff templates for the three primary anesthesia pathways used in rTKA:
+Standardized PACU handoff language for the three primary rTKA anesthesia pathways:
 
-1. Opioid-Free Intraoperative Anesthesia (OFIA) with ACB + IPACK  
-2. OFIA – Block-Free (surgeon periarticular infiltration only)  
-3. Conventional Opioid-Inclusive Anesthesia  
+1. **Protocol 1 – OFIA + ACB/IPACK (Preferred ERAS Pathway)**  
+2. **Protocol 2 – OFIA, Block-Free (Surgeon Periarticular Infiltration)**  
+3. **Protocol 3 – Conventional Opioid-Inclusive Anesthesia**
 
-These templates are designed for verbal handoff and can be adapted into EMR smart phrases.
+These scripts are intended for **verbal handoff** and can be adapted into **EMR smart phrases**. They are designed to be cohesive with:
+
+- `03_Anesthesia_Protocols/`  
+- `01_PreOp_Checklist.md`  
+- `03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`  
+- `03_Anesthesia_Protocols/Protocol_4_Adjuncts_Contraindications.md`  
 
 ---
 
-## 1. General Handoff Structure (All Pathways)
+## 1. Standard Handoff Structure (All Pathways)
 
-**Suggested structure:**
+Suggested structure for a concise, high-yield PACU handoff:
 
 1. Patient identifiers and procedure  
-2. Anesthesia type and pathway  
+2. Anesthesia type and pathway used  
 3. Intraoperative course (hemodynamics, events)  
-4. Analgesia strategy and expectations  
+4. Analgesia strategy and expected pain profile  
 5. Antiemetic strategy and PONV risk  
 6. Current status (vitals, airway, pain, sedation)  
-7. Anticipated problems and rescue plans  
-8. Disposition plan and key orders
+7. Anticipated problems and rescue strategies  
+8. Disposition and key orders/monitoring
 
 ---
 
-## 2. Handoff – Pathway 1: OFIA + ACB/IPACK
+## 2. Handoff – Protocol 1: OFIA + ACB/IPACK (Preferred ERAS Pathway)
 
-**PACU Nurse: This patient is on an opioid-sparing pathway**
+> **Nurse-facing message (optional):**  
+> “This patient had **opioid-free intraoperative anesthesia with ACB/IPACK** – expect low pain scores and minimal opioid needs in PACU.”
 
 ### Patient / Procedure
-[Age]-year-old undergoing robot-assisted total knee arthroplasty, completed without complications.
+- [Age]-year-old [sex]  
+- Robot-assisted total knee arthroplasty (rTKA)  
+- No intraoperative complications
 
 ### Anesthesia / Pathway
-Opioid-free intraoperative anesthesia with general anesthesia [or spinal anesthesia with sedation] and ultrasound-guided adductor canal block plus IPACK. **No intraoperative opioids were administered.**
+- **Pathway:** Protocol 1 – Opioid-Free Intraoperative Anesthesia (OFIA) + ACB/IPACK  
+- **Technique:** General anesthesia (or spinal + sedation) with **no intraoperative opioids administered**
 
-### Regional Anesthesia Details
+### Regional Anesthesia
 - **ACB:** ropivacaine 0.2–0.25%, 20–30 mL  
 - **IPACK:** ropivacaine 0.2–0.25%, 20 mL  
-- **Total ropivacaine dose:** [mg]
-- Blocks performed preoperatively under ultrasound guidance with negative aspiration and no intravascular injection
-- No paresthesias or complications during placement
-- Sensory coverage confirmed: [dermatomes]
-- Motor function preserved (quad-sparing confirmed)
+- **Total ropivacaine dose:** [mg], below ~3 mg/kg maximum  
+- Ultrasound-guided; no intravascular injection or paresthesia  
+- Sensory coverage confirmed over anterior/posterior knee  
+- Motor-sparing pattern preserved (quadriceps strength intact)
 
 ### Intraoperative Course
-**Hemodynamically stable throughout.**
-
-- **Premedication:** midazolam 1–2 mg IV for anxiolysis
-- **Induction:** propofol + low-dose ketamine (0.3–0.5 mg/kg) + rocuronium  
-- **Maintenance:** sevoflurane 0.8–1.2 MAC [or propofol TIVA 75–150 mcg/kg/min]
-- **Adjuncts:** dexmedetomidine infusion (0.2–0.7 mcg/kg/hr), magnesium sulfate (30–50 mg/kg)
-- **Estimated blood loss:** [value]  
-- **Fluids:** [total crystalloid volume]
-- **Urine output:** [value]
-- No significant arrhythmias, ischemia, or desaturation episodes
+- **Premedication:** midazolam 1–2 mg IV  
+- **Induction:** propofol + ketamine (0.3–0.5 mg/kg) + rocuronium  
+- **Maintenance:**  
+  - Sevoflurane 0.8–1.2 MAC **or** propofol TIVA 75–150 mcg/kg/min  
+  - Dexmedetomidine infusion 0.2–0.7 mcg/kg/hr (lower range in elderly/frail)  
+  - Magnesium sulfate 30–50 mg/kg over 15–20 min (if normal renal function)  
+- **Hemodynamics:** [stable / brief hypotension / vasopressor use]  
+- **Estimated blood loss:** [mL]  
+- **Fluids:** [crystalloid/colloid volumes]  
+- **Urine output:** [mL], if catheter present  
+- No significant arrhythmias, ischemia, or hypoxia
 
 ### Analgesia / Pain Expectations
-Multimodal regimen with functioning ACB/IPACK blocks **expected to last 12–18 hours.**
-
-- **Expected pain:** mild (0–3/10) in PACU  
-- **If NRS ≥4:** consider tourniquet discomfort, incomplete block, or positioning pain and follow PACU rescue algorithm  
-- **Scheduled medications:** acetaminophen 1 g q6h + [celecoxib/ketorolac/meloxicam]
+- **Blocks expected to last:** ~12–18 hours  
+- **Expected PACU pain:** mild (NRS ~0–3/10), especially at rest  
+- **Scheduled analgesia:**  
+  - Acetaminophen 1 g q6h  
+  - NSAID per protocol (celecoxib, ketorolac, or meloxicam)  
+- **If NRS ≥4:**  
+  - Assess tourniquet discomfort, positioning pain, or block failure  
+  - Use PACU rescue algorithm (ketamine first, opioid only if needed)
 
 ### Antiemetics / PONV
-- Dexamethasone 8–10 mg IV intra-op  
-- Ondansetron 4 mg IV near emergence  
-- [Scopolamine patch applied preoperatively if high PONV risk]
-- **PONV risk:** moderate–low; treat nausea per standard protocol if needed
+- Intra-op: dexamethasone 8–10 mg IV + ondansetron 4 mg IV  
+- Scopolamine patch applied pre-op in high-risk patients  
+- **PONV risk:** generally low with OFIA; treat per standard PACU protocol if nausea develops
 
 ### Current Status
-- **Airway:** breathing spontaneously on room air / nasal cannula [specify O₂ flow]
-- **Vitals:** HR [value], BP [value], RR [value], SpO₂ [value]% - stable  
-- **Pain score on arrival:** [0–10]  
-- **Sedation:** responsive to voice / drowsy but arousable [RASS score if applicable]
-- **Motor function:** quad strength intact bilaterally, ankle dorsiflexion/plantarflexion present
+- **Airway:** breathing spontaneously on [room air / nasal cannula at X L/min]  
+- **Vitals:** HR [ ], BP [ ], RR [ ], SpO₂ [ ]% – currently stable  
+- **Pain score on arrival:** NRS [0–10]  
+- **Sedation:** [alert / drowsy but arousable], RASS [ ]  
+- **Motor function:** quadriceps strength intact; ankle dorsiflexion/plantarflexion present
 
 ### Anticipated Issues
-- Monitor for **bradycardia (HR <50)** or **hypotension** related to residual dexmedetomidine
-- **Treatment:** glycopyrrolate 0.2–0.4 mg IV preferred over atropine
-- **Lipid emulsion 20%** available for LAST (rare but keep accessible)
+- Mild bradycardia or hypotension possible from residual dexmedetomidine  
+- LAST unlikely but **lipid emulsion 20% available** on unit if needed
 
 ### Orders / Plan
-- Continue scheduled acetaminophen and NSAID per ERAS pathway  
-- **Rescue analgesia:** ketamine 0.1–0.15 mg/kg IV q10–15 min for breakthrough pain (max 3 doses), then low-dose opioid (hydromorphone 0.2 mg IV) only if inadequate  
-- Standard discharge criteria from PACU; **ambulation anticipated on POD 0** (typically 4–6 hours post-op)
-- Urinary catheter [present/absent]; remove per protocol
-- VTE prophylaxis: [per surgeon preference and anticoagulation plan]
+- Continue scheduled acetaminophen + NSAID  
+- **PACU rescue for breakthrough pain:**  
+  - Ketamine 0.1–0.15 mg/kg IV q10–15 min, up to 3 doses  
+  - If still ≥4/10 after ketamine, hydromorphone 0.2 mg IV q10–15 min PRN with close monitoring  
+- Antiemetics per protocol (ondansetron ± others as needed)  
+- Standard PACU discharge criteria; **target ambulation POD 0** (typically 4–6 hours post-op)
 
 ---
 
-## 3. Handoff – Pathway 2: OFIA, Block-Free
+## 3. Handoff – Protocol 2: OFIA, Block-Free (Surgeon Periarticular Infiltration)
 
-**PACU Nurse: This patient is on an opioid-sparing pathway**
+> **Nurse-facing message (optional):**  
+> “This patient had **opioid-free intraoperative anesthesia without nerve blocks** – expect moderate pain early; ketamine is first-line rescue with opioids as backup.”
 
 ### Patient / Procedure
-[Age]-year-old undergoing robot-assisted total knee arthroplasty, completed without complications.
+- [Age]-year-old [sex]  
+- Robot-assisted total knee arthroplasty (rTKA)  
+- No intraoperative complications
 
 ### Anesthesia / Pathway
-Opioid-free intraoperative anesthesia without peripheral nerve blocks. Analgesia relies on multimodal systemic medications plus surgeon periarticular local anesthetic infiltration. **No intraoperative opioids were administered.**
+- **Pathway:** Protocol 2 – OFIA, Block-Free  
+- **Technique:** General anesthesia with **no intraoperative opioids**  
 
 ### Regional / Local Analgesia
-- **No ACB/IPACK performed.** Reason: [anticoagulation timing / patient refusal / workflow preference / anatomical difficulty]
-- Surgeon performed large-volume periarticular local anesthetic infiltration ([volume] mL of [concentration] ropivacaine/bupivacaine) prior to closure
+- No ACB or IPACK performed due to:  
+  - [Anticoagulation timing / patient refusal / workflow constraints / anatomic considerations]  
+- Surgeon performed periarticular local infiltration:  
+  - [Volume] mL of [concentration] ropivacaine (± epinephrine, ± ketorolac)  
+  - Total local anesthetic dose documented and within safe limit
 
 ### Intraoperative Course
-- **Premedication:** midazolam 1–2 mg IV for anxiolysis
-- **Induction:** propofol + higher-dose ketamine (0.4–0.5 mg/kg)
-- **Maintenance:** sevoflurane 0.8–1.2 MAC [or propofol TIVA]
-- **Adjuncts:** dexmedetomidine infusion (0.3–0.7 mcg/kg/hr), magnesium sulfate (30–50 mg/kg), [± lidocaine infusion 1–2 mg/kg/hr]
-- **Hemodynamics:** [brief summary - stable/required vasopressors/etc]
-- **Estimated blood loss:** [value]  
-- **Fluids:** [total volume]
-- No major intraoperative events
+- **Premedication:** midazolam 1–2 mg IV  
+- **Induction:** propofol + higher-dose ketamine (0.4–0.5 mg/kg) + rocuronium  
+- **Maintenance:**  
+  - Sevoflurane 0.8–1.2 MAC or propofol TIVA 75–150 mcg/kg/min  
+  - Dexmedetomidine infusion 0.3–0.7 mcg/kg/hr (lower range in elderly)  
+  - Magnesium sulfate 30–50 mg/kg; ± lidocaine infusion 1–2 mg/kg/hr (max 300 mg total)  
+- **Hemodynamics:** [brief summary]  
+- **Estimated blood loss:** [mL]  
+- **Fluids:** [volumes]  
+- No clinically significant intraoperative events
 
 ### Analgesia / Pain Expectations
-**Expected PACU pain scores:** moderate (3–6/10), especially with movement during first 12–24 hours due to absence of nerve blocks.
-
-- Patient counseled preoperatively about higher early pain expectations
-- **Baseline multimodal meds ordered:** acetaminophen 1 g q6h + NSAID  
-- **Primary rescue:** ketamine bolus 0.1–0.15 mg/kg IV q10–15 min (max 3 doses)  
-- **Opioid rescue:** hydromorphone 0.2 mg IV q10–15 min only if non-opioid measures insufficient
+- **Expected PACU pain:** moderate (NRS ~3–6/10), especially with movement  
+- Analgesia sources: periarticular infiltration + pre-op meds + OFIA adjuncts  
+- **Scheduled analgesia:** acetaminophen + NSAID as per ERAS  
+- **Rescue sequence:**  
+  - First-line: ketamine 0.1–0.15 mg/kg IV q10–15 min (up to 3 doses)  
+  - Second-line: hydromorphone 0.2 mg IV q10–15 min if inadequate response to ketamine  
 
 ### Antiemetics / PONV
-- Dexamethasone 8–10 mg + ondansetron 4 mg given intra-op
-- **PONV risk:** moderate; treat per protocol with additional ondansetron or alternative antiemetics PRN
+- Intra-op: dexamethasone + ondansetron  
+- **PONV risk:** low–moderate (no opioids, but volatile + adjuncts); treat per protocol  
 
 ### Current Status
-- **Airway:** breathing spontaneously [room air/O₂ supplement]
-- **Vitals:** HR [value], BP [value], RR [value], SpO₂ [value]%
-- **Pain score on arrival:** [0–10]; patient reminded pain may be higher due to no blocks but will improve with multimodal regimen
-- **Sedation:** [responsive to voice / drowsy but arousable]
-- **Motor function:** full quad strength, ankle movement intact
+- **Airway:** breathing spontaneously on [room air / low-flow O₂]  
+- **Vitals:** HR [ ], BP [ ], RR [ ], SpO₂ [ ]% – currently stable  
+- **Pain on arrival:** NRS [0–10]; patient pre-counseled that early pain may be higher without blocks  
+- **Sedation:** [alert / drowsy but arousable], RASS [ ]  
+- **Motor function:** full quad strength and ankle movement; no block-related motor effects
 
 ### Anticipated Issues
-- **Higher pain scores expected** - this is normal for block-free pathway
-- Monitor for residual dexmedetomidine effects (bradycardia, hypotension)
-- Psychotomimetic side effects from ketamine possible but rare at rescue doses
+- Higher pain scores than block pathway – expected and not a complication  
+- Monitor for dexmedetomidine-related bradycardia/hypotension  
+- Rare dysphoria or vivid dreams from ketamine at rescue doses; reassure patient as needed  
 
 ### Orders / Plan
-- Continue scheduled multimodal analgesia  
-- Follow PACU rescue algorithm with **ketamine first-line, opioids second-line**
-- Ice application and positioning for comfort
-- Standard discharge criteria; **early PT and ambulation important** (typically POD 0)
-- Monitor for LAST (rare but possible with surgeon's infiltration)
+- Continue multimodal scheduled analgesia  
+- Use ketamine as first-line rescue, opioids as second-line rescue only if needed  
+- Ice, elevation, and positioning to support comfort  
+- Standard PACU discharge criteria; early PT and **POD 0 mobilization** encouraged
 
 ---
 
-## 4. Handoff – Pathway 3: Conventional Opioid-Inclusive
+## 4. Handoff – Protocol 3: Conventional Opioid-Inclusive Anesthesia
+
+> **Nurse-facing message (optional):**  
+> “This patient received **conventional opioid-based anesthesia** – expect more sedation and higher PONV/respiratory risk; continuous monitoring is important.”
 
 ### Patient / Procedure
-[Age]-year-old undergoing robot-assisted total knee arthroplasty. Procedure completed without complications.
+- [Age]-year-old [sex]  
+- Robot-assisted total knee arthroplasty (rTKA)  
+- No major intraoperative complications
 
 ### Anesthesia / Pathway
-Conventional general anesthesia with intraoperative opioids. This pathway was selected due to [chronic opioid use (baseline [X] MME/day) / severe anxiety / contraindication to OFIA agents / patient preference / attending judgment].
+- **Pathway:** Protocol 3 – Conventional Opioid-Inclusive  
+- **Indication:** [Chronic opioid use / severe anxiety / OFIA contraindication / patient preference / attending decision]  
+- General anesthesia ± regional techniques
 
 ### Analgesia Intra-op
-- **Multimodal:** acetaminophen 1 g, celecoxib 400 mg (or other NSAID), dexamethasone 8–10 mg  
-- **Premedication:** midazolam 1–2 mg IV
-- **Opioids:** fentanyl [total mcg] and/or hydromorphone [total mg] intra-op  
-- **Regional:** [ACB/IPACK performed with ropivacaine [volumes] vs no blocks - reason: [X]]
+- **Multimodal baseline:** acetaminophen 1 g, NSAID (celecoxib/ketorolac/meloxicam), dexamethasone 8–10 mg  
+- **Premedication:** midazolam 1–2 mg IV  
+- **Opioids intra-op:**  
+  - Fentanyl total [mcg] and/or hydromorphone total [mg]  
+- **Regional:**  
+  - [ACB/IPACK performed with ropivacaine volumes] OR  
+  - No blocks; reason documented
 
 ### Intraoperative Course
-- **Induction:** midazolam + propofol + fentanyl/hydromorphone + rocuronium
-- **Maintenance:** sevoflurane 0.8–1.2 MAC + fentanyl boluses PRN
-- **Hemodynamics:** [stable / required vasopressors / brief hypotension]
-- **Airway:** [ETT / LMA] size [X], no major airway complications  
-- **Estimated blood loss:** [value]  
-- **Fluids:** [total volume]
+- **Induction:** midazolam + propofol + fentanyl/hydromorphone + rocuronium  
+- **Maintenance:** sevoflurane 0.8–1.2 MAC (or propofol TIVA) + fentanyl boluses PRN  
+- **Hemodynamics:** [stable / required vasopressor support]  
+- **Estimated blood loss:** [mL]; **Fluids:** [volumes]  
+- Airway: [ETT/LMA], uncomplicated intubation/extubation  
 
 ### Analgesia / Pain Expectations
-Pain and sedation may vary due to intraoperative opioid use.
-
-- Baseline multimodal meds in place  
-- Opioid rescue in PACU anticipated and expected
-- **If blocks performed:** expect lower pain scores (NRS 0–3)
-- **If no blocks:** expect moderate pain (NRS 3–6)
+- Pain and sedation will depend on opioid exposure and presence/absence of blocks:  
+  - With blocks: expected NRS ~0–3/10  
+  - Without blocks: expected NRS ~3–6/10  
+- Scheduled multimodal analgesia ordered (acetaminophen + NSAID)  
+- PACU opioid rescue is **expected** part of this pathway
 
 ### Antiemetics / PONV
-- Dexamethasone 8–10 mg + ondansetron 4 mg given intra-op
-- **PONV risk higher** than OFIA pathways due to opioid exposure
-- Anticipate need for rescue antiemetics (ondansetron q6h PRN, consider promethazine 6.25–12.5 mg or metoclopramide 10 mg)
+- Dexamethasone + ondansetron given intra-op  
+- **PONV risk:** higher than OFIA pathways due to opioids  
+- Be proactive with rescue antiemetics (ondansetron, metoclopramide, promethazine per protocol)
 
 ### Current Status
-- **Airway:** [extubated / breathing spontaneously], **monitor closely due to opioid exposure**
-- **Vitals:** HR [value], BP [value], RR [value], SpO₂ [value]%
-- **Pain:** NRS [0–10]  
-- **Sedation:** [e.g., RASS score or "drowsy but arousable" / "alert and oriented"]
-- **Motor function:** quadriceps strength [intact / testing pending], ankle movement [present/absent]
+- **Airway:** [extubated, breathing spontaneously]; monitor closely for opioid-related respiratory depression  
+- **Vitals:** HR [ ], BP [ ], RR [ ], SpO₂ [ ]%  
+- **Pain score on arrival:** NRS [0–10]  
+- **Sedation:** RASS [ ]; may be more drowsy than OFIA pathways  
+- **OSA / high-risk:** [yes/no] – if yes, enhanced monitoring required
 
 ### Anticipated Issues
-- **Respiratory depression risk** due to opioid exposure - monitor RR and SpO₂ closely
-- **Higher PONV risk** - treat proactively
-- Sedation may delay mobilization
-- **OSA patients require enhanced monitoring**
+- **Respiratory depression:** low respiratory rate, hypoventilation, or desaturations  
+- **PONV:** early nausea/vomiting more likely  
+- **Delayed mobilization:** due to sedation and orthostatic intolerance  
+- Elderly/OSA: higher delirium and respiratory risk
 
 ### Orders / Plan
-- PACU opioid rescue: **hydromorphone 0.2 mg IV q10–15 min PRN** for NRS ≥4, titrated carefully with reassessment after each dose
-- Maintain **oxygen saturation >92%**; consider capnography if available for high-risk patients
-- **Naloxone 0.4 mg IV available** per institutional policy for respiratory depression (RR <10, SpO₂ <90%)
-- Continue multimodal non-opioid regimen postoperatively (acetaminophen + NSAID scheduled)
-- Standard PACU discharge criteria; ambulation when alert and pain controlled
-- **Enhanced monitoring if OSA, elderly, or frail**
+- **PACU opioid rescue:** hydromorphone 0.2 mg IV q10–15 min PRN for NRS ≥4 with reassessment after each dose; set a cautious maximum per protocol  
+- Continuous pulse oximetry; consider capnography for high-risk patients (OSA, obesity, large opioid dose)  
+- **Naloxone 0.4 mg IV available at bedside**, to be titrated in 0.04 mg increments if RR <8 or SpO₂ <90% despite stimulation  
+- Continue scheduled multimodal non-opioid analgesia  
+- Enhanced monitoring for elderly, OSA, and opioid-naïve patients
 
 ---
 
-## 5. Special Considerations for All Pathways
+## 5. Special Populations (All Pathways)
 
-### Elderly/Frail Patients
-- Emphasize delirium risk and prevention strategies
-- Reduced medication doses used intraoperatively
-- May require extended PACU monitoring
-- Fall precautions essential
+### Elderly / Frail
+- Lower dosing for sedatives, opioids, and OFIA adjuncts used intra-op  
+- Higher baseline delirium risk – minimize benzodiazepines and opioids post-op  
+- Consider longer PACU observation and fall precautions
 
-### OSA Patients
-- Enhanced respiratory monitoring required
-- Continuous pulse oximetry
-- Consider capnography
-- Avoid oversedation
-- Earlier mobilization preferred
+### OSA / High Respiratory Risk
+- Prefer OFIA pathways (1 or 2) when feasible  
+- Continuous pulse oximetry; consider capnography  
+- Low threshold for step-down or monitored bed  
+- Avoid oversedation; conservative opioid use
 
-### Anticoagulation Considerations
-- Document timing of last anticoagulant dose
-- VTE prophylaxis plan per surgeon and patient risk factors
-- If blocks performed, note ASRA guidelines followed
+### Chronic Opioid Users
+- Document baseline regimen and daily MME  
+- Conventional pathway often selected; emphasize multimodal support  
+- Early engagement of acute pain service if needs are high
 
 ---
 
-## 6. Adaptation and Local Use
+## 6. Local Adaptation and References
 
-These templates are intentionally generic and must be:
+These templates should be:
 
-- Adjusted to local medication formularies and dosing policies  
-- Integrated with institutional pain and PONV protocols  
-- Reviewed by supervising anesthesiologists and PACU leadership  
-- Modified to match EMR capabilities and smart phrase formats
-- Adapted for verbal vs written handoff preferences
+- Aligned with local pharmacy formularies and dosing policies  
+- Embedded as EMR smart phrases where possible  
+- Reviewed by anesthesia leadership and PACU educators  
+- Coupled with institutional PACU pain and PONV algorithms  
 
-For algorithmic rescue details, see:
+**Related documents in this repository:**
 
+- `03_Anesthesia_Protocols/Protocol_1_ACB_IPACK_OFIA.md`  
+- `03_Anesthesia_Protocols/Protocol_2_BlockFree_OFIA.md`  
+- `03_Anesthesia_Protocols/Protocol_3_OpioidBased.md`  
+- `03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`  
+- `03_Anesthesia_Protocols/Protocol_4_Adjuncts_Contraindications.md`  
 - `04_IntraOp_Flowcharts/PACU_Pain_Rescue_Algorithm.md`  
-- `03_Anesthesia_Protocols/Protocol_1_ACB_IPACK_OFIA.md`
-- `03_Anesthesia_Protocols/Protocol_2_BlockFree_OFIA.md`
-- `03_Anesthesia_Protocols/Protocol_3_OpioidBased.md`
-- `03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`
-- `03_Anesthesia_Protocols/Protocol_4_Adjuncts_Contraindications.md`
 
 ---
 
-## 7. Key Medications Summary (For Quick Reference)
-
-### Standard Across All Pathways
-- Midazolam 1–2 mg IV (anxiolysis/amnesia)
-- Acetaminophen 1 g preop, then q6h
-- NSAID (celecoxib 400 mg or ketorolac 15 mg IV or meloxicam 15 mg)
-- Dexamethasone 8–10 mg IV
-- Ondansetron 4 mg IV
-
-### OFIA-Specific
-- **Ketamine:** induction 0.3–0.5 mg/kg, infusion 0.1–0.25 mg/kg/hr
-- **Dexmedetomidine:** loading 0.5 mcg/kg, infusion 0.2–0.7 mcg/kg/hr
-- **Magnesium sulfate:** 30–50 mg/kg over 15–20 min
-- **Sevoflurane:** 0.8–1.2 MAC or propofol TIVA 75–150 mcg/kg/min
-
-### Conventional Pathway
-- **Fentanyl:** 1–2 mcg/kg or hydromorphone 0.2–0.4 mg at induction
-- **Sevoflurane:** 0.8–1.2 MAC + fentanyl boluses PRN
-
----
-
-**Last Updated:** December 7, 2025  
-**Version:** 1.1  
+**Last Updated:** December 8, 2025  
+**Version:** 1.2  
 **Next Review Due:** December 2026
-
----
-
-**Related Documents:**
-- [PACU Pain and Rescue Algorithm](04_IntraOp_Flowcharts/PACU_Pain_Rescue_Algorithm.md)
-- [Anesthesia Protocols](03_Anesthesia_Protocols/)
-- [Preoperative Checklist](01_PreOp_Checklist.md)
-- [Quick Reference Cards](08_Quick_Reference_Cards.md)
