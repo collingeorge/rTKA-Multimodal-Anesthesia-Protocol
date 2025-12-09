@@ -1,255 +1,351 @@
 ---
-title: Conventional Opioid-Inclusive Anesthesia
-version: 1.2
-last-updated: 2025-12-07
+title: Conventional Opioid-Inclusive Anesthesia (Protocol 3)
+version: 1.3
+last-updated: 2025-12-08
 ---
 
-# Conventional Opioid-Inclusive Anesthesia
+# Protocol 3 – Conventional Opioid-Inclusive Anesthesia (rTKA)
 
-## 1. Purpose
-Traditional anesthesia pathway for:
-- **Chronic opioid users** (>30 MME/day for >3 months)
-- Patients requesting conventional anesthesia after counseling
-- Severe anxiety disorders unresponsive to standard anxiolysis
-- Cases where OFIA agents are contraindicated:
-  - Active psychosis (ketamine contraindicated)
-  - High-degree AV block without pacemaker (dexmedetomidine contraindicated)
-  - Severe renal impairment CrCl <30 (magnesium contraindicated)
-- Patient or attending preference after shared decision-making
+Conventional, opioid-inclusive anesthetic pathway for robot-assisted total knee arthroplasty (rTKA). This document describes an **illustrative framework** for an opioid-based anesthetic; it is **not intended as a default ERAS pathway**. OFIA-based protocols with regional blocks remain **generally preferred first-line** for most patients.
+
+Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 guidance but **do not replace** institutional policies or attending anesthesiologist judgment.
+
+> **Educational Use Only – Not a Clinical Guideline**  
+> - All doses are **typical adult ranges** and must be individualized, especially in elderly, frail, OSA, or significant comorbidity.  
+> - Pathway selection is **attending- and institution-dependent**.  
+> - Special populations (severe cardiopulmonary disease, advanced renal/hepatic impairment, extremes of BMI) require additional modification and may be better served by alternative pathways.
+
+---
+
+## 1. Purpose and Indications
+
+This pathway describes a **conventional, opioid-inclusive general anesthetic** for rTKA. It is generally **reserved for**:
+
+- **Chronic opioid users** (>~30 MME/day for >3 months).
+- Patients who **request conventional anesthesia** after balanced counseling about OFIA vs opioid-based options.
+- Severe anxiety disorders **not adequately controlled** by standard anxiolysis and non-opioid approaches.
+- Cases where key OFIA components are **contraindicated or strongly discouraged**, for example:
+  - Active psychosis (ketamine generally avoided).
+  - Advanced AV block without pacemaker (dexmedetomidine generally avoided).
+  - Severe renal impairment (CrCl <30 mL/min) when magnesium and certain adjuncts are not desired.
+- Situations where **patient or attending preference** favors a conventional approach after shared decision-making and documentation.
+
+> **Key Principle:**  
+> This pathway is **not first-line** for ERAS; it is used when OFIA-based techniques are inappropriate, not desired, or not feasible.
 
 ---
 
 ## 2. Preoperative Phase
 
-### Patient Assessment
-- ASA classification, airway exam, METs, allergies
-- **Document baseline opioid use** (type, dose, MME/day)
-- Review PONV/delirium history (higher risk with opioids)
-- Frailty/cognition assessment for elderly
-- OSA screening (STOP-Bang score) - enhanced monitoring needed
-- Anticoagulation status if considering blocks
+### 2.1 Patient Assessment
 
-### Medications (ERAS-aligned)
-- **Acetaminophen 1 g PO** (give 30-60 min pre-op)
-- **Celecoxib 400 mg PO** (give 1-2 hours pre-op; if no contraindication - check renal function, cardiovascular risk)
-- **Dexamethasone 8–10 mg IV** (give after IV placement; PONV prophylaxis + analgesic synergy)
-- **Scopolamine 1.5 mg patch** (evening prior or ≥2 hrs pre-op for high PONV risk)
-- **Midazolam 1–2 mg IV** (preoperative anxiolysis in holding area)
-- **Continue home opioid dose** morning of surgery for chronic users
-- **Avoid gabapentinoids** (ASA/APSF 2024)
+- Full history and physical:
+  - ASA classification, airway exam, functional status (METs), allergies.
+- **Opioid history:**
+  - Document **baseline opioid regimen** (drug, dose, route, schedule, MME/day).
+- Risk stratification:
+  - PONV history (opioid-based pathways → higher risk).
+  - Delirium/cognitive status, frailty (especially >70–80 years).
+  - OSA screening (STOP-Bang score) and home CPAP/BiPAP use.
+- Anticoagulation:
+  - If regional blocks are being considered, confirm status against **ASRA 2024–2025 timing**.
 
-### Regional Blocks (Optional but Recommended)
-Consider ACB + IPACK even with opioid-based anesthesia:
-- Significantly reduces intra-op and post-op opioid requirements
-- Improves analgesia quality and early mobilization
-- Check ASRA 2024-2025 anticoagulation timing if performing blocks
-- If blocks done: follow Protocol 1 block technique (midazolam 1-2 mg before blocks, ropivacaine 0.2-0.25%)
+### 2.2 Preoperative Medications (ERAS-Informed)
+
+Typical adult regimen (individualize and adjust for renal/hepatic function):
+
+- **Acetaminophen 1 g PO**  
+  - 30–60 minutes pre-op (max 4 g/day; reduce for low body weight or liver disease).
+- **Celecoxib 400 mg PO**  
+  - 1–2 hours pre-op (if no significant renal/CV or GI contraindication).
+- **Dexamethasone 8–10 mg IV**  
+  - After IV placement (PONV + analgesia synergy; monitor glucose in diabetics).
+- **Scopolamine 1.5 mg patch**  
+  - Evening prior or ≥2 hours pre-op for **high PONV risk** patients without contraindications.
+- **Midazolam 1–2 mg IV** in holding area  
+  - Consider **1 mg or less** in frail/elderly/OSA; avoid in severe baseline cognitive impairment when possible.
+- **Continue home opioid dose** morning of surgery for chronic opioid users (per pain/attending guidance).
+- **Avoid routine gabapentinoids** in this population (ASA/APSF 2024 cautions – sedation, falls, respiratory risk).
+
+### 2.3 Regional Blocks (Optional but Strongly Recommended)
+
+Consider **ACB + IPACK** even in an opioid-based anesthetic:
+
+- Substantially **reduces intra- and postoperative opioid requirements**.
+- Improves **analgesia and early mobilization**, even if opioids are used.
+- If blocks are performed:
+  - Ensure compatibility with **ASRA 2024–2025 anticoagulation timing**.
+  - Follow ACB/IPACK technique from the regional protocol:
+    - Midazolam 1–2 mg IV (or less in frail) for block anxiolysis.
+    - Ropivacaine 0.2–0.25% (typical 20–30 mL ACB, ~20 mL IPACK).
+  - Ensure **LAST preparedness** (lipid emulsion 20% immediately available).
 
 ---
 
 ## 3. Induction
 
-**Pre-Oxygenation:**
-- 100% FiO2 via tight-fitting mask for 3-5 minutes
+> Unless otherwise noted, doses below are typical for **otherwise stable adult patients**; reduce doses in frail, elderly, or hemodynamically unstable patients.
 
-**Induction Sequence:**
-- **Midazolam 0.5–1 mg IV** (additional if needed; patient already received 1-2 mg preop)
-- **Propofol 1.5–2 mg/kg IV** (universal induction agent)
-- **Fentanyl 1–2 mcg/kg IV** (typical 75-150 mcg for 70 kg patient)
-  - OR **Hydromorphone 0.2–0.4 mg IV** (longer duration, more potent)
-  - **Opioid-tolerant patients:** May require 2-3x usual dose
-- **Optional: Ketamine 0.2–0.3 mg/kg IV** (for opioid-tolerant patients - improves analgesia, reduces tolerance)
-- **Rocuronium 0.6–1.0 mg/kg IV** (neuromuscular blockade)
+### 3.1 Pre-Oxygenation
 
-**Airway Management:**
-- Endotracheal intubation or LMA per clinical judgment and surgical requirements
-- Confirm ETCO2 waveform
-- Secure airway device
-- Document Cormack-Lehane grade if intubated
+- 100% FiO₂ via tight-fitting mask for **3–5 minutes** prior to induction.
+
+### 3.2 Induction Sequence (Illustrative)
+
+- **Midazolam 0.5–1 mg IV**  
+  - Additional small doses as needed (consider prior pre-op midazolam dose).
+- **Propofol 1.5–2 mg/kg IV**  
+  - Typical induction range; **consider 1–1.5 mg/kg** in frail or cardiac patients.
+- **Fentanyl 1–2 mcg/kg IV**  
+  - Typical 75–150 mcg for 70 kg patient, adjusted for tolerance and comorbidities.  
+  - **OR** Hydromorphone 0.2–0.4 mg IV (longer-acting, more potent).
+  - **Opioid-tolerant patients:** may require higher induction doses; titrate carefully.
+- **Optional: Ketamine 0.2–0.3 mg/kg IV**  
+  - Especially helpful for **opioid-tolerant** patients (NMDA antagonism, analgesia).  
+  - Avoid or reduce in severe CAD, uncontrolled hypertension, or psychosis.
+- **Rocuronium 0.6–1.0 mg/kg IV**  
+  - Based on ideal body weight; confirm depth with TOF.
+
+### 3.3 Airway Management
+
+- Endotracheal intubation vs LMA based on:
+  - Surgical requirements, aspiration risk, BMI/OSA, positioning.
+- Confirm placement:
+  - **Continuous ETCO₂** waveform, auscultation as indicated.
+- Secure airway device and document:
+  - **Cormack–Lehane grade** and ease of intubation (for future reference).
 
 ---
 
 ## 4. Maintenance
 
-**Anesthetic Maintenance (Choose One):**
-- **Sevoflurane 0.8–1.2 MAC** (preferred at UW for ease of titration, hemodynamic stability)
-  - OR
-- **Propofol TIVA 75–150 mcg/kg/min** (preferred for high PONV risk or MH susceptibility)
+### 4.1 Anesthetic Maintenance (Choose One)
 
-**Opioid Management:**
-- **Fentanyl 25-50 mcg IV boluses PRN** for hemodynamic response to surgical stimulation
-  - Typical total: 200-400 mcg for 70 kg patient
-  - **Opioid-tolerant:** May require 500-1000+ mcg total
-- **Alternative: Hydromorphone 0.2-0.4 mg IV boluses PRN**
-- **Remifentanil infusion 0.05-0.2 mcg/kg/min** (if TIVA with propofol preferred)
+- **Sevoflurane ~0.8–1.2 MAC (age-adjusted)**  
+  - Common first choice at many centers for rTKA: titratable, familiar.
+  - Adjust to maintain adequate depth while minimizing hypotension.
+  
+  **OR**
 
-**Optional Adjuncts (Consider for Opioid Tolerance):**
-- **Ketamine infusion 0.1–0.2 mg/kg/hr** (NMDA antagonism, reduces opioid tolerance)
-- **Dexmedetomidine 0.2–0.4 mcg/kg/hr** (opioid-sparing, sedation synergy; lower dose range due to opioid CNS depression)
-- **Lidocaine infusion 1 mg/kg/hr** (additional analgesic component, max 300 mg total)
+- **Propofol TIVA 75–150 mcg/kg/min**  
+  - Consider in **high PONV risk**, MH susceptibility, or practitioner preference.
+  - Dedicated IV line, infusion pump, and awareness of cumulative dose.
 
-**Hemodynamic Management:**
-- **Maintain MAP >65 mmHg**
-  - **Phenylephrine 50-100 mcg IV** (preferred if HR >70)
-  - **Ephedrine 5-10 mg IV** (preferred if HR <60)
-- Balance opioid dosing with hemodynamic stability
-- Avoid excessive opioid causing bradycardia/hypotension
+### 4.2 Opioid Management (Intraoperative)
 
-**Key Principle:**
-- **Minimize intraoperative opioid** - use multimodal adjuncts when possible
+> **Goal:** Provide adequate analgesia while avoiding excessive total opioid load.
 
-**Monitoring:**
-- Standard ASA monitors (ECG, NIBP, SpO2, ETCO2, temperature)
-- **Agent analyzer** for MAC/expired agent concentration (if using sevoflurane)
-- Neuromuscular monitoring (TOF) if rocuronium used
-- Consider BIS/depth monitoring (opioids don't suppress BIS as much as volatiles)
+- **Fentanyl 25–50 mcg IV boluses PRN**  
+  - For hemodynamic response to surgical stimulation (tachycardia, hypertension).  
+  - Typical total for 70 kg, opioid-naïve: **~200–400 mcg**  
+  - **Opioid-tolerant patients:** may require **~500–1000+ mcg** total – these are **approximate ranges**, not targets.
+- Alternatives / supplements:
+  - **Hydromorphone 0.2–0.4 mg IV boluses PRN**, especially towards end of case.
+  - **Remifentanil infusion 0.05–0.2 mcg/kg/min** if using propofol TIVA:
+    - Be deliberate about **post-op analgesia plan**, as remifentanil has no residual effect.
+
+### 4.3 Optional Adjuncts (Particularly for Opioid Tolerance)
+
+- **Ketamine infusion 0.1–0.2 mg/kg/hr**
+  - Reduces central sensitization and opioid tolerance.
+- **Dexmedetomidine 0.2–0.4 mcg/kg/hr**
+  - Provides sedation and opioid-sparing; use lower range due to concurrent opioids.
+  - Avoid or dose-reduce in bradycardia, AV block, or frailty.
+- **Lidocaine infusion ~1 mg/kg/hr (max ~300 mg total)**
+  - Additional analgesia; **avoid in severe hepatic impairment**.
+  - Monitor for CNS toxicity; ensure lipid rescue available.
+
+### 4.4 Hemodynamic Management
+
+- **Target MAP ≥65 mmHg**, individualizing for CAD or cerebrovascular disease.
+- Typical vasopressor strategy:
+  - **Phenylephrine 50–100 mcg IV** boluses if hypotension with HR >70.
+  - **Ephedrine 5–10 mg IV** boluses if hypotension with HR <60.
+- Avoid:
+  - Over-reliance on opioids to “blunt” hemodynamics at the expense of oversedation and respiratory depression.
+
+### 4.5 Intraoperative Monitoring
+
+- Standard ASA monitors:
+  - ECG, NIBP or arterial line (per risk), SpO₂, ETCO₂, temperature.
+- **Agent analyzer** for volatile anesthetic MAC (if using sevoflurane).
+- Neuromuscular monitoring:
+  - TOF monitoring throughout case if neuromuscular blockade used.
+- Consider brain function monitoring (BIS or equivalent):
+  - Particularly in elderly or in high-dose opioid + volatile combinations.
 
 ---
 
 ## 5. Emergence
 
-**Before Skin Closure:**
-- Assess total opioid administered
-- Consider timing of last opioid dose (avoid bolus within 15 min of extubation if possible)
+### 5.1 Late Intraoperative Period (Before Skin Closure)
 
-**At Skin Closure:**
-- Reduce volatile agent (to 0.5-0.7 MAC) or propofol infusion gradually (reduce by 50%)
-- Stop adjunct infusions (ketamine, dexmedetomidine, lidocaine) if used
+- Review:
+  - **Total opioid dose** and timing of last bolus.
+- Avoid:
+  - Large opioid boluses within **~15 minutes** of planned extubation if possible.
 
-**Before Extubation:**
-- **Ondansetron 4 mg IV** (PONV prophylaxis - critical with opioids)
-- **Sugammadex 2 mg/kg IV** if TOF shows residual blockade (TOF ratio <0.9 or <4 twitches)
-  - OR **4 mg/kg IV** for deep block (1-2 post-tetanic counts)
-- Consider additional antiemetic if high PONV risk (metoclopramide 10 mg IV, promethazine 6.25 mg IV)
+### 5.2 At Skin Closure
 
-**Extubation Criteria (More Stringent with Opioids):**
-- **Fully awake**, following commands, eyes open, protecting airway
-- **Adequate spontaneous ventilation:**
-  - Tidal volume >5 mL/kg
-  - Respiratory rate 10-20 bpm (watch for opioid-induced bradypnea <10)
-  - SpO2 >92% on room air or minimal supplemental O2
-  - No paradoxical breathing or accessory muscle use
-- **TOF ratio >0.9** (or >4 twitches if qualitative monitor)
-- **Hemodynamically stable** (MAP >60, HR 50-100)
-- **Minimal somnolence** (arousable to voice, RASS 0 to -1)
+- Adjust anesthetic:
+  - Reduce sevoflurane toward **~0.5–0.7 MAC** or taper propofol infusion (~50% reduction).
+- Stop adjunct infusions:
+  - Ketamine, dexmedetomidine, and lidocaine typically discontinued at or shortly before closure.
 
-**Expected:**
-- **Variable emergence** depending on total opioid dose
-- **Monitor for delayed emergence** (prolonged sedation common)
-- **Alert and oriented in PACU** typically within 15-30 minutes (longer than OFIA)
+### 5.3 Reversal and PONV Prophylaxis
 
-**Post-Extubation Monitoring:**
-- **Continuous pulse oximetry mandatory**
-- **Consider capnography** for high-risk patients (OSA, elderly, high opioid dose >300 mcg fentanyl equivalent)
-- Monitor closely for:
-  - **Sedation** (RASS score q15min, arousability)
-  - **Respiratory depression** (RR <10, SpO2 <90%, inadequate TV, apnea episodes)
-  - **PONV** (treat proactively with multimodal antiemetics)
+- **Ondansetron 4 mg IV**  
+  - Particularly important given higher PONV risk with opioids.
+- Neuromuscular reversal:
+  - **Sugammadex 2 mg/kg IV** when **TOF count ≥2** but TOF ratio <0.9.  
+  - **Sugammadex 4 mg/kg IV** for **deeper block** (1–2 post-tetanic counts).  
+  - Adjust for weight and institutional practice.
+- Consider **additional antiemetic** in very high risk patients:
+  - e.g., metoclopramide 10 mg IV or promethazine 6.25 mg IV per local policy.
 
----
+### 5.4 Extubation Criteria (More Stringent with Opioids)
 
-## 6. Postoperative Analgesia
+- **Neurologic:**
+  - Fully awake or easily arousable, following commands.
+  - RASS ~0 to –1 (no deep sedation).
+- **Ventilation:**
+  - Tidal volume >5 mL/kg and RR ~10–20 bpm.
+  - SpO₂ >92% on room air or minimal supplemental O₂.
+  - No paradoxical or labored breathing.
+- **Neuromuscular:**
+  - TOF ratio ≥0.9 or objective confirmation of adequate reversal.
+- **Hemodynamic:**
+  - MAP ≥60–65 mmHg, HR ~50–100 bpm.
 
-### Expected PACU Pain Scores
-- **NRS 2–6/10** (variable depending on blocks and total opioid administered)
-- If blocks performed: expect NRS 0-3
-- If no blocks: expect NRS 3-6
-- **Higher sedation and PONV** than OFIA pathways (30-40% vs <10%)
+> **Clinical Pearl:**  
+> With an opioid-based pathway, maintain a **low threshold to delay extubation** if somnolence or hypoventilation is present, especially in OSA, elderly, or opioid-naïve patients.
 
-### Scheduled Multimodal Analgesia (Continue from Preop)
-- **Acetaminophen 1 g PO/IV q6h** (max 4 g/day)
-- **NSAID of choice:**
-  - Celecoxib 200 mg PO q12h, OR
-  - Ketorolac 15 mg IV q6h (max 60 mg/day, limit 48-72h; check renal function), OR
-  - Meloxicam 15 mg PO daily
-- **Continue home opioids** at baseline dose for chronic users
+### 5.5 Immediate Post-Extubation Monitoring
 
-### Opioid Rescue (Titrate Carefully)
-**IV (PACU):**
-- **Hydromorphone 0.2 mg IV q10-15 min PRN** for NRS ≥4
-- Reassess pain, sedation (RASS score), respiratory status after EACH dose
-- **Maximum cumulative dose per protocol** (e.g., 2 mg/4 hours for opioid-naïve)
-- **Opioid-tolerant patients** may require higher doses (consult pain service if >2 mg/hr)
-
-**PO (Floor):**
-- **Oxycodone 2.5–5 mg PO q4–6h PRN** (immediate release)
-  - OR oxycodone 10-15 mg PO q12h (extended release) + immediate release for breakthrough
-- **Opioid-tolerant:** Resume home opioid regimen + 25-50% additional PRN dosing
-
-### Safety Monitoring
-- **Naloxone 0.4 mg IV readily available** at bedside
-  - Indications: RR <8, SpO2 <85% despite stimulation, unresponsive to verbal/tactile stimuli
-  - Dilute to 0.04 mg/mL and titrate 0.04 mg q2-3 min (avoid precipitating acute withdrawal)
-- **Enhanced monitoring required** if:
-  - OSA (STOP-Bang ≥3)
-  - Elderly (>70 years)
-  - Opioid-naïve receiving opioids
-  - Total intraoperative opioid >300 mcg fentanyl equivalents
-- **Continuous pulse oximetry** for high-risk patients (minimum 24 hours)
-- **Consider capnography** overnight for very high-risk patients (severe OSA, combined risk factors)
-
-### Non-Pharmacologic Measures
-- Ice application to surgical site
-- Limb elevation and positioning for comfort
-- Early mobilization when safe (reduces ileus, improves recovery, typically POD 1)
-- Reassurance and anxiety management
-
-### Mobilization
-- **Target:** Ambulation on POD 1 (often delayed vs POD 0 for OFIA due to sedation/PONV)
-- Physical therapy evaluation when:
-  - Alert and oriented (RASS 0)
-  - Pain controlled (NRS ≤4)
-  - No orthostatic hypotension
-  - PONV controlled
-  - No excessive sedation
+- **Continuous pulse oximetry in PACU is mandatory.**
+- Consider **capnography** for:
+  - OSA, obesity, elderly, high total opioid dose, or combined risk factors.
+- Monitor:
+  - **Sedation**: RASS score q15 minutes.
+  - **Respiratory status**: RR, pattern, SpO₂, apneic episodes.
+  - **PONV**: treat early and aggressively.
 
 ---
 
-## 7. Notes
+## 6. Postoperative Analgesia and Recovery
 
-### Clinical Considerations
-- **Higher PONV risk** (30-40% incidence vs <10% with OFIA)
-- **Higher sedation risk** requiring extended PACU monitoring (30-60 min longer than OFIA)
-- **Respiratory depression risk** especially in OSA, elderly, opioid-naïve (requires enhanced monitoring)
-- **Delayed mobilization** compared to OFIA pathways (sedation, PONV, ileus)
-- **Use only when clinically indicated** - not first-line for ERAS
+### 6.1 Expected Pain Profile
 
-### Advantages
-- **Familiar technique** for practitioners comfortable with opioid-based anesthesia
-- **Predictable hemodynamics** with opioid-based anesthesia (less hypotension than propofol alone)
-- **Appropriate for chronic opioid users** who require continued therapy (avoids acute withdrawal)
-- **Established rescue protocols** widely understood by PACU staff
+- Without blocks:
+  - **NRS ~3–6/10** in PACU and early post-op.
+- With ACB/IPACK:
+  - Often **NRS ~0–3/10** despite conventional anesthetic.
+- Sedation and PONV:
+  - Higher incidence than OFIA pathways (PONV often **~30–40%** vs <10% with OFIA + blocks).
 
-### Key Principles
-- **Midazolam provides anxiolysis** and does not interfere with opioid-based anesthesia
-- **Propofol (1.5-2 mg/kg) is the universal induction agent** for all pathways at UW
-- **Sevoflurane and propofol TIVA are equally valid** maintenance choices:
-  - Choose sevoflurane for standard workflow (most common at UW)
-  - Choose propofol TIVA for high PONV risk (though already elevated with opioids)
-- **Multimodal analgesia still essential** - opioids are ONE component, not sole strategy
-- **Regional blocks strongly recommended** even with opioid anesthesia - significantly improves outcomes (reduces opioid requirement 30-50%)
-- **Monitor aggressively** for respiratory depression and PONV
-- **Transition to oral multimodal** as soon as tolerated to minimize IV opioid use
+### 6.2 Scheduled Multimodal Analgesia
 
-### When to Choose This Pathway
-- **Chronic opioid use** (>30 MME/day baseline for >3 months)
-- **OFIA contraindications** (acute psychosis, high-degree AV block without pacemaker, severe renal disease CrCl <30)
-- **Patient preference** after counseling on risks/benefits and comparison to OFIA
-- **Severe anxiety** unresponsive to midazolam alone or requiring higher anxiolysis
-- **Practitioner preference** with attending-level decision-making (institutional variance)
+Continue or initiate:
 
-### Comparison to OFIA Pathways
-| Outcome | Conventional Opioid | OFIA + Blocks | OFIA Block-Free |
-|---------|-------------------|--------------|----------------|
-| **Pain control** | NRS 2-6 (variable) | NRS 0-3 (excellent) | NRS 3-6 (good) |
-| **PONV** | 30-40% | <10% | 10-20% |
-| **Sedation** | Significant, prolonged | Minimal | Minimal |
-| **Mobilization** | POD 1 typical | POD 0 (4-6 hrs) | POD 0 (4-6 hrs) |
-| **Delirium risk** | Higher (elderly) | Lower | Lower |
-| **Respiratory complications** | Higher (OSA, elderly) | Lower | Lower |
-| **PACU LOS** | 90-120 min typical | 60-90 min | 60-90 min |
+- **Acetaminophen 1 g PO/IV q6h**  
+  - Max 4 g/day; adjust for liver disease or low weight.
+- **NSAID** (if no contraindication):
+  - Celecoxib 200 mg PO q12h **OR**
+  - Ketorolac 15 mg IV q6h (max 60 mg/day, typically limited to 48–72h; check renal function) **OR**
+  - Meloxicam 15 mg PO daily per surgical/medicine guidance.
+- **Chronic opioid users:**
+  - Continue **baseline home opioid regimen**, adjusted for bowel regimen and monitoring.
+
+### 6.3 Opioid Rescue – PACU (Titrate Carefully)
+
+- **Hydromorphone 0.2 mg IV q10–15 min PRN** for NRS ≥4:
+  - Reassess **after each dose**: pain, sedation (RASS), RR, SpO₂.
+  - For opioid-naïve patients, set a **cautious upper limit** (e.g., ~2 mg/4 hours).
+- **Opioid-tolerant** patients:
+  - May require higher doses; **consult acute pain service** if:
+    - Needs exceed institutional thresholds (e.g., >2 mg/hr).
+
+### 6.4 Transition to Oral Analgesia – Floor
+
+- **Opioid-naïve / low baseline:**
+  - Oxycodone 2.5–5 mg PO q4–6h PRN for NRS ≥4, with maximum daily limits per policy.
+- **Opioid-tolerant:**
+  - Resume **home regimen** plus ~25–50% additional PRN dosing, with pain service input.
+- Extended-release formulations (e.g., oxycodone CR):
+  - Consider only if consistent with **institutional practice and pain service guidance**.
+
+### 6.5 Safety Monitoring and Naloxone
+
+- **Naloxone 0.4 mg IV** readily available at bedside.
+  - Prepare by diluting to **0.04 mg/mL** and titrate **0.04 mg IV q2–3 minutes**:
+    - Targets: RR ≥10, SpO₂ ≥90%, arousable.
+    - Avoid abrupt full reversal unless necessary (withdrawal, severe pain).
+- Enhanced monitoring indicated if:
+  - OSA (STOP-Bang ≥3), age >70, opioid-naïve, high total opioid dose (>~300 mcg fentanyl equivalents), or significant comorbidity.
+- **Continuous pulse oximetry** for high-risk patients for at least **~24 hours** post-op.
+- Consider **overnight capnography** or higher-acuity setting (step-down/ICU) for:
+  - Severe OSA, obesity hypoventilation, prior respiratory failure, or combined high-risk features.
+
+### 6.6 Non-Pharmacologic Measures and Mobilization
+
+- Non-pharmacologic:
+  - Ice to surgical site, elevation, appropriate positioning, reassurance.
+- Mobilization:
+  - **Target**: Ambulation on **POD 1** (often later than OFIA pathways due to sedation/PONV).
+  - PT evaluation when:
+    - RASS ~0, pain ≤4/10, PONV controlled, hemodynamically stable, no concerning sedation.
 
 ---
 
-## References
-See master reference file: [`../../07_References_Evidence_2024.md`](../../07_References_Evidence_2024.md)
+## 7. Summary, Advantages, and Key Principles
+
+### 7.1 Clinical Considerations
+
+Compared with OFIA + blocks and OFIA block-free pathways, conventional opioid anesthesia tends to have:
+
+- **Higher PONV** (often ~30–40% vs <10% with OFIA + blocks).
+- **More sedation** and **longer PACU stays** (~90–120 minutes vs ~60–90).
+- **Higher respiratory risk**, especially in OSA, elderly, and opioid-naïve patients.
+- **Delayed mobilization**, typically POD 1 rather than POD 0.
+
+### 7.2 Advantages of the Conventional Pathway
+
+- **Familiar technique** for many practitioners.
+- Often **perceived hemodynamic predictability** with opioid-based blunting of responses.
+- **Appropriate for chronic opioid users** when OFIA is not desired or feasible.
+- Widely understood PACU rescue patterns and protocols.
+
+### 7.3 Key Principles (Protocol 3)
+
+- This pathway is **generally reserved** for:
+  - Chronic opioid users, OFIA contraindications, strong patient/practitioner preference, or severe anxiety not managed by other means.
+- **Multimodal analgesia remains essential**:
+  - Acetaminophen + NSAID (if safe) + regional if possible + non-opioid adjuncts.
+- **Regional blocks (ACB + IPACK) are strongly recommended** when not contraindicated:
+  - They can reduce total opioid requirements by ~30–50% even in an opioid-based pathway.
+- **Monitor aggressively** for:
+  - Respiratory depression, sedation, PONV, and delayed mobilization.
+- Always consider whether an **OFIA-based pathway** might offer better risk–benefit for the specific patient.
+
+### 7.4 Comparison to OFIA Pathways (Expected Trends)
+
+| Outcome                | Conventional Opioid (Protocol 3) | OFIA + Blocks (Protocol 1) | OFIA Block-Free (Protocol 2) |
+|------------------------|----------------------------------|----------------------------|-------------------------------|
+| **Pain control**       | NRS ~2–6 (variable)             | NRS ~0–3 (often excellent) | NRS ~3–6 (generally good)     |
+| **PONV**               | Often ~30–40%                   | Often <10%                 | Often ~10–20%                 |
+| **Sedation**           | More significant, prolonged     | Minimal                    | Minimal                       |
+| **Mobilization**       | POD 1 typical                   | POD 0 (4–6 hrs)            | POD 0 (4–6 hrs)               |
+| **Delirium risk (elderly)** | Higher                      | Lower                       | Lower                        |
+| **Respiratory risk**   | Higher (OSA, elderly)           | Lower                      | Lower                         |
+| **PACU LOS**           | ~90–120 min                     | ~60–90 min                 | ~60–90 min                    |
+
+> These values represent **expected trends and illustrative ranges**, not rigid targets.
+
+---
+
+## 8. References
+
+For complete citations, evidence grading, and source documents, see:  
+**[`../../07_References_Evidence_2024.md`](../../07_References_Evidence_2024.md)**
+
+This includes ERAS Society guidelines, ASA/APSF safety statements, ASRA regional and LAST guidelines, and key arthroplasty and OFIA literature.
