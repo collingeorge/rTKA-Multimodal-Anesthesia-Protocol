@@ -39,8 +39,8 @@ Suggested structure for a concise, high-yield PACU handoff:
 
 ## 2. Handoff – Protocol 1: OFIA + ACB/IPACK (Preferred ERAS Pathway)
 
-> **Nurse-facing message (optional):**  
-> “This patient had **opioid-free intraoperative anesthesia with ACB/IPACK** – expect low pain scores and minimal opioid needs in PACU.”
+**Nurse-facing message (optional):**  
+**_“This patient had **opioid-free intraoperative anesthesia with ACB/IPACK** – expect low pain scores and minimal opioid needs in PACU.”**
 
 ### Patient / Procedure
 - [Age]-year-old [sex]  
