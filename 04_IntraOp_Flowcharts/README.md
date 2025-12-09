@@ -1,83 +1,131 @@
 ---
 title: Intraoperative Flowcharts – rTKA Anesthesia
-version: 1.1
-last-updated: 2025-12-07
+version: 1.3
+last-updated: 2025-12-08
 ---
 
 # Intraoperative Decision Flowcharts  
 Robot-Assisted Total Knee Arthroplasty (rTKA)
 
-This directory contains text-based intraoperative decision algorithms that support standardized, evidence-aligned anesthesia management for rTKA. These flowcharts complement the detailed protocol documents in `03_Anesthesia_Protocols/` and are designed for quick reference at the point of care.
+This directory contains standardized, evidence-based intraoperative decision algorithms that support safe, reproducible anesthesia care for robot-assisted total knee arthroplasty (rTKA). These flowcharts function as quick-reference operational tools and are clinically aligned with the full anesthesia protocols in `03_Anesthesia_Protocols/`.
+
+The flowcharts emphasize clarity, cognitive unloading, and attending-level decision pathways suitable for anesthesia clinicians at all levels.
 
 ---
 
 ## Directory Contents
 
-1. **Spinal vs General Anesthesia Decision Algorithm**  
-   **File:** `Spinal_vs_GA_Decision.md`  
-   - Text-based decision pathway for selecting spinal vs general anesthesia in rTKA.  
-   - Integrates patient factors (comorbidities, anticoagulation, anatomy), surgeon preference, and workflow considerations.  
-   - Aligned with ASRA 2024–2025 and ERAS Society recommendations.
-   - Incorporates standard midazolam anxiolysis for both pathways.
+### 1. **Spinal vs General Anesthesia Decision Algorithm**  
+**File:** `Spinal_vs_GA_Decision.md`
 
-2. **PACU Pain and Rescue Analgesia Algorithm**  
-   **File:** `PACU_Pain_Rescue_Algorithm.md`  
-   - Stepwise approach to PACU pain assessment and rescue therapy.  
-   - Harmonized with the three primary anesthesia pathways:  
-     - OFIA + ACB/IPACK  
-     - OFIA Block-Free  
-     - Conventional opioid-based anesthesia  
-   - Emphasizes multimodal rescue and opioid stewardship.
-   - Includes special population considerations (elderly, OSA, opioid-tolerant).
+A structured decision pathway for selecting spinal versus general anesthesia, integrating:
+
+- Patient comorbidities, functional status, and frailty  
+- Anticoagulation timing per **ASRA 2024–2025 guidelines**  
+- Airway and anatomical considerations  
+- Surgeon preference and workflow efficiency  
+- Expected postoperative mobility requirements  
+
+Guidance reflects ERAS Society recommendations and standard anxiolysis with **midazolam 1–2 mg IV**, which remains compatible with OFIA pathways.
 
 ---
 
-## Key Clinical Principles Across All Flowcharts
+### 2. **PACU Pain and Rescue Analgesia Algorithm**  
+**File:** `PACU_Pain_Rescue_Algorithm.md`
 
-- **Midazolam (1–2 mg IV)** is standard anxiolytic practice across all anesthesia pathways and does not compromise opioid-free (OFIA) principles.
-- **Sevoflurane (0.8–1.2 MAC)** is preferred by many practitioners for general anesthesia due to ease of titration and favorable recovery profile; propofol TIVA (75–150 mcg/kg/min) is an effective alternative.
-- **Multimodal analgesia** is the foundation of all pathways, with regional blocks (ACB/IPACK) providing superior analgesia when not contraindicated.
-- **Opioid stewardship** is prioritized through OFIA protocols with ketamine-based rescue strategies before resorting to opioids.
-- **Safety monitoring** includes continuous assessment for LAST (lipid emulsion available), respiratory depression (naloxone available), and hemodynamic stability.
+A stepwise, PACU-focused rescue sequence aligned with the three core pathways:
+
+- **OFIA with ACB/IPACK**  
+- **OFIA – Block-Free**  
+- **Conventional Opioid-Based**
+
+The flowchart emphasizes:
+
+- First-line non-opioid rescue (ketamine 0.1–0.15 mg/kg IV)  
+- Opioid stewardship with cautious titration  
+- Special population modifications (elderly, frail, OSA, opioid-tolerant)  
+- Integration with rTKA ERAS protocols for early mobilization
+
+---
+
+## Core Clinical Principles Across All Flowcharts
+
+### **1. Midazolam for Anxiolysis**
+- **1–2 mg IV midazolam** is standard pre-induction anxiolysis and does **not** conflict with OFIA criteria.  
+- Provides patient comfort, amnesia for nerve block placement, and maintains an excellent safety profile.
+
+### **2. General Anesthesia Maintenance**
+- **Sevoflurane 0.8–1.2 MAC** is recommended for most rTKA cases due to predictable emergence and low PONV burden.  
+- **Propofol TIVA (75–150 mcg/kg/min)** is an appropriate alternative when indicated (PONV history, airway considerations, surgeon preference).
+
+### **3. Multimodal Analgesia as the Foundation**
+- Regional blocks (ACB/IPACK) provide the strongest analgesic benefit with quadriceps-sparing recovery advantages.  
+- Where blocks are contraindicated, OFIA relies on ketamine, dexmedetomidine, magnesium, and anti-inflammatory strategies.
+
+### **4. Opioid Stewardship**
+- Rescue opioid administration is **never withheld** but is deliberately minimized.  
+- Flowcharts prioritize ketamine-based rescue before hydromorphone or fentanyl use.  
+- Conventional pathway integrates opioids safely with close PACU monitoring.
+
+### **5. Safety and Monitoring**
+All flowcharts reinforce:
+
+- Preparedness for **LAST** — lipid emulsion immediately available  
+- Monitoring for dexmedetomidine-associated bradycardia or hypotension  
+- Respiratory vigilance, especially in OSA and opioid-exposed patients  
+- Postoperative readiness for early mobilization and ERAS goals
 
 ---
 
 ## Intended Use
 
-- Educational reference for anesthesia trainees and residents.  
-- Quick decision support for attendings, CRNAs, and PACU staff.  
-- Binder-ready and EMR-friendly (can be adapted into institutional order sets or checklists).
-- Point-of-care reference cards when laminated or printed on pocket-sized format.
+These flowcharts are designed for:
 
-These flowcharts do **not** replace clinical judgment or institutional policy. They must be reviewed and adapted by supervising anesthesiologists prior to clinical implementation.
+- **Anesthesia residents and fellows** seeking structured, evidence-based guidance  
+- **CRNAs and attending anesthesiologists** requiring rapid reference in high-acuity workflow  
+- **PACU nurses** who rely on standardized rescue algorithms  
+- **Quality improvement and ERAS program teams** building reproducible care pathways
+
+Formats are:
+
+- EMR-friendly  
+- Print- and binder-ready  
+- Suitable for pocket reference cards when scaled to A6/A7 size  
+
+They **support** but do not replace clinical judgment, institutional protocols, or attending supervision.
 
 ---
 
-## Clinical Updates (Version 1.1)
+## Clinical Updates (Version 1.3)
 
-This version incorporates feedback from practicing anesthesiologists emphasizing:
-- Standardization of midazolam for anxiolysis across all pathways
-- Explicit guidance on sevoflurane vs TIVA options with dosing ranges
-- Enhanced special population considerations (elderly, frail, OSA)
-- Improved safety monitoring and rescue protocols
+This version incorporates:
+
+- Reinforced midazolam usage across all pathways  
+- Updated sevoflurane and TIVA maintenance dosing ranges  
+- Expanded special population considerations (OSA, frailty, chronic opioid use)  
+- Clarified rescue sequences for PACU pain management  
+- Reinforcement of safety monitoring standards across all intraoperative algorithms
 
 ---
 
 ## Related Files
 
-- **Anesthesia Protocols:**
-  - `../03_Anesthesia_Protocols/Protocol_1_ACB_IPACK_OFIA.md`
-  - `../03_Anesthesia_Protocols/Protocol_2_BlockFree_OFIA.md`
-  - `../03_Anesthesia_Protocols/Protocol_3_OpioidBased.md`
-  - `../03_Anesthesia_Protocols/Protocol_4_Adjuncts_Contraindications.md`
-  - `../03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`
+### **Anesthesia Protocols**
+- `../03_Anesthesia_Protocols/Protocol_1_ACB_IPACK_OFIA.md`  
+- `../03_Anesthesia_Protocols/Protocol_2_BlockFree_OFIA.md`  
+- `../03_Anesthesia_Protocols/Protocol_3_OpioidBased.md`  
+- `../03_Anesthesia_Protocols/Protocol_4_Adjuncts_Contraindications.md`  
+- `../03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`
 
-- **Supporting Documentation:**
-  - `../05_PACU_Handoff_Templates.md`  
-  - `../06_Surgeon_OnePage_Summary.md`  
-  - `../07_References_Evidence_2024.md`
-  - `../08_Quick_Reference_Cards.md`
+### **Supporting Documentation**
+- `../05_PACU_Handoff_Templates.md`  
+- `../06_Surgeon_OnePage_Summary.md`  
+- `../07_References_Evidence_2024.md`  
+- `../08_Quick_Reference_Cards.md`
 
 ---
 
-**Print tip:** All flowcharts render beautifully as single-page PDFs via GitHub → Print → Save as PDF. Laminate for durable OR/PACU reference cards.
+**Print Tip:**  
+All flowcharts export cleanly to PDF via GitHub → Print → Save as PDF. Laminating them creates durable OR/PACU reference cards for everyday use.
+
+---
