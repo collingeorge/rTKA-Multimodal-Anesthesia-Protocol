@@ -1,334 +1,237 @@
 # Patient Counseling Script  
 ## Robot-Assisted Total Knee Arthroplasty (rTKA)  
-### Multimodal Anesthesia and Pain Management Options  
-### Version 1.2 — December 8, 2025
+### Multimodal Anesthesia & Pain Management Options  
+### Version 1.2 — December 2025  
 
 ---
 
-## Purpose
+## Purpose  
+This script provides a structured, patient-friendly framework for discussing anesthesia and pain-management pathways for robot-assisted total knee arthroplasty (rTKA). It supports shared decision-making, expectation setting, and ERAS-aligned care.  
 
-This script provides a structured, patient-friendly framework to explain the **three anesthesia and pain-management options** used in this project for robot-assisted total knee arthroplasty (rTKA):
+Anesthesia options include:
 
-1. **Opioid-Free Intraoperative Anesthesia (OFIA) with ACB + IPACK blocks**  
-2. **Opioid-Free Intraoperative Anesthesia (OFIA) without nerve blocks** (block-free, with surgeon periarticular infiltration)  
+1. **Opioid-Free Intraoperative Anesthesia (OFIA) with nerve blocks (ACB + IPACK)**  
+2. **Opioid-Free Intraoperative Anesthesia (OFIA) without nerve blocks**  
 3. **Conventional opioid-inclusive anesthesia**
 
-It is intended for preoperative counseling in clinic or in the pre-op holding area. Wording should be adapted to the patient’s health literacy, anxiety level, and local practice norms.
+---
+
+# 1. 60-Second Overview (Use When Time Is Limited)
+
+**_“For your knee replacement, our goals are to keep you safe, control your pain effectively, and help you recover quickly.”_**
+
+**_“We use three approaches: one with nerve blocks and non-opioid medicines, one without blocks but still opioid-free, and one that uses traditional opioid medicines during surgery.”_**
+
+**_“All three are safe. We will decide together which option best matches your medical history, comfort level, and recovery goals.”_**
 
 ---
 
-## 1. 60-Second Overview (If Time Is Limited)
+# 2. Full Counseling Script  
 
-> “For your knee replacement, we will plan both your anesthesia and your pain control so that you’re safe, comfortable, and able to start moving early after surgery.
+## 2.1 Opening and Framing
 
-> We have three main approaches:
+**_“I’d like to spend a few minutes reviewing how we will manage your anesthesia and pain for your knee replacement.”_**
 
-> - One uses **targeted nerve blocks and non-opioid medications** to keep you comfortable and reduce side effects like nausea or grogginess.  
-> - One uses the **same non-opioid medications but without nerve blocks**, which is simpler and avoids leg injections, but may mean a bit more pain early on.  
-> - The third is a **more traditional approach using opioid pain medications** such as fentanyl or hydromorphone during surgery, which works well but can cause more nausea, sleepiness, and constipation.
+**_“Our goals are to keep you safe, keep you comfortable, help you wake up clearly, and support early mobility.”_**
 
-> In all three options, we start pain control **before** surgery with medicines like acetaminophen and anti-inflammatories. We also usually give a small dose of a relaxing medicine called **midazolam** to help with anxiety.
-
-> All three approaches are safe. I’ll explain the options, and together we’ll decide which best fits your health, your past experiences with medicines, and your recovery goals.”
+**_“We use a multimodal approach, meaning several different medications work together so we do not rely on opioids alone.”_**
 
 ---
 
-## 2. Full Counseling Script
-
-### 2.1 Opening and Framing
-
-> “I’d like to spend a few minutes explaining how we’ll manage your anesthesia and pain for your robot-assisted knee replacement.
-
-Our goals are to:
-
-- Keep you **safe**  
-- Keep you **as comfortable as possible**  
-- Help you **wake up clearly** and avoid confusion  
-- Get you **up and walking early** to speed recovery
-
-We use what’s called **multimodal anesthesia** and analgesia. That means instead of relying mainly on strong opioids, we combine different approaches that work together: nerve blocks, non-opioid medicines, and, when needed, small amounts of opioids.”
+## 2.2 Explaining the Three Pathways  
 
 ---
 
-### 2.2 Explaining the Three Options
+## **Option 1 — OFIA WITH ACB + IPACK Nerve Blocks (Preferred ERAS Pathway)**  
 
-#### Option 1: Opioid-Free Intraoperative Anesthesia WITH Nerve Blocks (ACB + IPACK)
+**_“The first option, and the one we typically recommend, uses two targeted nerve blocks plus non-opioid anesthesia.”_**
 
-> “The first option, and the one we **usually recommend** for most patients, is:
-> - **Opioid-free anesthesia during surgery**, plus  
-> - **Two targeted nerve blocks** around the knee: the **adductor canal block** and the **IPACK block**.
+These blocks:  
+- Numb the front and back of the knee  
+- Preserve quadriceps strength (ACB is motor-sparing)  
+- Greatly reduce opioid requirements  
+- Last **12–18 hours**  
+- Facilitate early ambulation  
 
-These blocks:
+Blocks are ultrasound-guided and take **10–15 minutes**. Midazolam is used for anxiolysis and amnesia.
 
-- Numb the **front and back** of the knee  
-- **Preserve leg strength**, so your thigh muscles still work for walking  
-- Greatly **reduce your need for opioids**  
-- Typically last about **12–18 hours** after surgery
-
-We do the blocks with ultrasound guidance. They usually take about 10–15 minutes. Before we start, we give a small dose of **midazolam** through your IV to help you relax and not remember the block placement.
-
-During surgery, instead of opioids, we use:
-
-- **Acetaminophen** (Tylenol-type medicine)  
-- **Anti-inflammatory medication** like celecoxib  
-- **Dexamethasone**, a steroid that helps reduce pain and nausea  
-- **Ketamine** in low doses for pain control  
-- **Dexmedetomidine**, which helps with comfort and decreases the need for opioids  
-- **Midazolam** to help with anxiety and amnesia
-
-Most patients with this plan wake up:
-
-- With **none to mild pain**, or a dull ache rather than severe pain  
-- **Less groggy**  
-- With **less nausea**  
-- Able to **move and lift the leg** because the main muscle strength is preserved
-
-If you do need more pain relief later, we can still give **small doses of opioid** medicines. The goal is not to deny opioids, but to **make them our backup**, not the main tool.”
-
-**Key phrases you can use:**
-
-- “This is our **preferred option** for most patients.”  
-- “It balances comfort, safety, and a **faster recovery**.”  
-- “It is especially good for **minimizing opioid exposure** and nausea.”  
-- “The blocks wear off gradually over 12–18 hours, and by then your scheduled pain medicines are working well.”
-
----
-
-#### Option 2: Opioid-Free Anesthesia WITHOUT Nerve Blocks  
-*(“No Needle Pokes from Anesthesia”)*
-
-> “The second option uses all the same **non-opioid medicines**, but **without any nerve block injections**. That means **no extra injections into your leg from the anesthesia team** before surgery.
-
-Here is what that means in practical terms:
-
-- No nerve block injections into the leg  
-- No additional needle sticks from anesthesia other than your IV  
-- All medications are given through your **single IV line**  
-- You still receive the relaxing medicine (**midazolam**) through your IV  
-- While you are fully asleep, the **surgeon** injects local anesthetic directly around your knee joint to help with pain
-
-With this plan:
-
-- You still receive acetaminophen, anti-inflammatory medication, dexamethasone, midazolam, and low-dose ketamine and dexmedetomidine  
-- There are **no ultrasound-guided nerve blocks**  
-- Pain control comes from:
-  - Your pre-operative medications  
-  - The non-opioid anesthesia medicines  
-  - The surgeon’s **periarticular local anesthetic injection** after you are asleep
-
-This plan is **simpler** and avoids extra leg injections before surgery, while still keeping the anesthesia itself **opioid-free**.”
-
-**Why choose this option?**
-
-“This approach can be a good fit if:
-
-- You strongly prefer **no nerve block injections**  
-- You have **needle anxiety** and want to avoid additional pokes  
-- Your **blood thinner schedule** makes blocks less ideal  
-- We need to move quickly and avoid extra setup time for blocks  
-- Your anatomy or prior surgery makes nerve blocks more technically difficult”
-
-**Pain expectations**
-
-“With this option:
-
-- Pain control is still generally good, but the first **12–24 hours** may be a bit more uncomfortable than with nerve blocks  
-- You may be **more likely to request pain medicine in the recovery room**  
-- The surgeon’s injection helps but does not last as long as nerve blocks
-
-Again, opioids remain available as a **backup**, not as the primary plan.”
-
-**Key phrases you can use:**
-
-- “No extra needle pokes from anesthesia — everything is done through your IV.”  
-- “The only additional injection is done by the surgeon while you are fully asleep.”  
-- “This option is still **opioid-free during surgery**.”  
-- “We still keep opioids available if you need them.”
-
----
-
-#### Option 3: Conventional Opioid-Inclusive Anesthesia
-
-> “The third option is the **traditional** approach using opioid medicines such as fentanyl or hydromorphone during surgery.
-
-We still use many of the **same non-opioid medicines**:
-
+Intraoperative medications (opioid-free):  
+- Low-dose ketamine  
+- Dexmedetomidine  
 - Acetaminophen  
-- Anti-inflammatory medication  
+- NSAID (celecoxib or meloxicam)  
 - Dexamethasone  
-- Midazolam to help with relaxation
+- Midazolam  
 
-But we **add opioids** during surgery to help control pain responses and blood pressure.
+Expected wake-up:  
+- Mild pain or pressure rather than sharp pain  
+- Low nausea risk  
+- Clear-headed emergence  
+- Early ability to participate in mobility
 
-We often choose this option when:
-
-- You already take opioids regularly for chronic pain  
-- You’ve done well with opioids in the past and prefer that approach  
-- Your medical history makes OFIA medications less optimal  
-- You specifically request a more traditional plan after understanding the pros and cons  
-
-Opioids are effective pain medications, but they come with tradeoffs:
-
-- **More nausea and vomiting**  
-- **More sleepiness or grogginess**  
-- **Slower breathing**, which we monitor closely  
-- **Higher risk of confusion or delirium**, especially in older adults  
-- **Constipation** and longer recovery for bowel function
-
-We still use a multimodal plan after surgery, but with this option we accept a **higher likelihood of needing opioids** in the recovery room and on the floor.”
-
-**Key phrases you can use:**
-
-- “This is a **safe and familiar** approach that many people have had.”  
-- “The tradeoff is usually **more nausea and grogginess** and a bit more risk of breathing or confusion issues.”  
-- “We monitor you very closely when using opioids.”
+**_“You can still receive opioids if you need them, but they are a backup—not the main plan.”_**
 
 ---
 
-## 3. Shared Decision-Making
+## **Option 2 — OFIA WITHOUT Nerve Blocks (No Needle Pokes From Anesthesia)**  
 
-> “There isn’t a single ‘right’ choice for everyone.”
+**_“Your second option keeps the anesthesia opioid-free but avoids nerve block injections entirely.”_**
 
-When you summarize:
+Meaning:  
+- No ACB/IPACK blocks  
+- No needle pokes from anesthesia except the IV  
+- Surgeon performs a large-volume local anesthetic injection **after you are asleep**  
+- All other analgesia is systemic and multimodal  
 
-“We consider:
+This option is appropriate for:  
+- Needle aversion or anxiety  
+- Anticoagulation schedules that restrict blocks  
+- Anatomical considerations  
+- Faster workflow with fewer procedures  
 
-- Your **medical history** (heart, lungs, kidneys, sleep apnea)  
-- Whether you **take opioids regularly** now  
-- Any previous problems with anesthesia or pain medicines  
-- How you feel about **needles and nerve blocks**  
-- Your recovery goals — minimizing opioids, avoiding nausea, or getting home quickly
+Pain expectations:  
+- Good overall control  
+- Slightly higher pain in first **12–24 hours**  
+- May require small opioid doses in PACU  
 
-Based on what you’ve told me, my professional recommendation is:  
-**[Insert Option 1 / 2 / 3]**
-
-How does that sound to you? Any concerns or preferences?”
-
-**If patient agrees:**
-
-> “Great. We’ll document that plan and also keep flexible backup options. Anesthesia is adjustable — we will respond to how your body actually behaves during and after surgery.”
-
-**If patient hesitates:**
-
-> “What concerns you most? Let’s talk through that — I want you to feel comfortable and confident about the plan.”
+**_“This is a simpler plan that avoids extra injections while still allowing an opioid-free anesthetic.”_**
 
 ---
 
-## 4. Key Reassurance Points
+## **Option 3 — Conventional Opioid-Inclusive Anesthesia**  
 
-You may reinforce:
+**_“The third option is the traditional approach using opioid medications like fentanyl or hydromorphone during surgery.”_**
 
-- “Nothing is locked in — we adjust the plan based on your comfort and how you respond.”  
-- “‘Opioid-free’ does **not** mean you’ll be left in pain; it means we use other tools first.”  
-- “Someone from anesthesia is with you the **entire time**, continually watching your breathing, heart rate, and comfort.”  
-- “If you’ve had bad experiences in the past, please tell us — we can plan around them.”  
-- “The relaxing medicine, **midazolam**, is very commonly used; it helps with anxiety and you may not remember the nerve block placement.”  
+This is often chosen for:  
+- Chronic opioid users  
+- Severe preoperative anxiety  
+- Contraindications to OFIA medications  
+- Patient preference for traditional anesthesia  
+
+Advantages:  
+- Familiar approach  
+- Effective analgesia  
+
+Tradeoffs:  
+- More nausea  
+- More sedation / grogginess  
+- Higher respiratory risk (especially in OSA)  
+- Higher fall risk  
+- Constipation  
+
+**_“This is a safe and familiar option, but it has higher side-effect potential.”_**
 
 ---
 
-## 5. Optional FAQ Snippets
+# 3. Shared Decision-Making  
 
-**Q: Will I be awake during surgery?**  
-> “No. You will either be fully asleep with general anesthesia or numb from the waist down with a spinal plus sedation. In both cases, you won’t see, hear, or feel the surgery.”
+**_“There isn’t one option that fits everyone. We look at your health, comfort with injections, sensitivity to opioids, and recovery goals.”_**
+
+**_“Based on what you’ve told me, I recommend: [Insert Option]. How does that sound to you?”_**
+
+If patient agrees:  
+**_“Great. We’ll document that and keep backup options ready. Anesthesia is flexible—we adjust to your needs.”_**
+
+If hesitant:  
+**_“Tell me what concerns you. We can walk through everything together.”_**
+
+---
+
+# 4. Key Reassurance Points  
+
+- **_“Nothing is locked in—we adjust based on how you feel.”_**  
+- **_“Opioid-free does not mean withholding pain treatment.”_**  
+- **_“You will not remember the nerve block procedure if we perform blocks.”_**  
+- **_“Someone from anesthesia stays with you the entire time.”_**  
+- **_“If you’ve had bad experiences before, we can plan around them.”_**  
+- **_“We always keep rescue options—opioids included—available if needed.”_**  
+
+---
+
+# 5. Optional FAQ (Patient-Friendly Responses)
+
+**Q: Will I be awake?**  
+**_“No. You will either be fully asleep or comfortably sedated.”_**
 
 **Q: Will I wake up in pain?**  
-> “Our goal is for you to wake up with **mild, manageable discomfort** at most. With nerve blocks, many patients report very little pain initially.”
+**_“Our goal is mild, manageable discomfort. Blocks help significantly.”_**
 
-**Q: Why avoid opioids if they work well?**  
-> “They do work for pain, but they also cause nausea, constipation, grogginess, and sometimes confusion or breathing problems. Using less opioid usually means a **safer, smoother recovery**.”
+**Q: Why avoid opioids?**  
+**_“They can cause nausea, grogginess, breathing issues, and constipation. Using less generally means faster recovery.”_**
 
-**Q: What if I still need opioids?**  
-> “Then we use them. OFIA means we **do not rely on opioids during surgery** as our main tool, but they are always available when needed. Your comfort is still a priority.”
+**Q: What if I need opioids?**  
+**_“We will absolutely give them if needed. OFIA does not mean ‘no pain medicine.’”_**
 
 **Q: Are nerve blocks safe?**  
-> “Yes. With ultrasound guidance, serious risks like infection, bleeding, or permanent nerve injury are **very rare**. We do these blocks frequently and monitor carefully.”
+**_“Yes. Ultrasound guidance makes serious complications very rare.”_**
 
-**Q: What is midazolam? Is it safe?**  
-> “Midazolam is a short-acting relaxing medicine. It reduces anxiety and usually makes you forget the most stressful parts. It is very commonly used and wears off over a few hours.”
+**Q: What is midazolam?**  
+**_“A mild relaxing medicine that helps with anxiety and creates amnesia for stressful moments.”_**
 
-**Q: Can I choose spinal instead of general anesthesia?**  
-> “Often yes. Spinal anesthesia can let you avoid a breathing tube and can reduce nausea or grogginess. We can discuss whether spinal is appropriate in your case.”
-
-**Q: What if the blocks don’t work?**  
-> “We always have backup plans — additional non-opioid medicines and opioids if needed. We reassess your pain often and adjust.”
-
-**Q: How long do the nerve blocks last?**  
-> “They typically last **12–18 hours**. As they start to wear off, you’ll already be on scheduled oral pain medicines to smooth the transition.”
+**Q: How long do blocks last?**  
+**_“Typically 12–18 hours, giving your other medications time to work before they wear off.”_**
 
 ---
 
-## 6. Documentation Prompts (For the Chart)
+# 6. Documentation Prompts  
 
-Document that you:
+You should document that you:  
+- Discussed all **three** anesthesia pathways  
+- Reviewed risks/benefits/alternatives  
+- Answered patient questions  
+- Documented patient preference  
+- Documented clinical recommendation + rationale  
+- Obtained consent for blocks (if applicable)  
+- Explained midazolam and standard medications  
 
-- [ ] Discussed **all three** anesthesia pathways (OFIA + blocks, OFIA block-free, conventional opioid-inclusive)  
-- [ ] Reviewed risks, benefits, and alternatives for each approach  
-- [ ] Discussed **spinal vs general anesthesia** options when appropriate  
-- [ ] Addressed prior anesthesia experiences and specific fears  
-- [ ] Answered all patient questions to their satisfaction  
-- [ ] Documented the **selected pathway** and patient preference  
-- [ ] Documented your professional **recommendation and rationale**  
-- [ ] Obtained informed consent for anesthesia and nerve blocks (if applicable)  
-- [ ] Documented that midazolam and other standard agents were discussed
+**Example Chart Note:**  
 
-**Example documentation:**
-
-> “Patient counseled on three anesthesia options for rTKA: (1) OFIA with ACB/IPACK, (2) OFIA without nerve blocks (surgeon periarticular infiltration), (3) conventional opioid-inclusive general anesthesia. Risks/benefits reviewed including PONV, sedation, respiratory depression, and block complications. Discussed spinal vs GA options. Patient prefers **[Option]**. I recommend **[Option]** given **[opioid-naïve status/OSA/chronic opioid use/anticoagulation/etc.]**. All questions answered. Informed consent obtained.”
+**“Patient counseled on three anesthesia pathways for rTKA: (1) OFIA with ACB/IPACK, (2) OFIA without blocks, (3) conventional opioid-based anesthesia. Discussed risks/benefits including PONV, sedation, respiratory depression, and block risks. Patient prefers [option]. Recommendation: [option] based on [clinical rationale]. All questions answered. Informed consent obtained.”**
 
 ---
 
-## 7. Special Population Considerations
+# 7. Special Population Considerations
 
-### Elderly or Frail Patients
-- Emphasize lower delirium risk with **opioid-sparing/OFIA** approaches  
-- Discuss fall risk and sedation with opioids  
-- Highlight **quad-sparing ACB** for safer early mobilization  
+### Elderly or Frail  
+- Emphasize delirium reduction with OFIA  
+- Discuss fall-risk mitigation  
+- Highlight motor-sparing benefits of ACB  
 
-### Patients with OSA
-- Emphasize **avoiding respiratory depression** with OFIA  
-- Explain increased sensitivity to opioids  
-- Reassure about continuous postoperative monitoring  
+### OSA  
+- Emphasize reduced respiratory depression risk with OFIA  
+- Discuss postoperative monitoring  
 
-### Chronic Opioid Users
-- Acknowledge tolerance and likely higher pain needs  
-- Set realistic pain expectations (goal = tolerable, not zero pain)  
-- Discuss when **conventional opioid-inclusive** pathway may be more appropriate, while still using multimodal adjuncts  
+### Chronic Opioid Users  
+- Set realistic expectations  
+- Consider leaning to conventional pathway  
+- Reinforce multimodal strategies  
 
-### Highly Anxious Patients
-- Emphasize the role of **midazolam** and careful, stepwise explanation  
-- Allow more time for questions and preferences  
-- Consider preoperative anxiolytic strategies per local policy  
-
----
-
-## Evidence Base
-
-This script is informed by:
-
-- **ERAS Society** hip and knee arthroplasty guidelines (core document and 2020–2024 updates)  
-- **ASRA 2024–2025** regional anesthesia and anticoagulation guidance  
-- **ASA/APSF 2023–2025** statements on multimodal analgesia and gabapentinoid avoidance  
-- 2023–2025 randomized trials and meta-analyses on:
-  - OFIA vs opioid-inclusive anesthesia in arthroplasty  
-  - ACB and IPACK blocks for early mobilization and pain control  
-  - Ketamine, dexmedetomidine, and magnesium as opioid-sparing adjuncts  
-
-Full citations are available in the master reference file:  
-[`../07_References_Evidence_2024.md`](../07_References_Evidence_2024.md)
+### Anxious Patients  
+- Emphasize midazolam’s anxiolysis  
+- Allow extra time for questions  
+- Consider night-before anxiolytic per physician  
 
 ---
 
-**Last Updated:** December 8, 2025  
+# Evidence Base  
+Derived from:  
+- ERAS Society guidelines (2019 + 2024–2025 updates)  
+- ASRA 2024–2025 regional anesthesia guidelines  
+- ASA/APSF 2024 multimodal and opioid-sparing guidance  
+- RCTs and meta-analyses on OFIA, ACB/IPACK efficacy, ketamine/dexmedetomidine safety  
+
+Citations available in:  
+[`07_References_Evidence_2024.md`](../07_References_Evidence_2024.md)
+
+---
+
+**Last Updated:** December 7, 2025  
 **Version:** 1.2  
-**Next Review Due:** December 2026  
+**Next Review:** December 2026  
 
----
-
-**Related Documents:**
-
+**Related Documents:**  
 - [Preoperative Checklist](01_PreOp_Checklist.md)  
-- [Anesthesia Protocols (OFIA + Blocks, OFIA Block-Free, Conventional)](03_Anesthesia_Protocols/)  
-- [Medication Dosing and Timing](03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md)  
-- [Adjuncts and Contraindications](03_Anesthesia_Protocols/Protocol_Adjuncts_and_Contraindications.md)  
+- [Anesthesia Protocols](03_Anesthesia_Protocols/)  
+- [Medication Timing & Dosing](03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md)  
 - [PACU Handoff Templates](05_PACU_Handoff_Templates.md)  
 - [Quick Reference Cards](08_Quick_Reference_Cards.md)
