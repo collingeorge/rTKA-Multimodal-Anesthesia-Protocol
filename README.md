@@ -132,6 +132,7 @@ Intra-Op Management  → 03_Anesthesia_Protocols/[selected pathway].md
 PACU Handoff         → 05_PACU_Handoff_Templates.md
 Team Coordination    → 06_Surgeon_OnePage_Summary.md
 Evidence Review      → 07_References_Evidence_2024.md
+Quick Reference      → 08_Quick_Reference_Cards.md
 ```
 
 ### Downloading for Offline Use
