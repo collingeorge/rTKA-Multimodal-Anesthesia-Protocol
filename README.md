@@ -99,7 +99,7 @@ The project is intentionally **educational and non-validated**: it is designed t
 
 **Residents and CRNAs:**
 - Use the comparison table and quick reference cards:  
-  [`08_Quick_Reference_Cards.md`](08_Quick_Reference_Cards.md)
+  [`03_Anesthesia_Protocols/Protocol_Quick_Reference_Cards.md`](Protocol_Quick_Reference_Cards.md)
 - Practice patient counseling with:  
   [`02_Patient_Counseling_Script.md`](02_Patient_Counseling_Script.md)
 - Master pre-case setup with:
