@@ -127,11 +127,11 @@ Protocol Selection   → 03_Anesthesia_Protocols/Protocol_Comparison_Table.md
 Intra-Op Management  → 03_Anesthesia_Protocols/[selected pathway].md
                        03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md
                        03_Anesthesia_Protocols/Protocol_Adjuncts_and_Contraindications.md
+                       Protocol_Quick_Reference_Cards.md
                        04_IntraOp_Flowcharts/
 PACU Handoff         → 05_PACU_Handoff_Templates.md
 Team Coordination    → 06_Surgeon_OnePage_Summary.md
 Evidence Review      → 07_References_Evidence_2024.md
-Quick Reference      → 08_Quick_Reference_Cards.md
 ```
 
 ### Downloading for Offline Use
