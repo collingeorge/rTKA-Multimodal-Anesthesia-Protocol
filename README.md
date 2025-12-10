@@ -612,8 +612,6 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 
 © 2025 Collin B. George — Licensed under CC BY 4.0
 
-Full license text: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-
 ---
 
 ## Contribute
