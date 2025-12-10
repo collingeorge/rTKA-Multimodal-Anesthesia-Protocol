@@ -11,7 +11,7 @@ Robot-Assisted Total Knee Arthroplasty (rTKA)
   <img src="../docs/images/spinal_vs_ga_flowchart.png" alt="Spinal vs GA Decision" width="85%">
 </p>
 
-*Figure 2: Comprehensive decision algorithm for anesthesia technique selection incorporating ASRA 2024-2025 anticoagulation timing, patient preference, and hemodynamic considerations. See detailed text-based walkthrough below.*
+*Figure 1: Comprehensive decision algorithm for anesthesia technique selection incorporating ASRA 2024-2025 anticoagulation timing, patient preference, and hemodynamic considerations. See detailed text-based walkthrough below.*
 
 ---
 
