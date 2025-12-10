@@ -11,6 +11,12 @@ A concise reference for orthopedic surgeons outlining anesthesia pathways, expec
 
 **Default Pathway → OFIA + ACB/IPACK unless contraindicated.**
 
+<p align="center">
+  <img src="docs/images/pathway_overview.png" alt="Pathway Overview" width="75%">
+</p>
+
+*Quick visual reference for all three anesthesia pathways.*
+
 ---
 
 # 1. Anesthesia Pathways Used in rTKA
