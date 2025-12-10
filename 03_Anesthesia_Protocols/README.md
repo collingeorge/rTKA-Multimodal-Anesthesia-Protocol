@@ -20,14 +20,6 @@ Opioid rescue **postoperatively** remains available when clinically required and
 
 ---
 
-<p align="center">
-  <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="90%">
-</p>
-
-*Figure 1: Visual overview of all three anesthesia pathways. See individual protocol files below for complete details.*
-
----
-
 # Directory Overview
 
 This directory contains seven integrated components forming a complete anesthesia framework for rTKA:
@@ -43,6 +35,16 @@ This directory contains seven integrated components forming a complete anesthesi
 Each file is cross-referenced and consistent with the others.
 
 ---
+
+<p align="center">
+  <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="90%">
+</p>
+
+*Figure 1: Visual overview of all three anesthesia pathways. See individual protocol files below for complete details.*
+
+---
+
+
 
 # 1. Core Anesthesia Pathways
 
