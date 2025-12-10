@@ -4,17 +4,6 @@ version: 1.3
 last-updated: 2025-12-08
 ---
 
-# Spinal vs General Anesthesia Decision Pathway
-Robot-Assisted Total Knee Arthroplasty (rTKA)
-
-<p align="center">
-  <img src="../docs/images/spinal_vs_ga_flowchart.png" alt="Spinal vs GA Decision" width="85%">
-</p>
-
-*Figure 1: Comprehensive decision algorithm for anesthesia technique selection incorporating ASRA 2024-2025 anticoagulation timing, patient preference, and hemodynamic considerations. See detailed text-based walkthrough below.*
-
----
-
 # Spinal vs General Anesthesia  
 Decision Algorithm – Robot-Assisted Total Knee Arthroplasty (rTKA)
 
@@ -25,6 +14,17 @@ Both spinal and GA can be safely combined with:
 - **Protocol 1:** OFIA + ACB/IPACK  
 - **Protocol 2:** OFIA Block-Free  
 - **Protocol 3:** Conventional Opioid-Inclusive Anesthesia  
+
+---
+
+# Spinal vs General Anesthesia Decision Pathway
+Robot-Assisted Total Knee Arthroplasty (rTKA)
+
+<p align="center">
+  <img src="../docs/images/spinal_vs_ga_flowchart.png" alt="Spinal vs GA Decision" width="85%">
+</p>
+
+*Figure 1: Comprehensive decision algorithm for anesthesia technique selection incorporating ASRA 2024-2025 anticoagulation timing, patient preference, and hemodynamic considerations. See detailed text-based walkthrough below.*
 
 ---
 
