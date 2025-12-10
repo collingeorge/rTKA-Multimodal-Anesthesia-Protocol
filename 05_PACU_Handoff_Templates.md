@@ -231,6 +231,18 @@ No shaded quote boxes are used; all emphasis is presented using **bold + italic*
 
 ---
 
+## Visual Decision Support
+
+For PACU pain management algorithm, see:
+
+<p align="center">
+  <img src="docs/images/pacu_rescue_algorithm.png" alt="PACU Rescue Algorithm" width="70%">
+</p>
+
+[**Full PACU Pain Rescue Algorithm**](04_IntraOp_Flowcharts/PACU_Pain_Rescue_Algorithm.md)
+
+---
+
 ## 6. Integration and Local Adaptation
 
 These templates should be adapted to local:
