@@ -9,6 +9,12 @@ Robot-Assisted Total Knee Arthroplasty (rTKA)
 
 This algorithm standardizes PACU pain assessment and rescue strategies across the three primary anesthesia pathways. It emphasizes multimodal analgesia, opioid stewardship, and safety, and is designed to be cohesive with the rTKA anesthesia protocols and PACU handoff templates.
 
+<p align="center">
+  <img src="../docs/images/pacu_rescue_algorithm.png" alt="PACU Rescue Algorithm" width="85%">
+</p>
+
+*Figure 1: Stepwise PACU pain management algorithm stratified by anesthetic pathway with ketamine first-line for OFIA pathways and pathway-specific enhanced monitoring criteria. See detailed text-based protocol below.*
+
 ---
 
 ## 1. Identify Anesthesia Pathway
