@@ -579,8 +579,8 @@ This protocol framework was informed by:
 
 If you reference this work in presentations or academic writing:
 ```text
-George C. Multimodal & Opioid-Free Anesthesia Protocol for 
-Robot-Assisted Total Knee Arthroplasty. GitHub repository.
+George, Collin B. (2025). Multimodal and Opioid-Free Anesthesia Protocol for 
+Robot-Assisted Total Knee Arthroplasty. GitHub Repository.
 https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol
 Version 1.2. Accessed [date].
 ```
