@@ -30,6 +30,18 @@ Guidance reflects ERAS Society recommendations and standard anxiolysis with **mi
 
 ---
 
+## Flowchart 1: Spinal vs General Anesthesia Decision Pathway
+
+**File:** [`Spinal_vs_GA_Decision.md`](Spinal_vs_GA_Decision.md)
+
+<p align="center">
+  <img src="../docs/images/spinal_vs_ga_flowchart.png" alt="Spinal vs GA Decision" width="90%">
+</p>
+
+*Figure 2: Comprehensive decision algorithm for choosing between spinal and general anesthesia in rTKA.*
+
+---
+
 ### 2. **PACU Pain and Rescue Analgesia Algorithm**  
 **File:** `PACU_Pain_Rescue_Algorithm.md`
 
