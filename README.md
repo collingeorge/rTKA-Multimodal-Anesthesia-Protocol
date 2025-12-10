@@ -80,7 +80,7 @@ The project is intentionally **educational and non-validated**: it is designed t
 1. **See the big picture:**  
    Start with the pathway overview image:  
    
-![Pathway Overview](https://raw.githubusercontent.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol/main/docs/images/pathway_overview.png)
+![Pathway Overview](https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol/blob/main/docs/images/pathway_overview.png)
 
 2. **Understand the three options:**  
    [`03_Anesthesia_Protocols/Protocol_Comparison_Table.md`](03_Anesthesia_Protocols/Protocol_Comparison_Table.md)
