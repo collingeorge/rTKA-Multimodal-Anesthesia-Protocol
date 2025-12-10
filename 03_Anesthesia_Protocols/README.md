@@ -36,19 +36,18 @@ Each file is cross-referenced and consistent with the others.
 
 ---
 
+
+# 1. Core Anesthesia Pathways
+
+These are the foundational clinical protocols.
+
+---
+
 <p align="center">
   <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="90%">
 </p>
 
 *Figure 1: Visual overview of all three anesthesia pathways. See individual protocol files below for complete details.*
-
----
-
-
-
-# 1. Core Anesthesia Pathways
-
-These are the foundational clinical protocols.
 
 ---
 
