@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "Multimodal and Opioid-Free Anesthesia Protocol for Robot-Assisted Total Knee Arthroplasty"
+message: "If you use this repository, please cite it using the information below."
+authors:
+  - family-names: George
+    given-names: Collin B.
+    orcid: "https://orcid.org/0009-0007-8162-6839"
+
+version: "1.2"
+date-released: "2025-12-07"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol"
+
+abstract: >
+  A structured, literature-based multimodal and opioid-free anesthesia
+  framework for robot-assisted total knee arthroplasty (rTKA). This
+  repository defines three standardized anesthesia pathways (OFIA with
+  ACB/IPACK, OFIA without blocks, and conventional opioid-inclusive
+  anesthesia) and integrates OR readiness checklists, preoperative
+  assessment tools, patient counseling scripts, intraoperative protocols,
+  flowcharts, PACU handoff templates, surgeon one-page summaries, and a
+  curated 2023–2025 evidence base. Designed as an educational and
+  quality-improvement oriented protocol design project rather than a
+  validated institutional order set.
+
+keywords:
+  - anesthesia
+  - multimodal analgesia
+  - opioid-free anesthesia
+  - total knee arthroplasty
+  - robot-assisted TKA
+  - ERAS
+  - regional anesthesia
+  - adductor canal block
+  - IPACK block
+  - perioperative medicine
+  - pain management
+  - medical education
+  - quality improvement
+
+preferred-citation:
+  type: article
+  title: "Multimodal and Opioid-Free Anesthesia Protocol for Robot-Assisted Total Knee Arthroplasty"
+  authors:
+    - family-names: George
+      given-names: Collin B.
+  year: 2025
+  url: "https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol"
