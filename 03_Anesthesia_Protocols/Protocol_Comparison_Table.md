@@ -6,6 +6,20 @@ last-updated: 2025-12-08
 
 # rTKA Anesthesia Protocol Comparison Table
 
+<p align="center">
+  <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="90%">
+</p>
+
+*Visual summary of pathway selection and outcomes. See detailed comparison tables below.*
+
+---
+
+Quick reference comparing the three anesthetic pathways for robot-assisted total knee arthroplasty. All protocols reflect ERAS 2024, ASA/APSF 2024, and ASRA 2024-2025 guidelines.
+
+[... rest of existing content ...]
+
+# rTKA Anesthesia Protocol Comparison Table
+
 Quick reference comparing three commonly used anesthetic pathways for robot-assisted total knee arthroplasty. Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 guidance but **do not replace** institutional policies or attending anesthesiologist judgment.
 
 > **Educational Use Only – Not a Clinical Guideline**  
