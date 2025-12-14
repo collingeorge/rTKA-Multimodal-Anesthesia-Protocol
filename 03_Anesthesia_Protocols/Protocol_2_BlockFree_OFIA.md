@@ -1,20 +1,21 @@
 ---
 title: Opioid-Free Intraoperative Anesthesia (OFIA) Without Nerve Blocks (Protocol 2)
-version: 1.3
-last-updated: 2025-12-08
+version: 1.4
+last-updated: 2025-12-14
 ---
 
 # Protocol 2 – Opioid-Free Intraoperative Anesthesia (OFIA) Without Nerve Blocks (rTKA)
 
-Block-free opioid-free intraoperative anesthesia (OFIA) pathway for robot-assisted total knee arthroplasty (rTKA) when regional blocks are not feasible or not desired. This protocol aims to preserve the benefits of OFIA (low PONV, smooth emergence, early mobilization) by relying on multimodal systemic adjuncts and **surgeon periarticular infiltration** instead of ACB/IPACK.
+Block-free opioid-free intraoperative anesthesia (OFIA) pathway for robot-assisted total knee arthroplasty (rTKA) when regional blocks are not feasible or not desired. This protocol aims to preserve the benefits of OFIA (reduced opioid exposure, smoother recovery profile in many patients, and ERAS-aligned early mobilization) by relying on multimodal systemic adjuncts and **surgeon periarticular infiltration** instead of ACB/IPACK.
 
 Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 guidance but **do not replace** institutional policies or attending anesthesiologist judgment.
 
 > **Educational Use Only – Not a Clinical Guideline**  
 > - All doses are **typical adult ranges** and must be individualized, especially in elderly, frail, OSA, or significant comorbidity.  
 > - Pathway selection is **attending- and institution-dependent**.  
-> - Dose adjustments and contraindications for special populations are detailed in  
->   **`Adjuncts_Contraindications_Safety.md`** and should be applied here.
+> - Dose adjustments and contraindications for special populations are detailed in:  
+>   **`Protocol_Adjuncts_and_Contraindications.md`** and should be applied here.  
+> - This protocol uses **conservative guardrails** to reduce misuse risk.
 
 ---
 
@@ -23,9 +24,9 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 gui
 This pathway provides an **opioid-free intraoperative anesthetic without nerve blocks** for rTKA. It is generally used when:
 
 - The patient **declines nerve blocks** after counseling.
-- **ASRA timing** prevents safe ACB/IPACK (e.g., DOAC within recent window, therapeutic/prophylactic LMWH outside timing).
+- **ASRA timing** prevents safe ACB/IPACK (e.g., DOAC/LMWH timing outside appropriate windows).
 - **Rapid workflow is required** and block placement would unduly delay the case.
-- **Anatomical difficulties** (e.g., severe obesity, prior surgery, limited ultrasound windows) make blocks difficult or unsafe.
+- **Anatomical difficulties** (e.g., limited ultrasound windows, prior surgery) make blocks difficult or unsafe.
 
 > **Position in Algorithm:**  
 > - When feasible, **Protocol 1 (OFIA + ACB/IPACK)** is generally preferred first-line.  
@@ -37,18 +38,17 @@ This pathway provides an **opioid-free intraoperative anesthetic without nerve b
 
 ### 2.1 Patient Assessment
 
-Same core assessment as Protocol 1 and Protocol 3:
-
 - Comprehensive history and exam:
-  - ASA classification, airway exam, METs, allergies.
+  - ASA classification, airway exam, functional capacity/METs, allergies.
 - **Opioid history:**
   - Document chronic opioid use (drug, dose, MME/day).
 - Risk stratification:
-  - PONV history (critical for OFIA vs opioid-based comparison).
-  - Frailty/cognition (especially elderly >70–80).
-  - OSA screening (STOP-Bang, home CPAP/BiPAP).
+  - PONV history.
+  - Frailty/cognition (especially elderly).
+  - OSA screening (STOP-Bang, home CPAP/BiPAP use).
 - Anticoagulation:
-  - Confirm **why blocks are not being performed** (ASRA timing, patient refusal, workflow, anatomy).
+  - Explicitly document **why blocks are not being performed** (ASRA timing, patient refusal, workflow, anatomy, attending decision).
+- **Screen for ketamine caution contexts** (see Section 3.4): hemodynamic instability, frailty/advanced age, tachyarrhythmia risk, catecholamine-depleted physiology, severe psychiatric disease.
 
 ### 2.2 Preoperative Medications (ERAS-Informed)
 
@@ -58,15 +58,16 @@ Typical adult regimen (individualize for renal/hepatic function and comorbiditie
   - 30–60 minutes pre-op (max 4 g/day; adjust for liver disease or low body weight).
 - **Celecoxib 400 mg PO**  
   - 1–2 hours pre-op, if no significant renal/CV or GI contraindication.  
-  - Alternative: **Meloxicam 15 mg PO** per surgical/medicine guidance.
+  - Alternative: **Meloxicam 15 mg PO** per institutional guidance.
 - **Dexamethasone 8–10 mg IV**  
   - After IV placement (PONV prophylaxis + analgesic synergy).
 - **Scopolamine 1.5 mg patch**  
   - Evening prior or ≥2 hours pre-op for **high PONV risk** patients without contraindications.
-- **Midazolam 1–2 mg IV** in holding area  
-  - Consider **1 mg or less** in frail, elderly, or OSA patients; avoid in severe baseline cognitive impairment when possible.
-- **Continue home opioid dose** morning of surgery for **chronic opioid users** per pain/attending guidance (continuation of baseline therapy does not violate the OFIA intraoperative goal).
-- **Avoid routine gabapentinoids** (ASA/APSF 2024 cautions regarding sedation, delirium, and respiratory risk).
+- **Midazolam 0.5–2 mg IV PRN** (anxiolysis; lowest effective dose)  
+  - Consider **≤1 mg** in frail/elderly/OSA; avoid in significant baseline cognitive impairment when possible.  
+  - If midazolam is used pre-op, avoid routine “repeat” dosing at induction.
+- **Continue home opioid dose** morning of surgery for **chronic opioid users** per attending/pain guidance (continuation of baseline therapy does not violate the OFIA *intraoperative* goal).
+- **Avoid routine gabapentinoids** (sedation/delirium/respiratory risk in select populations; apply institutional policy).
 
 ### 2.3 Documentation and Surgeon Coordination
 
@@ -74,8 +75,8 @@ Typical adult regimen (individualize for renal/hepatic function and comorbiditie
   - “**Block omitted due to**: ____ (anticoagulation timing, patient refusal, workflow constraints, anatomical difficulty, attending decision).”
 - Confirm with surgeon:
   - **Periarticular infiltration will be performed** as a critical component of this pathway.
-  - Record planned local anesthetic volume, concentration, and additives.
-- Ensure awareness of **maximum safe local anesthetic dose** (see `Adjuncts_Contraindications_Safety.md`) and plan to track cumulative dose.
+  - Record planned local anesthetic **concentration, volume, additives**, and confirm responsibility for documenting totals.
+- Ensure a plan to track **cumulative local anesthetic dose** and LAST readiness.
 
 ---
 
@@ -84,272 +85,163 @@ Typical adult regimen (individualize for renal/hepatic function and comorbiditie
 > Doses below are **typical adult ranges** for otherwise stable patients; reduce in frail, elderly, and hemodynamically unstable patients.
 
 ### 3.1 Pre-Oxygenation
-
 - 100% FiO₂ via tight-fitting mask for **3–5 minutes** before induction.
 
-### 3.2 Induction Sequence (OFIA, Block-Free)
-
-- **Midazolam 0.5–1 mg IV**  
-  - Additional small doses as needed; consider prior pre-op midazolam.
-- **Propofol 1.5–2 mg/kg IV**  
-  - Typical induction range; consider **1–1.5 mg/kg** in frail/cardiac patients.
-- **Ketamine 0.4–0.5 mg/kg IV**  
-  - Slightly **higher induction dose** than when regional blocks are used; provides strong NMDA antagonism and analgesia.
+### 3.2 Induction Sequence (Propofol-Based; OFIA)
+- **Propofol 1.5–2 mg/kg IV** (**primary hypnotic**)  
+  - Consider **~1–1.5 mg/kg** in frail/cardiac patients.
 - **Rocuronium 0.6–1.0 mg/kg IV**  
-  - Based on ideal or adjusted body weight; confirm depth with TOF.
+  - Dose to ideal/adjusted body weight and confirm depth with TOF.
+- **Midazolam 0–0.5 mg IV** *only if needed*  
+  - Often omit if pre-op dose already given.
 
-### 3.3 Optional Loading Adjuncts
+### 3.3 Ketamine (Optional Analgesic Adjunct — Not Default Induction Agent)
+Ketamine is presented as an **optional sub-anesthetic adjunct** for opioid-sparing analgesia (not a default primary induction agent). Effects are context-dependent.
 
-- **Dexmedetomidine 0.5 mcg/kg IV over 10–20 minutes (optional)**  
-  - If planning a maintenance infusion; avoid rapid bolus.  
-  - Use lower/omitted loading dose in frail or bradycardic patients.
-- **Magnesium sulfate 30–50 mg/kg IV over 15–20 minutes (typical ~40 mg/kg ≈ 3 g for 70 kg)**  
-  - Avoid in **CrCl <30 mL/min**; reduce dose in moderate renal impairment (see adjuncts doc).
+**Dose (if used):**
+- **Ketamine 0.2–0.5 mg/kg IV** (titrate to effect; lower end favored in elderly/frail or hemodynamically fragile patients)
 
-### 3.4 Airway Management
+### 3.4 Ketamine Guardrails (Patient Selection, Hemodynamics, BIS/EEG)
+**Use caution, reduce dose, or omit** ketamine bolus/infusion when any of the following are present (non-exhaustive):
+- **Hemodynamic instability** or escalating vasopressor requirement; suspected catecholamine-depleted physiology
+- **Frailty / advanced age** with limited physiologic reserve (higher delirium/prolonged recovery risk)
+- Clinically significant **tachyarrhythmia risk** or contexts where sympathetic stimulation is undesirable
+- Severe psychiatric disease with active psychosis (context-dependent)
 
+**Depth monitoring caveat:** Ketamine can **increase BIS** and alter EEG-derived indices. Avoid titrating hypnotics to BIS alone after ketamine; correlate with clinical signs and raw EEG trends when available.
+
+### 3.5 Optional Adjunct Initiation (Selection-Dependent)
+- **Dexmedetomidine:** prefer **infusion without routine loading bolus** in most patients  
+  - If started early: **0.2–0.4 mcg/kg/hr** (lower end favored in elderly/frail; avoid bolus in fragile patients)
+- **Magnesium sulfate 30–50 mg/kg IV over 15–20 minutes**  
+  - Avoid if **CrCl <30 mL/min**.
+
+### 3.6 Airway Management
 - ETT vs LMA choice based on:
   - Surgical requirements, aspiration risk, BMI/OSA, positioning.
 - Confirm placement:
-  - **Continuous ETCO₂ waveform** ± auscultation as indicated.
-- Secure device and document:
-  - **Cormack–Lehane grade**, ease of intubation, and any airway adjuncts used.
+  - **Continuous ETCO₂ waveform** ± auscultation per institutional practice.
+- Document airway details:
+  - Cormack–Lehane grade (if intubated), adjuncts used, and any complications.
 
 ---
 
 ## 4. Maintenance
 
-### 4.1 Anesthetic Maintenance (Choose One)
+### 4.1 Primary Maintenance (Propofol Default; Sevo Optional/Additive)
+- **Propofol TIVA 75–150 mcg/kg/min** (**default maintenance strategy**)  
+- **Optional sevoflurane 0.5–1.2 MAC** may be added selectively (case length/complexity, workflow, emergence strategy, institutional preference)
 
-- **Sevoflurane ~0.8–1.2 MAC (age-adjusted)**  
-  - Common first choice at many centers for rTKA; easily titratable.
+> The intent is to keep propofol explicitly present as the maintenance backbone while acknowledging that sevoflurane is frequently used as an adjunct in some workflows.
 
-  **OR**
-
-- **Propofol TIVA 75–150 mcg/kg/min**  
-  - Consider in **very high PONV risk** or MH susceptibility, or by practitioner preference.  
-  - Use dedicated IV line and infusion pump; track cumulative dose (PRIS risk negligible for 1–3 h case).
-
-### 4.2 Adjunct Infusions (Core OFIA Components)
-
-- **Dexmedetomidine 0.3–0.7 mcg/kg/hr**  
-  - Often at the higher end of the range in this block-free pathway to compensate for lack of regional analgesia.  
-  - Use **0.2–0.4 mcg/kg/hr** in elderly, frail, or bradycardic patients.
-- **Ketamine 0.15–0.25 mg/kg/hr**  
-  - Higher end of range compared to block-based OFIA to maintain analgesia.
-- **Optional: Lidocaine infusion 1–2 mg/kg/hr**  
-  - Max **~300 mg total intraoperatively**; avoid in severe hepatic impairment.  
-  - Monitor for CNS toxicity; ensure lipid rescue availability.
+### 4.2 Adjunct Infusions (Selection-Dependent; Apply Guardrails)
+- **Dexmedetomidine 0.2–0.7 mcg/kg/hr**  
+  - Use **0.2–0.4** in elderly/frail/bradycardic patients  
+  - Avoid bolus loading in fragile patients; reduce/stop if hypotension/bradycardia persists
+- **Ketamine infusion 0.1–0.25 mg/kg/hr** *optional*  
+  - Favor lower end or omit in frail/elderly or unstable patients  
+- **Optional: Lidocaine infusion 1–2 mg/kg/hr** (institutional limits apply)  
+  - Respect total dose ceilings and contraindications (e.g., significant hepatic dysfunction, conduction disease); monitor for CNS toxicity.
 
 > **Key Principle:**  
-> **No intraoperative opioids** are given in this pathway. Analgesia is provided by ketamine, dexmedetomidine, magnesium, local infiltration, and non-opioid multimodal strategies. Postoperative opioid rescue is allowed when clinically indicated and does not constitute “failure” of OFIA.
+> **No intraoperative opioids** are given in this pathway. Postoperative opioid rescue remains available when clinically indicated.
 
 ### 4.3 Hemodynamic Management
-
-- **Target MAP ≥65 mmHg**, individualizing for CAD or cerebrovascular disease.
-- Typical vasopressor strategy:
-  - **Phenylephrine 50–100 mcg IV** boluses if hypotension with HR >70.
-  - **Ephedrine 5–10 mg IV** boluses if hypotension with HR <60.
-- **Dexmedetomidine-related bradycardia:**
-  - Monitor HR; treat if HR <50 with symptoms or HR <45 regardless.
-  - **Glycopyrrolate 0.2–0.4 mg IV** often preferred over atropine (longer duration, less tachycardia).
-  - Reduce or stop dexmedetomidine infusion if bradycardia/hypotension persists.
+- **Target MAP ≥65 mmHg**, individualized for CAD or cerebrovascular disease.
+- Typical vasopressor strategy (institutional practice):
+  - **Phenylephrine 50–100 mcg IV** if hypotension with HR >70.
+  - **Ephedrine 5–10 mg IV** if hypotension with HR <60.
+- **Dexmedetomidine-related bradycardia/hypotension:**
+  - Reduce/stop dex infusion if recurrent  
+  - **Glycopyrrolate 0.2–0.4 mg IV** for symptomatic bradycardia per local protocol.
 
 ### 4.4 Intraoperative Monitoring
-
 - Standard ASA monitors:
   - ECG, NIBP or arterial line (per risk), SpO₂, ETCO₂, temperature.
-- **Agent analyzer** for MAC/expired agent concentration (if using sevoflurane).
 - Neuromuscular monitoring:
   - TOF to guide rocuronium dosing and reversal.
-- Consider depth-of-anesthesia monitoring (e.g., BIS):
-  - Particularly in elderly or in high-dose adjunct combinations to avoid over-sedation.
+- Volatile agent analyzer if sevoflurane used.
+- Consider depth-of-anesthesia monitoring (e.g., BIS) in elderly/frail, with ketamine caveat above.
 
 ---
 
 ## 5. Emergence
 
 ### 5.1 Late Intraoperative Period (10–15 Minutes Before End)
-
-- **Stop dexmedetomidine infusion** to allow clearance before emergence.
-- Continue ketamine infusion until **skin closure** is complete.
-- **Stop lidocaine infusion** if used.
+- Reduce/stop dexmedetomidine as tolerated.
+- If ketamine infusion used, plan stop at closure.
+- Stop lidocaine infusion if used (per institutional practice).
 
 ### 5.2 At Skin Closure
-
-- **Stop ketamine infusion**.
-- Adjust anesthetic depth:
-  - Reduce sevoflurane toward **~0.5–0.7 MAC** or taper propofol infusion (~50% reduction) in preparation for emergence.
+- Stop ketamine infusion (if used).
+- Reduce propofol toward emergence dosing.
+- If sevoflurane used, taper toward **~0.5–0.7 MAC** as tolerated.
 
 ### 5.3 Reversal and PONV Prophylaxis
-
-- **Ondansetron 4 mg IV**  
-  - OFIA pathways have lower PONV, but prophylaxis remains standard.
-- Neuromuscular reversal:
-  - **Sugammadex 2 mg/kg IV** when TOF count ≥2 but TOF ratio <0.9.  
-  - **Sugammadex 4 mg/kg IV** for deeper block (1–2 post-tetanic counts).  
-  - Use per institutional policy; see adjuncts document for renal considerations.
+- **Ondansetron 4 mg IV**.
+- Neuromuscular reversal (institutional policy):
+  - **Sugammadex 2 mg/kg IV** when TOF count ≥2 but TOF ratio <0.9.
+  - **Sugammadex 4 mg/kg IV** for deeper block.
 
 ### 5.4 Extubation Criteria
-
-- **Neurologic:**
-  - Awake or easily arousable, following commands, eyes open.
-- **Ventilation:**
-  - Tidal volume >5 mL/kg, RR ~10–20 breaths/min.
-  - SpO₂ >92% on room air or minimal supplemental O₂.
-  - No paradoxical, labored, or obstructed breathing.
-- **Neuromuscular:**
-  - TOF ratio ≥0.9 or objective confirmation of adequate reversal.
-- **Hemodynamic:**
-  - MAP ≥60–65 mmHg; HR in reasonable range for patient.
-
-**Expected Profile:**
-
-- **Smooth extubation** with minimal coughing/bucking.
-- Rapid return to baseline mentation:
-  - Typically **alert and oriented in PACU within ~10–15 minutes**.
+- Awake/easily arousable; follows commands.
+- Adequate ventilation and oxygenation.
+- Objective neuromuscular recovery (TOF ratio ≥0.9).
+- Hemodynamic stability.
 
 ---
 
-## 6. Postoperative Analgesia Plan
+## 6. Postoperative Analgesia Plan (Block-Free)
 
 ### 6.1 Surgeon Periarticular Infiltration (Critical Component)
+Because this pathway is **block-free**, surgeon periarticular infiltration is **essential**.
 
-Because this pathway is **block-free**, surgeon periarticular infiltration is **essential**:
+- Document:
+  - Total **volume**, **concentration**, and **total mg** of local anesthetic.
+  - Any additives (e.g., epinephrine, ketorolac) per institutional practice.
+- **Dose safety:**
+  - Track **cumulative local anesthetic dose** and follow institutional limits.
+  - This repository uses a **conservative weight-based framing** (e.g., ropivacaine **~3 mg/kg** as a common reference), recognizing that some LIA practices use higher totals under specific institutional protocols.
+  - If planned volume/concentration exceeds conservative weight-based totals, explicitly document that the plan follows **institutional LIA protocol** and that LAST preparedness is verified.
 
-- **Example technique (illustrative):**
-  - Volume: **~100–150 mL of dilute local anesthetic**, such as ropivacaine 0.2%.  
-  - This corresponds to **~200–300 mg ropivacaine total**.
-- **Safety constraints:**
-  - Keep total **ropivacaine dose ≤~3 mg/kg** (for a 70 kg patient, ≤~210 mg is a conservative target).  
-  - Higher total doses are used in some LIA protocols but carry greater LAST risk; this framework emphasizes **weight-based capping** and documentation.
-- **Optional additives:**
-  - Epinephrine 1:200,000 (5 mcg/mL), ketorolac 30 mg IV or added to the solution per institutional practice.
-- **Timing:**
-  - Typically performed before or at closure.
-- **Sites:**
-  - Posterior capsule, periarticular tissues, and subcutaneous layers per surgical protocol.
-- **Documentation:**
-  - Record **total local anesthetic dose** and additives for LAST risk assessment.
+> **LAST preparedness** (20% lipid emulsion and response pathway) must be confirmed whenever high-volume infiltration is used.
 
 ### 6.2 Expected PACU Pain Scores
-
-- Without blocks:
-  - **NRS ~3–6/10** is typical early post-op despite OFIA, driven by surgical trauma and infiltration profile.
-- Counsel the patient preoperatively:
-  - Slightly higher early pain than with blocks (Protocol 1) is expected but often acceptable given advantages (no needles, anticoagulation flexibility).
+- Without blocks, early pain is typically higher than Protocol 1.
+- Pre-op counseling should set expectations and explain rescue options.
 
 ### 6.3 Scheduled Multimodal Analgesia
+- **Acetaminophen 1 g PO/IV q6h** (max 4 g/day; adjust for liver disease/low weight).
+- NSAID per institutional policy (if no contraindication).
 
-Continue or initiate:
-
-- **Acetaminophen 1 g PO/IV q6h**  
-  - Max 4 g/day; adjust for liver disease or low weight.
-- **NSAID** (if no contraindication):
-  - Celecoxib 200 mg PO q12h **OR**
-  - Ketorolac 15 mg IV q6h (max 60 mg/day; typically limited to 48–72 hours; renal function permitting) **OR**
-  - Meloxicam 15 mg PO daily per surgical/medicine guidance.
-
-### 6.4 Rescue Analgesia (Stepwise)
-
-1. **First-Line (Opioid-Free Rescue): Ketamine**
-
-   - **Ketamine 0.1–0.15 mg/kg IV q10–15 minutes PRN** for NRS ≥4.  
-   - Limit to **~3 boluses** (total ~0.3–0.45 mg/kg).  
-   - Monitor for dysphoria or emergence phenomena (rare at these rescue doses).  
-   - Reassess pain and mental status after each dose.
-
-2. **Second-Line (Opioid Rescue When Needed): Hydromorphone**
-
-   - **Hydromorphone 0.2 mg IV q10–15 minutes PRN** if ketamine rescue inadequate.  
-   - Use the **minimal effective cumulative dose**, with careful reassessment after each dose:
-     - Pain level (NRS), sedation (RASS), RR, and SpO₂.  
-   - Enhanced monitoring if **elderly, frail, OSA, or opioid-naïve**:
-     - Continuous pulse oximetry in PACU and possible extended monitoring on the floor.
-
-### 6.5 Non-Pharmacologic Measures
-
-- Ice application to surgical site.
-- Limb elevation and supportive positioning.
-- Reassurance, coaching on realistic expectations, and anxiety management.
-
-### 6.6 Mobilization and Infiltration Duration
-
-- **Infiltration duration:** Typically **~6–8 hours** of meaningful analgesic effect.
-- **Transition plan:**
-  - Ensure oral multimodal regimen is in place **before** infiltration wears off.
-  - Anticipate **increased analgesic needs around 6–8 hours** post-op; plan proactive dosing.
-- **Mobilization target:**  
-  - Ambulation on **POD 0** when pain is controlled and patient is alert:
-    - Typically **4–6 hours post-op**.
-- Physical therapy evaluation when:
-  - Alert and oriented (RASS ~0).  
-  - Pain **≤4/10**.  
-  - Hemodynamically stable.  
-  - PONV controlled.  
-  - No excessive sedation.
+### 6.4 Rescue Analgesia (Stepwise; Apply Guardrails)
+1. **Ketamine 0.1–0.15 mg/kg IV q10–15 minutes PRN** (max ~3 boluses)  
+   - **Omit/reduce** in frail/elderly, unstable hemodynamics, or tachyarrhythmia risk (see guardrails).
+2. **Hydromorphone 0.2 mg IV q10–15 minutes PRN** if inadequate response and clinically appropriate  
+   - Enhanced respiratory monitoring, especially in elderly/OSA/opioid-naïve patients.
 
 ---
 
 ## 7. Notes, Clinical Context, and Contraindications
 
-### 7.1 Clinical Advantages
+### 7.1 Expected Differences vs Protocol 1 (Blocks)
+- Higher early pain scores and more frequent PACU rescue needs are common.
+- Outcomes are strongly dependent on high-quality periarticular infiltration plus systemic multimodal therapy.
 
-- **Faster workflow** vs block-based OFIA (no block room time; often ~15 minutes saved).
-- **No anticoagulation timing constraints** related to peripheral nerve blocks.
-- **Immediate motor strength** (no block-related motor impairment).
-- Maintains key OFIA benefits:
-  - Generally **lower PONV** (~10–20%) vs conventional opioid pathways (~30–40%).  
-  - Smooth emergence and low delirium risk in most patients.
-  - Early mobilization (POD 0) is feasible with adequate analgesia.
+### 7.2 Key Principles (Protocol 2)
+- **Propofol 1.5–2 mg/kg IV** is the default induction hypnotic across rTKA pathways (titrate to physiology).
+- **Propofol TIVA** is the default maintenance backbone; **sevoflurane** is an optional/additive maintenance component depending on workflow.
+- Ketamine and dexmedetomidine are **optional** and must follow **selection/guardrails**, particularly in frail/elderly or hemodynamically unstable patients.
+- Postoperative opioid rescue is available when clinically indicated and does not mean the OFIA strategy has “failed.”
 
-### 7.2 Expected Differences Compared with OFIA + Blocks (Protocol 1)
-
-- **Higher early pain scores** (NRS ~3–6 vs ~0–3 with ACB/IPACK).
-- **More frequent rescue medications** in PACU (predominantly ketamine).
-- **Surgeon infiltration is critical**, not optional:
-  - Outcomes are highly dependent on high-quality periarticular infiltration plus systemic multimodal therapy.
-
-### 7.3 Ideal Patient Population
-
-- Anticoagulation preventing safe ACB/IPACK:
-  - e.g., recent DOAC or LMWH doses **outside ASRA timing windows**.
-- Patient refusal of regional blocks (needles, numbness, or personal preference).
-- Workflow constraints:
-  - Add-on cases, limited block room capacity, time-sensitive scheduling.
-- Anatomical challenges:
-  - Severe obesity, prior surgeries, or anatomy limiting block feasibility.
-
-### 7.4 Key Principles (Protocol 2)
-
-- **Midazolam** provides preoperative anxiolysis and does **not** compromise the OFIA principle.
-- **Propofol 1.5–2 mg/kg** remains the typical induction range across all rTKA pathways.
-- **Sevoflurane and propofol TIVA** are both acceptable maintenance choices:
-  - Sevoflurane for standard workflow and familiarity.  
-  - Propofol TIVA for high PONV risk or MH susceptibility.
-- **Higher ketamine and dexmedetomidine doses** (within safe ranges) are used compared with Protocol 1 to offset the lack of regional block–based analgesia.
-- **Lidocaine infusion is optional** and should respect total dose limits and hepatic contraindications.
-- **Surgeon periarticular infiltration is essential**, not optional, for good outcomes.
-- **Postoperative opioid rescue is available** when clinically indicated and does not mean the OFIA strategy has “failed”; the goal is to **avoid routine intraoperative opioid administration** and minimize overall opioid burden.
-
-### 7.5 When to Avoid Protocol 2
-
-Consider switching to **Protocol 3 (Conventional Opioid Pathway)** or another individualized anesthetic if:
-
-- **OFIA components are contraindicated**, for example:
-  - Acute psychosis (ketamine generally avoided).
-  - High-degree AV block without pacemaker (dexmedetomidine generally avoided).
-  - Severe uncontrolled hypertension (e.g., SBP >180 mmHg) or severe CAD where higher-dose ketamine/dex use is undesirable.
-- **Severe renal impairment (CrCl <30 mL/min)** if magnesium and certain adjuncts are not desired.
-- **Severe hepatic impairment (Child-Pugh C)** where lidocaine infusions and high-dose adjuncts are unsafe.
-- The **patient prefers a conventional opioid-based anesthetic** after counseling.
-- Attending anesthesiologist determines that an opioid-based pathway is safer or more appropriate in the specific context.
+### 7.3 When to Avoid Protocol 2
+Consider switching to **Protocol 3 (Conventional Opioid Pathway)** or a fully individualized plan if:
+- Adjunct contraindications make OFIA components inappropriate (e.g., clinically significant hemodynamic instability where dex/ketamine are undesirable).
+- Severe renal impairment (CrCl <30 mL/min) when magnesium avoidance is required and alternative adjunct strategy is not desired.
+- Attending anesthesiologist determines an opioid-based pathway is safer or more appropriate for the specific physiology and monitoring environment.
 
 ---
 
 ## 8. References
-
 For complete citations, evidence grading, and source documents, see:  
 **[`../../07_References_Evidence_2024.md`](../../07_References_Evidence_2024.md)**
-
-This includes ERAS Society arthroplasty guidelines, ASA/APSF safety statements, ASRA anticoagulation and LAST guidelines, and key OFIA and rTKA analgesia literature.
