@@ -1,7 +1,7 @@
 ---
 title: Opioid-Free Intraoperative Anesthesia (OFIA) With ACB + IPACK
-version: 1.3
-last-updated: 2025-12-08
+version: 1.4
+last-updated: 2025-12-14
 ---
 
 # Opioid-Free Intraoperative Anesthesia (OFIA) With ACB + IPACK  
@@ -17,7 +17,8 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 but
 > **Educational Use Only – Not a Clinical Guideline**  
 > - All doses represent **typical adult ranges** and must be individualized.  
 > - Pathway selection remains **attending-dependent**.  
-> - Frail, elderly, OSA, cardiac, or renal/hepatic-impaired patients require tailored dosing.
+> - Frail, elderly, OSA, cardiac, or renal/hepatic-impaired patients require tailored dosing.  
+> - This protocol intentionally uses **conservative guardrails** to reduce misuse risk.
 
 ---
 
@@ -29,20 +30,22 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 but
 - Identify risk factors for PONV, delirium, OSA, frailty  
 - Opioid tolerance assessment  
 - **Confirm suitability for peripheral nerve blocks**  
-- ASRA 2024–2025 anticoagulation compliance:
-  - **DOACs:** ≥72h if CrCl >50 mL/min (longer if impaired)  
-  - **Warfarin:** INR ≤1.4  
-  - **Prophylactic LMWH:** ≥12h  
-  - **Therapeutic LMWH:** ≥24h  
-  - **Aspirin/NSAIDs:** No hold required per ASRA  
-  - **Clopidogrel:** Usually acceptable for superficial blocks; follow local policy  
+- **Screen for ketamine caution contexts** (see Section 4.2): frailty/advanced age, hemodynamic instability, tachyarrhythmia risk, catecholamine-depleted physiology, severe psychiatric disease
+
+**ASRA 2024–2025 anticoagulation compliance (confirm local policy):**
+- **DOACs:** ≥72h if CrCl >50 mL/min (longer if impaired)  
+- **Warfarin:** INR ≤1.4  
+- **Prophylactic LMWH:** ≥12h  
+- **Therapeutic LMWH:** ≥24h  
+- **Aspirin/NSAIDs:** typically no hold required for peripheral blocks per ASRA  
+- **Clopidogrel:** institution-specific; follow local policy for peripheral blocks  
 
 ### 2.2 Preoperative Medications (ERAS-Informed)
 - **Acetaminophen 1 g PO** (30–60 min pre-op)  
 - **Celecoxib 400 mg PO** (1–2 hours pre-op; meloxicam 15 mg alternative)  
 - **Dexamethasone 8–10 mg IV** after IV placement  
 - **Scopolamine patch 1.5 mg** for *high PONV risk only*  
-- **Avoid gabapentinoids** (ASA/APSF 2024 safety advisory)  
+- **Avoid gabapentinoids** (ASA/APSF safety framing; sedation/delirium/respiratory depression risk in select populations)  
 - *Midazolam is reserved for block placement anxiolysis (below).*
 
 ---
@@ -52,7 +55,8 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 but
 ### 3.1 Pre-Block Anxiolysis
 - **Midazolam 1–2 mg IV**  
   - Use **0.5–1 mg** in elderly/OSA/frail  
-  - Avoid oversedation prior to induction
+  - Avoid oversedation prior to induction  
+  - Consider avoiding additional midazolam at induction if adequate anxiolysis already achieved
 
 ### 3.2 Adductor Canal Block (ACB)
 - **20–30 mL ropivacaine 0.2–0.25%** (commonly 25 mL)  
@@ -65,79 +69,99 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 but
 - Avoid intravascular or intraneural injection; incremental dosing  
 
 ### 3.4 Documentation
-- Total ropivacaine dose (e.g., 112–125 mg)  
-- Maximum safe dose: **~3 mg/kg**  
+- Total ropivacaine dose (mg)  
+- Typical maximum dose reference: **~3 mg/kg** (institution-dependent)  
 - Block type, laterality, volume, concentration, patient tolerance  
 - Block quality (excellent/good/fair/poor)  
-- Confirmation that quadriceps strength is preserved  
+- Confirmation that quadriceps strength is preserved (motor-sparing intent)
 
 ### 3.5 Safety
 - **Lipid emulsion 20% immediately available**  
-- Maintain standard LAST precautions  
+- Standard LAST precautions, monitoring, and response pathway accessible in block area
 
 ---
 
 ## 4. Induction
 
-> Doses apply to typical adults; reduce for frail, elderly, or hemodynamically unstable.
+> Doses apply to typical adults; reduce for frail, elderly, or hemodynamically unstable patients.
 
-### Induction Sequence
-- **Midazolam 0.5–1 mg IV** (after earlier block dosing)  
-- **Propofol 1.5–2 mg/kg IV**  
-- **Ketamine 0.3–0.5 mg/kg IV** (lower end for elderly/cardiac)  
+### 4.1 Induction Sequence (Propofol-Based)
+- **Propofol 1.5–2 mg/kg IV** (**primary hypnotic**)  
 - **Rocuronium 0.6–1.0 mg/kg IV**  
+- **Midazolam 0–0.5 mg IV** *only if needed* (often omit if already given for blocks; dose-reduce elderly/frail)
 
-### Optional Adjunct Loading
-- **Dexmedetomidine 0.5 mcg/kg over 10–20 minutes**  
-- **Magnesium sulfate 30–50 mg/kg** (avoid if CrCl <30 mL/min)
+### 4.2 Ketamine (Optional Analgesic Adjunct — Not Default Induction Agent)
+Ketamine may be used as a **sub-anesthetic adjunct** for opioid-sparing analgesia and antihyperalgesia.
 
-### Airway Management
+**Dose (if used):**
+- **Ketamine 0.2–0.5 mg/kg IV** (titrate to effect; **lower end favored** in elderly/frail or hemodynamically fragile patients)
+
+**Use caution / reduce dose / omit** ketamine when:
+- **Hemodynamic instability** or escalating vasopressor requirement; suspected catecholamine-depleted physiology  
+- **Frailty / advanced age** with limited physiologic reserve (higher delirium/prolonged recovery risk)  
+- Significant **tachyarrhythmia risk** or contexts where sympathetic stimulation is undesirable  
+- Severe psychiatric disease with active psychosis (context-dependent)
+
+**BIS/EEG caveat:** ketamine can increase BIS and alter EEG-derived indices. Avoid titrating hypnotics to BIS alone after ketamine; correlate clinically and with raw EEG trends when available.
+
+### 4.3 Optional Adjunct Initiation (Selection-Dependent)
+- **Dexmedetomidine:** prefer **infusion without routine loading bolus** in most patients  
+  - If started early: **0.2–0.4 mcg/kg/hr** (lower end favored in elderly/frail; avoid bolus in fragile patients)  
+- **Magnesium sulfate 30–50 mg/kg IV** over 15–20 minutes (avoid if **CrCl <30 mL/min**)
+
+### 4.4 Airway Management
 - ETT vs LMA based on risk profile and surgical factors  
 - Confirm placement with ETCO₂  
-- Document Cormack–Lehane grade  
+- Document airway grade as applicable
 
 ---
 
 ## 5. Maintenance
 
-### 5.1 Primary Maintenance
-- **Sevoflurane ~0.8–1.2 MAC**  
-  **OR**  
-- **Propofol TIVA 75–150 mcg/kg/min** (for high PONV or MH risk)
+### 5.1 Primary Maintenance (Propofol Default; Sevo Optional/Additive)
+- **Propofol TIVA 75–150 mcg/kg/min** (**default maintenance strategy**)  
+- **Optional sevoflurane 0.5–1.2 MAC** may be added selectively (case length/complexity, workflow, emergence strategy, institutional preference)
 
-### 5.2 Adjuncts
+> The intent is to keep propofol explicitly present as the maintenance backbone while acknowledging that sevoflurane is frequently used as an adjunct in some workflows.
+
+### 5.2 Adjuncts (Selection-Dependent)
 - **Dexmedetomidine 0.2–0.7 mcg/kg/hr**  
   - Use **0.2–0.4** for elderly/frail  
-- **Ketamine 0.1–0.25 mg/kg/hr**  
+  - Avoid large bolus loading in hemodynamically fragile patients  
+- **Ketamine infusion 0.1–0.2 mg/kg/hr** *optional*  
+  - Favor lower end or omit in frail/elderly or unstable patients  
+- Magnesium as dosed above if selected and appropriate
 
 ### 5.3 Hemodynamic Management
-- Target **MAP ≥65 mmHg**  
-- Treat hypotension:
+- Target **MAP ≥65 mmHg** (individualize for CAD/cerebrovascular disease)  
+- Treat hypotension (institutional practice):
   - **Phenylephrine 50–100 mcg IV** (HR >70)  
   - **Ephedrine 5–10 mg IV** (HR <60)  
-- Dex-related bradycardia:
-  - **Glycopyrrolate 0.2–0.4 mg IV** (preferred over atropine)
+- Dex-related bradycardia/hypotension:
+  - Reduce/stop infusion if recurrent  
+  - **Glycopyrrolate 0.2–0.4 mg IV** if symptomatic (per local protocol)
 
 ### 5.4 Monitoring
 - Standard ASA monitors  
-- Agent analyzer for volatile  
 - TOF neuromuscular monitoring  
-- BIS/depth monitoring (consider strongly for elderly)  
+- Volatile agent analyzer if sevoflurane used  
+- Consider processed EEG (e.g., BIS) in elderly/frail, with ketamine caveat above
 
 ### Key Principle
-**Zero intraoperative opioids.**
+**Zero intraoperative opioids** in this pathway (unless conversion required for safety).
 
 ---
 
 ## 6. Emergence
 
 ### 6.1 10–15 Minutes Before End
-- Stop dexmedetomidine  
-- Continue ketamine until closure  
+- Begin reducing dexmedetomidine (or stop as tolerated)  
+- If ketamine infusion used, plan stop at closure
 
 ### 6.2 At Skin Closure
-- Stop ketamine infusion  
-- Taper volatile to **0.5–0.7 MAC** or reduce propofol by ~50%  
+- Stop ketamine infusion (if used)  
+- Reduce propofol toward emergence dosing  
+- If sevoflurane used, taper toward **~0.5–0.7 MAC** as tolerated
 
 ### 6.3 Reversal + PONV Prophylaxis
 - **Ondansetron 4 mg IV**  
@@ -152,10 +176,9 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 but
 - Hemodynamically stable  
 
 ### 6.5 Expected
-- Smooth, controlled emergence  
-- Minimal coughing/bucking  
-- Typically awake in **10–15 minutes**  
+- Smooth emergence  
 - Low PONV incidence  
+- Emergence typically within ~10–15 minutes (patient and dosing dependent)
 
 ---
 
@@ -170,25 +193,26 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 but
 
 ### 7.2 Scheduled Multimodal Analgesia
 - **Acetaminophen 1 g PO/IV q6h** (max 4 g/day)  
-- NSAID options:
+- NSAID options (institutional policy):
   - Celecoxib 200 mg PO q12h  
   - OR Ketorolac 15 mg IV q6h  
   - OR Meloxicam 15 mg PO daily  
 
-### 7.3 Rescue Analgesia (Stepwise)
+### 7.3 Rescue Analgesia (Stepwise; Selection-Dependent)
 1. **Ketamine 0.1–0.15 mg/kg IV q10–15 min**  
    - Max ~3 doses  
+   - **Omit or reduce** in frail/elderly, unstable hemodynamics, or tachyarrhythmia risk (see guardrails)  
 2. **Hydromorphone 0.2 mg IV**  
-   - Only if ketamine inadequate  
-   - Enhanced monitoring required  
+   - Only if inadequate response and clinically appropriate  
+   - Enhanced respiratory monitoring required  
 
 ### 7.4 Mobilization
 - POD 0 ambulation typically within **4–6 hours**  
-- Quad-sparing block enables safe mobilization  
+- Quad-sparing block supports safe mobilization  
 
 ### 7.5 Block Duration + Transition
-- ACB + IPACK duration: **12–18 hours**  
-- Ensure robust oral analgesic regimen before block wear-off  
+- ACB + IPACK duration: **~12–18 hours** (variable)  
+- Ensure oral regimen in place before block wear-off  
 - Anticipate increased pain needs at ~12–18 hours  
 
 ---
@@ -196,28 +220,27 @@ Protocols are **informed by** ERAS 2024, ASA/APSF 2024, and ASRA 2024–2025 but
 ## 8. Notes
 
 ### Clinical Advantages
-- **Preferred first-line ERAS pathway**  
-- **Lowest PONV** (<10%)  
-- **Best pain control** (NRS 0–3)  
-- **Motor-sparing** → safest POD 0 mobilization  
-- **Lowest delirium risk** in older adults  
+- ERAS-preferred pathway (conceptual)  
+- Low PONV profile  
+- Excellent analgesia with motor-sparing regional techniques  
+- Opioid avoidance reduces opioid-related respiratory depression and delirium risk in select populations
 
-### Ideal Patient Population
+### Ideal Patient Population (Selection-Dependent)
 - Opioid-naïve  
 - High PONV risk  
-- OSA  
-- Elderly and frail (avoids opioid delirium/respiratory depression)  
-- Patients desiring rapid recovery and discharge  
+- Patients prioritizing early mobility and discharge readiness  
+- Older adults when opioid minimization is clinically advantageous (**with conservative sedative/adjunct dosing**)
 
 ### Contraindications
 - Patient refusal  
 - Anticoagulation outside ASRA windows  
 - Active infection at injection site  
 - Amide local anesthetic allergy  
-- OFIA contraindications:
-  - Acute psychosis  
-  - Severe uncontrolled HTN (SBP >180 mmHg)  
-  - Advanced AV block without pacemaker  
+- Adjunct contraindications (examples; non-exhaustive):
+  - Severe psychiatric disease with active psychosis (ketamine context-dependent)  
+  - Clinically significant hemodynamic instability where dex/ketamine are inappropriate  
+  - Magnesium avoidance if **CrCl <30 mL/min**  
+  - Advanced AV block without pacemaker (dexmedetomidine caution)  
 
 ---
 
