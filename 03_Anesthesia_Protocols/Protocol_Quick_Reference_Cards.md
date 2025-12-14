@@ -1,84 +1,106 @@
 ---
 title: Quick Reference Cards – rTKA Anesthesia Pathways
-version: 1.6
+version: 1.4
 last-updated: 2025-12-14
 ---
 
 # Quick Reference Cards  
-Robot-Assisted Total Knee Arthroplasty (rTKA) – 2025  
-**Print → laminate → place at anesthesia machine**
+**Robot-Assisted Total Knee Arthroplasty (rTKA) – 2025**
 
-> **Educational Use Only (Non-Clinical Use).**  
-> This card is an educational synthesis and **not** a guideline, order set, or medical advice. Medication selection and dosing must be individualized to patient physiology, comorbidities, monitoring strategy, and institutional policy under **supervision of a licensed attending anesthesiologist**. Do not use this material to provide patient care.
-
----
-
-## Ketamine Guardrails (Patient Selection, Hemodynamics, and BIS/EEG)
-
-Ketamine is presented as an **optional sub-anesthetic adjunct** for opioid-sparing analgesia (**not** a default induction or maintenance agent). Effects are **context-dependent**.
-
-**Use caution, reduce dose, or omit** ketamine bolus/infusion when any of the following are present:
-- **Hemodynamic instability** or escalating vasopressor requirement; suspected catecholamine-depleted physiology
-- **Frailty / advanced age** with limited physiologic reserve (higher ASA class)
-- Clinically significant **tachyarrhythmia risk**
-- Severe psychiatric disease with active psychosis (context-dependent)
-
-**Depth monitoring caveat:** Ketamine may **increase BIS** despite adequate or deep hypnosis. Do **not** titrate hypnotics to BIS alone after ketamine; correlate with clinical signs and raw EEG when available.
+**Use:** Print → laminate → pocket / anesthesia machine  
+**Scope:** Intraoperative reference only (not a substitute for full protocols)
 
 ---
 
-# Pathway 1 — OFIA + ACB/IPACK (Preferred ERAS Pathway)
+## Pathway 1 – Preferred  
+### OFIA + ACB/IPACK (Opioid-Free + Blocks)
 
-| Section | Quick Reference |
-|-------|-----------------|
-| **Pre-op** | • Acetaminophen **1 g PO**<br>• Celecoxib **400 mg PO** (or meloxicam 15 mg)<br>• Dexamethasone **8–10 mg IV**<br>• Scopolamine patch (high PONV risk)<br>• **Avoid gabapentinoids** |
-| **Blocks (Pre-Induction)** | • **Midazolam 1–2 mg IV** (dose-reduce elderly/frail)<br>• **ACB:** 20–30 mL ropivacaine 0.2–0.25%<br>• **IPACK:** 20 mL ropivacaine 0.2–0.25%<br>• Max ropivacaine dose **~3 mg/kg**<br>• **20% lipid emulsion immediately available** |
-| **Induction** | • Midazolam **0.5–1 mg IV** optional<br>• **Propofol 1.5–2 mg/kg IV** (**primary hypnotic agent**)<br>• Ketamine **0.2–0.5 mg/kg IV** optional adjunct (see guardrails)<br>• Rocuronium **0.6–1.0 mg/kg IV** |
-| **Adjuncts** | • Magnesium **30–50 mg/kg IV** (avoid CrCl <30)<br>• Dexmedetomidine **0.2–0.7 mcg/kg/hr** (≤0.6 if elderly/frail; avoid large bolus loading)<br>• Ketamine infusion **0.1–0.2 mg/kg/hr** optional |
-| **Maintenance** | • **Propofol TIVA 75–150 mcg/kg/min (default maintenance)**<br>• **Optional sevoflurane 0.5–1.2 MAC** added selectively (case length, workflow, emergence strategy)<br>• Maintain **MAP ≥65 mmHg** (individualize for CAD/CVA disease) |
-| **Emergence** | • Stop dexmedetomidine **10–15 min** prior (as tolerated)<br>• Stop ketamine at closure (if used)<br>• Ondansetron **4 mg IV**<br>• Sugammadex **2–4 mg/kg** per TOF |
-| **PACU** | • Expected pain **0–3/10**<br>• Ketamine **0.1–0.15 mg/kg IV q10–15 min** ×3 max (if appropriate)<br>• Opioids only if inadequate |
+| Phase | Key Elements |
+|---|---|
+| **Pre-op** | • Acetaminophen 1 g PO/IV<br>• Celecoxib 400 mg PO *(or institutional NSAID plan; avoid stacking NSAIDs)*<br>• Dexamethasone **8–10 mg IV**<br>• Scopolamine patch *(high PONV risk; per policy)* |
+| **Blocks (Pre-Induction)** | • **Midazolam 1–2 mg IV** *(consider 0.5–1 mg in elderly / OSA)*<br>• **ACB:** ropivacaine 0.2–0.25%, 20–30 mL<br>• **IPACK:** ropivacaine 0.2–0.25%, 15–20 mL<br>• Document sensory coverage + motor sparing (quadriceps strength) |
+| **Induction** | • Propofol **1.5–2 mg/kg**<br>• Ketamine **0.3–0.5 mg/kg**<br>• Rocuronium **0.6–1.0 mg/kg**<br>• Additional midazolam **0.5–1 mg IV only if needed** |
+| **Adjuncts** | • Magnesium sulfate **30–50 mg/kg** *(typical ~40 mg/kg)* over 15–20 min<br>• Dexmedetomidine **0.2–0.7 mcg/kg/hr** *(typical 0.2–0.6 in age >70/frail; no loading dose in high-risk)* |
+| **Maintenance** | • **Sevoflurane ~0.8–1.2 MAC** **OR** **Propofol TIVA 75–150 mcg/kg/min**<br>• Ketamine **0.1–0.25 mg/kg/hr**<br>• Dexmedetomidine (as above)<br>• **Maintain MAP ≥65 mmHg (individualize)** |
+| **Emergence** | • Stop dexmedetomidine **10–15 min** prior (as tolerated)<br>• Ondansetron **4 mg IV**<br>• Sugammadex **2 mg/kg (TOF ≥2)** or **4 mg/kg (deep block)** |
+| **PACU Rescue** | • Expected pain **NRS 0–3/10**<br>• **Ketamine 0.1–0.15 mg/kg IV** slow push q10–15 min *(max 3 doses)*<br>• If still NRS ≥4 → **Hydromorphone 0.2 mg IV** q10–15 min *(high-risk: start 0.1 mg)* |
 
 ---
 
-# Pathway 2 — OFIA Block-Free
+## Pathway 2  
+### OFIA – Block-Free
 
-| Section | Quick Reference |
-|-------|-----------------|
+| Phase | Key Elements |
+|---|---|
 | **Pre-op** | Same as Pathway 1 |
-| **Blocks** | None — document reason (anticoagulation, refusal, anatomy, workflow)<br>• Surgeon infiltration: 100–150 mL ropivacaine 0.2% (max **~3 mg/kg**) |
-| **Induction** | • Midazolam **1–2 mg IV** (dose-reduce elderly/frail)<br>• **Propofol 1.5–2 mg/kg IV** (**primary hypnotic agent**)<br>• Ketamine **0.2–0.5 mg/kg IV** optional adjunct<br>• Rocuronium **0.6–1.0 mg/kg IV** |
-| **Adjuncts** | • Magnesium **30–50 mg/kg IV**<br>• Dexmedetomidine **0.3–0.7 mcg/kg/hr** (≤0.6 elderly/frail)<br>• Ketamine infusion **0.1–0.25 mg/kg/hr** optional<br>• Optional lidocaine infusion per institutional policy |
-| **Maintenance** | • **Propofol TIVA 75–150 mcg/kg/min (default maintenance)**<br>• **Optional sevoflurane 0.5–1.2 MAC** added selectively (longer or complex cases)<br>• Hemodynamic targets per Pathway 1 |
-| **Emergence** | • Stop dexmedetomidine **10–15 min** prior<br>• Ondansetron **4 mg IV**<br>• Sugammadex PRN |
-| **PACU** | • Expected pain **3–6/10**<br>• Ketamine rescue as above<br>• Opioids only if inadequate |
+| **Blocks** | None – document reason *(anticoagulation timing / refusal / anatomy / workflow)*<br>• Surgeon periarticular infiltration per local standard *(document drug + volume for LAST assessment)* |
+| **Induction** | • Midazolam **1–2 mg IV** *(0.5–1 mg elderly / OSA)*<br>• Propofol **1.5–2 mg/kg**<br>• Ketamine **0.4–0.5 mg/kg**<br>• Rocuronium **0.6–1.0 mg/kg** |
+| **Adjuncts / Maintenance** | • Magnesium **30–50 mg/kg** *(~40 mg/kg)*<br>• Dexmedetomidine **0.3–0.7 mcg/kg/hr** *(0.2–0.6 elderly; no loading dose in high-risk)*<br>• **Sevoflurane ~0.8–1.2 MAC** **OR** **Propofol TIVA 75–150 mcg/kg/min**<br>• Ketamine **0.15–0.25 mg/kg/hr**<br>• Optional lidocaine infusion **1–2 mg/kg/hr** *(selected patients only; monitor toxicity)*<br>• **Maintain MAP ≥65 mmHg** |
+| **Emergence** | • Stop dex **10–15 min** prior (as tolerated)<br>• Ondansetron **4 mg IV**<br>• Sugammadex PRN |
+| **PACU Rescue** | • Expected pain **NRS 3–6/10**<br>• **Ketamine 0.1–0.15 mg/kg IV** q10–15 min *(max 3)*<br>• If still NRS ≥4 → **Hydromorphone 0.2 mg IV** q10–15 min *(high-risk: 0.1 mg)* |
 
 ---
 
-# Pathway 3 — Conventional Opioid-Inclusive Anesthesia
+## Pathway 3  
+### Conventional Opioid-Inclusive
 
-| Section | Quick Reference |
-|-------|-----------------|
-| **Pre-op** | • Acetaminophen **1 g PO**<br>• Celecoxib **400 mg PO**<br>• Dexamethasone **8–10 mg IV**<br>• **Midazolam 1–2 mg IV** (dose-reduce elderly/frail)<br>• Continue home opioids if chronic user |
-| **Induction** | • Midazolam **0.5–1 mg IV** optional<br>• **Propofol 1.5–2 mg/kg IV** (**primary hypnotic agent**)<br>• **Fentanyl 1–2 mcg/kg IV** OR **Hydromorphone 0.2–0.4 mg IV**<br>• Rocuronium **0.6–1.0 mg/kg IV** |
-| **Maintenance** | • **Propofol TIVA 75–150 mcg/kg/min (default maintenance)**<br>• **Optional sevoflurane 0.5–1.2 MAC** added selectively (case length, stimulation, emergence control)<br>• Fentanyl **25–50 mcg IV boluses PRN**<br>• Dexmedetomidine **0.2–0.4 mcg/kg/hr** optional (dose-reduce elderly/frail) |
-| **Emergence** | • Ondansetron **4 mg IV**<br>• Sugammadex as indicated<br>• Expect longer emergence in opioid-exposed, elderly, or OSA patients |
-| **PACU** | • Expected pain **2–6/10**<br>• Hydromorphone **0.2 mg IV q10 min PRN**<br>• **Enhanced respiratory monitoring** |
-
----
-
-# Universal Safety Reminders (All Pathways)
-
-- **Propofol is the default hypnotic for BOTH induction and maintenance**
-- **Sevoflurane is optional and additive**, used selectively based on case characteristics
-- **Dose-reduce sedatives in elderly/frail patients**
-- **No gabapentinoids** in routine pathways
-- **Magnesium contraindicated if CrCl <30 mL/min**
-- **Dexmedetomidine bradycardia:** treat per local protocol (e.g., glycopyrrolate **0.2–0.4 mg IV**)
-- **Track total local anesthetic dose**; LAST preparedness mandatory
-- **Maintain MAP ≥65 mmHg**, individualized to comorbidities
-- **Ketamine alters BIS** — interpret depth cautiously
+| Phase | Key Elements |
+|---|---|
+| **Pre-op** | • Acetaminophen **1 g PO/IV**<br>• Celecoxib **400 mg PO** *(or institutional NSAID plan)*<br>• Dexamethasone **8 mg IV**<br>• **Midazolam 1–2 mg IV** *(titrate; lower in elderly / OSA)* |
+| **Induction** | • Propofol **1.5–2 mg/kg**<br>• Fentanyl **1–2 mcg/kg IV** *or* hydromorphone **0.2–0.4 mg IV** *(institution-dependent)*<br>• Rocuronium **0.6–1.0 mg/kg**<br>• Additional midazolam **0.5–1 mg IV only if needed** |
+| **Maintenance** | • **Sevoflurane ~0.8–1.2 MAC** **OR** **Propofol TIVA 75–150 mcg/kg/min**<br>• **Fentanyl infusion 0.5–1.5 mcg/kg/hr IV**, titrate to effect *(institution-dependent)*<br>• Avoid PRN bolus-only strategies |
+| **Emergence** | • Ondansetron **4 mg IV**<br>• Sugammadex PRN<br>• Monitor closely for sedation and respiratory depression |
+| **PACU** | • Expected pain **NRS 2–6/10 (variable)**<br>• **Hydromorphone 0.2 mg IV** q10–15 min PRN *(high-risk: start 0.1 mg)*<br>• Consider enhanced respiratory monitoring in OSA / elderly / frail |
 
 ---
 
-**Print tip:** GitHub → Print → Save as PDF → fits on a two-sided pocket card.
+## Universal Safety Reminders (All Pathways)
+
+### Standard Medications
+- **Midazolam 1–2 mg IV** is standard anxiolysis and compatible with OFIA (titrate; reduce in elderly / OSA).
+- **Sevoflurane** and **propofol TIVA** are both acceptable maintenance strategies; choose based on patient and clinician factors.
+
+### Critical Safety Points
+- **Avoid routine gabapentinoids** in ERAS-era pathways (sedation, delirium, respiratory risk).
+- **Lipid emulsion 20%** must be immediately available (regional anesthesia / LAST preparedness).
+- **Dexmedetomidine bradycardia:** if symptomatic and HR <50 → decrease/stop infusion; consider **glycopyrrolate 0.2–0.4 mg IV**.
+- **Local anesthetic safety:** document total LA dose (ACB + IPACK + infiltration) and patient weight.
+
+### PACU Monitoring Triggers
+Consider enhanced monitoring or escalation if:
+- **High cumulative opioid exposure** (≥2 mg IV hydromorphone **OR** ≥300 mcg IV fentanyl total), or
+- OSA (STOP-Bang ≥3), age >70, frailty, baseline cognitive impairment, or concurrent sedatives.
+
+### ASRA / ESRA 2024–2025
+- Block and neuraxial timing is **agent-, dose-, renal-function-, and procedure-dependent**.  
+- Always follow **current ASRA/ESRA guidance + institutional policy**.
+
+---
+
+## Printing Instructions
+
+### Laminated Badge Cards
+1. Print to PDF.
+2. Print at **100% scale** (no fit-to-page).
+3. **CR80 size:** 2.13" × 3.375".
+4. Laminate (5–10 mil) and trim.
+
+### Binder / Workstation
+- Print 8.5" × 11" and keep in sheet protector.
+
+### Anesthesia Machine
+- Laminate full page and mount per local practice.
+
+---
+
+**Last Updated:** 2025-12-14  
+**Version:** 1.4  
+**Next Review Due:** 2026-06
+
+### Related Documents
+- `03_Anesthesia_Protocols/Protocol_1_ACB_IPACK_OFIA.md`
+- `03_Anesthesia_Protocols/Protocol_2_BlockFree_OFIA.md`
+- `03_Anesthesia_Protocols/Protocol_3_OpioidBased.md`
+- `03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`
+- `05_PACU_Handoff_Templates.md`
+- `04_IntraOp_Flowcharts/PACU_Pain_Rescue_Algorithm.md`
