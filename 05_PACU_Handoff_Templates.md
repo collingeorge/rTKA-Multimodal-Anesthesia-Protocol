@@ -245,7 +245,7 @@ No shaded quote boxes are used; all emphasis is presented using **bold + italic*
 For PACU pain management algorithm, see:
 
 <p align="center">
-  <img src="../docs/images/pacu_rescue_algorithm.png" alt="PACU Rescue Algorithm" width="70%">
+  <img src="https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol/blob/main/docs/images/pacu_rescue_algorithm.png" alt="PACU Rescue Algorithm" width="70%">
 </p>
 
 [**Full PACU Pain Rescue Algorithm**](./04_IntraOp_Flowcharts/PACU_Pain_Rescue_Algorithm.md)
