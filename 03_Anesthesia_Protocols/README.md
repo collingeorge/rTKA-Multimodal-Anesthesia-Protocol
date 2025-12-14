@@ -1,313 +1,254 @@
 ---
 title: Multimodal & Opioid-Free Anesthesia Protocols for Robot-Assisted TKA
-version: 1.3
-last-updated: 2025-12-08
+version: 1.4
+last-updated: 2025-12-14
 ---
 
 # Multimodal & Opioid-Free Anesthesia Protocols for Robot-Assisted TKA (rTKA)
-A unified, evidence-based set of anesthesia pathways and supporting clinical tools designed for robot-assisted total knee arthroplasty (rTKA), integrating 2023–2025 literature, ERAS Society guidance, ASA/APSF safety recommendations, and ASRA 2024–2025 anticoagulation standards.
 
-**These documents are educational and non-validated. They are not institutional policy and require attending anesthesiologist oversight for any real-world implementation.**
+A unified, evidence-informed set of perioperative anesthesia pathways and supporting clinical tools for robot-assisted total knee arthroplasty (rTKA), integrating 2023–2025 literature, ERAS Society guidance, ASA/APSF safety recommendations, and ASRA 2024–2025 anticoagulation standards.
+
+**Educational Use Only. Not a clinical guideline. Not institutional policy. Requires attending anesthesiologist oversight for any clinical application.**
 
 ---
 
 ## Terminology
-**Opioid-Free Anesthesia (OFA)** in this repository specifically refers to:
 
-**Opioid-Free *Intraoperative* Anesthesia (OFIA)**
+In this repository:
 
-Opioid rescue **postoperatively** remains available when clinically required and **does not constitute pathway failure**.
-
----
-
-# Directory Overview
-
-This directory contains seven integrated components forming a complete anesthesia framework for rTKA:
-
-1. **Three primary anesthesia pathways**  
-2. **Pharmacology and dosing modules**  
-3. **Adjunct and contraindication references**  
-4. **A one-page protocol comparison table**  
-5. **Quick-reference clinician cards** (printable)  
-6. **PACU handoff templates** (in parent directories)  
-7. **Complete evidence citations**
-
-Each file is cross-referenced and consistent with the others.
+- **OFA** refers specifically to **Opioid-Free *Intraoperative* Anesthesia (OFIA)**.
+- **Postoperative opioid rescue** remains available when clinically required and **does not constitute pathway failure**.
 
 ---
 
+## Directory Overview
 
-# 1. Core Anesthesia Pathways
+This directory contains the integrated components of the rTKA anesthesia framework:
 
-These are the foundational clinical protocols.
+1. **Three primary anesthesia pathways (Protocols 1–3)**
+2. **Medication dosing and timing module** (repository-wide pharmacology backbone)
+3. **Adjuncts / contraindications / safety module** (including LAST and special populations)
+4. **Protocol comparison table** (one-page clinician-facing overview)
+5. **Quick-reference cards** (printable, laminate-friendly)
+6. **Cross-links to PACU handoff / perioperative templates** (parent directories)
+7. **Complete evidence citations** (parent directory)
+
+Each file is cross-referenced and intended to remain internally consistent.
 
 ---
+
+## 1. Core Anesthesia Pathways
 
 <p align="center">
   <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="90%">
 </p>
 
-*Figure 1: Visual overview of all three anesthesia pathways. See individual protocol files below for complete details.*
+*Figure 1: Overview of the three anesthesia pathways (Protocols 1–3). See individual protocol files for complete details, contraindications, and monitoring requirements.*
 
 ---
 
-## Protocol 1 — Opioid-Free Intraoperative Anesthesia (OFIA) With ACB + IPACK  
+### Protocol 1 — OFIA With ACB + IPACK (Preferred First-Line When Feasible)  
 **File:** [`Protocol_1_ACB_IPACK_OFIA.md`](Protocol_1_ACB_IPACK_OFIA.md)
 
 **Summary:**  
-The ERAS-preferred pathway for rTKA. Combines quadriceps-sparing regional anesthesia (ACB + IPACK) with ketamine–dexmedetomidine–magnesium–propofol (or sevoflurane)–based OFIA.
+ERAS-preferred pathway for most opioid-naïve rTKA patients when regional anesthesia is feasible and ASRA-safe. Combines quadriceps-sparing regional anesthesia (ACB + IPACK) with an OFIA adjunct strategy (ketamine ± dexmedetomidine ± magnesium) on a propofol-based anesthetic platform.
 
-**Why it is preferred:**
-- Lowest PONV incidence  
-- Most reliable early ambulation (POD 0)  
-- Superior analgesia (NRS 0–3 expected in PACU)  
-- Motor-sparing block profile  
+**Why it is preferred (typical trends):**
+- Lowest PONV incidence
+- Most reliable early mobilization (POD 0)
+- Strongest early analgesia (PACU NRS commonly 0–3)
+- Motor-sparing profile supporting safe ambulation
 
-**Block Summary:**
-- **ACB:** 20–30 mL ropivacaine 0.2–0.25%  
-- **IPACK:** 20 mL ropivacaine 0.2–0.25%  
-- Maximum safe ropivacaine dose: **~3 mg/kg (~210 mg for 70 kg patient)**
+**Block summary (typical ranges):**
+- **ACB:** 20–30 mL ropivacaine 0.2–0.25%
+- **IPACK:** 20 mL ropivacaine 0.2–0.25%
+- Maximum ropivacaine dose (conservative): **≈3 mg/kg**
+- **LAST preparedness mandatory:** lipid emulsion 20% immediately available
 
 ---
 
-## Protocol 2 — OFIA Without Nerve Blocks (Block-Free Pathway)  
+### Protocol 2 — OFIA Block-Free (No Nerve Blocks)  
 **File:** [`Protocol_2_BlockFree_OFIA.md`](Protocol_2_BlockFree_OFIA.md)
 
 **Summary:**  
-Used when blocks are **contraindicated** (ASRA anticoagulation timing) or **declined**.  
-Relies on surgeon-delivered periarticular infiltration and higher systemic OFIA adjunct dosing.
+Used when regional blocks are not performed (patient refusal, ASRA anticoagulation timing, anatomy/workflow constraints). Relies on **surgeon periarticular infiltration** plus systemic OFIA adjuncts.
 
-**Why choose this pathway:**
-- Fastest OR workflow (no block setup time)  
-- Avoids anticoagulation safety conflicts  
-- Preserves OFIA benefits without regional techniques  
+**Why choose this pathway (typical trends):**
+- Avoids anticoagulation timing constraints related to blocks
+- Faster workflow (no block placement)
+- Preserves OFIA benefits compared with conventional opioid-heavy strategies
 
-**Key Features:**
-- Higher ketamine infusion (0.15–0.25 mg/kg/hr)  
-- Higher starting dexmedetomidine range (0.3–0.7 mcg/kg/hr)  
-- Surgeon infiltration: **100–150 mL ropivacaine 0.2%** (max dose ~3 mg/kg)
+**Key features (typical):**
+- Higher analgesic reliance on systemic adjuncts (ketamine/dexmedetomidine/magnesium ± lidocaine infusion)
+- **Surgeon periarticular infiltration is essential** (not optional)
+- Infiltration should be **dose-capped**: volume/concentration adjusted so total local anesthetic dose remains within conservative weight-based limits (see Adjuncts/Safety module)
 
 ---
 
-## Protocol 3 — Conventional Opioid-Inclusive General Anesthesia  
+### Protocol 3 — Conventional Opioid-Inclusive General Anesthesia  
 **File:** [`Protocol_3_OpioidBased.md`](Protocol_3_OpioidBased.md)
 
 **Summary:**  
-For chronic opioid users, severe anxiety, or contraindications to OFIA agents.
+Reserved for patients where OFIA components are contraindicated, not desired, or not appropriate (e.g., high opioid tolerance, selected psychiatric/cardiac conduction contraindications to OFIA adjuncts, or strong patient/attending preference).
 
-**Key Characteristics:**
-- Intraoperative fentanyl or hydromorphone  
-- Higher PONV and sedation risk  
-- Slower emergence (10–20 minutes typical)  
-- Requires enhanced postoperative respiratory monitoring  
-
----
-
-# 2. Supporting Pharmacology & Dosing Modules
+**Key characteristics (expected trends):**
+- Intraoperative opioids (e.g., fentanyl boluses ± hydromorphone)
+- Higher PONV and sedation risk than OFIA pathways
+- Greater postoperative respiratory monitoring requirements (especially OSA/elderly/opioid-naïve)
 
 ---
 
-## Medication Dosing & Timing  
+## 2. Pharmacology Backbone
+
+### Medication Dosing & Timing (Repository Standardization)  
 **File:** [`Protocol_Medication_Dosing_and_Timing.md`](Protocol_Medication_Dosing_and_Timing.md)
 
 This module standardizes:
+- ERAS pre-op medications
+- Induction dosing ranges and timing
+- Maintenance strategy and adjunct infusion ranges
+- Emergence timing / infusion stop points
+- PACU rescue dosing logic
 
-- Pre-operative oral agents  
-- Induction and maintenance dosing  
-- Adjunct infusion ranges (ketamine, dexmedetomidine, magnesium, lidocaine)  
-- Onset/offset expectations  
-- Emergence timing for each pathway  
-- PACU rescue dosing logic  
-
-It ensures all three protocols follow the same pharmacologic backbone.
+**Repository-wide standard:**  
+- **Propofol is the universal induction agent and default maintenance platform.**  
+- **Sevoflurane may be used as an optional hybrid/transition/institutional preference**, not as the primary “either/or” framing.
 
 ---
 
-## Adjuncts, Contraindications, and Safety  
+## 3. Adjuncts, Contraindications, and Safety
+
+### Adjuncts / Contraindications / Safety (LAST, Special Populations, Monitoring)  
 **File:** [`Protocol_Adjuncts_and_Contraindications.md`](Protocol_Adjuncts_and_Contraindications.md)
 
-Summarizes absolute/relative contraindications for:
-
-- Ketamine  
-- Dexmedetomidine  
-- Magnesium sulfate (avoid if **CrCl <30 mL/min**)  
-- Lidocaine infusion  
+Summarizes absolute/relative contraindications and safety considerations for:
+- Ketamine (including hemodynamic guardrails)
+- Dexmedetomidine (bradycardia/AV block risk)
+- Magnesium sulfate (**avoid if CrCl <30 mL/min**)
+- Lidocaine infusion (optional; toxicity monitoring)
 - Regional anesthesia (ACB/IPACK) per **ASRA 2024–2025**
+- LAST prevention and treatment expectations (lipid rescue availability)
 
-Includes:
-- LAST preparedness  
-- QTc considerations  
-- Cardiovascular safety reminders  
-- Avoidance of gabapentinoids (ASA/APSF 2024)
-
----
-
-# 3. Comparison and Quick-Reference Tools
+Also reinforces:
+- **Avoid routine gabapentinoids** (ASA/APSF 2024 safety emphasis)
+- Risk-stratified monitoring in OSA, frailty, renal/hepatic impairment, and cardiac disease
 
 ---
 
-## Pathway Comparison Table  
+## 4. Comparison and Quick-Reference Tools
+
+### Pathway Comparison Table  
 **File:** [`Protocol_Comparison_Table.md`](Protocol_Comparison_Table.md)
 
-A concise one-page overview of:
+One-page overview of:
+- Analgesic mechanisms
+- Expected pain trajectory
+- Suitability by patient phenotype
+- PONV expectations
+- Mobilization goals
+- Workflow considerations
 
-- Analgesia mechanisms  
-- Expected pain trajectory  
-- Suitability by patient phenotype  
-- PONV expectations  
-- Mobility goals  
-- Workflow implications  
-
-Ideal for surgeons, PACU nurses, and anesthesia residents/fellows.
-
----
-
-## Quick Reference Cards (Laminate-Friendly)  
+### Quick Reference Cards (Laminate-Friendly)  
 **File:** [`Protocol_Quick_Reference_Cards.md`](Protocol_Quick_Reference_Cards.md)
 
-A double-sided, back-of-badge card summarizing:
-
-- Pre-op medications  
-- Block recipes  
-- Induction and maintenance dosing  
-- PACU rescue algorithms  
-- Universal safety checks (MAP goals, bradycardia management, ropivacaine max dose)  
-
-**Print Tip:**  
-From GitHub → “Print” → “Save as PDF”; the layout is optimized for 2-sided 4×6 or 5×7 cards.
+Back-of-badge style card summarizing:
+- Pre-op medications
+- Block recipes (when applicable)
+- Induction/maintenance dosing ranges
+- PACU rescue algorithm
+- Safety reminders (MAP goals, dexmed bradycardia response, LA dose-capping, LAST readiness)
 
 ---
 
-# 4. Methodology
+## 5. Protocol Selection Guide (High-Level)
 
-Protocols were created through systematic synthesis of:
+### Prefer Protocol 1 (OFIA + Blocks) when:
+- ASRA timing permits safe ACB/IPACK
+- Patient consents to regional anesthesia
+- Early ambulation (POD 0) and minimal PONV are high priority
 
-### Society Guidelines
-- **ERAS Society** hip and knee arthroplasty guidance (2019–2024 updates)  
-- **ASRA 2024–2025** regional anesthesia and anticoagulation standards  
-- **ASA/APSF 2023–2025** perioperative safety and opioid-sparing recommendations  
+### Use Protocol 2 (OFIA Block-Free) when:
+- Blocks are declined or not feasible (ASRA timing, anatomy, workflow)
+- Surgeon can perform consistent periarticular infiltration
+- OFIA strategy remains appropriate and desired
 
-### Primary Evidence (2023–2025)
-- RCTs evaluating ketamine, magnesium, dexmedetomidine for TKA  
-- RCTs and meta-analyses on ACB and IPACK effectiveness  
-- Comparative studies of OFA/OFIA vs opioid-based general anesthesia  
-- PONV reduction strategies  
-- Early mobility outcomes and ERAS compliance metrics  
-
-### Evidence Level
-Most recommendations represent **Level 1–2** evidence.  
-Complete citations:  
-See [`07_References_Evidence_2024.md`](../07_References_Evidence_2024.md).
+### Use Protocol 3 (Conventional Opioid-Inclusive) when:
+- High opioid tolerance or chronic opioid use requires conventional strategy
+- OFIA adjuncts are contraindicated or undesirable for the specific patient
+- Patient/attending preference favors a conventional approach after counseling
 
 ---
 
-# 5. Protocol Selection Guide
+## 6. Clinical Implementation Notes (For QI / Institutional Adaptation)
 
-## Use Protocol 1 (OFIA + Blocks) when:
-- Patient is opioid-naïve  
-- Minimal PONV risk is desired  
-- Early ambulation (POD 0) is prioritized  
-- ASRA anticoagulation windows allow safe nerve blocks  
-- Patient consents to regional anesthesia  
+If adapting for institutional use, recommended prerequisites include:
+- Medication/formulary confirmation (ketamine, dexmedetomidine, magnesium, lidocaine)
+- Credentialing and competency for ultrasound-guided ACB/IPACK
+- PACU nursing education on OFIA recovery patterns and ketamine rescue
+- Confirm **lipid emulsion 20% is immediately accessible** wherever blocks are performed
+- Pharmacy alignment for infusion concentrations and labeling
+- Standardized documentation of total local anesthetic dose (blocks + infiltration)
 
-## Use Protocol 2 (OFIA Block-Free) when:
-- Anticoagulation timing makes ACB/IPACK unsafe  
-- Patient declines blocks  
-- OR efficiency is a priority  
-- Surgeon comfortable with high-volume periarticular infiltration  
-- OFIA strategy still desired  
-
-## Use Protocol 3 (Opioid-Inclusive) when:
-- Chronic opioid use or high opioid tolerance  
-- Severe procedural anxiety  
-- Contraindications to ketamine, dexmedetomidine, or magnesium  
-- OSA requiring familiar, tightly titrated anesthetic workflow  
-- Institutional or attending preference  
+Suggested quality metrics for QI/IRB workflows:
+- Pain scores (PACU arrival, 2h, 12h, 24h)
+- 24-hour opioid consumption (MME)
+- PONV incidence and rescue
+- Time to ambulation and PT milestones
+- Length of stay (PACU + inpatient)
+- Patient-reported recovery measures
 
 ---
 
-# 6. Clinical Implementation Notes
+## 7. Version History
 
-### Preconditions for Institutional Use
-- Review medication formulary for ketamine, dexmedetomidine, magnesium, lidocaine  
-- Confirm credentialing for ultrasound-guided ACB/IPACK  
-- Educate PACU nurses on OFIA recovery patterns and ketamine rescue  
-- Ensure **20% lipid emulsion** is immediately accessible for LAST  
-- Pharmacy alignment on premixed adjunct infusions  
+**Version 1.4 — December 2025**
+- Updated repository-wide standardization: **propofol default maintenance platform**, sevoflurane optional hybrid/transition framing
+- Harmonized OFIA language across protocols (selection-dependent ketamine guidance and hemodynamic guardrails)
+- Reinforced dose-capped surgeon infiltration language in block-free pathway
+- Improved cross-linking to pharmacology backbone and safety module
 
-### Workflow Integration
-- Blocks add **10–15 minutes** pre-incision  
-- Block room can eliminate workflow delay  
-- PACU handoff templates exist in parent folders  
-
-### Quality Metrics (recommended for QI/IRB)
-- Pain scores at PACU arrival, 2h, 12h, 24h  
-- Total 24-h opioid consumption (MME)  
-- PONV incidence and rescue  
-- Time to ambulation and rehabilitation milestones  
-- Length of stay (PACU + inpatient)  
-- Patient satisfaction and functional recovery scores  
-
----
-
-# 7. Version History
-
-**Version 1.3 — December 2025**  
-- Added Quick Reference Cards  
-- Harmonized pharmacology across all protocols  
-- Updated anticoagulation and safety language  
+**Version 1.3 — December 2025**
+- Added quick reference cards
+- Harmonized pharmacology across protocols
+- Updated anticoagulation and safety language
 - Revised selection guide and methodology
 
-**Version 1.1 — December 2024**  
-- Added medication dosing and contraindication modules  
-- Added pathway comparison table  
-- Updated terminology and safety framing  
-
-**Version 1.0 — November 2024**  
-- Initial release of three protocol files  
-- Evidence synthesis through January 2025  
-
-**Next planned review:** **June 2026**
+**Next planned review:** **June 2026** (or earlier if major guideline changes occur)
 
 ---
 
-# 8. Scope and Legal Disclaimer
+## 8. Scope and Legal Disclaimer
 
 These materials are:
+- Educational
+- Non-validated
+- Not institutional policy
+- Not medical advice
 
-- **Educational**
-- **Non-validated**
-- **Not institutional policy**
-- **Not medical advice**
-
-Any real-world implementation requires:
-
-- Supervising anesthesiologist review  
-- Adaptation to institutional workflow and patient population  
-- IRB or QI approval  
-- Pharmacy and nursing alignment  
-- Compliance with credentialing requirements  
-
-Use without formal approval may violate institutional, legal, or credentialing standards.
+Any clinical implementation requires:
+- Supervising anesthesiologist review
+- Institutional adaptation and approval processes
+- Alignment with pharmacy, nursing, and credentialing requirements
+- Compliance with ASRA anticoagulation standards and local policies
 
 ---
 
-# 9. Related Repository Links
+## 9. Related Repository Links
 
-**Pre-Operative**  
-- [`01_PreOp_Checklist.md`](../01_PreOp_Checklist.md)  
+**Pre-Operative**
+- [`01_PreOp_Checklist.md`](../01_PreOp_Checklist.md)
 - [`02_Patient_Counseling_Script.md`](../02_Patient_Counseling_Script.md)
 
-**Intra-Operative**  
+**Intra-Operative**
 - [`04_IntraOp_Flowcharts/`](../04_IntraOp_Flowcharts/)
 
-**Post-Operative**  
+**Post-Operative**
 - [`05_PACU_Handoff_Templates.md`](../05_PACU_Handoff_Templates.md)
 
-**Team Coordination**  
+**Team Coordination**
 - [`06_Surgeon_OnePage_Summary.md`](../06_Surgeon_OnePage_Summary.md)
 
-**Evidence Base**  
+**Evidence Base**
 - [`07_References_Evidence_2024.md`](../07_References_Evidence_2024.md)
 
 ---
