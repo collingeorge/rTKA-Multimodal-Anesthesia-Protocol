@@ -1,307 +1,221 @@
 ---
 title: PACU Pain and Rescue Analgesia Algorithm – rTKA
-version: 1.2
-last-updated: 2025-12-08
+version: 1.3
+last-updated: 2025-12-14
 ---
 
-# PACU Pain and Rescue Analgesia Algorithm  
+# PACU Pain and Rescue Analgesia Algorithm
 Robot-Assisted Total Knee Arthroplasty (rTKA)
 
-This algorithm standardizes PACU pain assessment and rescue strategies across the three primary anesthesia pathways. It emphasizes multimodal analgesia, opioid stewardship, and safety, and is designed to be cohesive with the rTKA anesthesia protocols and PACU handoff templates.
+This algorithm standardizes PACU pain assessment and rescue strategies across the three primary anesthesia pathways. It emphasizes multimodal analgesia, opioid stewardship, and safety. It is designed to remain cohesive with the rTKA anesthesia protocols, contraindication module, and PACU handoff templates.
 
 <p align="center">
   <img src="../docs/images/pacu_rescue_algorithm.png" alt="PACU Rescue Algorithm" width="85%">
 </p>
 
-*Figure 1: Stepwise PACU pain management algorithm stratified by anesthetic pathway with ketamine first-line for OFIA pathways and pathway-specific enhanced monitoring criteria. See detailed text-based protocol below.*
+*Figure 1: Stepwise PACU pain management algorithm stratified by anesthetic pathway with ketamine-first rescue for OFIA pathways and pathway-specific enhanced monitoring criteria. See text-based protocol below.*
 
 ---
 
-## 1. Identify Anesthesia Pathway
+## 1. Confirm Anesthesia Pathway and Key Intraop Details
 
-At PACU arrival, confirm pathway from OR handoff:
+At PACU arrival, confirm from OR handoff:
 
-- **Pathway 1:** OFIA + ACB/IPACK  
-- **Pathway 2:** OFIA – Block-Free (surgeon periarticular infiltration)  
-- **Pathway 3:** Conventional Opioid-Inclusive  
+- **Pathway 1:** OFIA + ACB/IPACK
+- **Pathway 2:** OFIA – Block-Free (surgeon periarticular infiltration)
+- **Pathway 3:** Conventional Opioid-Inclusive
 
 Also confirm:
-
-- Whether **ACB/IPACK** were performed, and whether blocks appear to be functioning  
-- Intraoperative use and stop times for **ketamine**, **dexmedetomidine**, and **magnesium**  
-- **Midazolam** administration (standard anxiolytic in all pathways)  
-- Last **opioid dose** and total intraoperative opioid (if any)
+- ACB/IPACK performed? Coverage/quality? Any concerns for partial block or regression?
+- Intraoperative agents and stop times: **ketamine**, **dexmedetomidine**, **magnesium**, **lidocaine** (if used)
+- Last opioid dose and estimated total intraoperative opioid exposure (if any)
+- Major perioperative risks: **OSA**, frailty, delirium risk, COPD/OHS, hemodynamic instability
 
 ---
 
-## 2. Standard Pain Assessment
+## 2. Standard Assessment (Arrival, then q15–30 min or per institutional policy)
 
-At arrival and at regular intervals (e.g., q15–30 min):
+Document:
+- **Pain:** NRS 0–10 (rest + gentle movement if appropriate)
+- **Sedation:** RASS (or institutional scale)
+- **PONV:** nausea score / emesis
+- **Vitals:** HR, BP/MAP, RR, SpO₂ (baseline target individualized)
 
-- Numeric Rating Scale (**NRS 0–10**) at rest and with gentle knee movement  
-- Sedation score (e.g., **RASS** or institution-specific scale)  
-- Nausea/PONV assessment  
-- Vital signs:
-  - HR, BP (MAP), RR, SpO₂
-
-Target:
-
-- NRS ≤3 at rest and ≤4 with gentle movement, when clinically achievable  
-- RASS approximately 0 to –1 (calm, awake or lightly drowsy but easily arousable)
+**Analgesia goal (practical):**
+- Achieve **meaningful pain reduction** with **preserved ventilation and mentation**.
+- Avoid “pain-free” escalation if sedation/respiratory risk is increasing.
 
 ---
 
 ## 3. Baseline Multimodal Analgesia (All Pathways)
 
-Unless contraindicated, ensure **scheduled multimodal analgesia** is ordered and administered:
+Unless contraindicated, confirm scheduled multimodal orders are active and administered:
 
-- **Acetaminophen**  
-  - 1 g PO/IV q6h (max 4 g/day; lower max per institutional or hepatic guidance)
+### Acetaminophen
+- **1 g PO/IV q6h**
+- Usual max **4 g/day** (use lower max per institutional/hepatic guidance)
 
-- **NSAID / COX-2 inhibitor** (choose **one strategy**, not all simultaneously):  
-  - Celecoxib 200 mg PO q12h, **or**  
-  - Meloxicam 15 mg PO daily, **or**  
-  - Ketorolac 15 mg IV q6h (max 60 mg/day; limit to 48–72 hours; avoid in significant renal impairment or high bleeding risk)
+### NSAID / COX-2 (choose one strategy; avoid stacking)
+- **Celecoxib 200 mg PO q12h**, *or*
+- **Meloxicam 15 mg PO daily**, *or*
+- **Ketorolac 15 mg IV q6h** (max **60 mg/day**; short duration only)
 
-Confirm these are active and given on schedule before escalating rescue measures.
+**Avoid/Use caution with NSAIDs/ketorolac** in:
+- Significant renal impairment (e.g., **CrCl <30 mL/min**), high bleeding risk, active GI ulcer/bleed, uncontrolled HTN, advanced frailty, or surgeon-specific restrictions.
 
----
-
-## 4. Pathway-Specific Pain Expectations
-
-- **Pathway 1 – OFIA + ACB/IPACK:**  
-  - Expected PACU NRS: **0–3/10**  
-  - If NRS ≥4, consider:
-    - Incomplete or patchy block  
-    - Tourniquet-related pain (often improves over time)  
-    - Positioning pain or anxiety  
-    - Early block regression (less common in PACU timeframe)
-
-- **Pathway 2 – OFIA, Block-Free:**  
-  - Expected PACU NRS: **3–6/10** during the first 12–24 hours  
-  - Pain often more pronounced with movement due to absence of ACB/IPACK  
-  - Analgesia relies on multimodal systemic therapy and surgeon periarticular infiltration
-
-- **Pathway 3 – Conventional Opioid-Inclusive:**  
-  - Expected NRS: **2–6/10**, variability higher  
-  - Sedation and PONV risk increased due to intraoperative opioids  
-  - Requires more vigilant respiratory and sedation monitoring
+If baseline multimodal dosing has not occurred (or is overdue), correct that before escalating rescue medications.
 
 ---
 
-## 5. Stepwise Rescue Algorithm (Text-Based Flow)
+## 4. Pathway-Specific Pain Expectations (Context, Not Guarantees)
 
-### Step 1 – Confirm Basics (All Pathways)
-
-Before administering rescue medications:
-
-- Verify:
-  - Scheduled **acetaminophen** and **NSAID/COX-2** have been given or are due  
-  - Vital signs:
-    - MAP ≥65 mmHg (or individualized target for CAD/cerebrovascular disease)  
-    - RR ≥10/min  
-    - SpO₂ ≥92% (or baseline for chronic lung disease)  
-  - No emergent cause of pain:
-    - Disproportionate pain, tense swelling, severe pain with passive stretch → consider compartment syndrome  
-    - New neurologic deficit → urgent evaluation  
-    - Unusual bleeding or severe hemodynamic instability → consider surgical complication
-  - Adequate reversal of neuromuscular blockade (if applicable)
-
-If unstable or concerning exam findings → **notify anesthesia and surgeon immediately** before giving additional analgesia.
+- **Pathway 1 (OFIA + ACB/IPACK):** often lower early pain; if NRS ≥4 consider patchy block, tourniquet discomfort, positioning pain, anxiety, or early regression.
+- **Pathway 2 (OFIA block-free):** often higher pain in first 12–24h, especially with movement; systemic multimodal + surgeon infiltration are primary.
+- **Pathway 3 (opioid-inclusive):** variable pain; higher sedation/PONV risk; greater need for respiratory monitoring during escalation.
 
 ---
 
-### Step 2 – Non-Opioid Rescue (Preferred First-Line)
+## 5. Stepwise Rescue Algorithm (Text-Based)
 
-#### OFIA Pathways (1 and 2)
+### Step 1 — “Safety Gate” (All Pathways)
+Before rescue dosing, verify:
+- Airway/ventilation: RR adequate, patient arousable, no progressive hypoventilation
+- Hemodynamics: MAP at/near target (typically ≥65 mmHg unless individualized)
+- No “red flags” for surgical complication:
+  - Pain out of proportion + tense swelling, severe pain with passive stretch → urgent evaluation
+  - New motor deficit, vascular compromise, uncontrolled bleeding → urgent evaluation
 
-If NRS ≥4 and sedation is appropriate (e.g., RASS –1 to 0):
-
-- **Ketamine IV bolus:**
-  - 0.1–0.15 mg/kg IV over 2–3 minutes  
-  - May repeat q10–15 minutes, **maximum 3 doses** (total ~0.3–0.45 mg/kg)  
-  - Monitor for dysphoria, perceptual changes, or agitation (rare at these doses)
-
-- **Non-pharmacologic measures:**
-  - Ice to surgical site  
-  - Elevation and optimal positioning of the limb  
-  - Reassurance and anxiety management  
-  - Environmental control (noise, light, temperature)
-
-#### Conventional Pathway (3)
-
-If NRS ≥4:
-
-- Confirm scheduled non-opioid multimodal agents are active  
-- Consider **the same low-dose ketamine rescue** as above, particularly in opioid-tolerant patients or when further opioid escalation is undesirable  
-- If ketamine is contraindicated or not available, proceed to Step 3 (opioid rescue) with heightened caution
+If unstable or red flags present → **notify anesthesia and surgeon immediately** before giving additional analgesia.
 
 ---
 
-### Step 3 – Opioid Rescue (When Needed)
+### Step 2 — Non-Opioid Rescue (Preferred First-Line)
 
-#### OFIA Pathways (1 and 2)
+#### OFIA Pathways (1 & 2): Ketamine-first when appropriate
+If **NRS ≥4** and sedation is acceptable (e.g., RASS –1 to 0) and no contraindication:
 
-If NRS remains ≥4–5 after:
+- **Ketamine IV bolus:** **0.1 mg/kg** (up to **0.15 mg/kg**) IV **slowly over 2–3 min**
+- May repeat **q10–15 min**, **maximum 3 doses**
+  - Typical cumulative total: **~0.3 mg/kg** (up to **0.45 mg/kg**)
 
-- Scheduled multimodal analgesia **and**  
-- Up to 3 ketamine rescue doses (if not contraindicated):
+Monitor for dysphoria, agitation, nausea, and hypertension/tachycardia (generally uncommon at these doses).
 
-→ Initiate **low-dose opioid rescue**:
+**Use caution / consider avoiding ketamine** in:
+- Active psychosis or severe uncontrolled agitation
+- Severe uncontrolled hypertension or unstable ischemic symptoms
+- Situations where altered perception would be particularly unsafe (clinician judgment)
 
-- **Hydromorphone 0.2 mg IV q10–15 min PRN** for NRS ≥4  
-  - In frail, elderly, or OSA patients, consider starting at **0.1 mg IV**  
-  - Reassess pain, sedation, and respiratory status before each repeat dose  
-  - Use the **minimal effective total dose**
-
-#### Conventional Pathway (3)
-
-- **Hydromorphone 0.2 mg IV q10–15 min PRN** for NRS ≥4  
-  - Consider 0.1 mg IV increments in high-risk patients (elderly, OSA, frail)  
-- **Oral opioid** (e.g., oxycodone 2.5–5 mg PO) may be appropriate if:
-  - Patient is awake, tolerating oral fluids  
-  - Pain is moderate and stable  
-  - PONV is absent or well-controlled
-
-**In all pathways:**
-
-- Continuous monitoring for sedation and respiratory depression
-- Consider capnography for high-risk patients (OSA, obesity, high opioid dose)
-- Maintain naloxone immediately available (see Safety section)
+#### Conventional Pathway (3): Consider ketamine as opioid-sparing rescue
+If NRS ≥4 and further opioid escalation is undesirable (OSA/frailty/opioid tolerance), consider the same **low-dose ketamine rescue** above if not contraindicated.
 
 ---
 
-### Step 4 – Reassessment and Escalation
+### Step 3 — Opioid Rescue (When Needed; All Pathways)
+If pain remains clinically unacceptable after baseline multimodal measures (and ketamine rescue when appropriate), or ketamine is contraindicated:
 
-After every rescue intervention (ketamine or opioid):
+- **Hydromorphone 0.2 mg IV q10–15 min PRN**
+  - **High-risk (OSA/frail/elderly/opioid-naïve): start 0.1 mg IV** increments
+  - Reassess **pain + sedation + RR/SpO₂** before each repeat dose
+  - Use the minimal effective cumulative dose
 
+**Oral opioid option (selected cases):**
+- If awake, tolerating PO, and pain is moderate/stable with minimal PONV, consider small-dose oral opioid per institutional order set.
+
+**Monitoring:**
+- Continuous pulse oximetry while receiving IV opioids
+- Strongly consider capnography for high-risk patients (OSA/OHS, obesity, escalating opioid dosing, frailty)
+
+---
+
+### Step 4 — Reassessment and Escalation
+After each rescue intervention:
 - Reassess within **10–15 minutes**:
-  - NRS pain score  
-  - Sedation level  
-  - RR and SpO₂  
-  - Overall comfort and mental status
+  - NRS, sedation, RR, SpO₂, hemodynamics, overall comfort
 
-If:
+Escalate immediately if:
+- NRS remains ≥7 despite appropriate rescue, **or**
+- Pain is out of proportion / concerning exam findings, **or**
+- New neurovascular deficit or expanding hematoma suspected
 
-- NRS remains ≥7, or  
-- Pain is out of proportion to exam, or  
-- New neurologic or vascular findings are present:
-
-→ **Escalate immediately:**
-
-- Notify anesthesia attending and surgeon  
-- Consider:
-  - Block failure or non-functional regional technique (Pathway 1)  
-  - Compartment syndrome or hematoma  
-  - Other surgical complication requiring urgent evaluation
-
-Document all findings and actions taken.
+Actions:
+- Notify anesthesia attending and surgeon
+- Consider block failure (Pathway 1), hematoma, evolving compartment syndrome, or other surgical complication
+- Document findings and communications clearly
 
 ---
 
-## 6. PONV and Safety Considerations
+## 6. PONV and Safety
 
-### PONV Management
+### PONV (PACU Rescue)
+Baseline prophylaxis often includes intraop ondansetron ± dexamethasone; scopolamine in high-risk patients.
 
-- **Baseline prophylaxis** usually includes:
-  - Ondansetron 4 mg IV intra-op ± dexamethasone 8–10 mg IV  
-  - Scopolamine patch in high-risk patients
+PACU rescue options (institution-dependent):
+- **Ondansetron 4 mg IV q6h PRN**
+- If inadequate response, consider switching class/mechanism:
+  - Metoclopramide 10 mg IV (if appropriate)
+  - Promethazine 6.25–12.5 mg IV (caution: sedation)
 
-- **Rescue therapy in PACU:**
-  - Ondansetron 4 mg IV q6h PRN  
-  - Consider:
-    - Promethazine 6.25–12.5 mg IV (caution: sedation)  
-    - Metoclopramide 10 mg IV (if no contraindications)  
-  - Avoid duplicating same-class antiemetics without effect; rotate mechanisms when possible
+Avoid repeating the same mechanism repeatedly without effect.
 
-### Safety Monitoring
+### Naloxone (Opioid-Related Respiratory Depression)
+If clinically significant respiratory depression occurs:
+- Ensure airway support and oxygenation first
+- **Naloxone titration:** **0.04–0.1 mg IV** q1–2 min to restore ventilation (avoid abrupt full reversal when possible)
 
-- Continuous **SpO₂** monitoring while receiving IV opioids or ketamine  
-- **Capnography** strongly considered in:
-  - OSA, morbid obesity  
-  - Significant opioid dosing  
-  - Elderly or frail patients  
-- **Naloxone** immediately available:
-  - Have 0.4 mg vials at bedside  
-  - For respiratory depression (RR <8–10, SpO₂ <90% despite O₂, unresponsiveness):
-    - Titrate in **0.04–0.1 mg IV increments** every 1–2 minutes until adequate ventilation is restored  
-- **LAST preparedness:**
-  - 20% lipid emulsion available  
-  - Monitor for:
-    - Perioral numbness, tinnitus, metallic taste  
-    - Agitation, seizures, or arrhythmias  
-  - Treat per institutional LAST protocol if suspected
+Naloxone must be immediately available when IV opioids are administered.
+
+### LAST Preparedness (Relevant to Pathway 1 / Recent Blocks)
+Monitor for early neurologic symptoms (perioral numbness, tinnitus, metallic taste), seizures, or arrhythmias. Treat per institutional LAST protocol; ensure lipid availability per block safety standards.
 
 ---
 
-## 7. Documentation Expectations
-
-PACU record should clearly document:
-
-- Anesthesia pathway used (1, 2, or 3)  
-- Regional blocks performed, quality, and coverage (if applicable)  
-- Midazolam and other sedatives given and observed effects  
-- Pain scores (NRS) and sedation scores at defined intervals  
-- All rescue medications:
-  - Drug, dose, route, time, and **patient response**  
-- Any communication with anesthesia and surgery regarding:
-  - Uncontrolled pain  
-  - Suspected block failure or surgical complication  
-  - Concerns about respiratory status or hemodynamics  
-- Handoff summary to ward/floor including:
-  - Effective rescue strategies  
-  - Ongoing multimodal regimen (with last administration times)  
-  - Total opioid exposure in PACU (MME if tracked)  
-  - Patient-specific cautions (OSA, delirium risk, frailty, fall risk)
+## 7. Documentation Expectations (Minimum Standard)
+Document:
+- Pathway used (1/2/3)
+- Blocks performed and perceived quality (if applicable)
+- Pain/sedation scores at defined intervals
+- Rescue meds: drug, dose, time, response, adverse effects
+- Monitoring escalation (capnography, extended observation) when indicated
+- Communications with anesthesia/surgery for uncontrolled pain or red flags
+- Handoff to floor: effective rescue strategy, ongoing regimen, total PACU opioid exposure, patient-specific risks (OSA/frailty/delirium/fall risk)
 
 ---
 
-## 8. Special Population Considerations
+## 8. Special Populations (Dose Guardrails)
 
-### Elderly / Frail Patients (>70 years or clinically frail)
+### Frail / Elderly
+- Prefer conservative rescue dosing:
+  - Ketamine **≤0.1 mg/kg** per bolus
+  - Hydromorphone **0.1 mg IV increments**
+- Allow longer reassessment intervals if borderline sedation
 
-- Start at lower rescue doses:
-  - Ketamine ≤0.1 mg/kg per bolus  
-  - Hydromorphone 0.1 mg IV increments  
-- Allow more time between doses before repeating  
-- Extended observation for delayed respiratory depression or delirium  
-- Emphasize non-pharmacologic measures and consistent reorientation
+### OSA / OHS / Significant Respiratory Disease
+- Prefer ketamine and non-opioid strategies when feasible
+- Minimize opioid dosing; consider capnography
+- Reinforce home CPAP use when clinically appropriate
 
-### OSA / Significant Respiratory Disease
-
-- Prefer ketamine and non-opioid strategies whenever feasible  
-- Minimize opioid dose and frequency  
-- Consider:
-  - Continuous pulse oximetry and capnography  
-  - Lower threshold for step-down/ICU level monitoring after high opioid use  
-- Reinforce use of home CPAP as soon as clinically appropriate
-
-### Opioid-Tolerant Patients
-
-- Ketamine often particularly helpful:
-  - May use upper end of rescue range (0.15 mg/kg) if tolerated  
-- Expect higher opioid requirements; coordinate with:
-  - Chronic pain or acute pain service if available  
-- Set realistic expectations with the patient regarding “improved but not zero” pain
+### Opioid-Tolerant
+- Expect higher analgesic requirements; ketamine may be particularly helpful
+- Coordinate with acute pain service if available
+- Set realistic expectations: “improved, not zero” pain
 
 ---
 
-## 9. Linkage to Other Repository Files
+## 9. Linkage to Repository Files
+- Protocols and dosing:
+  - `../03_Anesthesia_Protocols/Protocol_1_ACB_IPACK_OFIA.md`
+  - `../03_Anesthesia_Protocols/Protocol_2_BlockFree_OFIA.md`
+  - `../03_Anesthesia_Protocols/Protocol_3_OpioidBased.md`
+  - `../03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`
 
-- Primary pathways and dosing:  
-  - `../03_Anesthesia_Protocols/Protocol_1_ACB_IPACK_OFIA.md`  
-  - `../03_Anesthesia_Protocols/Protocol_2_BlockFree_OFIA.md`  
-  - `../03_Anesthesia_Protocols/Protocol_3_OpioidBased.md`  
-  - `../03_Anesthesia_Protocols/Protocol_Medication_Dosing_and_Timing.md`  
+- Adjuncts and contraindications:
+  - `../03_Anesthesia_Protocols/` (Adjuncts/Contraindications module)
 
-- Adjuncts and contraindications:  
-  - `../03_Anesthesia_Protocols/Protocol_4_Adjuncts_Contraindications.md`
-
-- PACU handoff structure and expectations:  
+- PACU handoff structure:
   - `../05_PACU_Handoff_Templates.md`
 
 ---
 
 ## References
-
-See master reference file: `../../07_References_Evidence_2024.md`
+See master reference file:
+`../07_References_Evidence_2024.md`
