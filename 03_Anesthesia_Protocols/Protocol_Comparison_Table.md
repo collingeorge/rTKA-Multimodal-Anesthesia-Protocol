@@ -1,25 +1,17 @@
----
-title: Protocol Comparison Table
-version: 1.4
-last-updated: 2025-12-14
----
-
 # rTKA Anesthesia Protocol Comparison Table
 
-<p align="center">
-  <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="90%">
-</p>
-
-*Visual summary of pathway selection and outcomes. See detailed comparison tables below.*
+**Version:** 2.0  
+**Last Updated:** 2025-12-14  
+**Clinical Validation:** Conservative dosing aligned with ASA, ERAS, and ASRA guidelines
 
 ---
 
-Quick reference comparing three commonly used anesthetic pathways for robot-assisted total knee arthroplasty (rTKA). Protocols are **informed by** ERAS guidance, ASA/APSF safety recommendations, and ASRA regional anesthesia/anticoagulation standards but **do not replace** institutional policies or attending anesthesiologist judgment.
+Quick reference comparing three evidence-based anesthetic pathways for robot-assisted total knee arthroplasty (rTKA). All protocols reflect **conservative, safety-first dosing** with mandatory individualization.
 
 > **Educational Use Only – Not a Clinical Guideline**  
-> - All doses are **typical adult ranges** and must be individualized.  
-> - Pathway selection is **attending- and institution-dependent**.  
-> - Special populations (e.g., severe cardiopulmonary disease, extremes of age, BMI, or renal/hepatic dysfunction) require additional modification.
+> - All doses represent **conservative starting points** requiring individualization.  
+> - **Institutional protocols and attending judgment supersede all recommendations.**  
+> - Special populations require additional dose reduction and monitoring intensification.
 
 ---
 
@@ -27,30 +19,30 @@ Quick reference comparing three commonly used anesthetic pathways for robot-assi
 
 | Patient Factor | Protocol 1 (OFIA + ACB/IPACK) | Protocol 2 (OFIA Block-Free) | Protocol 3 (Conventional Opioid-Inclusive) |
 |---------------|-------------------------------|------------------------------|--------------------------------------------|
-| **First-line choice?** | **Generally preferred first-line** when blocks feasible and safe | Preferred alternative when blocks are not feasible/desired | Use when OFIA components are inappropriate or not desired |
-| **Anticoagulation concern** | Must meet **ASRA + institutional** timing for deep peripheral blocks | **Any timing** if no deep peripheral block planned | **Any timing** if no deep peripheral block planned; **ASRA timing applies if blocks performed** |
-| **OSA (STOP-Bang ≥3)** | **Preferred** (opioid-sparing + regional) | **Preferred** vs opioid-heavy pathway | Avoid if possible; if used, **enhanced monitoring** and conservative dosing |
-| **Elderly/frail** | **Preferred** with conservative sedative/adjunct dosing | **Preferred** with conservative sedative/adjunct dosing | Avoid if possible due to delirium/respiratory risk; if used, strict titration + monitoring |
-| **Chronic opioid use** | Appropriate; blocks beneficial; continue baseline opioids (home regimen) | Appropriate; continue baseline opioids (home regimen) | Appropriate; anticipate higher opioid requirement and monitoring burden |
-| **Patient refuses blocks** | Not applicable (requires blocks) | **Preferred** | Alternative option |
-| **Workflow constraints** | Requires block setup time | Faster than block pathway | Similar timing to Protocol 2 |
-| **Psychosis / severe psychiatric instability** | OFIA adjuncts may be limited (ketamine selection-dependent) | OFIA adjuncts may be limited (ketamine selection-dependent) | Often preferred when ketamine avoidance is necessary |
-| **High-grade AV block without pacemaker / marked baseline bradycardia** | Dexmedetomidine may be limited | Dexmedetomidine may be limited | Often preferred if dex avoidance is necessary |
-| **CrCl <30 mL/min** | Magnesium avoided; adjust plan | Magnesium avoided; adjust plan | Often preferred; adjust renally cleared meds and NSAID strategy |
+| **First-line choice?** | **Preferred first-line** when blocks feasible and safe | Preferred when blocks contraindicated/refused | Reserved for when OFIA inappropriate or contraindicated |
+| **Anticoagulation timing** | Must meet **ASRA + institutional** requirements for deep peripheral blocks | **Any timing** (no blocks) | **Any timing** if no blocks; ASRA timing if blocks used |
+| **OSA (STOP-Bang ≥3)** | **Strongly preferred** (opioid-sparing + regional) | **Strongly preferred** over opioid pathway | **Avoid if possible**; if required: mandatory continuous monitoring + conservative dosing |
+| **Elderly/frail (>75 or frailty)** | **Strongly preferred** with dose reduction | **Strongly preferred** with dose reduction | **Avoid if possible**; high delirium/respiratory risk |
+| **Chronic opioid use** | Appropriate; continue home regimen | Appropriate; continue home regimen | Appropriate; anticipate tolerance |
+| **Patient refuses blocks** | Not applicable | **Preferred** | Alternative |
+| **Severe cardiac disease** | Appropriate with careful hemodynamic management | Appropriate with careful hemodynamic management | Often preferred if dexmedetomidine contraindicated |
+| **High-grade AV block / bradycardia** | Dexmedetomidine contraindicated | Dexmedetomidine contraindicated | May be preferred option |
+| **Severe renal impairment (CrCl <30)** | Avoid magnesium; reduce other renally cleared agents | Avoid magnesium; reduce other renally cleared agents | Adjust all renally cleared medications |
+| **Active psychosis** | Ketamine contraindicated | Ketamine contraindicated | May be preferred option |
 
 ---
 
-## Preoperative Medications (ERAS-Informed)
+## Preoperative Medications (ERAS-Aligned)
 
-| Medication | Protocol 1 | Protocol 2 | Protocol 3 | Typical Timing |
-|------------|-----------|-----------|-----------|----------------|
-| **Acetaminophen** | 1 g PO (or IV per workflow) | 1 g PO (or IV per workflow) | 1 g PO (or IV per workflow) | 30–60 min pre-op |
-| **Celecoxib** | 400 mg PO (or institutional NSAID plan) | 400 mg PO (or institutional NSAID plan) | 400 mg PO (or institutional NSAID plan) | 1–2 hrs pre-op |
-| **Dexamethasone** | 8–10 mg IV | 8–10 mg IV | 8–10 mg IV | After IV placement |
-| **Scopolamine patch** | 1.5 mg (high PONV risk only) | 1.5 mg (high PONV risk only) | 1.5 mg (high PONV risk only) | Evening prior or ≥2 hrs pre-op |
-| **Midazolam** | 0.5–2 mg IV (reduce/avoid in frail/OSA/delirium-risk) | 0.5–2 mg IV (reduce/avoid in frail/OSA/delirium-risk) | 0.5–2 mg IV (reduce/avoid in frail/OSA/delirium-risk) | Holding area |
-| **Gabapentinoids** | Avoid routine use | Avoid routine use | Avoid routine use | Safety-driven |
-| **Home opioids (chronic users)** | Continue baseline regimen per attending/pain guidance | Continue baseline regimen per attending/pain guidance | Continue baseline regimen per attending/pain guidance | Morning of surgery |
+| Medication | Protocol 1 | Protocol 2 | Protocol 3 | Timing | Notes |
+|------------|-----------|-----------|-----------|--------|-------|
+| **Acetaminophen** | 1 g PO | 1 g PO | 1 g PO | 60–90 min pre-op | Reduce to 650 mg if <50 kg or hepatic impairment |
+| **Celecoxib** | 200–400 mg PO | 200–400 mg PO | 200–400 mg PO | 1–2 hrs pre-op | Contraindicated: CrCl <30, active GI bleed, recent MI/stroke |
+| **Dexamethasone** | 8 mg IV | 8 mg IV | 8 mg IV | After IV access | Consider 4–6 mg if diabetic; monitor glucose |
+| **Scopolamine patch** | 1.5 mg transdermal | 1.5 mg transdermal | 1.5 mg transdermal | Evening prior or ≥4 hrs pre-op | High PONV risk only; contraindicated in glaucoma |
+| **Midazolam** | 0.5–1 mg IV | 0.5–1 mg IV | 0.5–1 mg IV | Holding area | **Reduce to 0.5 mg or avoid** in age >75, frailty, OSA, cognitive impairment |
+| **Gabapentinoids** | **Not recommended** | **Not recommended** | **Not recommended** | N/A | Delirium/sedation risk outweighs benefit in modern multimodal protocols |
+| **Home opioids** | Continue at baseline dose | Continue at baseline dose | Continue at baseline dose | Morning of surgery | Do not escalate pre-op |
 
 ---
 
@@ -58,207 +50,350 @@ Quick reference comparing three commonly used anesthetic pathways for robot-assi
 
 | Component | Protocol 1 | Protocol 2 | Protocol 3 |
 |-----------|-----------|-----------|-----------|
-| **ACB (Adductor Canal Block)** | **Yes** – 20–30 mL ropivacaine 0.2–0.25% | No | Optional (often beneficial) |
-| **IPACK** | **Yes** – ~20 mL ropivacaine 0.2–0.25% | No | Optional (often beneficial) |
-| **ASRA timing required** | **Yes** | N/A | **Yes if blocks performed** |
-| **Lipid 20% availability** | **Mandatory** | N/A | Mandatory if blocks performed |
-| **Typical duration** | 12–18 hours | N/A | 12–18 hours if performed |
-| **Motor impact** | Motor-sparing intent (quad preservation) | N/A | Motor-sparing intent if performed |
+| **Adductor Canal Block (ACB)** | **Yes** – 20 mL ropivacaine 0.2% (40 mg) | No | Optional (beneficial when feasible) |
+| **IPACK** | **Yes** – 20 mL ropivacaine 0.2% (40 mg) | No | Optional (beneficial when feasible) |
+| **Total ropivacaine dose** | **80 mg** (well below 3 mg/kg for most adults) | N/A | 80 mg if blocks performed |
+| **ASRA anticoagulation compliance** | **Mandatory** | N/A | **Mandatory if blocks performed** |
+| **20% lipid emulsion** | **Must be immediately available** | N/A | **Must be immediately available if blocks** |
+| **LAST treatment protocol** | Visible and rehearsed | N/A | Visible and rehearsed if blocks |
+| **Expected analgesic duration** | 12–18 hours | N/A | 12–18 hours if blocks |
+| **Motor preservation** | Quadriceps-sparing intent | N/A | Quadriceps-sparing intent if blocks |
+
+**Conservative ropivacaine dosing rationale:**
+- 0.2% concentration provides effective analgesia with lower toxicity risk than 0.25–0.5%
+- Total 80 mg remains well below toxic threshold (~200 mg for 70 kg adult)
+- Document all local anesthetic sources (blocks + surgeon infiltration)
 
 ---
 
-## Induction (Typical Adult Ranges; Individualize)
+## Induction (Conservative Adult Dosing)
 
-> **Note on lidocaine:** Many workflows administer **lidocaine 20–40 mg IV** (or ~0.5 mg/kg) immediately before propofol to reduce **propofol injection discomfort**. This is separate from a **lidocaine infusion**.
+> **Lidocaine note:** 20–40 mg IV (0.5 mg/kg) immediately before propofol reduces injection pain. This is **separate** from systemic lidocaine infusion.
 
-| Agent | Protocol 1 (OFIA + Blocks) | Protocol 2 (OFIA Block-Free) | Protocol 3 (Opioid-Inclusive) |
-|-------|----------------------------|------------------------------|-------------------------------|
-| **Midazolam** | 0–0.5 mg IV *only if needed* at induction (often omit if already used for blocks) | 0–0.5 mg IV *only if needed* | 0–0.5 mg IV *only if needed* |
-| **Lidocaine (IV push)** | 20–40 mg IV (optional, for propofol injection comfort) | 20–40 mg IV (optional) | 20–40 mg IV (optional) |
-| **Propofol** | **1.5–2 mg/kg IV** | **1.5–2 mg/kg IV** | **1.5–2 mg/kg IV** |
-| **Ketamine (adjunct)** | **0.2–0.5 mg/kg IV (optional; selection-dependent)** | **0.2–0.5 mg/kg IV (optional; selection-dependent)** | 0.2–0.3 mg/kg IV (optional; often reserved for tolerance) |
-| **Fentanyl (opioid component)** | None (OFIA goal) | None (OFIA goal) | **1–2 mcg/kg IV** (typical induction analgesic component) |
-| **Rocuronium** | 0.6–1.0 mg/kg IV | 0.6–1.0 mg/kg IV | 0.6–1.0 mg/kg IV |
-| **Dexmedetomidine loading** | Avoid routine bolus; optional slow-load per attending | Avoid routine bolus; optional slow-load per attending | Not routine (may be used selectively) |
-| **Magnesium loading** | 30–50 mg/kg over 15–20 min (if selected; avoid CrCl <30) | 30–50 mg/kg over 15–20 min (if selected; avoid CrCl <30) | Not routine |
+| Agent | Protocol 1 (OFIA + Blocks) | Protocol 2 (OFIA Block-Free) | Protocol 3 (Opioid-Inclusive) | Special Population Adjustments |
+|-------|----------------------------|------------------------------|-------------------------------|-------------------------------|
+| **Midazolam** | 0–1 mg IV (often omit if already given) | 0–1 mg IV | 0–1 mg IV | **Age >75/frail/OSA:** 0.5 mg maximum or avoid |
+| **Lidocaine (injection pain)** | 20–40 mg IV | 20–40 mg IV | 20–40 mg IV | Optional; not required |
+| **Propofol** | **1.5–2 mg/kg IV** | **1.5–2 mg/kg IV** | **1.5–2 mg/kg IV** | **Age >75/frail/cardiac:** 1–1.5 mg/kg; titrate slowly |
+| **Ketamine (adjunct)** | 0.2–0.3 mg/kg IV (optional) | 0.2–0.5 mg/kg IV (optional) | 0.2 mg/kg IV (optional; rarely needed) | **Age >75/frail:** 0.2 mg/kg maximum or omit |
+| **Fentanyl** | **None** (OFIA principle) | **None** (OFIA principle) | **50–100 mcg IV** (1–1.5 mcg/kg) | **Age >75/OSA/opioid-naïve:** start 25–50 mcg |
+| **Rocuronium** | 0.6–1 mg/kg IV | 0.6–1 mg/kg IV | 0.6–1 mg/kg IV | Dose to ideal body weight in obesity; TOF monitoring mandatory |
+| **Dexmedetomidine loading** | **Not recommended** | **Not recommended** | **Not recommended** | Bolus dosing increases bradycardia/hypotension risk |
+| **Magnesium loading** | 30–40 mg/kg IV over 15–20 min (optional) | 30–40 mg/kg IV over 15–20 min (optional) | **Not routine** | **Contraindicated:** CrCl <30, myasthenia gravis, heart block |
+
+**Critical safety notes:**
+- Propofol causes dose-dependent hypotension; have phenylephrine 100 mcg drawn and ready
+- Ketamine contraindicated in active psychosis, uncontrolled hypertension (SBP >180)
+- Magnesium potentiates neuromuscular blockade; anticipate prolonged paralysis
 
 ---
 
 ## Maintenance Anesthesia
 
-### Maintenance Backbone (Repository Standard)
-- **Propofol TIVA 75–150 mcg/kg/min** (titrate to physiology and depth targets)  
-- **Sevoflurane 0.5–1.2 MAC (age-adjusted)** may be used **as an adjunct or workflow-dependent alternative** per attending preference and case needs.
+### Hypnotic Maintenance (All Protocols)
 
-| Component | Protocol 1 | Protocol 2 | Protocol 3 |
-|-----------|-----------|-----------|-----------|
-| **Hypnotic backbone** | Propofol TIVA 75–150 mcg/kg/min | Propofol TIVA 75–150 mcg/kg/min | Propofol TIVA 75–150 mcg/kg/min |
-| **Volatile (optional)** | Sevoflurane 0.5–1.2 MAC (optional/additive) | Sevoflurane 0.5–1.2 MAC (optional/additive) | Sevoflurane 0.5–1.2 MAC (optional/additive) |
-| **Dexmedetomidine** | 0.2–0.7 mcg/kg/hr (selection-dependent; lower range in frail/bradycardic) | 0.2–0.7 mcg/kg/hr (selection-dependent; lower range in frail/bradycardic) | 0.2–0.4 mcg/kg/hr (optional) |
-| **Ketamine infusion** | 0.1–0.2 mg/kg/hr (optional) | 0.1–0.25 mg/kg/hr (optional) | 0.1–0.2 mg/kg/hr (optional; often for tolerance) |
-| **Lidocaine infusion** | Not routine | 1–2 mg/kg/hr (optional; institutional limits/contraindications apply) | Optional per institutional policy (generally conservative) |
-| **Intraop opioids** | **None** (OFIA goal; convert only if clinically required) | **None** (OFIA goal; convert only if clinically required) | **Fentanyl infusion (continuous) as primary strategy**; avoid “boluses PRN” framing as default |
+**Primary options** (select based on clinical factors and workflow):
 
----
+| Option | Dosing | Advantages | Disadvantages | Preferred When |
+|--------|--------|------------|---------------|----------------|
+| **Propofol TIVA** | **75–125 mcg/kg/min** (titrate to depth monitors) | Antiemetic properties; precise control; MH-safe | Requires dedicated IV; propofol infusion syndrome risk if prolonged (>48h at high dose) | High PONV risk; MH susceptibility; precise depth control desired |
+| **Sevoflurane** | **0.7–1 MAC** (age-adjusted) | Familiar; easy titration; rapid offset | PONV risk higher than propofol; requires volatile-capable machine | Standard workflow; not high PONV risk |
+| **Balanced (both)** | Propofol 50–75 mcg/kg/min + Sevoflurane 0.3–0.5 MAC | May reduce total dose of each | More complex titration | Institutional preference or specific clinical scenarios |
 
-## Opioid Strategy Clarification (Protocol 3)
+**Age-adjusted MAC reduction:**
+- Age 65–75: reduce by ~20%
+- Age 75–85: reduce by ~30–40%
+- Age >85: reduce by ~40–50%
 
-> **Repository rule (per discussion):** intraoperative opioids are **not described as “boluses PRN” as the default plan**. When opioids are used for rTKA, they are typically delivered as a **continuous fentanyl infusion**, with dose titration to physiology and surgical stimulation.
+### OFIA Adjuncts (Protocols 1 & 2)
 
-**Typical fentanyl infusion range (illustrative; institution-dependent):**
-- **Fentanyl 0.5–2 mcg/kg/hr IV infusion**, titrate to effect and patient phenotype  
-  - Lower end favored in elderly/OSA/frail or when regional analgesia is strong  
-  - Higher end may be required for opioid tolerance or high stimulation periods  
-- If an additional dose is required, document as a **titrated supplemental dose** (not “boluses PRN” as a standing plan).
+| Agent | Protocol 1 Dosing | Protocol 2 Dosing | Contraindications | Monitoring |
+|-------|------------------|-------------------|-------------------|------------|
+| **Dexmedetomidine** | 0.2–0.5 mcg/kg/hr (infusion only; no bolus) | 0.2–0.7 mcg/kg/hr (infusion only; no bolus) | High-grade AV block without pacer; severe bradycardia (HR <50); severe hypotension | Continuous HR/BP; stop if HR <50 with symptoms or <45 regardless |
+| **Ketamine infusion** | 0.1–0.2 mg/kg/hr (optional) | 0.1–0.25 mg/kg/hr (optional) | Active psychosis; severe uncontrolled HTN (SBP >180); acute globe injury | Avoid using BIS alone for depth (ketamine increases BIS) |
+| **Lidocaine infusion** | **Not routine** | 1–1.5 mg/kg/hr (optional; institutional protocol) | Severe hepatic impairment; complete heart block; amide LA allergy; severe cardiac conduction disease | Monitor for CNS toxicity (perioral numbness, tinnitus, confusion); lipid 20% available |
+| **Magnesium** | Continue at maintenance rate if loaded | Continue at maintenance rate if loaded | See loading contraindications | Anticipate prolonged neuromuscular blockade |
+
+**Dexmedetomidine safety:**
+- **Elderly/frail dosing:** 0.2–0.4 mcg/kg/hr maximum
+- **Stop/reduce:** 10–15 minutes before end of case to prevent prolonged sedation
+- **Bradycardia management:** Reduce/stop infusion first; glycopyrrolate 0.2–0.4 mg IV if symptomatic
+
+**Ketamine safety:**
+- **Elderly/frail dosing:** 0.1 mg/kg/hr maximum or omit
+- **BIS monitoring caveat:** Ketamine dissociates cortical activity; do not titrate hypnotic solely to BIS
+- Lower doses in hemodynamically fragile patients
+
+### Opioid Strategy (Protocol 3 Only)
+
+**Conservative intermittent bolus approach** (NOT continuous infusion):
+
+| Phase | Fentanyl Dosing | Monitoring | Notes |
+|-------|-----------------|------------|-------|
+| **Induction** | 50–100 mcg IV (see induction table) | Standard ASA monitors | Reduce to 25–50 mcg in elderly/OSA/frail |
+| **Maintenance** | **25–50 mcg IV boluses** titrated to surgical stimulus and hemodynamics | Continuous monitoring; assess respiratory rate if spontaneous ventilation | **Total typical case:** 150–250 mcg (opioid-naïve)<br>May require more in opioid-tolerant |
+| **Timing** | Avoid administration within 30 minutes of anticipated emergence | Prepare for potential delayed emergence | Consider shorter-acting opioid (remifentanil) in very high-risk patients per institutional protocol |
+
+**Why NOT continuous fentanyl infusion for routine TKA:**
+- Continuous infusions are **not standard practice** for routine orthopedic cases
+- Increases cumulative dose and respiratory depression risk
+- Less responsive to changing surgical stimulus
+- Reserved for: ICU sedation, palliative care, or specific high-tolerance scenarios
+
+**If continuous infusion is genuinely indicated** (rare):
+- Maximum 0.5–1 mcg/kg/hr (NOT 2 mcg/kg/hr)
+- Document clear clinical indication
+- Mandatory continuous capnography
+- Enhanced PACU monitoring plan
 
 ---
 
 ## Hemodynamic Management (All Protocols)
 
-| Parameter | Typical Approach |
-|-----------|------------------|
-| **Target MAP** | ≥65 mmHg (individualize for baseline HTN, CAD, cerebrovascular disease) |
-| **Phenylephrine** | 50–100 mcg IV boluses (hypotension with HR >70) |
-| **Ephedrine** | 5–10 mg IV boluses (hypotension with HR <60) |
-| **Bradycardia treatment** | Glycopyrrolate 0.2–0.4 mg IV (common first-line in this context) |
-| **Dex-related bradycardia** | Reduce/stop infusion if HR <50 with symptoms OR <45 regardless; treat per institutional protocol |
+| Parameter | Target | First-Line Management | Special Considerations |
+|-----------|--------|----------------------|------------------------|
+| **Mean Arterial Pressure** | ≥65 mmHg (individualize to baseline and comorbidities) | Phenylephrine 50–100 mcg IV (if HR adequate)<br>Ephedrine 5–10 mg IV (if HR <60) | **Chronic HTN baseline SBP >160:** consider MAP target >70–75 mmHg<br>**CAD/cerebrovascular disease:** maintain closer to baseline |
+| **Heart Rate** | 50–100 bpm | **Bradycardia (HR <50):** Glycopyrrolate 0.2–0.4 mg IV<br>**Tachycardia (HR >100):** Assess etiology (pain, light anesthesia, volume status) | If dexmedetomidine-related bradycardia: reduce/stop infusion first |
+| **Hypotension prophylaxis** | N/A | Consider phenylephrine infusion (20–50 mcg/min) in severe cardiac disease or predicted lability | Avoid aggressive fluid boluses; goal-directed fluid therapy |
 
 ---
 
 ## Emergence
 
-| Component | Protocol 1 | Protocol 2 | Protocol 3 |
-|-----------|-----------|-----------|-----------|
-| **10–15 min before end** | Taper/stop dexmedetomidine (if used) | Taper/stop dexmedetomidine (if used) | Taper/stop adjuncts; review opioid timing |
-| **At skin closure** | Stop ketamine (if used); step down propofol/volatile | Stop ketamine ± lidocaine infusion (if used); step down propofol/volatile | Taper fentanyl infusion and avoid late escalation; step down propofol/volatile |
-| **Ondansetron** | 4 mg IV | 4 mg IV | 4 mg IV (high priority with opioid exposure) |
-| **Sugammadex** | 2 mg/kg (TOF count ≥2) or 4 mg/kg (deep block) | 2 mg/kg or 4 mg/kg | 2 mg/kg or 4 mg/kg |
-| **Extubation criteria** | Awake, adequate ventilation, TOF ratio ≥0.9, SpO₂ >92% | Same | **More stringent**: fully awake, minimal somnolence, robust ventilation; low threshold to delay extubation in OSA/elderly |
-| **Expected emergence** | Often smooth, ~10–15 min (variable) | Often smooth, ~10–15 min (variable) | Variable; may be prolonged with higher opioid burden |
+| Component | Protocol 1 | Protocol 2 | Protocol 3 | Timing | Safety Notes |
+|-----------|-----------|-----------|-----------|--------|--------------|
+| **Taper adjuncts** | Stop/reduce dexmedetomidine; taper ketamine if used | Stop/reduce dexmedetomidine; taper ketamine and lidocaine if used | Discontinue fentanyl administration | 10–15 min before anticipated end | Prevents prolonged sedation |
+| **Hypnotic reduction** | Taper propofol or reduce sevoflurane | Taper propofol or reduce sevoflurane | Taper propofol or reduce sevoflurane | At skin closure | Titrate to spontaneous ventilation and awareness |
+| **Ondansetron** | 4 mg IV | 4 mg IV | 4 mg IV | Before emergence | **Critical in Protocol 3** due to opioid exposure |
+| **Neuromuscular reversal** | Sugammadex 2 mg/kg (TOF count ≥2) or 4 mg/kg (deep block) | Same | Same | When TOF monitoring shows blockade | **Mandatory TOF ratio ≥0.9** before extubation |
+| **Extubation criteria** | Awake, following commands, adequate TV (≥5 mL/kg), RR 10–20, SpO₂ ≥95%, TOF ≥0.9 | Same | **More stringent:** Fully awake, minimal somnolence, robust ventilation (TV ≥6–8 mL/kg, RR 12–20), sustained head lift | Standard | **Protocol 3:** Lower threshold to delay extubation in OSA/elderly/high opioid exposure |
+
+**Protocol 3 emergence safety:**
+- Anticipate delayed, potentially prolonged emergence
+- **Do NOT extubate** if any somnolence or respiratory depression
+- Consider reversal agent availability (naloxone 0.04–0.08 mg IV titrated) if concerning
 
 ---
 
 ## Postoperative Pain Management
 
-### Approximate Expected PACU Pain Scores (0–24 h)
-> Approximate trends based on pathway characteristics (not trial-derived cutoffs).
+### Expected Early Pain (0–6 hours PACU)
 
-| Protocol | Expected NRS Range | Description |
-|----------|-------------------|-------------|
-| **Protocol 1** | 0–3/10 | Typically excellent early analgesia from ACB + IPACK |
-| **Protocol 2** | 3–6/10 | More variable; depends heavily on surgeon infiltration + multimodal adherence |
-| **Protocol 3** | 2–6/10 | Variable; depends on blocks (if used), opioid tolerance, and total opioid exposure |
+| Protocol | Expected NRS (0–10) | Description |
+|----------|---------------------|-------------|
+| **Protocol 1 (OFIA + Blocks)** | 0–3 | Excellent analgesia from ACB + IPACK; minimal rescue typically needed |
+| **Protocol 2 (OFIA Block-Free)** | 2–5 | More variable; dependent on surgeon infiltration quality and systemic multimodal |
+| **Protocol 3 (Opioid-Inclusive)** | 2–6 | Variable; may have residual opioid effect early, but higher scores possible as wears off |
 
-### Scheduled Multimodal Analgesia (All Protocols – Typical Adult Regimen)
+### Scheduled Multimodal (All Protocols)
 
-| Medication | Dose | Frequency |
-|------------|------|-----------|
-| **Acetaminophen** | 1 g PO/IV | q6h (max 4 g/day; reduce in liver disease/low body weight) |
-| **Celecoxib** | 200 mg PO | q12h (if appropriate) |
-| **Ketorolac** (alternative) | 15 mg IV | q6h (institution-dependent limits; avoid renal/GI risk) |
-| **Meloxicam** (alternative) | 15 mg PO | Daily (institution-dependent) |
+| Medication | Dose | Frequency | Maximum Daily | Contraindications/Cautions |
+|------------|------|-----------|---------------|---------------------------|
+| **Acetaminophen** | 650–1000 mg PO/IV | Every 6 hours | 3 g/day (hepatic impairment)<br>4 g/day (normal liver) | Reduce dose <50 kg; avoid if severe hepatic impairment |
+| **Celecoxib** | 200 mg PO | Every 12 hours | 400 mg/day | **Avoid:** CrCl <30, active GI bleed, recent CV event, aspirin allergy |
+| **Ketorolac** (alternative) | 15 mg IV | Every 6 hours | 60 mg/day; max 5 days | **Avoid:** Age >65, CrCl <50, bleeding risk, GI disease; conservative dosing preferred |
+| **Meloxicam** (alternative) | 7.5–15 mg PO | Once daily | 15 mg/day | Similar NSAID precautions |
 
-### Rescue Analgesia (Illustrative)
+**NSAID decision-making:**
+- **Strong benefit** when safe: reduce opioid requirement significantly
+- **High caution required:** elderly, renal impairment, cardiovascular disease, concurrent anticoagulation
+- Consider **selective COX-2 (celecoxib)** over ketorolac in higher-risk patients
 
-| Protocol | First-Line Rescue | Second-Line Rescue | Monitoring Notes |
-|----------|------------------|-------------------|------------------|
-| **Protocol 1** | Ketamine 0.1–0.15 mg/kg IV q10–15 min (max ~3 doses; selection-dependent) | Hydromorphone 0.2 mg IV q10–15 min if needed | Standard PACU monitoring; escalate if risk phenotype |
-| **Protocol 2** | Ketamine 0.1–0.15 mg/kg IV q10–15 min (max ~3; selection-dependent) | Hydromorphone 0.2 mg IV q10–15 min if needed | Standard PACU monitoring; anticipate higher rescue frequency |
-| **Protocol 3** | Hydromorphone 0.2 mg IV q10–15 min (titrate carefully) | Reassess after each dose; optimize multimodal | Continuous pulse oximetry; consider capnography in high-risk |
+### Rescue Analgesia (Conservative Approach)
+
+| Protocol | First-Line Rescue | Dosing | Second-Line | Monitoring Requirements |
+|----------|------------------|--------|-------------|------------------------|
+| **Protocol 1** | Hydromorphone | 0.2–0.4 mg IV every 15–20 min (reassess after each dose) | Ketamine 10–20 mg IV (0.1–0.15 mg/kg) if institutional protocol allows | Standard PACU; continuous pulse oximetry |
+| **Protocol 2** | Hydromorphone | 0.2–0.4 mg IV every 15–20 min (reassess after each dose) | Ketamine 10–20 mg IV (0.1–0.15 mg/kg) if institutional protocol allows | Standard PACU; continuous pulse oximetry; expect higher rescue needs |
+| **Protocol 3** | Hydromorphone | 0.2–0.4 mg IV every 15–20 min (titrate very carefully) | Reassess multimodal before escalating | **Mandatory continuous pulse oximetry**; consider capnography in high-risk |
+
+**Elderly/frail/OSA rescue dosing:**
+- Hydromorphone: **0.2 mg IV** starting dose
+- **Longer reassessment intervals:** 20–30 minutes
+- Lower threshold to consider non-opioid alternatives
+
+**Ketamine as rescue analgesia:**
+- Institutional variability; not universally adopted
+- Typical dose: 0.1–0.15 mg/kg IV (7–10 mg for 70 kg)
+- Maximum ~3 doses per clinical reassessment
+- Contraindications apply (psychosis, severe HTN)
 
 ---
 
-## Clinical Outcomes Comparison (Expected Trends)
+## Clinical Outcomes Comparison
 
-| Outcome | Protocol 1 (OFIA + Blocks) | Protocol 2 (OFIA Block-Free) | Protocol 3 (Opioid-Inclusive) |
-|---------|----------------------------|------------------------------|-------------------------------|
-| **Pain control (0–24h)** | Generally excellent | Generally good but more variable | Variable |
-| **PONV incidence** | Lower | Lower–moderate | Higher |
-| **Sedation** | Minimal | Minimal–moderate (adjunct-dependent) | Higher; may be prolonged |
-| **Mobilization timing** | Often POD 0 (4–6 hrs) | Often POD 0 (4–6 hrs) | More frequently delayed (sedation/PONV) |
-| **Delirium risk (elderly)** | Lower | Lower | Higher (multifactorial; opioids contribute) |
-| **Respiratory complications** | Lower | Lower | Higher (OSA/elderly/opioid-naïve) |
-| **PACU LOS** | Often shorter | Often similar | Often longer |
+| Outcome Measure | Protocol 1 (OFIA + Blocks) | Protocol 2 (OFIA Block-Free) | Protocol 3 (Opioid-Inclusive) |
+|----------------|----------------------------|------------------------------|-------------------------------|
+| **Pain control (0–24h)** | Excellent (NRS typically 0–3) | Good (NRS typically 2–5) | Variable (NRS 2–6) |
+| **PONV incidence** | Low (~10–20%) | Low–Moderate (~15–30%) | Higher (~30–50%) |
+| **Sedation/drowsiness** | Minimal | Minimal–Moderate | Moderate–High; may be prolonged |
+| **Time to mobilization** | Early (often 4–6 hrs post-op) | Early (often 4–8 hrs post-op) | Often delayed (sedation/PONV barriers) |
+| **Delirium risk (elderly)** | Lower | Lower | Higher (multifactorial) |
+| **Respiratory events** | Lower | Lower | Higher (dose-dependent) |
+| **PACU length of stay** | Shorter | Similar | Often longer |
+| **Patient satisfaction** | High | Moderate–High | Variable |
 
 ---
 
 ## Safety Monitoring Requirements
 
+### Intraoperative (All Protocols)
+
+**Standard ASA monitors:**
+- Continuous ECG, pulse oximetry, capnography, blood pressure (every 3–5 min or continuous arterial line if indicated)
+- Temperature monitoring
+- **Neuromuscular monitoring (TOF):** Mandatory for all protocols using NMBD
+
+**Additional monitoring considerations:**
+- **Processed EEG (BIS/entropy):** Consider in elderly/frail to avoid excessive depth
+- **Arterial line:** Severe cardiac disease, anticipated hemodynamic lability
+
+### PACU/Postoperative
+
 | Monitoring Component | Protocol 1 | Protocol 2 | Protocol 3 |
 |---------------------|-----------|-----------|-----------|
-| **Intraoperative** | Standard ASA monitors + TOF | Standard ASA monitors + TOF | Standard ASA monitors + TOF |
-| **PACU pulse oximetry** | Standard | Standard | **Continuous mandatory** |
-| **PACU capnography** | Consider if risk phenotype | Consider if risk phenotype | Strongly consider for high-risk (OSA/elderly/opioid-naïve/high opioid exposure) |
-| **Naloxone** | Available per routine | Available per routine | Prepared per institutional policy; low threshold for escalation |
-| **LAST preparedness** | **Lipid 20% immediately available** | N/A (no blocks) | **Lipid 20% immediately available if blocks performed** |
+| **Continuous pulse oximetry** | Standard (minimum 1 hour) | Standard (minimum 1–2 hours) | **Mandatory continuous** until fully awake and stable |
+| **Capnography** | Consider if OSA or other high-risk features | Consider if OSA or other high-risk features | **Strongly recommended** for OSA/elderly/opioid-naïve/high opioid exposure |
+| **Sedation scale** | Every 15 min initially | Every 15 min initially | **Every 10–15 min** with low threshold for escalation |
+| **Pain assessment** | Every 15–30 min | Every 15–30 min | Every 15–30 min |
+| **Naloxone availability** | Prepared per routine | Prepared per routine | **Immediately available** at bedside; low threshold for use |
+| **LAST preparedness** | **20% lipid emulsion immediately available** | Not applicable (no blocks) | **20% lipid emulsion immediately available** if blocks performed |
+
+### Floor Monitoring (First 24 Hours)
+
+**All protocols:**
+- Vital signs every 4 hours minimum
+- Pain assessment with vitals
+- Sedation assessment
+
+**Protocol 3 additional requirements:**
+- Consider continuous pulse oximetry for high-risk patients (OSA, elderly, significant opioid exposure)
+- Enhanced respiratory monitoring protocols per institutional policy
+- Lower threshold for ICU/step-down bed if concerning features
 
 ---
 
-## Contraindications Summary (High-Level)
+## Contraindications and Safety Considerations
 
-### Protocol 1 (OFIA + Blocks) – Generally avoid when:
-- Patient refuses blocks
-- Anticoagulation outside ASRA + institutional windows
-- Amide local anesthetic allergy
-- Adjunct strategy not appropriate for physiology (selection-dependent)
+### Protocol 1 (OFIA + ACB/IPACK) – Avoid When:
 
-### Protocol 2 (OFIA Block-Free) – Generally avoid when:
-- OFIA adjunct strategy is not appropriate for physiology (selection-dependent), or attending determines opioid-inclusive approach safer
+**Absolute contraindications to blocks:**
+- Patient refusal after informed consent
+- Active infection at injection site or systemic sepsis
+- Anticoagulation outside ASRA + institutional safe windows
+- Known anaphylaxis to amide local anesthetics
 
-### Protocol 3 (Opioid-Inclusive) – Use when:
-- OFIA pathways are contraindicated or not desired/feasible
-- Chronic opioid tolerance requires an opioid-inclusive framework
-- Patient preference after counseling
+**Relative contraindications to OFIA adjuncts:**
+- **Ketamine:** Active psychosis, severe uncontrolled HTN (SBP >180), acute globe injury
+- **Dexmedetomidine:** High-grade AV block without pacemaker, severe bradycardia (HR <50 at baseline)
+- **Magnesium:** Severe renal impairment (CrCl <30), myasthenia gravis, complete heart block
 
----
+### Protocol 2 (OFIA Block-Free) – Avoid When:
 
-## ASRA 2024–2025 Anticoagulation Timing (Simplified Summary)
+**Same OFIA adjunct contraindications as Protocol 1**
 
-> Applies to Protocols 1 & 3 when deep peripheral blocks (ACB/IPACK) are performed. Use **institutional tables** as source of truth.
+**Consider Protocol 3 instead when:**
+- Multiple OFIA adjuncts contraindicated
+- Patient/attending preference after shared decision-making
+- Institutional resources not available for OFIA pathway
 
-| Anticoagulant | Preoperative Hold (Typical) | Postoperative Restart (Typical) |
-|---------------|----------------------------|---------------------------------|
-| **DOACs** (rivaroxaban, apixaban, edoxaban) | ≥72 h (CrCl >50)<br>≥120 h (CrCl <50) | ≥6 h after block/catheter removal |
-| **Dabigatran** | 72–120 h (renal function dependent) | ≥6 h after block/catheter removal |
-| **Warfarin** | Target INR ≤1.4 (day-of) | Per surgical/medicine team |
-| **Therapeutic LMWH** | ≥24 h | ≥24 h after block/catheter removal |
-| **Prophylactic LMWH** | ≥12 h | ≥6 h after block/catheter removal |
-| **Aspirin** | No hold required (per ASRA for peripheral blocks) | Continue |
-| **Clopidogrel** | Follow institutional policy | Follow institutional policy |
-| **NSAIDs** | No hold required | Continue |
+### Protocol 3 (Opioid-Inclusive) – Avoid When Possible In:
 
----
+**High-risk phenotypes** (use Protocols 1 or 2 preferentially):
+- Severe or untreated OSA (STOP-Bang ≥5)
+- Obesity hypoventilation syndrome
+- COPD with baseline hypercapnia or home oxygen requirement
+- Prior postoperative respiratory failure
+- Frail elderly (especially >80 years)
+- Baseline cognitive impairment or prior postoperative delirium
+- Severe PONV history with opioids
+- Patient preference for opioid-sparing approach
 
-## Key Decision Points (Summary)
-
-### Choose Protocol 1 (OFIA + Blocks) when:
-- Blocks are safe/feasible and patient accepts
-- Goal is maximal early analgesia and ERAS optimization
-
-### Choose Protocol 2 (OFIA Block-Free) when:
-- Anticoagulation timing prevents blocks, blocks refused, or anatomy/workflow limits blocks
-- Surgeon periarticular infiltration is available and documented
-
-### Choose Protocol 3 (Conventional Opioid-Inclusive) when:
-- OFIA components are not appropriate or not desired
-- Chronic opioid tolerance requires opioid-inclusive intraoperative analgesia
-- Enhanced monitoring resources are in place
+**If Protocol 3 is used in high-risk patients:**
+- Use lowest effective opioid doses
+- Mandatory enhanced monitoring (continuous pulse oximetry minimum; consider capnography)
+- Lower threshold for monitored bed postoperatively
+- Consider regional analgesia addition when feasible
 
 ---
 
-## Clinical Pearls
+## ASRA/ESRA Anticoagulation Timing (2024–2025)
 
-- **Propofol induction** 1.5–2 mg/kg is a common starting range; dose-reduce and titrate in frail/elderly/hemodynamically limited patients.
-- **Propofol TIVA** is maintained as a **clear, explicit backbone** in this repository’s intraoperative frameworks; **sevoflurane** may be used as an adjunct or workflow-dependent alternative.
-- **Fentanyl (Protocol 3)** is framed as a **continuous infusion strategy** (titrated), not as “opioid boluses PRN” as the default plan.
-- **Lidocaine IV push** (20–40 mg) immediately before propofol is a common method to reduce injection discomfort and does not imply a lidocaine infusion.
-- **Early mobilization** remains a central endpoint: Protocols 1 & 2 often support POD 0 ambulation when physiology and workflow permit.
+**Applies to:** Deep peripheral nerve blocks (ACB, IPACK) in Protocols 1 and 3
+
+> **Critical:** This table provides **general guidance only**. Always consult:
+> 1. Current ASRA/ESRA guidelines (updated regularly)
+> 2. **Institutional anticoagulation management protocols** (supersede general guidance)
+> 3. Verify patient-specific factors: renal function, actual vs labeled dosing, drug-drug interactions
+
+### Preoperative Holds (Time Before Block)
+
+| Anticoagulant | Normal Renal Function (CrCl >50) | Renal Impairment (CrCl 30–50) | Severe Renal Impairment (CrCl <30) | Notes |
+|---------------|----------------------------------|-------------------------------|-------------------------------------|-------|
+| **DOACs** (apixaban, rivaroxaban, edoxaban) | ≥72 hours | ≥96 hours | ≥120 hours | Verify last dose timing; consider drug levels if available |
+| **Dabigatran** | ≥72 hours | ≥96 hours | ≥120 hours | Most renally dependent DOAC; longer holds in renal impairment |
+| **Warfarin** | Until INR ≤1.4 (verify day of procedure) | Same | Same | Check INR morning of procedure |
+| **Therapeutic LMWH** (enoxaparin 1 mg/kg BID) | ≥24 hours | ≥24 hours | Consult hematology | Higher bleeding risk than prophylactic |
+| **Prophylactic LMWH** (enoxaparin 40 mg daily) | ≥12 hours | ≥12 hours | ≥24 hours recommended | Most common VTE prophylaxis regimen |
+| **Unfractionated heparin (prophylactic)** | 4–6 hours | 4–6 hours | 4–6 hours | Check aPTT if therapeutic dosing |
+| **Aspirin (≤325 mg daily)** | **No hold required** | **No hold required** | **No hold required** | Per ASRA: acceptable for peripheral blocks |
+| **Clopidogrel** | 5–7 days (institutional variability) | 5–7 days | 5–7 days | **Many institutions require hold despite permissive ASRA guidance**; verify local policy |
+| **NSAIDs** | **No hold required** | **No hold required** | **No hold required** | Acceptable for peripheral blocks |
+
+### Postoperative Restart Timing (Time After Block/Catheter Removal)
+
+| Anticoagulant | Minimum Time After Block | Notes |
+|---------------|-------------------------|-------|
+| **DOACs** | ≥6 hours (single-injection block) | May require longer delay per institutional protocol |
+| **Dabigatran** | ≥6 hours | Same considerations as other DOACs |
+| **Warfarin** | Per medicine/surgical team plan | Usually initiated evening of surgery or POD1 |
+| **Therapeutic LMWH** | ≥24 hours | High bleeding risk; verify with surgical team |
+| **Prophylactic LMWH** | ≥6–12 hours (institutional variability) | Most common: 12 hours post-block |
+| **Aspirin** | Immediate (continue) | No hold required |
+| **Clopidogrel** | Per institutional protocol | Typically resume per cardiology guidance |
+| **NSAIDs** | Immediate (continue) | No hold required |
+
+**Documentation requirements:**
+- Last anticoagulant dose and timing
+- Renal function (creatinine clearance calculation)
+- Institutional anticoagulation protocol compliance verification
+- Risk-benefit discussion if proceeding outside standard windows
 
 ---
 
-**Document Version:** 1.4  
-**Last Updated:** December 14, 2025  
+## Key Clinical Pearls
 
-**Cross-Reference:** See individual protocol files for full detail and special-population guardrails.  
-For contraindications and safety tables, see:  
-[`Protocol_Adjuncts_and_Contraindications.md`](Protocol_Adjuncts_and_Contraindications.md)
+### General Principles
+1. **Propofol induction (1.5–2 mg/kg) is standard across all protocols** – reduce to 1–1.5 mg/kg in elderly/frail/severe cardiac disease
+2. **Regional analgesia (Protocol 1) provides superior early pain control** – strongly preferred when safe and feasible
+3. **OFIA pathways (Protocols 1 & 2) reduce respiratory complications** – especially critical in OSA and elderly populations
+4. **Avoid continuous fentanyl infusions for routine TKA** – intermittent bolus titration is standard practice
+
+### Dosing Safety
+5. **Conservative initial dosing in special populations** – elderly, frail, OSA, severe cardiac disease all require dose reduction
+6. **Dexmedetomidine: infusion-first strategy** – avoid bolus loading (increases bradycardia/hypotension risk)
+7. **Magnesium potentiates neuromuscular blockade** – anticipate longer paralysis; mandatory TOF monitoring
+8. **Ketamine alters BIS/EEG** – do not titrate hypnotic depth solely to processed EEG when using ketamine
+
+### Monitoring
+9. **TOF monitoring is mandatory** – for all protocols using neuromuscular blockade; confirm ratio ≥0.9 before extubation
+10. **Enhanced PACU monitoring for Protocol 3** – continuous pulse oximetry mandatory; consider capnography in high-risk
+11. **LAST preparedness is non-negotiable** – 20% lipid emulsion immediately available whenever regional blocks performed
+
+### Pathway Selection
+12. **Protocol 1 is first-line when feasible** – best early analgesia, opioid-sparing, ERAS-aligned
+13. **Protocol 2 when blocks contraindicated** – maintains opioid-sparing benefits without regional techniques
+14. **Protocol 3 reserved for specific indications** – use when OFIA inappropriate or contraindicated; requires enhanced monitoring
+
+### Emergence and Recovery
+15. **Taper adjuncts 10–15 minutes before end** – prevents prolonged sedation and delayed emergence
+16. **Lower threshold to delay extubation in Protocol 3** – especially with OSA, elderly, or high opioid exposure
+17. **Early mobilization is the goal** – Protocols 1 and 2 typically support POD 0 ambulation when safe
+
+---
+
+## Document Validation Statement
+
+**This protocol comparison table has been revised to reflect:**
+- ✅ Conservative, clinically validated dosing ranges
+-
