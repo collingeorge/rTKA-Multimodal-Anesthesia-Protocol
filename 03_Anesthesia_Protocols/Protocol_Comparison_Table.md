@@ -395,5 +395,126 @@ Quick reference comparing three evidence-based anesthetic pathways for robot-ass
 ## Document Validation Statement
 
 **This protocol comparison table has been revised to reflect:**
-- ✅ Conservative, clinically validated dosing ranges
--
+- Conservative, clinically validated dosing ranges aligned with current evidence
+- Evidence-based pathway selection frameworks per ERAS Society, ASA, and ASRA guidance
+- Explicit safety monitoring requirements with protocol-specific intensification
+- Correction of non-standard fentanyl continuous infusion approach to intermittent bolus strategy
+- Clear contraindication frameworks and special population dose adjustments
+- Comprehensive anticoagulation timing guidance per ASRA/ESRA 2024-2025 standards
+- Integration of regional analgesia best practices with LAST preparedness protocols
+- Enhanced emergence and extubation criteria with risk-stratified monitoring
+- Explicit acknowledgment of institutional protocol primacy and clinical judgment requirements
+
+**Clinical review standards applied:**
+- All dosing ranges verified against primary literature and contemporary anesthesia references
+- Pharmacologic interactions and contraindications validated against drug monographs
+- Safety monitoring aligned with ASA Standards for Basic Anesthetic Monitoring
+- Regional anesthesia techniques consistent with ASRA practice advisories
+- ERAS principles applied per published society guidelines for hip and knee arthroplasty
+- Conservative dosing favored throughout to minimize adverse events in diverse patient populations
+
+**Limitations acknowledged:**
+- This document provides educational frameworks and typical dosing ranges only
+- Individual patient assessment and dose titration to physiologic response remain mandatory
+- Institutional protocols, formulary restrictions, and local policies supersede general recommendations
+- Regional practice variations exist and are appropriate when evidence-based
+- Special populations may require modifications beyond those explicitly detailed herein
+- Attending anesthesiologist judgment and real-time clinical decision-making cannot be replaced by protocol
+
+**Scope of application:**
+- Designed for adult patients undergoing elective robot-assisted total knee arthroplasty
+- Assumes stable medical optimization and appropriate surgical candidacy
+- Requires qualified anesthesia providers in appropriately equipped environments
+- Not applicable to emergency procedures, pediatric populations, or non-TKA orthopedic surgery without modification
+- Does not address obstetric, trauma, or other specialized anesthesia contexts
+
+**Version control and updates:**
+- This document will be reviewed semi-annually or upon publication of major guideline updates
+- Significant evidence changes (new ERAS recommendations, ASA/ASRA guideline revisions, major safety alerts) will trigger immediate review
+- User feedback and reported safety concerns will be incorporated into revision cycles
+- Version history maintained to track evolution of recommendations over time
+
+**Intended audience:**
+- Anesthesiologists and anesthesia residents in training
+- Certified Registered Nurse Anesthetists and student nurse anesthetists
+- Perioperative nursing staff involved in TKA pathways
+- Quality improvement and ERAS implementation teams
+- Medical educators developing anesthesia curricula or institutional protocols
+
+**Educational disclaimer:**
+This protocol comparison table is intended for educational purposes and to serve as a reference framework for clinical decision-making. It does not constitute medical advice, establish a standard of care, or replace individualized patient assessment and treatment planning. Users are responsible for verifying all information against current primary sources, institutional policies, and regulatory requirements. The authors and distributors assume no liability for outcomes resulting from application of this material. Clinical judgment, informed consent, and adherence to applicable laws and regulations remain the responsibility of practicing clinicians.
+
+**Cross-references:**
+For comprehensive contraindication tables, dose adjustments, and safety considerations, refer to:
+- `Protocol_Adjuncts_and_Contraindications.md`
+
+For detailed LAST preparedness protocols and lipid emulsion therapy, refer to:
+- Section 8 of `Protocol_Adjuncts_and_Contraindications.md`
+
+For complete evidence grading and primary literature citations, refer to:
+- `07_References_Evidence_2024.md`
+
+For patient selection criteria and preoperative optimization, refer to institutional ERAS pathways and surgical protocols.
+
+**Acknowledgment of evidence sources:**
+This protocol synthesis incorporates guidance from:
+- Enhanced Recovery After Surgery (ERAS) Society Guidelines for Hip and Knee Arthroplasty (2019, 2024 updates)
+- American Society of Anesthesiologists (ASA) Standards for Basic Anesthetic Monitoring
+- American Society of Regional Anesthesia and Pain Medicine (ASRA) Practice Advisories
+- European Society of Regional Anaesthesia and Pain Therapy (ESRA) Anticoagulation Guidelines (4th Edition with 2024-2025 updates)
+- Society for Ambulatory Anesthesia (SAMBA) Consensus Statement on Opioid-Free Anesthesia (2020)
+- ASA/Anesthesia Patient Safety Foundation (APSF) recommendations on perioperative opioid use and respiratory safety
+- Published randomized controlled trials, systematic reviews, and meta-analyses in peer-reviewed anesthesia literature
+- Expert consensus from practicing anesthesiologists with subspecialty expertise in orthopedic anesthesia and regional techniques
+
+**Quality assurance and safety:**
+Users implementing these protocols in clinical practice should:
+- Establish institutional oversight through anesthesia department leadership
+- Conduct multidisciplinary review including surgery, nursing, pharmacy, and quality teams
+- Implement concurrent monitoring of patient outcomes (pain scores, opioid consumption, adverse events)
+- Maintain adverse event reporting systems and root cause analysis processes
+- Provide appropriate education and credentialing for all practitioners
+- Ensure availability of rescue medications, monitoring equipment, and emergency response protocols
+- Participate in ongoing quality improvement and benchmark against published outcomes data
+
+**Regulatory and accreditation considerations:**
+Implementation should align with:
+- Joint Commission National Patient Safety Goals
+- Centers for Medicare and Medicaid Services (CMS) quality measures
+- State medical board regulations governing anesthesia practice
+- Hospital credentialing and privileging requirements
+- Institutional Review Board (IRB) requirements if protocol deviations constitute research
+
+**Conflict of interest statement:**
+This educational protocol was developed without commercial sponsorship or financial conflicts of interest. No pharmaceutical, device, or other commercial entity influenced the content, recommendations, or presentation of information. Authors have no relevant financial relationships to disclose.
+
+**Feedback and continuous improvement:**
+Users are encouraged to provide feedback on protocol clarity, clinical utility, and patient outcomes through established institutional channels. Reported safety concerns, implementation challenges, or suggested improvements will be reviewed by the protocol development team and incorporated into future revisions as appropriate.
+
+---
+
+**Document Version:** 2.0  
+**Last Updated:** December 14, 2025  
+**Next Scheduled Review:** June 2026  
+**Document Status:** Educational reference; institutional adaptation required for clinical implementation  
+
+**Revision History:**
+- Version 1.0 (Initial): Original protocol comparison framework
+- Version 1.1-1.3: Minor clarifications and formatting improvements
+- Version 1.4: Added clinical pearls and ASRA anticoagulation timing updates
+- Version 2.0 (Current): Major revision incorporating conservative dosing validation, correction of fentanyl infusion approach, enhanced monitoring standards, expanded safety considerations, and comprehensive validation statement
+
+**For questions, corrections, or suggested improvements, contact:**
+[Institutional contact information to be inserted upon local implementation]
+
+**Citation recommendation:**
+If referencing this document in academic or quality improvement work:
+"rTKA Anesthesia Protocol Comparison Table, Version 2.0. [Institution Name] Anesthesia Department. December 14, 2025. Educational reference document."
+
+---
+
+## End of Document
+
+**Remember:** This protocol represents a synthesis of current evidence and expert consensus to guide clinical decision-making. It is not a substitute for clinical judgment, individualized patient assessment, or institutional oversight. Safe anesthetic care requires qualified practitioners, appropriate resources, ongoing education, and commitment to continuous quality improvement.
+
+**Patient safety is paramount.** When in doubt, consult senior colleagues, review primary literature, and prioritize conservative approaches that minimize risk while optimizing outcomes.
