@@ -1,219 +1,182 @@
 ---
-title: One-Page Anesthesia Summary for Surgeons – rTKA  
-version: 1.2  
-last-updated: 2025-12-08  
+title: One-Page Anesthesia Summary for Surgeons – rTKA
+version: 1.3
+last-updated: 2025-12-14
 ---
 
 # One-Page Anesthesia Summary for Surgeons  
 Robot-Assisted Total Knee Arthroplasty (rTKA)
 
-A concise reference for orthopedic surgeons outlining anesthesia pathways, expected postoperative trajectories, and shared decision-making considerations for streamlined rTKA workflow.
+A concise surgeon-facing reference outlining anesthesia pathways, expected postoperative trajectories, and key coordination points for streamlined rTKA workflow.
 
-**Default Pathway → OFIA + ACB/IPACK unless contraindicated.**
+**Default pathway → Protocol 1 (OFIA + ACB/IPACK) unless contraindicated.**
 
 ---
 
 # 1. Anesthesia Pathways Used in rTKA
 
-We employ three standardized pathways to maintain consistency and predictable outcomes:
+We use three standardized pathways to maintain consistency and predictable perioperative trajectories:
 
 <p align="center">
-  <img src="docs/images/pathway_overview.png" alt="Pathway Overview" width="75%">
+  <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="75%">
 </p>
 
-*Quick visual reference for all three anesthesia pathways.*
+*Figure: Visual overview of all three anesthesia pathways.*
 
 ---
 
-## Pathway 1 — OFIA + ACB/IPACK (Preferred ERAS Pathway)
-
-- Opioid-free intraoperative anesthesia  
+## Protocol 1 — OFIA + ACB/IPACK (Preferred ERAS Pathway)
+- Opioid-free intraoperative anesthesia (opioid rescue remains available postoperatively as clinically indicated)  
 - **Adductor canal block + IPACK** (motor-sparing, high analgesic value)  
 - **Midazolam 1–2 mg IV** preoperatively (standard anxiolysis)  
-- Maintenance: **Sevoflurane 0.8–1.2 MAC** or **Propofol TIVA**  
-- Ideal for: opioid-naïve patients, high PONV risk, ERAS/ambulation-first recovery models  
+- Maintenance: **sevoflurane 0.8–1.2 MAC** or **propofol TIVA**  
+- Best fit: opioid-naïve patients, high PONV risk, ERAS/ambulation-first recovery models  
 
----
+## Protocol 2 — OFIA, Block-Free
+- No peripheral nerve blocks (contraindication, refusal, or workflow constraints)  
+- **Surgeon periarticular infiltration is the primary local analgesic driver**  
+- Same OFIA pharmacologic backbone as Protocol 1  
+- Expect higher early pain scores vs Protocol 1, with preserved motor function  
 
-## Pathway 2 — OFIA, Block-Free
-
-- No peripheral nerve blocks (contraindication, refusal, or workflow needs)  
-- **Surgeon periarticular infiltration becomes the primary analgesic driver**  
-- Same anesthetic profile as Pathway 1 otherwise  
-- Expected higher early pain scores, but maintained motor preservation  
-
----
-
-## Pathway 3 — Conventional Opioid-Inclusive Anesthesia
-
-- Standard general or spinal anesthesia with fentanyl or hydromorphone  
-- **Midazolam 1–2 mg IV** remains standard  
-- Higher sedation/PONV risk  
-- Reserved for: chronic opioid users, severe preoperative anxiety, contraindications to OFIA agents  
+## Protocol 3 — Conventional Opioid-Inclusive
+- General anesthesia with intraoperative fentanyl or hydromorphone (as indicated)  
+- **Midazolam 1–2 mg IV** remains standard anxiolysis  
+- Higher sedation/PONV/respiratory-risk profile  
+- Best fit: chronic opioid users, severe preoperative anxiety, contraindications to OFIA adjuncts, or attending preference  
 
 ---
 
 # 2. What Surgeons Should Expect (Pathway-by-Pathway)
 
----
+## Protocol 1 — OFIA + ACB/IPACK
+**Analgesia & function**  
+- PACU pain often **NRS 0–3/10**  
+- Early ambulation commonly feasible **POD 0** (often 4–6 h postop depending on PT workflow)  
+- Block duration: **12–18 h** typical  
+- Quadriceps strength preserved (motor-sparing profile)
 
-## Pathway 1 — OFIA + ACB/IPACK
+**Nausea / sedation**  
+- Lower PONV and grogginess vs opioid-inclusive techniques  
+- Patients typically alert and mobilization-ready earlier
 
-**Analgesia & Function**  
-- NRS 0–3/10 typical in PACU  
-- Excellent early ambulation (POD 0, usually 4–6 hours postop)  
-- Block duration: **12–18 hours**  
-- Quadriceps strength preserved (motor-sparing)
+**Workflow notes**  
+- Adds ~10–15 min for block placement (block room can neutralize delay)  
+- Tourniquet discomfort mitigated with OFIA adjuncts  
+- Hemodynamics generally smooth; bradycardia/hypotension possible with dexmedetomidine
 
-**Nausea / Sedation**  
-- Very low PONV  
-- Patients are alert, oriented, and mobilization-ready
+## Protocol 2 — OFIA, Block-Free
+**Analgesia & function**  
+- Early pain often **NRS 3–6/10** (especially with movement)  
+- Motor strength intact; mobilization remains feasible
 
-**Intraoperative Notes**  
-- Adds ~10–15 minutes for block placement  
-- Tourniquet discomfort well controlled with ketamine/dexmedetomidine/magnesium adjuncts  
-- Smooth hemodynamics expected  
+**Nausea / sedation**  
+- PONV generally reduced due to opioid avoidance (still risk-stratified)
 
----
+**Workflow notes**  
+- Fastest workflow (no block setup)  
+- **Quality and distribution of periarticular infiltration materially determines success**
 
-## Pathway 2 — OFIA, Block-Free
+## Protocol 3 — Conventional Opioid-Inclusive
+**Analgesia & function**  
+- Variable early pain; higher PACU opioid rescue may be required  
+- Ambulation may be delayed by sedation and/or PONV
 
-**Analgesia & Function**  
-- Moderate early pain (NRS 3–6/10)  
-- Expect more movement-related discomfort  
-- Motor strength fully intact for early mobilization  
+**Nausea / sedation**  
+- Higher PONV and respiratory-depression risk  
+- Elderly/frail patients at increased delirium/fall risk
 
-**Nausea / Sedation**  
-- Minimal PONV since opioids are avoided  
-
-**Intraoperative Notes**  
-- Fastest workflow — no block room delay  
-- **Quality of periarticular infiltration significantly influences success**  
-
----
-
-## Pathway 3 — Conventional Opioid-Based
-
-**Analgesia & Function**  
-- Variable early pain  
-- Higher opioid requirements in PACU  
-- Potential delayed ambulation due to sedation or PONV  
-
-**Nausea / Sedation**  
-- Elevated PONV and respiratory-depression risk  
-- Elderly may experience increased delirium or delayed recovery  
-
-**Intraoperative Notes**  
-- Familiar technique but not fully aligned with ERAS goals  
-- Enhanced monitoring required  
+**Workflow notes**  
+- Familiar technique but less ERAS-aligned  
+- May require enhanced postoperative monitoring depending on opioid exposure and comorbidities
 
 ---
 
 # 3. What Anesthesia Needs From Surgeons
 
----
-
-## Preoperative Communication
+## Preoperative communication
 - Expected case duration  
 - Tourniquet pressure/time  
-- Positioning or robotic setup issues  
-- Surgeon preference for spinal vs GA (if any)
+- Positioning/robotic setup considerations that may limit airway access or delay turnover  
+- Preference for spinal vs GA (if any) and anticipated tolerance of sedation level  
 
----
-
-## Local Infiltration (Critical for Pathway 2)
-
-**Preferred recipe:**  
+## Periarticular infiltration (critical for Protocol 2)
+**Example recipe (institution-specific—confirm local formulary/policy):**  
 - **100–150 mL ropivacaine 0.2% + epinephrine 5 mcg/mL ± ketorolac 30 mg**
 
-**Technique expectations:**  
-- Adequate posterior capsule, periarticular, and subcutaneous coverage  
-- Document volumes and components for LAST risk assessment  
-- Ideal timing: before closure
+**Technique expectations**  
+- Posterior capsule + periarticular + subcutaneous coverage as appropriate  
+- Document volume and components (LAST risk assessment and continuity of care)  
+- Preferred timing: prior to closure
 
----
-
-## Intraoperative Updates
-- Significant blood loss or instability  
+## Intraoperative updates
+- Unexpected blood loss/instability  
 - Prolonged surgical time  
-- Changes in postoperative plan  
+- Change in postoperative plan (WB status, drains, unexpected restrictions)
+
+## Postoperative expectations
+- Clarify WB status and restrictions  
+- PT and discharge pathway (same-day vs POD 1)  
+- Dressing type/drains/brace instructions communicated early to PACU/floor  
 
 ---
 
-## Postoperative Expectations
-- Full weight-bearing unless specified  
-- Goal POD 0 ambulation (Pathways 1 and 2)  
-- Dressing type, drains, or restrictions should be clarified  
-- Early PT coordination  
+# 4. Shared Goals Across All Pathways
+- Early mobilization and functional recovery  
+- Low PONV and clear emergence when feasible  
+- Minimized opioid exposure with safe rescue options  
+- Predictable PACU course and standardized communication  
 
----
-
-# 4. Shared Pathway Alignment
-
-- All pathways use standardized multimodal therapy  
-- Shared goals:
-  - Early mobilization  
-  - Low PONV  
-  - Minimized opioid exposure  
-  - Patient satisfaction and consistent outcomes  
-
-**Key principle:**  
-**Midazolam 1–2 mg IV** is universal anxiolysis and remains compatible with OFIA principles.
-
-Surgeon feedback on pain during manipulation, tourniquet tolerance, and early PT response directly informs protocol refinements.
+**Key principle:** **Midazolam 1–2 mg IV** is standard anxiolysis and remains compatible with OFIA principles.
 
 ---
 
 # 5. Anticoagulation & Block Timing (ASRA 2024–2025)
+If ACB/IPACK is desired, patient must meet ASRA timing windows (deep peripheral block approach):
 
-**If ACB/IPACK desired, patients must meet ASRA timing windows:**
-
-- **DOACs:** ≥72 h (CrCl >50 mL/min)  
+- **DOACs:** ≥72 h (CrCl >50 mL/min); longer holds with reduced renal function per ASRA  
 - **Therapeutic LMWH:** ≥24 h  
 - **Prophylactic LMWH:** ≥12 h  
 - **Warfarin:** INR ≤1.4  
 
-If not met → default to **Pathway 2 (Block-Free)**.
+If not met → default to **Protocol 2 (Block-Free)** or **Protocol 3** as clinically indicated.
 
 ---
 
-# 6. Quick Medication Snapshot
+# 6. Quick Medication Snapshot (High-Level)
 
-### All Pathways
-- Acetaminophen 1 g  
-- NSAID (celecoxib 400 mg or ketorolac 15 mg IV)  
-- Dexamethasone 8–10 mg IV  
-- Midazolam 1–2 mg IV  
-- Ondansetron 4 mg IV  
+### All pathways (typical ERAS baseline)
+- Acetaminophen  
+- NSAID/COX-2 inhibitor (one strategy)  
+- Dexamethasone  
+- Midazolam  
+- Ondansetron  
 
-### OFIA Pathways
+### OFIA pathways (Protocols 1–2)
 - Ketamine (induction + low-dose infusion)  
 - Dexmedetomidine  
 - Magnesium  
 - Sevoflurane or propofol TIVA  
 
-### Conventional Pathway
-- Fentanyl or hydromorphone intraoperatively  
+### Conventional pathway (Protocol 3)
+- Intraoperative opioid (fentanyl or hydromorphone) as indicated
 
 ---
 
 # 7. Relevant Documents
-
-- **Full Protocols:** Protocols 1–4, Dosing & Timing  
-- **Counseling & Pre-op:** Patient Counseling, Preop Checklist  
-- **Flowcharts:** Spinal vs GA, PACU Rescue  
-- **PACU:** Handoff templates  
-- **Quick Reference:** Pocket cards  
+- `../03_Anesthesia_Protocols/` (Protocols 1–3 + dosing/contraindications)  
+- `../01_PreOp_Checklist.md`  
+- `../02_Patient_Counseling_Script.md`  
+- `../04_IntraOp_Flowcharts/` (Spinal vs GA, PACU rescue)  
+- `../05_PACU_Handoff_Templates.md`  
+- `../03_Anesthesia_Protocols/Protocol_Quick_Reference_Cards.md`  
 
 ---
 
 # 8. Collaboration & Feedback
-
-For improvements or case-specific questions, contact anesthesia lead.  
-Protocols are optimized for ERAS-aligned, surgeon-anesthesia collaborative care while preserving clinician flexibility.
+Surgeon feedback on tourniquet tolerance, intraoperative manipulation pain, infiltration performance, and early PT response is used to iteratively refine protocol targets while preserving attending-level discretion.
 
 ---
 
-**Last Updated:** December 8, 2025  
-**Version:** 1.2  
+**Last Updated:** December 14, 2025  
+**Version:** 1.3  
 **Next Review Due:** December 2026
