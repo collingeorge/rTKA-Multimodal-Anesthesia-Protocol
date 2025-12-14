@@ -18,7 +18,7 @@ A concise surgeon-facing reference outlining anesthesia pathways, expected posto
 We use three standardized pathways to maintain consistency and predictable perioperative trajectories:
 
 <p align="center">
-  <img src="../docs/images/pathway_overview.png" alt="Pathway Overview" width="75%">
+  <img src= "https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol/blob/main/docs/images/pathway_overview.png" alt="Pathway Overview" width="75%">
 </p>
 
 *Figure: Visual overview of all three anesthesia pathways.*
