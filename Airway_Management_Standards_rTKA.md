@@ -2056,4 +2056,872 @@ This document establishes comprehensive airway management standards for patients
 - Difficult mask ventilation more common
 - May have difficult intubation (large tongue, pharyngeal tissue)
 - Higher risk postoperative airway obstruction and respiratory depression
-- Sensitive to sedatives an
+- Sensitive to sedatives and opioids
+- Higher risk of postoperative pulmonary complications
+
+**Preoperative assessment:**
+
+**STOP-Bang questionnaire (screening tool):**
+- **S**noring: Loud snoring?
+- **T**ired: Daytime tiredness/fatigue?
+- **O**bserved: Witnessed apneas during sleep?
+- **P**ressure: High blood pressure?
+- **B**MI >35 kg/m²?
+- **A**ge >50 years?
+- **N**eck circumference >40 cm (16 inches)?
+- **G**ender: Male?
+
+**Scoring:**
+- 0-2: Low risk of OSA
+- 3-4: Intermediate risk of OSA
+- 5-8: High risk of OSA
+
+**If known OSA, document:**
+- Severity (AHI - apnea-hypopnea index from sleep study)
+  - Mild: AHI 5-15
+  - Moderate: AHI 15-30
+  - Severe: AHI >30
+- CPAP/BiPAP use and compliance
+- Baseline oxygen saturation
+
+**Airway management considerations:**
+
+**Preoperative:**
+- Thorough airway exam (expect higher rate of difficult airway)
+- Continue CPAP/BiPAP until immediately before surgery if home user
+- Minimize preoperative sedation (avoid or reduce midazolam)
+
+**Induction:**
+- **Enhanced preoxygenation:** Head-up position, extended time, consider CPAP during preoxygenation
+- **Apneic oxygenation:** Nasal cannula 15 L/min may prolong safe apnea time
+- Standard induction technique
+- Two-handed mask ventilation technique may be needed
+- Video laryngoscopy reasonable first choice
+
+**Intraoperative:**
+- Standard ventilation management
+- No special intraoperative airway considerations
+- **Prefer OFIA pathways (Protocols 1 or 2)** to minimize postoperative respiratory depression
+
+**Emergence:**
+- **Fully awake before extubation** - no somnolence
+- Robust spontaneous ventilation confirmed
+- **Semi-upright positioning** (30-45 degrees) for extubation and recovery
+- Avoid excessive sedation or opioids in emergence
+
+**Postoperative (CRITICAL):**
+- **Continuous pulse oximetry mandatory** for first 24 hours (minimum 12 hours if low-risk OSA)
+- Consider capnography in PACU for moderate-severe OSA
+- **Resume CPAP/BiPAP** first night postoperatively
+- Semi-upright positioning when in bed
+- Supplemental oxygen to maintain SpO₂ ≥92%
+- **Minimize opioids** - use multimodal analgesia aggressively
+- Enhanced nursing surveillance
+- Low threshold for higher level of care (step-down unit)
+
+**CPAP/BiPAP management:**
+- Bring patient's home machine to hospital
+- Apply in PACU once patient awake enough to tolerate
+- Use throughout hospitalization when sleeping
+- Ensure proper fit and settings
+
+### 10.2 Obesity (BMI >35)
+
+**Obesity affects all aspects of airway management**
+
+**Anatomic and physiologic challenges:**
+- Reduced functional residual capacity (FRC) - rapid desaturation
+- Difficult mask ventilation (large tongue, redundant pharyngeal tissue, reduced chest compliance)
+- May have difficult intubation (limited neck mobility, large breasts obstructing laryngoscope)
+- Increased aspiration risk (hiatal hernia, increased intra-abdominal pressure)
+- Often concurrent OSA
+
+**Preoperative assessment:**
+- Full airway exam (expect higher difficulty)
+- Calculate ideal body weight (for medication dosing and tidal volume)
+- Assess for OSA (STOP-Bang often positive)
+
+**Airway management strategy:**
+
+**Positioning:**
+- **"Ramped position"** for intubation:
+  - Elevate shoulders and head with blankets/ramp
+  - Goal: Align external auditory meatus with sternal notch (horizontal alignment)
+  - Dramatically improves laryngoscopic view
+- May require significant elevation (20-30 cm of blankets under upper body)
+
+**Preoxygenation:**
+- **Head-up 25-30 degrees** (improves FRC, delays desaturation)
+- **Extended preoxygenation:** 5 minutes minimum
+- **CPAP 5-10 cmH₂O** during preoxygenation (increases oxygen reservoir)
+- **Apneic oxygenation:** Nasal cannula 15 L/min during laryngoscopy
+
+**Induction:**
+- **Expect rapid desaturation** (reduced FRC, increased oxygen consumption)
+- Adequate preoxygenation critical
+- Standard or modified rapid sequence based on aspiration risk
+- Two-person mask ventilation technique often needed
+- Video laryngoscopy reasonable first choice
+
+**Medication dosing:**
+- **Propofol:** Dose based on total body weight (controversial) or adjusted body weight per institutional protocol
+  - Many use total body weight for induction: 1.5-2 mg/kg
+- **Rocuronium:** Dose based on ideal body weight: 0.6-1 mg/kg IBW
+- **Sugammadex:** Dose based on actual (total) body weight: 2-4 mg/kg actual weight
+- **Opioids (if Protocol 3):** Controversial dosing; many use lean body weight or adjusted formulas
+
+**Ventilation:**
+- **Tidal volume:** Based on ideal body weight (6-8 mL/kg IBW)
+- **Higher PEEP:** 8-10 cmH₂O (maintains FRC)
+- Reverse Trendelenburg positioning if tolerated (15-30 degrees - improves lung mechanics)
+- Recruitment maneuvers may be beneficial
+- Accept higher baseline airway pressures (reduced chest wall compliance)
+
+**Extubation:**
+- **Head-up/semi-upright positioning** (30-45 degrees)
+- Fully awake
+- Robust ventilation
+- Remove in ramped position or transition to semi-upright after extubation
+
+**Postoperative:**
+- Continuous pulse oximetry extended duration
+- Semi-upright positioning
+- Early mobilization
+- Enhanced respiratory monitoring
+
+### 10.3 Elderly and Frail Patients
+
+**Elderly (>75 years) and frail patients present unique airway challenges**
+
+**Physiologic changes:**
+- Reduced respiratory reserve
+- Decreased airway reflexes (increased aspiration risk)
+- Dental fragility (increased risk of dental injury)
+- Cervical spine degenerative changes (reduced neck mobility)
+- Slower drug metabolism (prolonged effects)
+- Increased sensitivity to sedatives and opioids
+
+**Airway assessment:**
+- Full exam including dentition (document loose teeth)
+- Assess neck mobility (may be limited)
+- Cognitive baseline assessment
+
+**Airway management:**
+
+**Medications:**
+- **Reduce all doses:**
+  - Propofol: 1-1.5 mg/kg (lower end of range)
+  - Midazolam: 0.5-1 mg maximum, or avoid
+  - Opioids (if Protocol 3): Start 50% of standard dose
+- Slower onset and offset expected
+- Allow adequate time for medications to take effect before assessment
+
+**Intubation:**
+- Gentle technique (fragile tissues, teeth)
+- Protect teeth during laryngoscopy (use bite block or gauze)
+- Standard technique otherwise
+
+**Ventilation:**
+- Standard lung-protective ventilation
+- Lower tidal volumes relative to younger patients (use ideal body weight)
+- Maintain normocapnia
+
+**Extubation:**
+- **Fully awake** before extubation (reduced airway reflexes increase aspiration risk)
+- Ensure complete neuromuscular recovery
+- Strong cough and gag reflexes confirmed
+- Semi-upright positioning
+
+**Postoperative:**
+- Enhanced monitoring for respiratory depression
+- Minimize opioids (higher sensitivity, respiratory depression risk)
+- Delirium prevention strategies
+- Early mobilization with assistance
+
+### 10.4 Patients with Severe Cardiac Disease
+
+**Severe cardiac disease (EF <30%, critical AS, recent MI, etc.)**
+
+**Airway management considerations:**
+
+**Goals:**
+- Minimize hemodynamic perturbations
+- Maintain coronary perfusion pressure
+- Avoid tachycardia and severe hypertension/hypotension
+- Prevent hypoxemia and hypercarbia (increase myocardial work)
+
+**Preoperative:**
+- Optimize medical management
+- May require invasive monitoring (arterial line before induction)
+- Cardiology consultation often appropriate
+
+**Induction:**
+- **Slow, careful induction:**
+  - Reduced propofol dose (1-1.5 mg/kg, titrate slowly)
+  - Consider etomidate 0.2-0.3 mg/kg if severe dysfunction (more hemodynamically stable)
+- **Avoid laryngoscopy-induced hypertension and tachycardia:**
+  - Adequate depth before laryngoscopy
+  - Limit laryngoscopy time
+  - Small-dose opioid (fentanyl 50-100 mcg) or other blunting agent may be appropriate even in OFIA pathways
+- Have vasopressors drawn and ready
+
+**Ventilation:**
+- Avoid hypoxemia (maintain SpO₂ ≥95%)
+- Avoid hypercarbia (increases sympathetic tone)
+- Avoid excessive positive pressure (reduces venous return)
+
+**Emergence:**
+- **Smooth emergence** (avoid hypertension and tachycardia):
+  - Adequate analgesia before emergence
+  - Consider esmolol or labetalol if severe hypertensive response
+- Avoid bucking on ETT (increases myocardial work)
+
+**Postoperative:**
+- Enhanced hemodynamic monitoring
+- Telemetry for 24-48 hours
+- May require higher level of care (step-down or ICU)
+
+### 10.5 Patients with Difficult Airway History
+
+**Patients with known or previous difficult airway**
+
+**Preoperative:**
+- **Review prior anesthetic records** if available (critical information)
+- Document what made airway difficult and what techniques were successful
+- **Patient interview:** What do they remember? Do they have documentation?
+- Check for MedicAlert bracelet or wallet card
+
+**Classification of prior difficulty:**
+- Difficult mask ventilation only
+- Difficult intubation but successful after optimization
+- Failed intubation, required awake fiberoptic or surgical airway
+- Specific anatomic issue (tumor, trauma, congenital abnormality)
+
+**Management plan:**
+
+**If previous difficult intubation but ultimately successful:**
+- **Enhanced preparation:**
+  - Difficult airway cart in room before induction
+  - Video laryngoscope ready as first-line
+  - Experienced operator
+  - Additional help available
+- **Consider awake fiberoptic intubation** if:
+  - Very difficult previous experience
+  - Multiple attempts or techniques required previously
+  - Concern about ability to mask ventilate
+
+**If previous failed intubation or required awake technique:**
+- **Awake fiberoptic intubation is strongly recommended**
+- Do NOT attempt asleep intubation unless airway anatomy has significantly improved
+- Detailed discussion with patient
+- Plan B, C, D in place
+
+**Documentation:**
+- Detailed airway plan documented preoperatively
+- Patient counseled on plan
+- Surgical team aware
+- All team members briefed
+
+**Postoperative:**
+- **Inform patient** of airway management (successful technique, any difficulties)
+- **Provide documentation** for patient to carry (letter, wallet card)
+- **Recommend MedicAlert bracelet** if truly difficult airway
+- Document in medical record for future reference
+
+---
+
+## 11. Airway Emergencies and Complications
+
+### 11.1 Cannot Intubate, Cannot Oxygenate (CICO)
+
+**See Section 5.5 for complete CICO protocol**
+
+**Summary:**
+- Life-threatening emergency
+- Failed intubation AND failed oxygenation
+- Immediate surgical airway required
+- **Scalpel cricothyrotomy** is preferred emergency surgical airway technique
+- Do NOT delay with futile attempts
+- Call for help immediately
+
+### 11.2 Airway Fire
+
+**Rare but catastrophic complication**
+
+**Fire triangle requires three elements:**
+1. **Fuel:** ETT, surgical drapes, gauze, hair
+2. **Oxidizer:** Oxygen, nitrous oxide
+3. **Ignition source:** Electrocautery, laser
+
+**Prevention:**
+- Reduce FiO₂ to minimum safe level during airway surgery (especially head/neck, oral, facial)
+- Use laser-safe ETT if laser used near airway
+- Keep surgical drapes away from oxygen source
+- Ensure cuffed ETT (prevents oxygen leak around tube)
+
+**If airway fire occurs:**
+
+**Immediate actions (within seconds):**
+1. **STOP ventilation** (disconnect circuit)
+2. **Remove burning ETT immediately**
+3. **Extinguish fire** (saline irrigation)
+4. **Re-establish airway:**
+   - Mask ventilate with 100% oxygen initially
+   - Inspect airway (may need bronchoscopy)
+   - Re-intubate with new ETT (smaller size if edema suspected)
+
+**Post-fire management:**
+5. **Assess extent of injury:**
+   - Bronchoscopy to visualize airway
+   - Document extent of burns
+6. **Supportive care:**
+   - 100% oxygen
+   - Steroids considered (dexamethasone 8-10 mg IV)
+   - Humidified oxygen
+   - Antibiotics if indicated (not routine)
+7. **Monitoring:**
+   - May require prolonged intubation if significant injury
+   - ICU admission
+   - Serial bronchoscopy to assess healing
+   - Watch for delayed airway edema (next 24-48 hours)
+
+**Documentation and reporting:**
+- Institutional safety report
+- Inform patient and family
+- Document in detail
+
+### 11.3 Bronchospasm
+
+**Bronchospasm: Bronchial smooth muscle constriction causing airway obstruction**
+
+**Causes:**
+- Asthma (reactive airway disease)
+- COPD exacerbation
+- Allergic reaction
+- Aspiration
+- Airway irritation (secretions, blood, ETT, light anesthesia)
+- Medications (rare: histamine-releasing drugs)
+
+**Recognition:**
+
+**Clinical signs:**
+- Wheezing (expiratory, may be inspiratory if severe)
+- Increased peak airway pressures (PIP elevated)
+- Prolonged expiration
+- Decreased tidal volumes (if pressure-control ventilation)
+- Hypoxemia (SpO₂ declining)
+- Hypercarbia (EtCO₂ rising)
+
+**Capnography:**
+- **Upsloping EtCO₂ waveform** (prolonged exhalation)
+- Shark-fin or sloped waveform appearance
+
+**Differential diagnosis:**
+- ETT obstruction (mucus plug)
+- Endobronchial intubation
+- Pneumothorax
+- Pulmonary edema
+- Anaphylaxis (if also hypotension, rash)
+
+**Treatment:**
+
+**Immediate:**
+1. **100% oxygen**
+2. **Deepen anesthesia:**
+   - Propofol 20-50 mg IV bolus OR
+   - Increase sevoflurane (volatile anesthetics are bronchodilators)
+3. **Remove trigger if identified** (suction secretions, remove irritant)
+
+**Bronchodilators:**
+4. **Albuterol (salbutamol) inhaler or nebulizer:**
+   - 4-8 puffs via MDI into circuit OR
+   - 2.5-5 mg nebulized solution via in-line nebulizer
+   - Repeat every 20 minutes as needed
+5. **Ipratropium (Atrovent):** 
+   - 0.5 mg nebulized (anticholinergic bronchodilator)
+   - Adjunct to albuterol
+
+**Additional therapies:**
+6. **Glycopyrrolate 0.2-0.4 mg IV** (anticholinergic, reduces secretions and bronchodilates)
+7. **Magnesium sulfate 2 g IV** over 20 minutes (bronchodilator, smooth muscle relaxant)
+8. **Ketamine 0.5-1 mg/kg IV** (bronchodilator properties)
+9. **Epinephrine** (if severe, refractory):
+   - 10-100 mcg IV boluses for severe bronchospasm
+   - Infusion 0.01-0.1 mcg/kg/min if needed
+
+**Ventilation strategy:**
+10. **Allow longer expiratory time:**
+    - Decrease respiratory rate
+    - Decrease I:E ratio (allow more time for exhalation)
+    - Accept permissive hypercarbia if needed
+11. **Avoid excessive airway pressures** (risk barotrauma)
+12. **Consider hand ventilation** (better feel for compliance, avoid excessive pressure)
+
+**If anaphylaxis suspected:**
+- See anaphylaxis protocol
+- Epinephrine 50-100 mcg IV, repeat as needed
+- Antihistamines (diphenhydramine 25-50 mg IV)
+- Steroids (dexamethasone 8-10 mg IV or hydrocortisone 100 mg IV)
+
+**Prevention:**
+- Adequate anesthetic depth before airway instrumentation
+- Treat known asthma preoperatively (optimize controller medications)
+- Avoid triggers (aspiration, secretions)
+- Consider bronchodilators preoperatively for known reactive airway
+
+### 11.4 Aspiration
+
+**See Section 9.2 for detailed aspiration management**
+
+**Summary:**
+- Inhalation of gastric contents
+- Causes chemical pneumonitis if gastric pH <2.5
+- High-risk periods: Induction, emergence, PACU
+- Immediate suctioning critical
+- May require reintubation and bronchoscopy
+- Supportive care; antibiotics not routine
+- Monitor for ARDS development
+
+### 11.5 Pneumothorax
+
+**Pneumothorax: Air in pleural space**
+
+**Causes in anesthetic setting:**
+- Barotrauma from positive pressure ventilation (especially if high pressures, COPD, bullous disease)
+- Central line placement complication (subclavian or internal jugular)
+- Rib fracture (trauma, CPR)
+- Spontaneous (tall, thin patients; underlying lung disease)
+
+**Recognition:**
+
+**Clinical signs:**
+- Sudden onset hypoxemia (SpO₂ declining)
+- **Unilateral breath sounds** (decreased or absent on affected side)
+- Increased peak airway pressures
+- Hypotension (if tension pneumothorax)
+- Tracheal deviation away from affected side (tension pneumothorax)
+- Subcutaneous emphysema (crepitus in neck, chest)
+- Hyperresonance to percussion on affected side
+
+**Tension pneumothorax:**
+- Progressive accumulation of air
+- Mediastinal shift
+- Compressed vena cava → decreased venous return → hypotension, cardiovascular collapse
+- **Immediate life threat**
+
+**Diagnosis:**
+- Clinical diagnosis (do not delay for imaging if tension suspected)
+- Chest X-ray confirms when stable
+
+**Treatment:**
+
+**Simple pneumothorax (small, stable patient):**
+- May observe if <10-20% and patient stable
+- Supplemental oxygen (accelerates reabsorption)
+- Serial chest X-rays
+
+**Moderate-large pneumothorax (symptomatic):**
+- **Chest tube placement** (tube thoracostomy)
+- Call surgery or interventional radiology
+- Continue mechanical ventilation with lung-protective settings
+
+**Tension pneumothorax (EMERGENCY):**
+1. **Immediate needle decompression:**
+   - Large-bore IV catheter (14-16 gauge)
+   - **Second intercostal space, midclavicular line** on affected side
+   - Insert superior to rib (avoid neurovascular bundle)
+   - Listen for rush of air (confirms diagnosis and provides temporary relief)
+2. **Definitive chest tube** placement as soon as possible
+3. **Supportive care:**
+   - 100% oxygen
+   - Hemodynamic support if needed (fluids, vasopressors)
+4. Continue case only if patient stable and chest tube functioning
+
+**Intraoperative pneumothorax:**
+- High suspicion if sudden hypoxemia, hypotension, increased airway pressures
+- Inform surgical team immediately
+- May need to abort/shorten procedure
+- Postoperative ICU likely
+
+### 11.6 Dental Injury
+
+**Dental injury: Most common anesthesia malpractice claim**
+
+**Risk factors:**
+- Poor dentition (loose, capped, crowned teeth)
+- Prominent upper incisors
+- Difficult laryngoscopy (increased force)
+- Repeated attempts
+- Inexperienced operator
+
+**Prevention:**
+- **Document dentition pre-operatively** (loose teeth, caps, bridges)
+- Inform patient of risk if poor dentition
+- Gentle laryngoscopy technique (avoid levering)
+- Use bite block to protect teeth during laryngoscopy
+- Video laryngoscopy (less force on teeth)
+
+**If dental injury occurs:**
+
+**Immediate:**
+1. **Locate tooth or fragment** (ensure not aspirated)
+   - Inspect oropharynx
+   - Inspect ETT and airway
+   - If cannot locate, assume aspirated until proven otherwise
+2. **Prevent aspiration:**
+   - Ensure cuffed ETT in place
+   - Suction oropharynx
+3. **If tooth aspirated:**
+   - Chest X-ray (visualize tooth location)
+   - Bronchoscopy to retrieve if in airway (call pulmonology)
+   - If in esophagus/stomach, may pass spontaneously (monitor)
+4. **Preserve tooth/fragment:**
+   - Place in saline or milk
+   - Give to patient for dental consultation
+
+**Documentation:**
+1. Document injury in anesthetic record
+2. Inform surgeon and patient immediately
+3. Take photograph if possible (for record)
+4. Dental consultation arranged
+5. Institutional incident report
+
+**Postoperative:**
+- Inform patient when awake
+- Apologize for injury
+- Arrange urgent dental consultation
+- Document conversation
+- Follow up on dental repair
+
+**Note:** Honesty and immediate disclosure reduce medicolegal risk
+
+---
+
+## 12. Quality Assurance and Documentation
+
+### 12.1 Airway Management Documentation
+
+**Mandatory documentation elements:**
+
+**Preoperative airway assessment:**
+- Mallampati classification
+- Mouth opening (cm or finger breadths)
+- Thyromental distance
+- Neck range of motion
+- Dentition status
+- Prior airway difficulties
+- Predicted difficult mask ventilation (yes/no)
+- Predicted difficult intubation (yes/no)
+
+**Induction and intubation:**
+- Time of induction
+- Preoxygenation performed (duration, FiO₂ achieved)
+- Mask ventilation: Easy / difficult / unable
+  - If difficult: Technique used, OPA/NPA used
+- Laryngoscopy method: Direct (blade type, size) / Video (device)
+- Laryngoscopic view: Cormack-Lehane grade (1, 2, 3, 4)
+- Number of intubation attempts
+- Operator (anesthesiologist, CRNA, resident)
+- Adjuncts used (bougie, stylet, external laryngeal manipulation)
+- ETT size and depth at teeth/lips
+- **Confirmation of placement:**
+  - EtCO₂ waveform present (yes/no)
+  - Bilateral breath sounds (yes/no)
+  - Depth at teeth documented
+- Complications (none, or describe)
+
+**Difficult airway:**
+- If difficult airway encountered:
+  - Describe what made it difficult
+  - Techniques attempted
+  - Successful technique
+  - Call for help (yes/no, who responded)
+  - Consider difficult airway registry entry (if institutional)
+
+**Ventilation:**
+- Mode (volume control, pressure control, etc.)
+- Settings (tidal volume, respiratory rate, PEEP, FiO₂)
+- Peak and plateau pressures (if measured)
+- EtCO₂ range
+- Any ventilation issues
+
+**Emergence and extubation:**
+- Time of emergence (when anesthetics reduced)
+- Extubation time
+- **Neuromuscular monitoring:**
+  - TOF before reversal (count, ratio)
+  - Sugammadex dose and time
+  - TOF after reversal (count, ratio)
+- Extubation criteria met (document assessment)
+- Supplemental oxygen on transfer to PACU
+- Condition on transfer (awake, breathing spontaneously, stable)
+
+**Complications:**
+- Any airway complications documented with detail:
+  - Dental injury
+  - Aspiration
+  - Bronchospasm
+  - Laryngospasm
+  - Difficult ventilation/intubation
+  - Failed intubation
+  - CICO event
+  - Reintubation
+- Management and outcome
+
+### 12.2 Difficult Airway Registry
+
+**Purpose:**
+- Track difficult airways for future reference
+- Quality improvement
+- Identify patterns and risk factors
+- Provide information to patients and future providers
+
+**Information to include in registry:**
+- Patient demographics and identifiers
+- Procedure and date
+- What made airway difficult (mask ventilation, laryngoscopy, both)
+- Cormack-Lehane grade
+- Successful technique
+- Recommendations for future
+
+**Patient notification:**
+- Inform patient of difficult airway
+- Provide written documentation (letter or card to carry)
+- Recommend MedicAlert bracelet if truly difficult
+- Document in medical record prominently
+
+### 12.3 Quality Metrics and Improvement
+
+**Airway management quality indicators:**
+
+**Process measures:**
+- Preoperative airway assessment documentation rate (goal 100%)
+- Difficult airway prediction accuracy
+- Equipment availability (difficult airway cart stocked and functional)
+- Video laryngoscope availability and utilization
+
+**Outcome measures:**
+- First-attempt intubation success rate
+- Failed intubation rate
+- CICO event rate (should be rare)
+- Dental injury rate
+- Aspiration rate
+- Unplanned reintubation rate
+- Airway-related critical events
+
+**Monitoring and feedback:**
+- Regular review of airway complications (M&M conferences)
+- Trend analysis (are rates improving or worsening?)
+- Individual provider feedback (if patterns identified)
+- System-level improvements based on data
+
+**Continuous improvement initiatives:**
+- Video laryngoscopy education and adoption
+- Difficult airway simulation training
+- ASA Difficult Airway Algorithm education
+- Cricothyrotomy training (simulation, cadaver labs)
+- Team training and communication
+- Equipment standardization and availability
+
+### 12.4 Education and Training
+
+**All anesthesia providers must maintain airway management skills**
+
+**Core competencies:**
+- Preoperative airway assessment
+- Preoxygenation techniques
+- Mask ventilation (one-handed and two-handed)
+- Direct laryngoscopy and intubation
+- Video laryngoscopy
+- Supraglottic airway placement (LMA, etc.)
+- Fiberoptic intubation (awake and asleep)
+- Recognition and management of difficult airway
+- Emergency surgical airway (cricothyrotomy)
+
+**Training methods:**
+- Clinical experience with supervision
+- Simulation (high-fidelity manikins, task trainers)
+- Cadaver labs (for surgical airway)
+- Video review and debriefing
+- Workshops and courses
+
+**Maintenance of skills:**
+- Regular clinical practice
+- Periodic simulation refreshers
+- Review of ASA algorithms
+- Participation in M&M conferences
+- Self-assessment and reflection
+
+**Credentialing:**
+- Institutional credentialing for:
+  - General anesthesia and intubation
+  - Fiberoptic intubation
+  - Video laryngoscopy
+  - Regional anesthesia (if performing nerve blocks)
+- Ongoing competency assessment
+
+---
+
+## Document Validation Statement
+
+**This airway management and safety document has been developed to provide:**
+- Comprehensive airway management guidance for rTKA anesthesia across all phases of care
+- Evidence-based techniques aligned with ASA Difficult Airway Algorithm and current best practices
+- Systematic approach to anticipated and unanticipated difficult airway
+- Emergency airway protocols including CICO management
+- Special population considerations (OSA, obesity, elderly, cardiac disease)
+- Quality assurance and documentation standards
+
+**Clinical review standards applied:**
+- All techniques verified against ASA Practice Guidelines for Management of the Difficult Airway
+- Equipment recommendations based on current technology and availability
+- Emergency protocols aligned with ACLS and ASA difficult airway algorithms
+- Ventilation strategies incorporate lung-protective principles
+- Special population management based on published evidence and expert consensus
+
+**Scope and limitations:**
+- This document provides airway management frameworks and best practices for routine rTKA
+- Individual patient anatomy and clinical circumstances may require modification
+- Provider skill level and institutional equipment availability vary
+- Emergency situations require rapid decision-making that may deviate from standard protocols
+- Institutional protocols and provider credentialing requirements supersede general recommendations
+
+**Intended use:**
+- Educational reference for anesthesiologists, CRNAs, and anesthesia residents
+- Foundation for institutional airway management protocol development
+- Quality improvement and safety initiative guidance
+- Complement to rTKA Protocol Comparison Table and Patient Monitoring Standards documents
+- Training curriculum for airway management skills
+
+**Institutional adaptation required:**
+- Equipment availability varies (video laryngoscopy, fiberoptic bronchoscopy, difficult airway cart contents)
+- Provider experience and credentialing differs
+- Emergency response systems vary (rapid response teams, ENT availability)
+- Documentation systems differ (electronic vs paper, automated vs manual)
+- Local policies and protocols supersede general guidance
+
+**Version control:**
+- This document will be reviewed annually or upon publication of updated ASA difficult airway guidelines
+- Significant technology changes or new airway devices will trigger review
+- User feedback and reported airway-related safety events will inform revisions
+- Version history maintained to track evolution of recommendations
+
+**Cross-references:**
+For anesthetic protocols, drug dosing, and pathway selection:
+- `Protocol_Comparison_Table.md`
+
+For patient monitoring standards and emergency protocols:
+- `Patient_Monitoring_Standards_rTKA.md`
+
+For contraindications and safety considerations:
+- `Protocol_Adjuncts_and_Contraindications.md`
+
+For complete evidence grading and references:
+- `07_References_Evidence_2024.md`
+
+**Acknowledgment of standards:**
+This airway management document incorporates guidance from:
+- American Society of Anesthesiologists Practice Guidelines for Management of the Difficult Airway
+- American Society of Anesthesiologists Standards for Basic Anesthetic Monitoring (ventilation components)
+- Difficult Airway Society (DAS) Guidelines
+- Advanced Cardiovascular Life Support (ACLS) algorithms
+- Published literature on airway management techniques and complications
+- Expert consensus from practicing anesthesiologists with expertise in airway management
+
+**Educational disclaimer:**
+This document is intended for educational purposes and to serve as a reference framework for airway management practices. It does not constitute medical advice, establish a standard of care, or replace individualized clinical assessment and judgment. Users are responsible for verifying all information against current primary sources, institutional policies, equipment capabilities, and regulatory requirements. The authors and distributors assume no liability for outcomes resulting from application of this material. Clinical judgment, appropriate training and credentialing, and adherence to applicable laws and regulations remain the responsibility of practicing clinicians and institutions.
+
+**Quality and safety:**
+Institutions implementing these airway management standards should:
+- Ensure adequate equipment availability and functionality (difficult airway cart, video laryngoscopy, fiberoptic bronchoscopy)
+- Provide comprehensive staff education on airway management techniques
+- Conduct regular airway management simulation training
+- Maintain emergency airway protocols and response systems
+- Monitor compliance with airway assessment and documentation standards
+- Investigate airway-related adverse events with root cause analysis
+- Participate in difficult airway registries when available
+- Benchmark airway management outcomes against peer institutions
+
+**Regulatory compliance:**
+Implementation should align with:
+- State medical board regulations governing anesthesia practice
+- Joint Commission standards and National Patient Safety Goals
+- ASA Standards for Basic Anesthetic Monitoring (ventilation and oxygenation)
+- ASA Practice Guidelines for Management of the Difficult Airway
+- Institutional credentialing and privileging requirements for airway management procedures
+
+**Conflict of interest statement:**
+This educational document was developed without commercial sponsorship or financial conflicts of interest. No medical device, airway equipment manufacturer, or pharmaceutical company influenced the content or recommendations. Authors have no relevant financial relationships to disclose.
+
+---
+
+**Document Version:** 1.0  
+**Last Updated:** December 14, 2025  
+**Next Scheduled Review:** December 2026  
+**Document Status:** Educational reference; institutional adaptation required for clinical implementation
+
+**Revision History:**
+- Version 1.0 (Current): Initial comprehensive airway management and safety standards document
+
+**For questions, corrections, or suggested improvements, contact:**
+[Institutional contact information to be inserted upon local implementation]
+
+**Citation recommendation:**
+If referencing this document in academic or quality improvement work:
+"Airway Management and Safety Standards for rTKA Anesthesia, Version 1.0. [Institution Name] Anesthesia Department. December 14, 2025. Educational reference document."
+
+---
+
+## End of Document
+
+**Remember:** Safe airway management requires:
+- Thorough preoperative assessment and preparation
+- Technical skill and clinical judgment
+- Appropriate equipment immediately available
+- Knowledge of and adherence to difficult airway algorithms
+- Ability to recognize and manage complications
+- Teamwork and communication
+- Commitment to continuous learning and quality improvement
+
+**The best airway management strategy combines:**
+- Anticipation (thorough assessment and preparation)
+- Prevention (preoxygenation, proper technique, avoiding complications)
+- Recognition (early identification of difficulty)
+- Response (systematic approach using established algorithms)
+- Reflection (learning from experiences and near-misses)
+
+**Patient safety in airway management depends on:**
+- Provider knowledge, training, and experience
+- Equipment availability and functionality
+- Systematic approach to difficult airways
+- Clear communication among team members
+- Preparedness for emergencies
+- Institutional support for quality improvement
+
+**Core principles to never forget:**
+1. **Always have a backup plan** - Plan B, C, and D
+2. **Oxygenation is the priority** - maintain oxygenation at all costs
+3. **Call for help early** - do not struggle alone with difficult airway
+4. **Limit attempts** - recognize futility and move to next plan
+5. **Know your emergency airway skills** - cricothyrotomy can be life-saving
+6. **Document thoroughly** - especially difficult airways and complications
+7. **Learn from every airway** - reflection improves future performance
+
+**The three most important questions in airway management:**
+1. Can I **ventilate** this patient?
+2. Can I **intubate** this patient?
+3. What is my **plan** if I cannot?
+
+**Always ask yourself before every airway:**
+- Have I assessed this airway thoroughly?
+- Do I have the right equipment ready?
+- What will I do if this is more difficult than expected?
+- Is help available if I need it?
+- Am I prepared for a CICO emergency?
+
+**Never forget:**
+- Every airway deserves respect and preparation
+- Complications can occur even in "easy" airways
+- Vigilance and preparation save lives
+- Continuous learning is essential
+- Patient safety is our highest priority
