@@ -776,11 +776,46 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 
 ## 10. Clinical Pearls
 
-### 10.1 Common Pitfalls to Avoid
-- **Inadequate analgesia in patients without regional blocks:** Ensure multimodal analgesia is optimized—periarticular infiltration and adjuncts (ketamine, lidocaine infusion) are crucial.
-- **Over-sedation in elderly/frail patients:** Always adjust dosages and monitor sedation and cognitive function closely to prevent delirium.
-- **Unnecessary opioid use:** **Minimize opioids**—use multimodal strategies to achieve analgesia and prevent over-reliance on opioids, especially in high-risk populations.
-- **Delayed emergence:** Keep emergence smooth by gradually lightening anesthetic depth and coordinating with the surgical team for a clear handoff.
+### 10.1 Regional Analgesia and Block-Free Considerations
+
+1. **Surgeon periarticular infiltration is critical:**  
+   Without regional blocks, periarticular infiltration with 100-150 mL of **ropivacaine 0.2%** is essential for maintaining postoperative analgesia. Ensure surgeon documentation of infiltration volume, concentration, and total dose to track systemic local anesthetic (LA) burden.
+
+2. **Expect higher postoperative pain levels (NRS 2–5):**  
+   Without regional blocks, **pain control is more challenging**, and patients may report slightly higher pain scores compared to **Protocol 1**. Ensure **multimodal analgesia** is optimized, including adjuncts like **ketamine, lidocaine infusion**, and **NSAIDs**. If pain levels exceed NRS 4, reassess analgesic strategy promptly.
+
+3. **Lidocaine infusion can bridge the gap:**  
+   **Lidocaine infusions** in Protocol 2 provide valuable systemic analgesia when regional blocks are omitted. **Start lidocaine infusion after induction** to help reduce opioid consumption and improve pain control during surgery. **Monitor for CNS toxicity** signs like dizziness, tinnitus, and confusion, and have LAST treatment protocols ready.
+
+4. **Ketamine’s role in pain and sympatholysis:**  
+   Use **ketamine infusions (0.1–0.25 mg/kg/hr)** to **blunt the sympathetic response** and provide **opioid-sparing analgesia**. Ketamine also helps to prevent **peripheral sensitization**. Be cautious in elderly, frail patients, or those with **hemodynamic instability** due to its sympathomimetic effects.
+
+5. **No reliance on BIS alone for anesthetic depth:**  
+   While **processed EEG** monitoring (e.g., BIS) is useful, **do not rely solely on BIS** when ketamine or other adjuncts are used. Always correlate BIS with **clinical signs** (e.g., movement, eye opening) and **raw EEG** if available. This ensures a more accurate assessment of depth of anesthesia.
+
+6. **Pain management at emergence:**  
+   In Protocol 2, **pain management in the PACU** may be less predictable compared to Protocol 1, due to the absence of regional blocks. **Use non-opioid strategies** as first-line treatment, and be ready to administer **low-dose opioids** (e.g., morphine 1-2 mg IV) if pain exceeds NRS 4. Be mindful of **PONV risks** and incorporate multimodal antiemetic strategies.
+
+7. **Avoid over-sedation in elderly or frail patients:**  
+   Adjust dosing for **elderly** and **frail** patients to minimize risks of over-sedation. **Use lower doses of adjuncts** (e.g., **dexmedetomidine**, **ketamine**) and avoid high initial doses to reduce the risk of delirium, bradycardia, and hypotension. **Frequent re-assessment** of sedation depth is crucial.
+
+8. **Avoid excessive dosing of dexmedetomidine:**  
+   In **Protocol 2**, dexmedetomidine is often used as a sedative and sympatholytic adjunct. However, **avoid high bolus doses** as they can lead to **bradycardia** and **hypotension**, particularly in elderly or frail patients. A continuous infusion is preferred over bolus administration.
+
+9. **Protocol 2 is an alternative when regional blocks are not possible:**  
+   If **regional blocks** are contraindicated (e.g., **anticoagulation timing**, **patient refusal**, **anatomical issues**), **Protocol 2 (OFIA block-free)** offers an effective **opioid-free** alternative. It maintains the goal of **opioid minimization**, though with **higher expected pain levels** and a greater need for postoperative pain management.
+
+10. **Monitor for signs of LAST (Local Anesthetic Systemic Toxicity):**  
+    **LAST** is always a concern with any **local anesthetic** use, including **surgeon periarticular infiltration**. Ensure **lipid emulsion** is immediately available and that **cumulative local anesthetic doses** are tracked to avoid toxicity. Be aware of early signs such as **perioral numbness**, **tinnitus**, and **dizziness**.
+
+11. **Increased need for PACU rescue analgesia in Protocol 2:**  
+    Without regional blocks, patients undergoing **Protocol 2** will likely need more **rescue analgesia** in the **PACU**. Be prepared with **opioid-sparing options** like **ketamine**, **magnesium**, and **lidocaine** for breakthrough pain, but be ready to administer **low-dose opioids** if needed.
+
+12. **Protocol 2 provides fast workflow with no block setup required:**  
+    One of the **main advantages** of Protocol 2 is its **faster workflow**, as there is no need for **block placement**. This is particularly beneficial when **time constraints** or **staffing limitations** are present, or when **blocks** are contraindicated or refused by the patient.
+
+13. **Key benefit: no need for regional block contraindication workarounds:**  
+    For patients who are not candidates for regional blocks, **Protocol 2** is a strong alternative that does not require complex workarounds. This streamlines the anesthetic plan and ensures that **opioid-free** anesthesia is maintained.
 
 ---
 
