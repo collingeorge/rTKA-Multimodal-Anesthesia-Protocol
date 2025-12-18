@@ -2,7 +2,7 @@
 title: Opioid-Free Intraoperative Anesthesia (OFIA) Without Nerve Blocks
 version: 2.0
 last-updated: 2025-12-18
-clinical-validation: Aligned with Protocol Comparison Table v2.1; propofol-centered hypnosis with conservative dosing
+clinical-validation: Aligned with Protocol Comparison Table v2.1; conservative hypnosis/analgesia framework; institutional governance required
 ---
 
 # Protocol 2: Opioid-Free Intraoperative Anesthesia (OFIA) - Block-Free
