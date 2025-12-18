@@ -8,10 +8,10 @@
 ## Protocol 2: Opioid-Free Intraoperative Anesthesia (OFIA) - Block-Free  
 **Default Educational Pathway for Robot-Assisted Total Knee Arthroplasty**
 
-[![Protocol Version](https://img.shields.io/badge/Version-2.0-blue.svg)]()  
-[![Last Updated](https://img.shields.io/badge/Updated-December%2018%2C%202025-green.svg)]()  
-[![Evidence Base](https://img.shields.io/badge/Evidence-Guidelines%20%2B%20Primary%20Literature-orange.svg)]()  
-[![Governance](https://img.shields.io/badge/Governance-Institution%20Required-informational.svg)]()  
+[![Protocol Version](https://img.shields.io/badge/Version-2.0-blue.svg)]()
+[![Last Updated](https://img.shields.io/badge/Updated-December%2018%2C%202025-green.svg)]()
+[![Evidence Base](https://img.shields.io/badge/Evidence-Guidelines%20%2B%20Primary%20Literature-orange.svg)]()
+[![Governance](https://img.shields.io/badge/Governance-Institution%20Required-informational.svg)]()
 [![Clinical Review](https://img.shields.io/badge/Review-Clinician%20Review%20Recommended-blue.svg)]()
 
 **Governance Statement:**  
