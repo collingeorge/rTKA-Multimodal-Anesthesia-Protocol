@@ -240,6 +240,95 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 - **Total ropivacaine dose:** 200–300 mg (higher than Protocol 1 blocks, still below toxic threshold)
 - **Expected duration:** 6–12 hours (shorter than ACB/IPACK)
 
+
+## 3.3 Anticoagulation Management (ASRA/ESRA 2024–2025)
+
+> **Patient safety rule:** If anticoagulation timing is uncertain, renal function is borderline, multiple agents are present, or documentation is incomplete, **do not perform regional blocks** until clarified with the attending anesthesiologist and the institutional anticoagulation table.
+
+### 3.3.1 Risk Classification and Governance
+
+- For antithrombotic decision-making, **treat Adductor Canal Block (ACB) and IPACK as deep plexus / deep peripheral nerve procedures** unless institutional policy explicitly categorizes otherwise.
+- **Institutional anticoagulation tables aligned with current ASRA/ESRA guidance are the source of truth.** This protocol provides conservative educational defaults only.
+- **Ultrasound guidance does not shorten required anticoagulation interruption intervals**; it reduces—but does not eliminate—vascular puncture risk.
+
+### 3.3.2 Pre-Block Antithrombotic Verification Checklist
+
+All of the following must be confirmed before proceeding:
+
+- [ ] Complete medication reconciliation performed (including OTC aspirin, NSAIDs, supplements)
+- [ ] **Exact last dose date and time documented** for each antithrombotic
+- [ ] **Renal function documented** (CrCl via Cockcroft–Gault) for renally cleared agents
+- [ ] If DOAC present: **dose category identified (low-dose vs high-dose)** per ASRA terminology
+- [ ] Block timing verified against **institutional anticoagulation table**
+- [ ] Attending anesthesiologist approval documented
+
+> **If any item is missing or uncertain → DO NOT perform blocks.**  
+> Proceed with **Protocol 2 (OFIA block-free)** or **Protocol 3 (opioid-inclusive)** as appropriate.
+
+### 3.3.3 Conservative Educational Timing Summary  
+(**Must be verified against institutional policy before clinical use**)
+
+#### Direct Oral Anticoagulants (DOACs)
+
+ASRA 5th-edition guidance differentiates **low-dose vs high-dose DOAC therapy** and incorporates renal function.
+
+- **High-dose DOAC therapy (e.g., therapeutic dosing):**
+  - **Hold ≥72 hours** prior to deep plexus / deep peripheral nerve procedures (conservative default)
+
+- **Low-dose DOAC therapy (e.g., selected prophylactic regimens):**
+  - Hold interval **may be shorter in carefully selected patients with normal renal function**
+  - **Institutional table governs**; do not self-interpret abbreviated intervals
+
+- **Dabigatran:**
+  - Hold interval is **highly dependent on renal function**
+  - Reduced CrCl commonly requires **extended interruption**
+  - Institutional table is mandatory
+
+- **If interruption must be shortened or clearance is uncertain:**
+  - Consider **laboratory assessment per institutional policy** (e.g., drug level or anti-Xa activity)
+  - Do **not** proceed solely based on elapsed time
+
+#### Warfarin
+
+- Defer deep peripheral nerve blocks until **INR meets institutional threshold** (commonly ≤1.4–1.5)
+- Same-day INR verification required
+
+#### Low-Molecular-Weight Heparin (LMWH)
+
+- **Therapeutic LMWH:** hold **≥24 hours**
+- **Prophylactic LMWH:** hold **≥12 hours**
+
+#### Antiplatelet Therapy
+
+- **Aspirin (low dose):**
+  - Generally not a contraindication to peripheral nerve blocks
+  - Institutional policy governs final decision
+
+- **P2Y12 inhibitors (e.g., clopidogrel):**
+  - Hold per institutional guidance (commonly 5–7 days)
+  - Significant institutional variability exists
+
+### 3.3.4 Post-Block Antithrombotic Restart Principles
+
+- Restart timing is determined by **institutional guidance and surgeon/attending consensus**
+- Assess:
+  - Surgical bleeding risk
+  - Quality of hemostasis
+  - Urgency of anticoagulation resumption
+- If early therapeutic anticoagulation is required, **avoid deep peripheral blocks in future cases** unless explicitly approved by governance pathways
+
+### 3.3.5 Hard Stop Rule
+
+**Do NOT perform ACB or IPACK if any of the following are present:**
+
+- Unknown last antithrombotic dose time
+- Renal function unavailable when required
+- Concurrent multiple antithrombotic agents without attending review
+- Need to proceed outside institutional timing windows
+
+Proceed with **Protocol 2 (OFIA block-free)** or **Protocol 3 (opioid-inclusive)** instead.
+
+
 **LAST preparedness still required:**
 - 20% lipid emulsion immediately available in OR and PACU
 - LAST treatment protocol posted
@@ -275,6 +364,7 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 ## 4. Induction
 
 > **Induction achieves rapid, reliable loss of consciousness using propofol bolus.** Adjuncts are used to blunt sympathetic response and support analgesia, NOT to replace hypnosis.
+> Processed EEG indices must be interpreted in clinical context and **must not be used as the sole determinant of anesthetic depth**, particularly when ketamine, hypothermia, or neuromodulatory adjuncts are present.
 
 ### 4.1 Pre-Induction Checklist
 
@@ -426,6 +516,8 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 ## 5. Maintenance Anesthesia
 
 > **Maintenance ensures continuous unconsciousness while OFIA adjuncts provide analgesia and sympatholysis.**
+> Processed EEG indices must be interpreted in clinical context and **must not be used as the sole determinant of anesthetic depth**, particularly when ketamine, hypothermia, or neuromodulatory adjuncts are present.
+
 
 ### 5.1 Critical Requirement: Hypnotic Continuity
 
@@ -700,6 +792,8 @@ If patient safety requires opioid administration (e.g., severe pain despite adeq
 
 **Sugammadex Dosing:**
 
+> **Renal safety:** **Sugammadex is not recommended in severe renal impairment (CrCl <30 mL/min), including dialysis**, due to prolonged exposure and limited safety data. Use only in accordance with institutional policy and attending anesthesiologist judgment.
+
 | TOF Status | Dose | Wait Time | Expected Outcome |
 |------------|------|-----------|------------------|
 | **TOF count ≥2, ratio <0.9** | **Sugammadex 2 mg/kg** | 2–3 minutes | TOF ratio ≥0.9 |
@@ -715,7 +809,13 @@ If patient safety requires opioid administration (e.g., severe pain despite adeq
 **Special Considerations:**
 - **Magnesium potentiates NMB:** May need higher sugammadex dose or longer wait time
 - **Obesity:** Dose sugammadex to **total body weight** (not IBW)
-- **Renal impairment:** Sugammadex elimination prolonged; monitor closely
+- **Mild–moderate renal impairment (CrCl ≥30 and <80 mL/min):**
+  - No routine dose adjustment required
+  - Clearance is prolonged; monitor closely
+
+- **Severe renal impairment (CrCl <30 mL/min, including dialysis):**
+  - **Sugammadex is not recommended**
+  - Follow institutional reversal pathway and attending decision-making
 
 ### 6.4 Extubation Criteria
 
@@ -1232,6 +1332,7 @@ QUESTIONS OR CONCERNS: [Contact information]
 ### 9.7 Prolonged Neuromuscular Blockade
 
 **Causes:**
+- **Severe renal impairment:** prolonged exposure to neuromuscular blocking and reversal agents may delay recovery
 - Magnesium administration (common in Protocol 2 if used)
 - Renal impairment
 - Hypothermia
@@ -1244,6 +1345,8 @@ QUESTIONS OR CONCERNS: [Contact information]
 3. **Assess temperature:** Warm patient if hypothermic (<36°C)
 4. **Consider labs:** Magnesium, calcium, potassium if prolonged
 5. **If persistent:** Maintain ventilatory support, consider ICU transfer
+6. If severe renal impairment limits sugammadex use, follow the institution-approved alternative reversal strategy (e.g., neostigmine/glycopyrrolate where appropriate) and maintain ventilatory support until **quantitative TOF ratio ≥0.9** is confirmed
+
 
 **Do NOT extubate** until TOF ratio ≥0.9 achieved.
 
