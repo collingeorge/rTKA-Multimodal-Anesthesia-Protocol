@@ -6,12 +6,16 @@ clinical-validation: Aligned with Protocol Comparison Table v2.1; propofol-cente
 ---
 
 # Protocol 1: Opioid-Free Intraoperative Anesthesia (OFIA) + ACB/IPACK
-**Preferred First-Line Pathway for Robot-Assisted Total Knee Arthroplasty**
+**Default Educational Pathway for Robot-Assisted Total Knee Arthroplasty**
 
 [![Protocol Version](https://img.shields.io/badge/Version-2.0-blue.svg)]()
 [![Last Updated](https://img.shields.io/badge/Updated-December%2018%2C%202025-green.svg)]()
-[![Evidence Base](https://img.shields.io/badge/Evidence-ERAS%2FASA%2FASRA%202024--2025-orange.svg)]()
-[![Clinical Validation](https://img.shields.io/badge/Validation-Attending%20Reviewed-success.svg)]()
+[![Evidence Base](https://img.shields.io/badge/Evidence-Guidelines%20%2B%20Primary%20Literature-orange.svg)]()
+[![Governance](https://img.shields.io/badge/Governance-Institution%20Required-informational.svg)]()
+[![Clinical Review](https://img.shields.io/badge/Review-Clinician%20Review%20Recommended-blue.svg)]()
+
+**Governance Statement:**  
+This document is an educational clinical framework intended to support structured decision-making. It does not supersede institutional policy, order sets, anticoagulation tables, or attending anesthesiologist judgment. When conflicts arise, local governance and patient-specific risk assessment prevail.
 
 ---
 
@@ -19,11 +23,11 @@ clinical-validation: Aligned with Protocol Comparison Table v2.1; propofol-cente
 
 | Component | Key Details |
 |-----------|-------------|
-| **Regional Analgesia** | ACB + IPACK (ropivacaine 0.2%, 80 mg total) |
+| **Regional Analgesia** | ACB 20 mL + IPACK 20 mL (ropivacaine 0.2%; 80 mg total) |
 | **Induction** | Propofol 1.5–2 mg/kg IV (reduce in elderly/frail) |
 | **Maintenance Hypnosis** | Propofol TIVA 75–125 mcg/kg/min **OR** Sevoflurane 0.7–1 MAC |
 | **OFIA Adjuncts** | Dexmedetomidine 0.2–0.5 mcg/kg/hr ± Ketamine 0.1–0.2 mg/kg/hr |
-| **Expected PACU Pain** | NRS 0–3 (excellent analgesia from blocks) |
+| **Typical PACU Pain (functioning blocks)** | Often NRS 0–3; reassess block efficacy and rule out complications if higher |
 | **Mobilization** | POD 0 within 4–6 hours |
 | **Key Advantage** | Best early pain control, opioid-sparing, ERAS-aligned |
 
@@ -37,9 +41,12 @@ clinical-validation: Aligned with Protocol Comparison Table v2.1; propofol-cente
 
 **Critical Requirements:**
 - All medication selection and dosing must be individualized to patient physiology, comorbidities, monitoring strategy, and local formulary/policies
-- Supervision by a licensed attending anesthesiologist is mandatory
+- Supervision by a licensed attending anesthesiologist is required under institutional policy
 - Any clinical use requires formal local review and governance approval
 - Institutional protocols supersede all recommendations herein
+
+**Governance Lock:**  
+This document intentionally avoids prescribing institution-specific anticoagulation timing, order sets, or formulary restrictions. Any operationalization requires (1) anesthesia departmental approval, (2) pharmacy review, (3) nursing workflow validation, and (4) alignment with institutional anticoagulation and regional anesthesia policies.
 
 **Special Populations:**
 Elderly, frail, OSA, severe cardiac disease, renal impairment, or hepatic impairment require dose reduction and enhanced monitoring beyond standard recommendations.
@@ -67,7 +74,7 @@ Elderly, frail, OSA, severe cardiac disease, renal impairment, or hepatic impair
 
 ### 1.1 Protocol Objectives
 
-This protocol provides a standardized **first-line** opioid-free intraoperative anesthesia (OFIA) pathway for robot-assisted total knee arthroplasty (rTKA) that:
+This protocol provides a standardized opioid-free intraoperative anesthesia (OFIA) pathway for robot-assisted total knee arthroplasty (rTKA) that:
 
 - **Optimizes analgesia** through quadriceps-sparing regional techniques (ACB + IPACK)
 - **Minimizes perioperative opioid exposure** (zero intraoperative opioids)
@@ -77,19 +84,19 @@ This protocol provides a standardized **first-line** opioid-free intraoperative 
 - **Reduces respiratory complications** compared to opioid-inclusive pathways
 
 ### 1.2 Evidence Base
-
 This protocol is informed by:
-- ERAS Society Guidelines for Hip and Knee Arthroplasty (2019, 2024 updates)
-- ASA/APSF perioperative safety communications (2024)
-- ASRA/ESRA regional anesthesia practice advisories (2024–2025)
-- SAMBA Consensus Statement on Opioid-Free Anesthesia (2020)
-- Current peer-reviewed literature on multimodal analgesia and regional techniques
+- Established enhanced recovery and multimodal analgesia guidance in hip/knee arthroplasty (ERAS-style principles and consensus pathways)
+- ASA Standards for Basic Anesthetic Monitoring and contemporary perioperative safety communications
+- ASRA/ESRA-aligned regional anesthesia safety principles, including anticoagulation governance for higher-risk peripheral techniques
+- POQI-style consensus concepts emphasizing perioperative opioid minimization within multimodal pathways
+- Current peer-reviewed literature on ACB/IPACK, multimodal analgesia, and opioid-sparing general anesthesia
 
-**Complete evidence grading and citations:** See `../../07_References_Evidence_2024.md`
+**Complete evidence grading and citations:** See `../../07_References_Evidence_2024.md`  
+**Governance note:** When guideline statements differ, local institutional policy and attending anesthesiologist judgment supersede this educational framework.
 
 ### 1.3 When to Use This Protocol
 
-**Preferred first-line when:**
+**Default pathway when:**
 - Blocks are feasible and safe (anticoagulation timing met, no contraindications)
 - Patient is opioid-naïve or opioid-sensitive
 - High PONV risk
@@ -136,7 +143,7 @@ This protocol is informed by:
 
 | Adjunct | Contraindications | Use Caution When |
 |---------|-------------------|------------------|
-| **Ketamine** | Active psychosis; severe uncontrolled HTN (SBP >180); acute globe injury | Frailty; hemodynamic instability; catecholamine-depleted physiology; tachyarrhythmia risk |
+| **Ketamine** | Active psychosis; severe uncontrolled HTN (SBP ≥180 mmHg or per institutional definition); acute globe injury | Frailty; hemodynamic instability; catecholamine-depleted physiology; tachyarrhythmia risk |
 | **Dexmedetomidine** | High-grade AV block without pacemaker; severe baseline bradycardia (HR <50) | Age >75; severe cardiac disease; hypotension risk |
 | **Magnesium** | CrCl <30 mL/min; myasthenia gravis; complete heart block | Renal impairment (CrCl 30-50); risk of prolonged NMB |
 
@@ -205,13 +212,15 @@ This protocol is informed by:
 
 ### 3.2 Block Suitability Confirmation
 
-**Verify patient is appropriate for deep peripheral nerve blocks:**
+**Verify patient is appropriate for ultrasound-guided peripheral nerve blocks (ACB + IPACK)**
+
 - No contraindications (see Section 2.2)
 - Anticoagulation timing met (see Section 3.3)
 - Patient consent obtained after discussion of risks/benefits
 - Ultrasound equipment available and functioning
 - Lipid emulsion 20% immediately available
 - LAST treatment protocol visible and staff trained
+- **Confirm surgeon local infiltration analgesia (LIA) plan** (agent/concentration/volume) to prevent unintended cumulative local anesthetic exposure; document totals in mg.
 
 **Screen for ketamine caution contexts:**
 - Hemodynamic instability or escalating vasopressor requirement
@@ -219,13 +228,13 @@ This protocol is informed by:
 - Significant tachyarrhythmia risk (Afib with RVR, SVT history)
 - Frailty or advanced age (>85 years)
 - Severe psychiatric disease with active psychosis
-- Uncontrolled hypertension (SBP >180 mmHg)
+- Uncontrolled hypertension (SBP ≥180 mmHg or per institutional definition)
 
 **If blocks not feasible:** Proceed with **Protocol 2** (OFIA block-free)
 
-### 3.3 Anticoagulation Management (ASRA/ESRA 2024–2025)
+### 3.3 Anticoagulation Management (Institutional Policy; ASRA/ESRA-Informed Principles)
 
-> **Critical:** ACB and IPACK are **deep peripheral nerve blocks** requiring ASRA/ESRA-consistent timing with institutional policy adherence.
+> **Critical:** ACB and IPACK are **ultrasound-guided peripheral nerve blocks**. Bleeding-risk classification and anticoagulation timing **must** follow institutional policy (often informed by ASRA/ESRA principles for higher-risk or deeper peripheral techniques). When policy differs by block depth/location, default to the **more conservative** pathway or defer blocks.
 
 **Preoperative verification checklist:**
 - [ ] All anticoagulant and antiplatelet medications reconciled
@@ -234,7 +243,15 @@ This protocol is informed by:
 - [ ] Block timing verified using institutional tables aligned with ASRA/ESRA guidance
 - [ ] Risk-benefit discussion documented if proceeding outside standard windows
 
-**General ASRA/ESRA guidance (verify institutional policy):**
+**Illustrative conservative ranges (verify and follow institutional policy):**
+
+**Important framing (do not remove):**  
+The timing ranges below are **illustrative only** and intentionally conservative. Final decisions must incorporate:
+- Agent, dose (therapeutic vs prophylactic), and indication
+- Renal/hepatic function and drug clearance
+- Patient-specific bleeding/thrombotic risk
+- Whether drug-level or anti-Xa strategies are used locally (where applicable)
+- Institutional anticoagulation tables and regional anesthesia governance
 
 | Anticoagulant | Hold Before Block (Normal Renal Function) | Notes |
 |---------------|------------------------------------------|-------|
@@ -247,10 +264,10 @@ This protocol is informed by:
 | **Clopidogrel** | 5–7 days | **Institutional variability**; verify local policy |
 | **NSAIDs** | **No hold required** | Acceptable per ASRA for peripheral blocks |
 
-**Postoperative restart timing:**
-- See [Protocol Comparison Table - ASRA Anticoagulation Timing](Protocol_Comparison_Table.md#asraesra-anticoagulation-timing-2024-2025)
-- Typical: ≥6-12 hours after single-injection blocks
-- Always verify with surgical team before restarting therapeutic anticoagulation
+**Postoperative restart timing (institution-dependent):**
+- Follow the institution’s anticoagulation restart policy and the surgeon’s hemostasis assessment.
+- Document: last anticoagulant dose, block time, surgical hemostasis status, and planned restart time.
+- When uncertainty exists, defer to **attending anesthesiologist + surgeon** shared decision-making and choose a conservative restart window.
 
 **If timing criteria not met:**
 - **Do NOT perform blocks**
@@ -274,7 +291,7 @@ This protocol is informed by:
 |------------|-----------|------|-------|
 | **Scopolamine patch** | High PONV risk only (Apfel ≥3) | 1.5 mg transdermal | Apply evening prior or ≥4 hours preop<br>**Contraindicated:** Narrow-angle glaucoma |
 | **Midazolam** | Reserved for block placement | See Section 4.1 | Reduce to 0.5 mg or avoid in age >75, frailty, OSA, cognitive impairment |
-| **Gabapentinoids** | **NOT recommended** | — | Risk of sedation, delirium, respiratory depression outweighs benefit in modern multimodal protocols |
+| **Gabapentinoids** | Not routinely recommended | — | Risk of sedation, delirium, respiratory depression outweighs benefit in modern multimodal protocols |
 | **Home opioids** | Chronic opioid use | Baseline dose | Continue morning dose; do not escalate preoperatively |
 
 **Documentation:**
@@ -376,6 +393,9 @@ This protocol is informed by:
 - Supports motor-sparing intent
 - Aligns with contemporary ERAS recommendations
 
+**Cumulative local anesthetic (LA) accounting is mandatory:**  
+Total systemic LA burden includes **peripheral blocks + surgeon LIA/periarticular injection + any catheter boluses**. If LIA is planned, document the exact formulation and ensure the **combined dose remains within institutionally accepted thresholds**, with heightened vigilance in low body mass, frailty, hepatic dysfunction, and reduced plasma protein states.
+
 ### 4.5 LAST (Local Anesthetic Systemic Toxicity) Preparedness
 
 **Required for ALL regional blocks:**
@@ -401,7 +421,8 @@ This protocol is informed by:
 5. **Lipid emulsion therapy:** As above
 6. **ACLS with modifications:** Small doses epi (≤1 mcg/kg), avoid vasopressin, avoid calcium channel blockers, avoid beta-blockers, prolonged resuscitation (>1 hour may be needed)
 
-**Institutional LAST protocol reference:** [Insert link to institutional LAST protocol]
+**Institutional LAST protocol reference:** [Insert link if available]  
+**If no local link exists:** reference the ASRA LAST checklist and ensure it is posted in the block area, OR, and PACU.
 
 ---
 
@@ -498,16 +519,18 @@ This protocol is informed by:
 | **Hemodynamic instability** | **Omit** | Risk outweighs benefit |
 | **Severe tachyarrhythmia risk** | **Omit** | Sympathetic stimulation undesirable |
 
-**Contraindications:**
-- Active psychosis or unstable psychiatric disease
-- Severe uncontrolled hypertension (SBP >180 mmHg)
-- Acute globe injury or increased IOP
-- Catecholamine-depleted physiology
+**Contraindications / avoid use:**
+- Active psychosis or unstable severe psychiatric disease
+- Severe uncontrolled hypertension (institution-defined threshold)
+- High-risk tachyarrhythmia/ischemia phenotype where sympathetic stimulation is undesirable
 
-**EEG monitoring caveat:**
-- Ketamine may **increase BIS** and alter EEG-derived indices
-- Do **NOT** titrate hypnotic depth solely to BIS after ketamine administration
-- Correlate with clinical context and raw EEG trends when available
+**Relative caution (consider omission):**
+- Frailty or high delirium-risk phenotype
+- Severe hemodynamic instability or catecholamine-depleted physiology
+- Very advanced age (e.g., >85 years) unless a compelling indication exists
+
+> Note: If ketamine is used, interpret processed EEG indices cautiously and correlate with clinical signs and (when available) raw EEG trends.
+
 
 ### 5.4 Optional Adjunct Infusion Initiation
 
@@ -621,7 +644,7 @@ This protocol is informed by:
 
 **Monitoring Requirements:**
 - Continuous HR/BP monitoring
-- **Stop if HR <50 with symptoms** or **<45 regardless of symptoms**
+- **Stop if HR <50 with symptoms** or **Reduce or stop for clinically significant bradycardia with hypoperfusion or hemodynamic instability**
 - **Reduce or stop** if hypotension (MAP <60) unresponsive to fluids/vasopressors
 
 **Bradycardia Management:**
@@ -657,10 +680,12 @@ This protocol is informed by:
 
 **Contraindications:**
 - Active psychosis or severe psychiatric disease
-- Severe uncontrolled hypertension (SBP >180 mmHg)
+- Severe uncontrolled hypertension (SBP ≥180 mmHg or per institutional definition)
 - Acute globe injury
 
 #### Magnesium Sulfate Maintenance (If Loaded)
+
+Magnesium is an **optional** adjunct used in some institutions; omit when local practice does not support it or when predictable neuromuscular recovery timing is a priority.
 
 **Role:** NMDA antagonism, mild analgesia
 
@@ -707,7 +732,7 @@ This protocol is informed by:
 
 | Clinical Scenario | Management | Notes |
 |-------------------|------------|-------|
-| **SBP >180 or MAP >110** | Assess anesthetic depth first | May need more propofol/sevoflurane |
+| **SBP ≥180 mmHg or per institutional definition or MAP >110** | Assess anesthetic depth first | May need more propofol/sevoflurane |
 | **Persistent despite adequate depth** | Labetalol 5–10 mg IV or hydralazine 5–10 mg IV | Per institutional protocol |
 | **Associated with tachycardia** | Esmolol 10–20 mg IV or labetalol | Beta-blockade preferred |
 
@@ -872,7 +897,7 @@ See Section 8.6 (Handoff to PACU)
 
 ## 8. Postoperative Pain Management
 
-> **Expected pain profile with functioning blocks: NRS 0–3 for first 12–18 hours.**
+> **Typical pain profile with functioning blocks:** often low (e.g., NRS 0–3 early), with expected variability by patient phenotype and block success. Escalate assessment if pain is higher than anticipated.
 
 ### 8.1 Expected Pain Profile
 
@@ -942,7 +967,7 @@ See Section 8.6 (Handoff to PACU)
 - Elderly, frail, or hemodynamically unstable
 - Tachyarrhythmia-prone patients
 - Active psychosis or severe psychiatric disease
-- Severe hypertension (SBP >180 mmHg)
+- Severe hypertension (SBP ≥180 mmHg or per institutional definition)
 
 **Monitoring:**
 - Continuous pulse oximetry
@@ -1279,7 +1304,7 @@ QUESTIONS OR CONCERNS: [Contact information]
 | Prolonged (>30 min) | Consider low-dose propofol (10–20 mg IV) or dexmedetomidine |
 
 **Hypertension/Tachycardia:**
-- If severe (SBP >180): Consider labetalol 5–10 mg IV or esmolol 10–20 mg IV
+- If severe (SBP ≥180 mmHg or per institutional definition): Consider labetalol 5–10 mg IV or esmolol 10–20 mg IV
 - Usually transient; resolves with ketamine cessation
 
 **Nystagmus, Diplopia:**
@@ -1386,14 +1411,17 @@ QUESTIONS OR CONCERNS: [Contact information]
 
 ## 12. References
 
+Specific guideline documents, publication years, and primary literature citations are catalogued in `07_References_Evidence_2024.md` to avoid duplication and maintain version control.
+
 **Complete evidence grading and Vancouver-style citations:**
 See `../../07_References_Evidence_2024.md`
 
 **Key Guidelines Informing This Protocol:**
-- Enhanced Recovery After Surgery (ERAS) Society Guidelines for Hip and Knee Arthroplasty (2019, 2024 updates)
+
+- ERAS-style arthroplasty enhanced recovery and multimodal analgesia guidance (cite specific documents in `07_References_Evidence_2024.md`)
+- ASRA/ESRA regional anesthesia safety principles and anticoagulation governance (cite specific documents in `07_References_Evidence_2024.md`)
+- ASA Standards for Basic Anesthetic Monitoring and perioperative safety communications (cite specific documents in `07_References_Evidence_2024.md`)
 - American Society of Anesthesiologists (ASA) Standards for Basic Anesthetic Monitoring (2020)
-- American Society of Regional Anesthesia and Pain Medicine (ASRA) Practice Advisories (2024–2025)
-- European Society of Regional Anaesthesia and Pain Therapy (ESRA) Anticoagulation Guidelines (4th Edition with 2024-2025 updates)
 - Society for Ambulatory Anesthesia (SAMBA) Consensus Statement on Opioid-Free Anesthesia (2020)
 - ASA/Anesthesia Patient Safety Foundation (APSF) Recommendations on Perioperative Opioid Use
 
@@ -1575,7 +1603,9 @@ Ask your anesthesiologist or surgeon for more information.
 - Provide feedback via institutional anesthesia department channels
 
 **Acknowledgments:**
-This protocol was developed through collaboration with attending anesthesiologists, CRNAs, PACU staff, and orthopedic surgery teams. Special thanks to clinical reviewers Drs. Shane Mandalia, Dr. Pauldine, and Chief CRNA Brian Buchanan for their expertise and feedback.
+
+Acknowledgments reflect professional collaboration. Named individuals are listed with permission or represent publicly acknowledged educational interactions.
+This protocol was developed through obervations with attending anesthesiologists, CRNAs, PACU staff, and orthopedic surgery teams. Special thanks to Drs. Shane Mandalia, Dr. Pauldine, and Chief CRNA Brian Buchanan for their expertise.
 
 ---
 
