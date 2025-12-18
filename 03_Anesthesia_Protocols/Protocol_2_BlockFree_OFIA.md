@@ -819,12 +819,218 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 
 ---
 
-## 11. References
+## 12. References
 
-- **ERAS Society Guidelines for Hip and Knee Arthroplasty (2024)**
-- **SAMBA Consensus Statement on Opioid-Free Anesthesia (2020)**
-- **ASA Guidelines for the Management of Postoperative Nausea and Vomiting (2024)**
-- **Lidocaine for Postoperative Analgesia in Total Knee Arthroplasty: A Meta-Analysis (BJA, 2022)**
-- **Multimodal Analgesia in Hip and Knee Arthroplasty: A Review of Current Strategies (JAAOS, 2023)**
+Specific guideline documents, publication years, and primary literature citations are catalogued in `07_References_Evidence_2024.md` to avoid duplication and maintain version control.
 
-For additional references, please see the full **[Evidence and Guidelines Section](../../07_References_Evidence_2024.md)**.
+**Complete evidence grading and Vancouver-style citations:** See `../../07_References_Evidence_2024.md`
+
+**Key Guidelines Informing This Protocol:**
+- ERAS-style arthroplasty enhanced recovery and multimodal analgesia guidance (cite specific documents in `07_References_Evidence_2024.md`)
+- ASRA/ESRA regional anesthesia safety principles and anticoagulation governance (cite specific documents in `07_References_Evidence_2024.md`)
+- ASA Standards for Basic Anesthetic Monitoring and perioperative safety communications (cite specific documents in `07_References_Evidence_2024.md`)
+- American Society of Anesthesiologists (ASA) Standards for Basic Anesthetic Monitoring (2020)
+- Society for Ambulatory Anesthesia (SAMBA) Consensus Statement on Opioid-Free Anesthesia (2020)
+- ASA/Anesthesia Patient Safety Foundation (APSF) Recommendations on Perioperative Opioid Use
+
+**Additional Resources:**
+- [ASRA LAST Checklist](https://asra.com/news-publications/asra-updates/blog-landing/guidelines/2020/11/01/checklist-for-treatment-of-local-anesthetic-systemic-toxicity)
+- [ERAS Society Guidelines](https://erassociety.org/guidelines/)
+
+## Appendix A: Quick Reference Summary
+
+### Protocol 2 At-a-Glance
+
+**PREOPERATIVE:**
+- Acetaminophen 1g PO, celecoxib 400mg PO, dexamethasone 8–10mg IV
+- Verify anticoagulation timing per ASRA/institutional policy
+- Midazolam 1–2mg IV for anxiolysis (reduce in elderly/frail)
+
+**REGIONAL ANALGESIA:**
+- None - Surgeon periarticular infiltration (100-150 mL ropivacaine 0.2%)
+
+**INDUCTION:**
+- Propofol 1.5–2 mg/kg IV (reduce to 1–1.5 mg/kg in elderly/frail)
+- Rocuronium 0.6–1.0 mg/kg IV
+- Optional: Ketamine 0.2–0.5 mg/kg IV (reduce in elderly/frail)
+
+**MAINTENANCE HYPNOSIS (CHOOSE ONE):**
+- Propofol TIVA 75–125 mcg/kg/min (preferred)
+- Sevoflurane 0.7–1 MAC (age-adjusted)
+- Balanced: Both at reduced doses
+
+**OFIA ADJUNCTS (OPTIONAL):**
+- Dexmedetomidine 0.2–0.7 mcg/kg/hr (NO bolus; reduce in elderly)
+- Ketamine infusion 0.1–0.25 mg/kg/hr (reduce in elderly)
+- Lidocaine infusion 1–1.5 mg/kg/hr (optional)
+- Magnesium 30–40 mg/kg load + 8–10 mg/kg/hr maintenance
+
+**EMERGENCE:**
+- Taper adjuncts 10–15 min before end
+- Ondansetron 4 mg IV
+- Sugammadex 2–4 mg/kg per TOF status
+- **Verify TOF ≥0.9 before extubation**
+
+**PACU:**
+- Expected pain: NRS 2–5 (more than Protocol 1)
+- Rescue: Ketamine 10–20 mg IV → Hydromorphone 0.2–0.4 mg IV
+- Mobilization: POD 0 within 4–8 hours
+
+---
+
+## Appendix B: Patient Information Sheet
+
+### What is Protocol 2 (OFIA - Block-Free)?
+
+**For patients and families:**
+
+Protocol 2 is an anesthesia approach designed to minimize opioid use while providing excellent pain control for your knee replacement surgery. Here's what to expect:
+
+**Before Surgery:**
+- You'll receive oral pain medications (acetaminophen and an anti-inflammatory)
+- Your surgeon will inject numbing medicine around your knee (periarticular infiltration)
+
+**During Surgery:**
+- You'll be completely asleep and won't feel anything
+- We use medications for sleep and pain control that are NOT opioids
+- The periarticular infiltration will numb your knee during and after surgery
+
+**After Surgery:**
+- Your knee should be comfortable, but you may experience mild to moderate pain (NRS 2–5)
+- You'll receive regular non-opioid pain medications (pills and IV)
+- If you need additional pain relief, we have other options available
+- Most patients can sit up and walk with assistance within a few hours after surgery
+
+**Benefits:**
+- Excellent pain control without heavy opioid use
+- Less nausea and drowsiness
+- Faster recovery and earlier walking
+- Shorter hospital stay
+
+**Questions?**
+Ask your anesthesiologist or surgeon for more information.
+
+---
+
+## Appendix C: Institutional Implementation Checklist
+
+**For institutions considering adoption of Protocol 2:**
+
+### Pre-Implementation Requirements
+
+**Personnel:**
+- [ ] Attending anesthesiologists trained and credentialed in periarticular infiltration techniques
+- [ ] Residents/CRNAs trained in multimodal opioid-sparing anesthesia
+- [ ] PACU nurses educated on OFIA pathways and ketamine rescue
+- [ ] PT staff aware of POD 0 mobilization goals
+
+**Equipment:**
+- [ ] Ultrasound machines with high-frequency linear probes
+- [ ] Regional anesthesia supply kits (needles, tubing, sterile supplies for infiltration)
+- [ ] Quantitative TOF monitors available
+- [ ] Infusion pumps for dexmedetomidine, ketamine (if used)
+
+**Pharmacy:**
+- [ ] Ropivacaine 0.2% available in appropriate volumes for infiltration
+- [ ] Dexmedetomidine vials/premix available
+- [ ] Ketamine vials available (if institutional protocol includes)
+- [ ] Lidocaine infusion available (optional)
+- [ ] Magnesium sulfate available
+- [ ] Sugammadex available in OR and PACU
+
+**Protocols and Policies:**
+- [ ] LAST treatment protocol posted in block area, OR, PACU
+- [ ] Institutional anticoagulation timing tables aligned with ASRA/ESRA
+- [ ] PACU pain management protocols include ketamine rescue (if allowed)
+- [ ] Multimodal analgesia order sets created
+- [ ] ERAS pathway integration completed
+
+**Quality Metrics:**
+- [ ] Pain scores tracked (NRS at arrival, 1h, 2h, discharge)
+- [ ] Opioid consumption tracked (MME in PACU, first 24h)
+- [ ] PONV incidence tracked
+- [ ] Time to mobilization tracked
+- [ ] Adverse events tracked (LAST, respiratory depression, bradycardia)
+- [ ] PACU/hospital length of stay tracked
+
+**Governance:**
+- [ ] Anesthesia department leadership approval
+- [ ] Pharmacy & Therapeutics committee approval
+- [ ] Surgical leadership approval and engagement
+- [ ] Nursing leadership (PACU, floor) approval and training
+- [ ] Quality/patient safety committee review
+- [ ] IRB approval if data collection for research
+
+### Pilot Phase Recommendations
+
+1. **Start small:** 10–20 patients with experienced attending supervision
+2. **Collect data:** Pain, opioid use, mobilization, complications, satisfaction
+3. **Debrief regularly:** Weekly meetings to discuss cases, challenges, refinements
+4. **Iterate:** Adjust doses, rescue strategies based on outcomes
+5. **Scale gradually:** Expand to more surgeons, more cases as competency grows
+
+---
+
+## Document Version Control
+
+**Version:** 2.0  
+**Last Updated:** December 18, 2025  
+**Next Scheduled Review:** June 2026 or upon major guideline updates
+
+**Alignment:** Protocol Comparison Table v2.1 (December 14, 2025)
+
+**Major Changes from v1.4:**
+- Complete rewrite to align with Protocol Comparison Table v2.1 hypnotic continuity framework
+- Explicit clarification that propofol/sevoflurane are alternatives (not propofol-required)
+- Added "Critical Requirement: Hypnotic Continuity" principles throughout
+- Corrected propofol maintenance dosing to 75–125 mcg/kg/min (was 75–150)
+- Corrected magnesium loading to 30–40 mg/kg (was 30–50)
+- Added comprehensive safety sections (LAST, TOF monitoring, hemodynamics)
+- Expanded troubleshooting and clinical pearls sections
+- Added patient information sheet and implementation checklist appendices
+- Enhanced cross-references to Protocol Comparison Table
+- Integrated badges and improved formatting for usability
+
+**Revision History:**
+- Version 1.0 (November 2025): Initial protocol framework
+- Version 1.1–1.4 (November–December 2025): Minor refinements and evidence updates
+- Version 2.0 (December 18, 2025): Major rewrite for cohesion with Protocol Comparison Table v2.1
+
+---
+
+## Contact and Feedback
+
+**For questions, corrections, or suggested improvements:**
+- Open a GitHub issue at [repository link]
+- Provide feedback via institutional anesthesia department channels
+
+**Acknowledgments:**
+
+Acknowledgments reflect professional collaboration. Named individuals are listed with permission or represent publicly acknowledged educational interactions.
+This protocol was developed through obervations with attending anesthesiologists, CRNAs, PACU staff, and orthopedic surgery teams. Special thanks to Drs. Shane Mandalia, Dr. Pauldine, and Chief CRNA Brian Buchanan for their expertise.
+
+---
+
+## License
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+**You are free to:**
+- Share — copy and redistribute in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+**Under the following terms:**
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
+
+© 2025 Collin B. George — Licensed under CC BY 4.0
+
+---
+
+## End of Protocol 2
+
+**Remember:** This protocol is an educational framework. Patient safety requires qualified practitioners, appropriate resources, institutional oversight, and commitment to continuous quality improvement.
+
+**When in doubt, consult senior colleagues, review primary literature, and prioritize conservative approaches that minimize risk while optimizing outcomes.**
+
