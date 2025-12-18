@@ -27,7 +27,7 @@ clinical-validation: Aligned with Protocol Comparison Table v2.1; propofol-cente
 | **Mobilization** | POD 0 within 4–6 hours |
 | **Key Advantage** | Best early pain control, opioid-sparing, ERAS-aligned |
 
-> **Cross-Reference:** See [Protocol Comparison Table](../Protocol_Comparison_Table.md) for side-by-side pathway comparison and detailed safety guidance.
+> **Cross-Reference:** See [Protocol Comparison Table](Protocol_Comparison_Table.md) for side-by-side pathway comparison and detailed safety guidance.
 
 ---
 
