@@ -248,7 +248,7 @@ This protocol is informed by:
 | **NSAIDs** | **No hold required** | Acceptable per ASRA for peripheral blocks |
 
 **Postoperative restart timing:**
-- See [Protocol Comparison Table - ASRA Anticoagulation Timing](../Protocol_Comparison_Table.md#asraesra-anticoagulation-timing-2024-2025)
+- See [Protocol Comparison Table - ASRA Anticoagulation Timing](Protocol_Comparison_Table.md#asraesra-anticoagulation-timing-2024-2025)
 - Typical: ≥6-12 hours after single-injection blocks
 - Always verify with surgical team before restarting therapeutic anticoagulation
 
@@ -425,7 +425,7 @@ This protocol is informed by:
 
 ### 5.2 Induction Medications
 
-> **See Also:** [Protocol Comparison Table - Induction](../Protocol_Comparison_Table.md#induction-conservative-adult-dosing) for complete dosing table and special population adjustments.
+> **See Also:** [Protocol Comparison Table - Induction](Protocol_Comparison_Table.md#induction-conservative-adult-dosing) for complete dosing table and special population adjustments.
 
 #### Optional: Lidocaine for Injection Pain
 
@@ -563,7 +563,7 @@ This protocol is informed by:
 
 **Every patient requires continuous hypnosis maintained by propofol and/or sevoflurane.**
 
-> **Cross-Reference:** See [Protocol Comparison Table - Maintenance Anesthesia](../Protocol_Comparison_Table.md#maintenance-anesthesia) for complete options and detailed safety profiles.
+> **Cross-Reference:** See [Protocol Comparison Table - Maintenance Anesthesia](Protocol_Comparison_Table.md#maintenance-anesthesia) for complete options and detailed safety profiles.
 
 **Choose ONE of the following hypnotic strategies:**
 
