@@ -43,6 +43,20 @@ These principles reflect common attending practice patterns and are intentionall
 - **Propofol infusion** serves as the default hypnotic spine in this framework.
 - Volatile agent (e.g., sevoflurane) may be used as an optional adjunct per workflow or institutional practice; it is not required.
 
+### Critical Requirement: Hypnotic Continuity
+
+**Every patient requires continuous hypnosis maintained by:**
+- Propofol TIVA (75–125 mcg/kg/min) **AND/OR**
+- Sevoflurane (0.7–1 MAC, age-adjusted)
+
+**OFIA adjuncts are additive but not substitutive:**
+- Dexmedetomidine provides sedation and sympatholysis (NOT surgical hypnosis)
+- Ketamine provides analgesia and dissociation (NOT reliable unconsciousness)
+- Lidocaine and magnesium provide analgesia only
+- These adjuncts allow **dose reduction** of hypnotics while maintaining depth
+
+**Do not rely on adjuncts alone for unconsciousness.**
+
 ### Emergence: Planned Taper and Verification
 - Emergence is treated as a high-risk phase requiring intentional planning.
 - Hypnotic and adjunct infusions are tapered 10–15 minutes prior to anticipated end of surgery.
@@ -125,6 +139,7 @@ These principles reflect common attending practice patterns and are intentionall
 ---
 
 ## Maintenance Anesthesia
+**See "Critical Requirement: Hypnotic Continuity" above - All protocols require continuous propofol and/or sevoflurane**
 
 ### Hypnotic Maintenance (All Protocols)
 
