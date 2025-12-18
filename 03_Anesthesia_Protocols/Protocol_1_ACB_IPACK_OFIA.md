@@ -1398,8 +1398,8 @@ See `../../07_References_Evidence_2024.md`
 - ASA/Anesthesia Patient Safety Foundation (APSF) Recommendations on Perioperative Opioid Use
 
 **Additional Resources:**
-- ASRA LAST Checklist: https://www.asra.com/guidelines-articles/guidelines/guideline-item/guidelines/2020/10/01/checklist-for-treatment-of-local-anesthetic-systemic-toxicity
-- ERAS Society: https://erassociety.org/guidelines/list-of-guidelines/
+- [ASRA LAST Checklist](https://asra.com/news-publications/asra-updates/blog-landing/guidelines/2020/11/01/checklist-for-treatment-of-local-anesthetic-systemic-toxicity)
+- [ERAS Society Guidelines](https://erassociety.org/guidelines/)
 
 ---
 
