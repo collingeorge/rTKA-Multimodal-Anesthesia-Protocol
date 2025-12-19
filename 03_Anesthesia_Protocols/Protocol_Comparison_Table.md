@@ -336,7 +336,7 @@ These principles reflect common attending practice patterns and are written as d
 **Age-adjusted MAC (directional guidance):**
 - 65–75: reduce ~20%
 - 75–85: reduce ~30–40%
-- >85: reduce ~40–50%
+- 85: reduce ~40–50%
 
 ### OFIA Adjuncts (Protocols 1 & 2)
 
