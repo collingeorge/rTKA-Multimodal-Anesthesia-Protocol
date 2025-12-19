@@ -558,6 +558,9 @@ Total systemic LA burden includes **peripheral blocks + surgeon LIA/periarticula
 
 **Indication:** NMDA antagonism, mild analgesic adjunct
 
+**Institutional Variability Note:**  
+Magnesium is an **optional** adjunct used in some institutions; omit when local practice does not support it or when predictable neuromuscular recovery timing is a priority. Magnesium's primary clinical effect is NMDA antagonism with mild analgesic benefit, but it reliably potentiates neuromuscular blockade and may complicate emergence timing. Institutions prioritizing streamlined recovery pathways and predictable extubation may choose to omit magnesium from their standard protocol without compromising analgesia quality.
+
 | Patient Population | Loading Dose | Administration | Maintenance |
 |-------------------|--------------|----------------|-------------|
 | **Standard adult** | **30–40 mg/kg IV** | Over 15–20 minutes | 8–10 mg/kg/hr if loaded |
@@ -694,6 +697,7 @@ Magnesium is an **optional** adjunct used in some institutions; omit when local 
 | **Maintenance Rate** | 8–10 mg/kg/hr if loading dose given |
 | **Duration** | Continue until skin closure |
 | **Warning** | Potentiates neuromuscular blockade; anticipate prolonged paralysis |
+| **Institutional Consideration** | Omit in institutions prioritizing predictable neuromuscular recovery and streamlined emergence protocols |
 
 **Monitoring:**
 - TOF monitoring essential (see Section 9.3)
@@ -1300,8 +1304,11 @@ QUESTIONS OR CONCERNS: [Contact information]
 | Presentation | Management |
 |--------------|------------|
 | Agitation, confusion, hallucinations | Calm, quiet environment; minimize stimulation; reorient frequently |
-| Severe agitation | Midazolam 1–2 mg IV (caution in elderly) |
+| Severe agitation (standard adult) | Midazolam 1–2 mg IV (caution in elderly) |
+| Severe agitation (elderly/frail) | **Midazolam 0.5 mg IV maximum** (high delirium risk with benzodiazepines); consider haloperidol 0.5–1 mg IV or droperidol 0.625 mg IV where institutionally permitted |
 | Prolonged (>30 min) | Consider low-dose propofol (10–20 mg IV) or dexmedetomidine |
+
+**Critical Note for Elderly/Frail:** Benzodiazepines should be minimized or avoided in elderly and frail patients due to significant delirium risk. Non-benzodiazepine alternatives (haloperidol, droperidol, or low-dose propofol) are preferred when institutional protocols permit their use for agitation management.
 
 **Hypertension/Tachycardia:**
 - If severe (SBP ≥180 mmHg or per institutional definition): Consider labetalol 5–10 mg IV or esmolol 10–20 mg IV
@@ -1496,6 +1503,7 @@ Protocol 1 is an anesthesia approach designed to minimize opioid use while provi
 - Your knee should be very comfortable (little to no pain) for the first 12–18 hours
 - You'll receive regular non-opioid pain medications (pills and IV)
 - If you need additional pain relief, we have other options available
+- **Most patients experience excellent pain control with minimal or no opioid use; however, some patients may still require opioid medications after surgery to maintain comfort. This is normal and does not represent treatment failure.**
 - Most patients can sit up and walk with assistance on the same day as surgery
 
 **Benefits:**
