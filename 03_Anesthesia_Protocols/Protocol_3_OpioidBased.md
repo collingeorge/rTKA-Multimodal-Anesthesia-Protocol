@@ -51,198 +51,295 @@ Elderly, frail, OSA, significant cardiopulmonary disease, renal/hepatic impairme
 
 ---
 
-## 1. Purpose and Indications
+## Table of Contents
 
-This pathway describes a **conventional opioid-inclusive general anesthetic** for rTKA and is generally **reserved for**:
-
-- **Chronic opioid users** or high opioid tolerance (document baseline regimen and estimated MME/day).
-- Patients who **request** a conventional opioid-based anesthetic after balanced counseling.
-- Situations where core OFIA components are **contraindicated or discouraged**, for example:
-  - Active psychosis (ketamine generally avoided).
-  - Advanced AV block without pacemaker (dexmedetomidine generally avoided).
-  - Severe renal impairment where certain adjuncts (e.g., magnesium) are not desired/appropriate.
-- Cases where attending/institutional workflow strongly favors a conventional approach after shared decision-making and documentation.
-
-> **Key principle:** This pathway is **not first-line** for ERAS; it is used when OFIA-based pathways are inappropriate, not desired, or not feasible.
-
----
-
-## 2. Preoperative Phase
-
-### 2.1 Patient Assessment
-- Full history and physical:
-  - ASA classification, airway exam, functional capacity (METs), allergies.
-- **Opioid history (required):**
-  - Baseline opioid regimen (drug, dose, route, schedule, estimated MME/day).
-  - Prior perioperative analgesic responses and adverse effects.
-- Risk stratification:
-  - PONV risk, delirium/cognitive baseline, frailty (especially >70–80), OSA screening (STOP-Bang) and home CPAP/BiPAP use.
-- Anticoagulation:
-  - If regional blocks are considered, confirm against **ASRA timing** and local policy.
-
-### 2.2 Preoperative Medications (ERAS-Informed; Individualize)
-- **Acetaminophen 1 g PO/IV** (30–60 min pre-op; adjust for liver disease/low body weight).
-- **Celecoxib 400 mg PO** (1–2 hr pre-op; or institutional NSAID alternative if appropriate).
-- **Dexamethasone 8–10 mg IV** after IV placement (monitor glucose in diabetics).
-- **Scopolamine 1.5 mg patch** for high PONV-risk patients without contraindication.
-- **Midazolam 0.5–2 mg IV** preop anxiolysis (use **≤1 mg** in elderly/frail/OSA; avoid if high delirium risk when feasible).
-- **Continue baseline home opioids** morning of surgery for chronic opioid users per attending/pain service guidance.
-- **Avoid routine gabapentinoids** unless a specific indication exists per institutional policy.
-
-### 2.3 Regional Blocks (Optional but Often Beneficial)
-Consider **ACB + IPACK** even in an opioid-inclusive anesthetic when not contraindicated:
-- Can reduce perioperative opioid exposure and improve early mobility.
-- If performed:
-  - Follow ASRA anticoagulation timing and local policy.
-  - Ensure **LAST preparedness** (20% lipid emulsion immediately available).
-  - Use technique/dosing from Protocol 1 as the reference standard.
+1. [Purpose and Clinical Context](#1-purpose-and-clinical-context)
+2. [Patient Selection Criteria](#2-patient-selection-criteria)
+3. [Preoperative Phase](#3-preoperative-phase)
+4. [Induction](#4-induction)
+5. [Maintenance Anesthesia](#5-maintenance-anesthesia)
+6. [Emergence](#6-emergence)
+7. [Postoperative Pain Management](#7-postoperative-pain-management)
+8. [Safety Monitoring](#8-safety-monitoring)
+9. [Troubleshooting](#9-troubleshooting)
+10. [Clinical Pearls](#10-clinical-pearls)
+11. [References](#11-references)
+12. [Appendix A: Quick Reference Summary](#appendix-a-quick-reference-summary)
+13. [Appendix B: Patient Information Sheet](#appendix-b-patient-information-sheet)
+14. [Appendix C: Institutional Implementation Checklist](#appendix-c-institutional-implementation-checklist)
+15. [Document Version Control](#document-version-control)
+16. [Contact and Feedback](#contact-and-feedback)
+17. [License](#license)
 
 ---
 
-## 3. Ketamine Guardrails (If Used as Adjunct)
+## 1. Purpose and Clinical Context
 
-Ketamine is **optional** and should be treated as a **sub-anesthetic adjunct** (not a default primary induction agent).
+### 1.1 Protocol Objectives
 
-Use caution, reduce dose, or omit when:
-- Hemodynamic instability or escalating vasopressor requirement; suspected catecholamine-depleted physiology.
-- Frailty / advanced age with limited physiologic reserve.
-- Significant tachyarrhythmia risk or contexts where sympathetic stimulation is undesirable.
-- Active psychosis or unstable severe psychiatric disease (context-dependent).
+This protocol provides a **conventional opioid-inclusive intraoperative anesthesia pathway** for robot-assisted total knee arthroplasty (rTKA) that:
 
-**BIS/EEG caveat:** ketamine can increase BIS and alter EEG-derived indices without reflecting inadequate hypnosis. Avoid titrating hypnotics to BIS alone after ketamine; correlate clinically and with raw EEG when available.
+- Maintains a **multimodal analgesia foundation** while permitting intraoperative opioid administration
+- Standardizes opioid delivery as a **continuous fentanyl infusion** with deliberate tapering (avoid late-case stacking)
+- Preserves ERAS-compatible elements when feasible (PONV mitigation, early mobilization planning)
+- Provides a structured alternative when OFIA pathways are **not desired, not feasible, or contraindicated**
+
+### 1.2 Evidence Base
+
+This protocol is informed by:
+- ERAS-style arthroplasty enhanced recovery and multimodal analgesia guidance
+- ASA/APSF perioperative safety communications relevant to opioid exposure and postoperative monitoring
+- ASRA/ESRA regional anesthesia safety principles and anticoagulation governance
+- Peer-reviewed literature on opioid stewardship, PONV prevention, and respiratory safety in high-risk phenotypes
+
+**Complete evidence grading and citations:** See `../../07_References_Evidence_2024.md`
+
+### 1.3 When to Use This Protocol
+
+**Third-line pathway (typical indications):**
+- Chronic opioid use / high opioid tolerance (document baseline regimen and estimated MME/day)
+- Patient preference for opioid-inclusive approach after counseling
+- OFIA adjunct contraindications or poor tolerance (phenotype-dependent), such as:
+  - Active psychosis (ketamine generally avoided)
+  - High-grade AV block without pacemaker (dexmedetomidine generally avoided)
+  - Severe renal impairment where selected adjuncts (e.g., magnesium) are not desired/appropriate
+- Institutional or attending workflow decision after individualized risk-benefit assessment
+
+**Position in Algorithm:**
+- When blocks feasible and safe → **Protocol 1** preferred (OFIA + ACB/IPACK)
+- When blocks NOT feasible but OFIA appropriate → **Protocol 2** preferred (OFIA block-free)
+- When OFIA pathways are inappropriate or undesired → **Protocol 3** (opioid-inclusive)
+
+### 1.4 Key Difference from Protocol 1/2
+
+- **Opioids are permitted intraoperatively** and are associated with higher PONV and respiratory depression risk
+- PACU pain and rescue needs are **more variable**, especially if blocks are omitted
+- Requires **more stringent emergence/extubation criteria** and **enhanced postoperative monitoring** in high-risk phenotypes
+
+---
+
+## 2. Patient Selection Criteria
+
+### 2.1 Ideal Candidates
+
+**Consider Protocol 3 when:**
+- Chronic opioid therapy or high tolerance (e.g., >60–90 MME/day; document clearly)
+- Prior OFIA intolerance or contraindications to multiple OFIA adjuncts
+- Strong preference for conventional opioid-inclusive anesthetic after counseling and documentation
+- Clinical context where hemodynamic goals or anticipated stimulation favors opioid participation (attending judgment)
+
+### 2.2 When Protocol 3 Requires Enhanced Guardrails
+
+**High-risk phenotypes for opioid-related harm:**
+- OSA (STOP-Bang ≥3), obesity hypoventilation, severe obesity
+- Elderly (>75) or frailty phenotype (delirium + hypoventilation risk)
+- Significant cardiopulmonary disease
+- Opioid-naïve with high sensitivity to sedatives/opioids
+- Concomitant sedatives (benzodiazepines, gabapentinoids, alcohol exposure)
+
+**Actionable implication:** lower opioid dosing, earlier taper, avoid stacking near emergence, and increase monitoring intensity (capnography in PACU when available).
+
+---
+
+## 3. Preoperative Phase
+
+### 3.1 Preanesthetic Assessment
+
+**Standard evaluation:**
+- Complete history and physical examination
+- Airway assessment (Mallampati, thyromental distance, mouth opening, neck mobility)
+- Review prior anesthesia records (difficult airway, PONV, delirium, respiratory events)
+- ASA physical status classification
+- NPO status verification
+
+**Required opioid history:**
+- Baseline regimen (drug, dose, route, schedule)
+- Estimated daily MME
+- Previous perioperative opioid responsiveness and adverse effects
+- Current bowel regimen and prior constipation history
+
+**Risk factor identification:**
+- OSA: STOP-Bang score; home CPAP/BiPAP use
+- PONV risk: Apfel score
+- Frailty/cognitive baseline: delirium history, baseline mental status
+- Renal/hepatic function: relevant for multimodal options and safety
+
+### 3.2 Regional Analgesia Planning (Optional but Often Beneficial)
+
+- **ACB + IPACK can remain beneficial** even in Protocol 3 when safe and feasible
+- If blocks performed:
+  - Follow ASRA/institutional policy and anticoagulation governance
+  - LAST preparedness per institutional standard (20% lipid emulsion immediately available)
+  - Use Protocol 1 technique/dosing as the reference standard
+
+- If blocks omitted:
+  - Ensure surgeon periarticular infiltration is performed and documented (drug, concentration, volume, total mg)
+
+### 3.3 Preoperative Medications (ERAS-Informed Multimodal Foundation)
+
+| Medication | Dose | Route | Notes |
+|------------|------|-------|-------|
+| **Acetaminophen** | 1000 mg | PO/IV | Reduce to 650 mg if <50 kg or hepatic impairment |
+| **Celecoxib** | 400 mg | PO | If appropriate; alternatives per institutional policy |
+| **Dexamethasone** | 8–10 mg | IV | Reduce to 4–6 mg if diabetic; monitor glucose |
+| **Scopolamine patch** | 1.5 mg | Transdermal | Apfel ≥3; contraindicated in narrow-angle glaucoma |
+| **Midazolam** | 0.5–2 mg | IV | Use ≤1 mg in elderly/frail/OSA; avoid if delirium-risk |
+
+**Chronic opioids:** continue baseline morning dose for chronic opioid users per attending/pain service guidance.  
+**Gabapentinoids:** avoid routine use unless specifically indicated per institutional policy.
 
 ---
 
 ## 4. Induction
 
-> Doses are typical adult ranges; reduce in frail/elderly/hemodynamically limited patients.
+> Induction achieves rapid, reliable loss of consciousness using propofol bolus. Opioids are used to blunt sympathetic response and provide analgesia, not to replace hypnosis.
 
-### 4.1 Pre-oxygenation
-- 100% FiO₂ by tight mask for **3–5 minutes**.
+### 4.1 Pre-Induction Checklist
 
-### 4.2 Induction Sequence (Illustrative)
-- **Propofol 1.5–2 mg/kg IV** (primary hypnotic; consider 1–1.5 mg/kg in frail/cardiac patients).
-- **Fentanyl 1–2 mcg/kg IV** (opioid component; titrate to physiology and expected stimulation).
-- **Rocuronium 0.6–1.0 mg/kg IV** with TOF monitoring.
-- **Midazolam 0–0.5 mg IV** only if needed (often omit if adequate preop anxiolysis already given).
-- Optional (selection-dependent): **Ketamine 0.2–0.3 mg/kg IV** adjunct (apply guardrails).
+- [ ] Patient correctly identified; procedure verified (Time Out)
+- [ ] ASA standard monitors applied and functioning
+- [ ] IV access confirmed patent (consider 2nd IV if infusions planned)
+- [ ] Airway equipment prepared and checked
+- [ ] Suction functioning
+- [ ] Vasoactive medications prepared and labeled
+- [ ] Quantitative TOF monitor available and functional
 
-### 4.3 Airway Management
-- ETT vs LMA based on aspiration risk, BMI/OSA, surgical requirements, positioning.
-- Confirm placement with continuous ETCO₂ waveform; document airway grade/adjuncts used.
+### 4.2 Induction Medications (Typical Adult Ranges)
+
+- **Propofol 1.5–2 mg/kg IV** (reduce to 1–1.5 mg/kg in elderly/frail/cardiac-limited)
+- **Fentanyl 1–2 mcg/kg IV** (titrate to phenotype and expected stimulation; avoid high dosing in OSA/elderly/frail)
+- **Rocuronium 0.6–1.0 mg/kg IV** with TOF monitoring
+- **Midazolam 0–0.5 mg IV** only if needed (often omit if preop anxiolysis already given)
+
+### 4.3 Optional Adjunct: Ketamine (Selection-Dependent)
+
+- **Ketamine 0.2–0.3 mg/kg IV** adjunct only (not default); apply guardrails
+- Avoid in active psychosis; use caution in frail/elderly and hemodynamic instability
+- **EEG/BIS caveat:** ketamine may increase BIS; do not titrate hypnotics to BIS alone
+
+### 4.4 Airway Management
+
+- ETT vs LMA per aspiration risk, BMI/OSA, surgical positioning, and attending judgment
+- Confirm placement with continuous ETCO₂ waveform; document airway grade/adjuncts used
 
 ---
 
-## 5. Maintenance
+## 5. Maintenance Anesthesia
 
-### 5.1 Primary Maintenance (Propofol-First Backbone)
-**Default hypnotic backbone:**
-- **Propofol TIVA 75–150 mcg/kg/min** (titrate to physiology and depth targets)
+> Maintenance ensures continuous unconsciousness via propofol and/or sevoflurane while opioids provide analgesia. Avoid late-case opioid stacking to support safe emergence.
 
-**Optional/additive volatile strategy (workflow-dependent):**
-- **Sevoflurane 0.8–1.2 MAC (age-adjusted)** may be used as an additive/hybrid or per attending workflow.
+### 5.1 Maintenance Hypnosis (Choose One)
 
-> Practical framing: **Propofol is explicitly present as the primary hypnotic backbone; sevoflurane is optional and workflow-dependent.**
+#### Option A: Propofol TIVA (Propofol-First Backbone)
+- **75–150 mcg/kg/min**, titrate to physiology and depth targets  
+- Consider processed EEG in elderly/high-risk cases
 
-### 5.2 Opioid Management (Intraoperative — Continuous Infusion Standard)
-Goal: stable analgesia while minimizing peak/trough and avoiding late-case opioid stacking.
+#### Option B: Sevoflurane (Workflow-Dependent)
+- **0.8–1.2 MAC (age-adjusted)**, with agent monitoring
 
-**Fentanyl infusion (preferred in this repository for Protocol 3):**
-- Start **0.5–2.0 mcg/kg/hr IV infusion** (typical starting range: **~0.5–1.0 mcg/kg/hr**)
-- Titrate by stimulation, hemodynamics, and patient phenotype:
-  - Chronic opioid user / high tolerance: may require higher end of range
-  - Elderly/frail/OSA: favor lower end and earlier taper
-- **Taper/stop 20–30 minutes before planned emergence** (adjust for total exposure and respiratory-risk phenotype)
+#### Option C: Balanced (Propofol + Sevoflurane)
+- Reduced doses of each; use experienced titration strategy
 
-**Hydromorphone supplementation (optional, end-of-case planning):**
-- **Hydromorphone 0.2–0.6 mg IV** total, titrated in small increments with reassessment
-- Use conservatively in elderly/OSA/frail; avoid stacking close to extubation
+### 5.2 Opioid Delivery (Infusion-First Strategy)
 
-> **Avoid “boluses PRN” framing** in this protocol: opioid delivery is designed as a **continuous fentanyl infusion** with deliberate tapering and explicit emergence planning.
+**Fentanyl infusion (preferred framing for Protocol 3):**
+- Start **0.5–2.0 mcg/kg/hr** (typical starting range ~0.5–1.0 mcg/kg/hr)
+- Titrate to stimulation and phenotype
+- **Taper/stop 20–30 minutes before planned emergence** (earlier in OSA/elderly/frail/opioid-naïve)
+
+**Hydromorphone (optional end-of-case planning):**
+- **0.2–0.6 mg IV total**, small increments with reassessment  
+- Avoid stacking close to extubation in OSA/elderly/frail
 
 ### 5.3 Optional Adjuncts (Selection-Dependent)
-- **Dexmedetomidine 0.2–0.4 mcg/kg/hr** (optional; dose-reduce in elderly/frail; monitor bradycardia/hypotension).
-- **Ketamine infusion 0.1–0.2 mg/kg/hr** (optional; generally favored for opioid tolerance rather than routine use; apply guardrails).
-- **Lidocaine infusion 1–2 mg/kg/hr** optional per institutional policy; respect contraindications/total dose ceilings; monitor for toxicity.
+
+- **Dexmedetomidine 0.2–0.4 mcg/kg/hr** (no bolus; bradycardia/hypotension vigilance)
+- **Ketamine infusion 0.1–0.2 mg/kg/hr** (often most useful for opioid tolerance; apply guardrails)
+- **Lidocaine infusion 1–2 mg/kg/hr** per institutional policy; monitor for toxicity; respect contraindications
 
 ### 5.4 Hemodynamic Management
-- Target **MAP ≥65 mmHg** (individualize for CAD/cerebrovascular disease).
-- Vasopressor strategy per institutional practice:
-  - Phenylephrine for hypotension with adequate HR
-  - Ephedrine for hypotension with relative bradycardia
-- Avoid using opioids as the primary hemodynamic “blunting” tool at the expense of delayed emergence/respiratory risk.
+
+- Target MAP ≥65 mmHg (individualize for CAD/cerebrovascular disease)
+- Vasopressor strategy per institutional practice; avoid using opioids as primary hemodynamic “blunting” tool
 
 ### 5.5 Monitoring
-- Standard ASA monitors + temperature.
-- Agent analyzer if volatile used.
-- Neuromuscular monitoring (TOF).
-- Consider brain function monitoring (BIS/EEG) in elderly or high-risk cases; interpret cautiously if ketamine used.
+
+- Standard ASA monitors + temperature
+- Agent analyzer if volatile used
+- Quantitative TOF monitoring
+- Consider processed EEG in elderly/high-risk cases; interpret cautiously with ketamine
 
 ---
 
 ## 6. Emergence
 
-### 6.1 Late Intraoperative Period (Planning Phase)
-- **Taper fentanyl infusion** with explicit timing (typically begin taper in last 30 minutes; stop ~20–30 minutes pre-extubation, phenotype-dependent).
-- Discontinue adjunct infusions (dexmedetomidine/ketamine/lidocaine) per workflow, typically near closure.
-- Reassess sedation/ventilation readiness, especially in OSA/elderly/frail patients.
+### 6.1 Pre-Emergence Planning (10–30 Minutes Before End)
 
-### 6.2 At Skin Closure
-- Taper hypnotics for emergence:
-  - Reduce propofol infusion and/or taper sevoflurane if used.
+- Begin **fentanyl infusion taper**; stop ~20–30 minutes before extubation (phenotype-dependent)
+- Discontinue adjunct infusions near closure (dexmedetomidine/ketamine/lidocaine) per workflow
+- Reassess ventilation readiness (OSA/elderly/frail require stricter guardrails)
+
+### 6.2 Hypnotic Reduction
+
+- Taper propofol and/or sevoflurane gradually toward emergence dosing
+- Avoid abrupt cessation with residual stimulation
 
 ### 6.3 Reversal + PONV Prophylaxis
-- **Ondansetron 4 mg IV** (opioid pathways carry higher PONV risk).
-- **Sugammadex** per blockade depth and institutional policy (dose per TOF metrics).
+
+- **Ondansetron 4 mg IV** (opioid-inclusive pathway: higher baseline PONV risk)
+- Neuromuscular reversal per TOF depth and institutional policy
+- **Verify TOF ratio ≥0.9 before extubation (mandatory)**
 
 ### 6.4 Extubation Criteria (More Stringent With Opioids)
-- Awake or easily arousable; following commands; minimal sedation.
-- Adequate ventilation/oxygenation with acceptable mechanics.
-- Objective neuromuscular recovery (TOF ratio ≥0.9).
-- Hemodynamically stable.
 
-Clinical pearl: maintain a **low threshold to delay extubation** if somnolent or hypoventilating—especially in OSA, elderly, or opioid-naïve patients.
+- Awake or easily arousable; follows commands; minimal sedation
+- Adequate ventilation and oxygenation
+- TOF ratio ≥0.9
+- Hemodynamic stability
 
-### 6.5 Immediate PACU Monitoring
-- Continuous SpO₂ monitoring is standard.
-- Consider capnography in high-risk phenotypes (OSA, obesity, elderly, high opioid exposure).
+**Clinical pearl:** maintain a low threshold to delay extubation if somnolent or hypoventilating, especially in OSA/elderly/frail or opioid-naïve patients.
 
 ---
 
-## 7. Postoperative Analgesia and Recovery
+## 7. Postoperative Pain Management
 
-### 7.1 Expected Pain Profile (Trends)
-- Without blocks: early pain commonly higher and more variable.
-- With ACB/IPACK: early pain often lower with reduced rescue opioid needs.
-- Opioid pathway patients demonstrate higher risk of PONV and respiratory depression, particularly in OSA/elderly.
-
-### 7.2 Scheduled Multimodal Analgesia
-- Acetaminophen + NSAID (if safe) remain foundational.
-- Continue baseline home opioids for chronic opioid users with bowel regimen and appropriate monitoring.
-
-### 7.3 PACU Rescue (Titrate Carefully)
-- Opioid rescue per institutional policy (e.g., **hydromorphone 0.1–0.2 mg IV** increments with reassessment).
-- Escalate monitoring intensity in high-risk phenotypes (OSA, elderly/frail, opioid-naïve, high total opioid exposure).
-
-### 7.4 Mobilization
-- Mobilize when alert (RASS ~0), pain controlled, hemodynamically stable, and PONV controlled.
-- Opioid-related sedation/PONV may delay early mobility relative to OFIA pathways.
+- Continue multimodal foundation (acetaminophen + NSAID/COX-2 if safe)
+- Continue baseline home opioids for chronic opioid users with bowel regimen and monitoring
+- PACU rescue opioids per institutional policy in small increments with reassessment
+- Anticipate higher PONV risk; treat proactively with multimodal antiemetics
 
 ---
 
-## 8. Summary and Key Principles
+## 8. Safety Monitoring
 
-- Protocol 3 is generally reserved for chronic opioid use, OFIA contraindications, or strong preference after counseling.
-- **Propofol is the default hypnotic backbone** for induction and maintenance in this framework.
-- **Sevoflurane is optional/additive** depending on workflow and attending preference.
-- **Fentanyl is delivered as a continuous infusion** with deliberate tapering (not bolus-driven PRN dosing).
-- Regional analgesia (ACB/IPACK) remains beneficial when safe and feasible, even in opioid-inclusive anesthetics.
-- Respiratory depression and delirium risk warrant conservative dosing and enhanced monitoring in OSA/elderly/frail 
-
+- Continuous SpO₂ in PACU; consider **capnography** in high-risk phenotypes (OSA, obesity, elderly, high opioid exposure)
+- Sedation assessments (e.g., RASS) with escalation pathways for oversedation/hypoventilation
+- Early mobilization when alert (RASS ~0), pain controlled, hemodynamically stable, and PONV controlled
 
 ---
 
-## 9. References
+## 9. Troubleshooting
+
+| Issue | Likely Contributors | First-Line Actions |
+|------|----------------------|-------------------|
+| **Somnolence/hypoventilation** | Opioid stacking; residual anesthetic; OSA | Stimulate, airway positioning, supplemental O₂, consider capnography, reduce/avoid further opioids, escalate monitoring |
+| **PONV** | Opioid exposure; risk phenotype | Multimodal antiemetics per policy; minimize opioid rescue when feasible |
+| **Inadequate analgesia** | Insufficient regional/LIA; opioid tolerance | Optimize non-opioid multimodal; reassess for blocks/LIA efficacy; titrate rescue carefully |
+| **Delayed emergence** | Excess hypnotic; late opioids; adjunct stacking | Reduce hypnotics, avoid further opioids, reassess TOF, check metabolic causes |
+
+---
+
+## 10. Clinical Pearls
+
+1. **Infusion-based opioid strategy improves emergence predictability** compared with repeated boluses, when paired with deliberate tapering.
+2. **Avoid late-case opioid stacking**; phenotype-specific tapering is a core safety control.
+3. **OSA/elderly/frail phenotypes require stricter extubation criteria** and enhanced PACU monitoring.
+4. **Regional analgesia remains beneficial when safe** and can reduce postoperative opioid exposure even in Protocol 3.
+5. **Treat PONV proactively**; opioid-inclusive pathways have higher baseline risk.
+
+---
+
+## 11. References
 
 Specific guideline documents, publication years, and primary literature citations are catalogued in `07_References_Evidence_2024.md` to avoid duplication and maintain version control.
 
@@ -269,9 +366,9 @@ See `../../07_References_Evidence_2024.md`
 
 **PREOPERATIVE:**
 - Acetaminophen 1g PO, celecoxib 400mg PO, dexamethasone 8–10mg IV
-- Assess opioid history (baseline regimen + estimated MME/day) and continue home opioids for chronic users per attending/pain service guidance
-- PONV risk mitigation: consider scopolamine patch for high-risk patients (no contraindication)
-- Midazolam 0.5–2mg IV for anxiolysis (≤1mg in elderly/frail/OSA; avoid if high delirium risk)
+- Opioid history required: baseline regimen + estimated MME/day; continue home opioids for chronic users per attending/pain service guidance
+- PONV mitigation: consider scopolamine patch for high-risk patients (no contraindication)
+- Midazolam 0.5–2mg IV for anxiolysis (≤1mg in elderly/frail/OSA; avoid if delirium-risk)
 
 **REGIONAL ANALGESIA (OPTIONAL):**
 - If feasible and not contraindicated: consider ACB + IPACK (use Protocol 1 technique/dosing as reference standard; follow ASRA/institutional policy)
@@ -300,17 +397,17 @@ See `../../07_References_Evidence_2024.md`
 - Lidocaine infusion 1–2 mg/kg/hr per institutional policy (respect contraindications/monitor toxicity)
 
 **EMERGENCE:**
-- Plan emergence early: taper opioids deliberately; discontinue adjunct infusions near closure
-- Ondansetron 4 mg IV (opioid pathway: higher baseline PONV risk)
-- Sugammadex 2–4 mg/kg per TOF status (per institutional policy)
+- Plan early: deliberate opioid taper; discontinue adjunct infusions near closure
+- Ondansetron 4 mg IV
+- Reversal per institutional policy
 - **Verify TOF ≥0.9 before extubation**
-- Lower threshold to delay extubation if somnolent/hypoventilating (OSA/elderly/frail/opioid-naïve)
+- Low threshold to delay extubation if somnolent/hypoventilating (OSA/elderly/frail/opioid-naïve)
 
 **PACU:**
 - Anticipate higher rescue opioid needs than Protocol 1/2, especially without blocks
 - Titrate rescue opioids in small increments with reassessment (institutional protocol)
 - Consider capnography for high-risk phenotypes (OSA, obesity, elderly, high opioid exposure)
-- Mobilization when alert (RASS ~0), pain controlled, hemodynamically stable, PONV controlled
+- Mobilize when alert (RASS ~0), pain controlled, hemodynamically stable, PONV controlled
 
 ---
 
@@ -371,7 +468,7 @@ Ask your anesthesiologist or surgeon for more information.
 - [ ] Fentanyl infusion capability (premix availability or preparation workflow)
 - [ ] Hydromorphone available for carefully titrated rescue dosing
 - [ ] Multimodal foundation agents (acetaminophen, NSAIDs/COX-2 if appropriate, dexamethasone, ondansetron)
-- [ ] Sugammadex available per institutional policy
+- [ ] Sugammadex available in OR and PACU per institutional policy
 - [ ] Lipid emulsion 20% available where local anesthetic techniques are performed (if blocks/LIA are used)
 
 **Protocols and Policies:**
@@ -415,9 +512,9 @@ Ask your anesthesiologist or surgeon for more information.
 
 **Major Changes from v1.3:**
 - Clarified Protocol 3 positioning as third-line / non-default ERAS pathway
-- Standardized opioid delivery as infusion-based fentanyl strategy with deliberate taper (vs PRN bolus framing)
+- Standardized opioid delivery as infusion-based fentanyl strategy with deliberate tapering (vs PRN bolus framing)
 - Reinforced extubation and PACU monitoring guardrails for opioid-exposed phenotypes (OSA/elderly/frail)
-- Harmonized structure with Protocol 1/2 (quick reference, appendices, governance, version control)
+- Harmonized structure with Protocol 1/2 (quick reference, TOC, appendices, governance, version control)
 
 **Revision History:**
 - Version 1.0 (November 2025): Initial protocol framework
@@ -435,7 +532,7 @@ Ask your anesthesiologist or surgeon for more information.
 **Acknowledgments:**
 
 Acknowledgments reflect professional collaboration. Named individuals are listed with permission or represent publicly acknowledged educational interactions.  
-This protocol was developed through observations with attending anesthesiologists, CRNAs, PACU staff, and orthopedic surgery teams. Special thanks to Drs. Shane Mandalia, Dr. Pauldine, and Chief CRNA Brian Buchanan for their expertise.
+This protocol was developed through observations with attending anesthesiologists, CRNAs, PACU staff, and orthopedic surgery teams.
 
 ---
 
