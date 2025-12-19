@@ -1,8 +1,12 @@
+# Conventional Opioid-Inclusive Intraoperative Anesthesia (Opioid-Based)  
+**Version**: 1.4  
+**Last Updated**: 2025-12-14  
+**Clinical Validation**: Aligned with Protocol Comparison Table v2.1; conservative hypnosis/analgesia framework; institutional governance required
+
 ---
-title: Conventional Opioid-Inclusive Anesthesia (Protocol 3)
-version: 1.4
-last-updated: 2025-12-14
----
+
+## Protocol 3: Conventional Opioid-Inclusive Anesthesia (rTKA)  
+**Third-Line Educational Pathway for Robot-Assisted Total Knee Arthroplasty**
 
 [![Protocol Version](https://img.shields.io/badge/Version-1.4-blue.svg)]()
 [![Last Updated](https://img.shields.io/badge/Updated-December%2014%2C%202025-green.svg)]()
@@ -13,16 +17,7 @@ last-updated: 2025-12-14
 **Governance Statement:**  
 This document is an educational clinical framework intended to support structured decision-making. It does not supersede institutional policy, order sets, anticoagulation tables, or attending anesthesiologist judgment. When conflicts arise, local governance and patient-specific risk assessment prevail.
 
-# Protocol 3 – Conventional Opioid-Inclusive Anesthesia (rTKA)
-
-Conventional, **opioid-inclusive** general anesthetic framework for robot-assisted total knee arthroplasty (rTKA). This pathway is **not intended as the default ERAS strategy**; when feasible, **OFIA-based pathways (with or without blocks)** are generally preferred for opioid-naïve patients and ERAS optimization.
-
-Protocols are **informed by** ERAS guidance, ASA/APSF safety recommendations, and ASRA regional anesthesia/anticoagulation standards but **do not replace** institutional policy, credentialing, or attending anesthesiologist judgment.
-
-> **Educational Use Only – Not a Clinical Guideline**
-> - All doses are **typical adult ranges** and must be individualized.
-> - Pathway selection is **attending- and institution-dependent**.
-> - Elderly/frail, OSA, significant cardiopulmonary disease, advanced renal/hepatic impairment, and extremes of BMI require additional modification.
+---
 
 ## Quick Reference
 
@@ -53,8 +48,6 @@ Protocols are **informed by** ERAS guidance, ASA/APSF safety recommendations, an
 
 **Special Populations:**
 Elderly, frail, OSA, significant cardiopulmonary disease, renal/hepatic impairment, and extremes of BMI require dose reduction and enhanced monitoring beyond standard recommendations.
-
----
 
 ---
 
