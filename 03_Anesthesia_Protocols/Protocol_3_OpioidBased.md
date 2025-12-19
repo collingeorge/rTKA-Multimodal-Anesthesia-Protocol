@@ -24,6 +24,38 @@ Protocols are **informed by** ERAS guidance, ASA/APSF safety recommendations, an
 > - Pathway selection is **attending- and institution-dependent**.
 > - Elderly/frail, OSA, significant cardiopulmonary disease, advanced renal/hepatic impairment, and extremes of BMI require additional modification.
 
+## Quick Reference
+
+| Component | Key Details |
+|-----------|-------------|
+| **Analgesia Strategy** | Opioid-inclusive (fentanyl infusion ± hydromorphone end-of-case), multimodal foundation maintained |
+| **Regional Analgesia** | Optional ACB/IPACK when feasible (follow ASRA/institutional policy); otherwise surgeon periarticular infiltration |
+| **Induction** | Propofol 1.5–2 mg/kg IV + fentanyl 1–2 mcg/kg IV + rocuronium 0.6–1.0 mg/kg |
+| **Maintenance Hypnosis** | Propofol TIVA 75–150 mcg/kg/min **±** sevoflurane 0.8–1.2 MAC (age-adjusted) |
+| **Opioid Delivery** | **Fentanyl infusion 0.5–2.0 mcg/kg/hr**, taper/stop 20–30 min before emergence; hydromorphone 0.2–0.6 mg IV optional |
+| **Expected PACU Pain** | Variable; typically higher rescue opioid needs than Protocol 1/2, especially without blocks |
+| **Key Risk** | Increased PONV + respiratory depression risk (OSA/elderly/frail/opioid-naïve) |
+| **Mobilization** | May be delayed by sedation/PONV relative to OFIA pathways |
+
+> **Cross-Reference:** See [Protocol Comparison Table](Protocol_Comparison_Table.md) for side-by-side pathway comparison and detailed safety guidance.
+
+---
+
+## Educational Use Only
+
+**This protocol is an educational framework for discussion, training, and research documentation.** It is **not medical advice**, not a substitute for clinical judgment, and not an institutional guideline, policy, or order set.
+
+**Critical Requirements:**
+- All medication selection and dosing must be individualized to patient physiology, comorbidities, monitoring strategy, and local formulary/policies
+- Supervision by a licensed attending anesthesiologist is mandatory
+- Any clinical use requires formal local review and governance approval
+- Institutional protocols supersede all recommendations herein
+
+**Special Populations:**
+Elderly, frail, OSA, significant cardiopulmonary disease, renal/hepatic impairment, and extremes of BMI require dose reduction and enhanced monitoring beyond standard recommendations.
+
+---
+
 ---
 
 ## 1. Purpose and Indications
@@ -214,38 +246,6 @@ Clinical pearl: maintain a **low threshold to delay extubation** if somnolent or
 - Regional analgesia (ACB/IPACK) remains beneficial when safe and feasible, even in opioid-inclusive anesthetics.
 - Respiratory depression and delirium risk warrant conservative dosing and enhanced monitoring in OSA/elderly/frail 
 
-
----
-
-## Quick Reference
-
-| Component | Key Details |
-|-----------|-------------|
-| **Analgesia Strategy** | Opioid-inclusive (fentanyl infusion ± hydromorphone end-of-case), multimodal foundation maintained |
-| **Regional Analgesia** | Optional ACB/IPACK when feasible (follow ASRA/institutional policy); otherwise surgeon periarticular infiltration |
-| **Induction** | Propofol 1.5–2 mg/kg IV + fentanyl 1–2 mcg/kg IV + rocuronium 0.6–1.0 mg/kg |
-| **Maintenance Hypnosis** | Propofol TIVA 75–150 mcg/kg/min **±** sevoflurane 0.8–1.2 MAC (age-adjusted) |
-| **Opioid Delivery** | **Fentanyl infusion 0.5–2.0 mcg/kg/hr**, taper/stop 20–30 min before emergence; hydromorphone 0.2–0.6 mg IV optional |
-| **Expected PACU Pain** | Variable; typically higher rescue opioid needs than Protocol 1/2, especially without blocks |
-| **Key Risk** | Increased PONV + respiratory depression risk (OSA/elderly/frail/opioid-naïve) |
-| **Mobilization** | May be delayed by sedation/PONV relative to OFIA pathways |
-
-> **Cross-Reference:** See [Protocol Comparison Table](Protocol_Comparison_Table.md) for side-by-side pathway comparison and detailed safety guidance.
-
----
-
-## Educational Use Only
-
-**This protocol is an educational framework for discussion, training, and research documentation.** It is **not medical advice**, not a substitute for clinical judgment, and not an institutional guideline, policy, or order set.
-
-**Critical Requirements:**
-- All medication selection and dosing must be individualized to patient physiology, comorbidities, monitoring strategy, and local formulary/policies
-- Supervision by a licensed attending anesthesiologist is mandatory
-- Any clinical use requires formal local review and governance approval
-- Institutional protocols supersede all recommendations herein
-
-**Special Populations:**
-Elderly, frail, OSA, significant cardiopulmonary disease, renal/hepatic impairment, and extremes of BMI require dose reduction and enhanced monitoring beyond standard recommendations.
 
 ---
 
