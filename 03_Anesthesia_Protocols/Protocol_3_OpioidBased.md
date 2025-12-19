@@ -31,6 +31,8 @@ This document is an educational clinical framework intended to support structure
 | **Expected PACU Pain** | Variable; typically higher rescue opioid needs than Protocol 1/2, especially without blocks |
 | **Key Risk** | Increased PONV + respiratory depression risk (OSA/elderly/frail/opioid-naïve) |
 | **Mobilization** | May be delayed by sedation/PONV relative to OFIA pathways |
+| **Key Advantage** | Familiar workflow for chronic opioid users or when OFIA pathways are contraindicated |
+
 
 > **Cross-Reference:** See [Protocol Comparison Table](Protocol_Comparison_Table.md) for side-by-side pathway comparison and detailed safety guidance.
 
@@ -45,6 +47,9 @@ This document is an educational clinical framework intended to support structure
 - Supervision by a licensed attending anesthesiologist is mandatory
 - Any clinical use requires formal local review and governance approval
 - Institutional protocols supersede all recommendations herein
+
+**Governance Lock:**  
+This document intentionally avoids prescribing institution-specific opioid order sets, dosing mandates, or monitoring thresholds. Any operational use requires anesthesia department approval, pharmacy review, nursing workflow validation, and alignment with institutional opioid stewardship and postoperative monitoring policies.
 
 **Special Populations:**
 Elderly, frail, OSA, significant cardiopulmonary disease, renal/hepatic impairment, and extremes of BMI require dose reduction and enhanced monitoring beyond standard recommendations.
