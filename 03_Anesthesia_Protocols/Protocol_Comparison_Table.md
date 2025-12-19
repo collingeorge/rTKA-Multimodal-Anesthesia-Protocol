@@ -1,8 +1,9 @@
-# rTKA Anesthesia Protocol Comparison Table
-**Version**: 2.1
-**Last Updated**: 2025-12-14
-**Clinical Validation**: Attending-oriented, physiology-first framework; propofol-centered hypnosis with conservative dosing aligned with ASA, ERAS, and ASRA guidance
+# rTKA Anesthesia Protocol Comparison Table  
+**Version**: 2.1  
+**Last Updated**: 2025-12-15  
+**Clinical Validation**: Attending-oriented, physiology-first framework; propofol-centered hypnosis with conservative dosing aligned with ASA, ERAS, and ASRA guidance  
 ---
+
 
 [![Document Version](https://img.shields.io/badge/Version-2.1-blue.svg)]()
 [![Last Updated](https://img.shields.io/badge/Updated-December%2014%2C%202025-green.svg)]()
