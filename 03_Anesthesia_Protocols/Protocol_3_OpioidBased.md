@@ -121,6 +121,40 @@ This protocol is informed by:
 - PACU pain and rescue needs are **more variable**, especially if blocks are omitted
 - Requires **more stringent emergence/extubation criteria** and **enhanced postoperative monitoring** in high-risk phenotypes
 
+### 1.5 Decision Algorithm: When to Use Protocol 3 vs Protocol 1/2
+
+**Clinical Decision Framework:**
+```
+START: Patient scheduled for rTKA
+    |
+    ├─> Regional blocks FEASIBLE and SAFE?
+    |   ├─> YES → Protocol 1 (OFIA + ACB/IPACK) [DEFAULT FIRST-LINE]
+    |   └─> NO → Continue to next decision point
+    |
+    ├─> OFIA adjuncts appropriate and tolerated?
+    |   ├─> YES → Protocol 2 (OFIA block-free) [SECOND-LINE when blocks contraindicated]
+    |   └─> NO → Continue to next decision point
+    |
+    ├─> Multiple OFIA contraindications OR chronic high-dose opioids OR patient/attending preference?
+    |   ├─> YES → Protocol 3 (Opioid-Inclusive) [THIRD-LINE]
+    |   └─> NO → Reassess clinical picture; consider Protocol 1 or 2 with dose modifications
+```
+
+**Key Decision Points:**
+
+| Clinical Factor | Favors Protocol 1/2 | Favors Protocol 3 |
+|----------------|---------------------|-------------------|
+| **Regional blocks** | Feasible, safe, patient accepts | Contraindicated or refused |
+| **Opioid tolerance** | Opioid-naïve or low-dose (<30 MME/day) | High-dose chronic use (>60–90 MME/day)* |
+| **OFIA adjuncts** | Well-tolerated, no contraindications | Multiple contraindications (ketamine/dex/lidocaine) |
+| **OSA severity** | STOP-Bang ≥3 (opioid-sparing critical) | Mild or controlled; OR Protocol 3 with enhanced monitoring |
+| **Patient preference** | Prefers opioid-minimization after counseling | Strong preference for conventional approach after counseling |
+| **Prior anesthesia** | Good tolerance of OFIA approach | Prior OFIA intolerance or complications |
+
+*Threshold is contextual and institution-dependent; see Section 2.1 for details
+
+**Documentation Requirement:** When selecting Protocol 3, document specific clinical rationale (e.g., "Chronic oxycodone 90 MME/day + gabapentin 1800 mg/day + active psychosis → ketamine/gabapentin contraindicated; Protocol 3 selected for opioid-based multimodal approach with enhanced monitoring").
+
 ---
 
 ## 2. Patient Selection Criteria
@@ -128,10 +162,29 @@ This protocol is informed by:
 ### 2.1 Ideal Candidates
 
 **Consider Protocol 3 when:**
-- Chronic opioid therapy or high tolerance (e.g., >60–90 MME/day; document clearly)
+- Chronic opioid therapy or high opioid tolerance (e.g., **>60–90 MME/day** as a general reference; actual thresholds are **contextual and institution-dependent** based on patient response, procedure type, and multimodal alternatives available). **Document clearly:** baseline regimen, estimated MME/day, and rationale for Protocol 3 selection.
 - Prior OFIA intolerance or contraindications to multiple OFIA adjuncts
 - Strong preference for conventional opioid-inclusive anesthetic after counseling and documentation
 - Clinical context where hemodynamic goals or anticipated stimulation favors opioid participation (attending judgment)
+
+**Opioid Responsiveness vs Raw MME:**
+
+The decision to use Protocol 3 should prioritize **patient-specific opioid responsiveness** rather than relying solely on MME calculations:
+
+- **High responders:** Some patients at 40–60 MME/day may have excellent pain control with Protocol 1 or 2 when blocks are feasible
+- **Poor responders:** Some patients at similar MME levels may have inadequate analgesia without intraoperative opioids
+- **Complex pain phenotypes:** Neuropathic pain, central sensitization, or psychological comorbidities may influence opioid needs independent of baseline MME
+- **Prior perioperative experience:** History of severe pain or inadequate analgesia with opioid-sparing approaches is often more predictive than MME alone
+
+**Important Context on Opioid Tolerance Thresholds:**
+
+- The 60–90 MME/day range is **not a hard cutoff** for Protocol 3 selection
+- Many chronic opioid users at 30–60 MME/day may still do well with Protocol 1 or 2 when blocks are feasible
+- Conversely, some patients at lower MME may have high sensitivity or complex pain phenotypes requiring opioid-inclusive approach
+- **Decision-making should prioritize:** patient-specific physiology, multimodal options available, procedural factors, and shared decision-making with patient
+- **Documentation is key:** clearly state why Protocol 3 was selected for any given patient
+
+**Clinical Pearl:** If uncertain whether Protocol 2 or 3 is appropriate for a given chronic opioid user, consider patient history, pain phenotype, and multimodal options available. When in doubt, lean toward Protocol 2 with enhanced rescue planning rather than defaulting to Protocol 3.
 
 ### 2.2 When Protocol 3 Requires Enhanced Guardrails
 
@@ -236,8 +289,14 @@ This protocol is informed by:
 ### 5.1 Maintenance Hypnosis (Choose One)
 
 #### Option A: Propofol TIVA (Propofol-First Backbone)
-- **75–150 mcg/kg/min**, titrate to physiology and depth targets  
-- Consider processed EEG in elderly/high-risk cases
+- **75–150 mcg/kg/min**, titrate to physiology and depth targets
+- **Typical range with active opioids: 75–125 mcg/kg/min**
+- **>125 mcg/kg/min is uncommon** when opioids are providing adequate analgesia
+  - If requiring >125 mcg/kg/min persistently, reassess:
+    - Opioid balance (inadequate analgesia may manifest as increased hypnotic requirement)
+    - Stimulation level (tourniquet, retraction, extreme surgical stimulation)
+    - Adjunct contribution (are optional adjuncts functioning as intended?)
+- Consider processed EEG in elderly/high-risk cases to avoid excessive depth
 
 #### Option B: Sevoflurane (Workflow-Dependent)
 - **0.8–1.2 MAC (age-adjusted)**, with agent monitoring
@@ -261,6 +320,19 @@ This protocol is informed by:
 - **Dexmedetomidine 0.2–0.4 mcg/kg/hr** (no bolus; bradycardia/hypotension vigilance)
 - **Ketamine infusion 0.1–0.2 mg/kg/hr** (often most useful for opioid tolerance; apply guardrails)
 - **Lidocaine infusion 1–2 mg/kg/hr** per institutional policy; monitor for toxicity; respect contraindications
+
+**Lidocaine Infusion (Optional - Institution-Dependent):**
+- **1–2 mg/kg/hr** per institutional policy
+- **Critical safety requirements:**
+  - Strict weight-based dosing (calculate ideal body weight in obesity)
+  - Monitor for CNS toxicity (perioral numbness, tinnitus, dizziness, confusion, seizures)
+  - **Reduce to 1 mg/kg/hr maximum** in elderly (>75), low body mass (<50 kg), or hepatic dysfunction
+  - **Stop immediately** if any signs/symptoms of toxicity
+  - **Do NOT exceed 3 mg/kg total dose** or institutional maximum duration (typically 2–3 hours)
+- **Contraindications:** Severe hepatic impairment (Child-Pugh C), complete heart block, amide LA allergy, severe cardiac conduction disease
+- **LAST preparedness:** When lidocaine infusion is combined with surgeon infiltration, cumulative LA burden must be tracked and lipid emulsion must be immediately available
+
+**Clinical Pearl:** Lidocaine infusion is occasionally used as an adjunct in Protocol 3 for additional systemic analgesia, but it adds complexity and toxicity risk. When opioids are already being used, the marginal benefit may not justify the added monitoring burden in many cases.
 
 ### 5.4 Hemodynamic Management
 
@@ -434,9 +506,12 @@ Protocol 3 is a conventional anesthesia approach that includes opioids during su
 - Along with anesthetic medications, opioids may be given (often as a controlled infusion) to manage surgical pain
 
 **After Surgery:**
-- Pain may be more variable than in opioid-free pathways
-- Some patients may have more nausea, sleepiness, or breathing sensitivity, especially if they have sleep apnea
-- Your care team will monitor you closely and provide medications to prevent nausea and manage pain safely
+- Pain control may be more variable than with opioid-free pathways
+- **Some patients may still experience moderate pain despite opioid use** - this is not unusual and does not mean the anesthetic failed
+- You may have more nausea or sleepiness than patients receiving opioid-free anesthesia
+- If you have sleep apnea, breathing sensitivity, or certain other conditions, your care team will monitor you more closely
+- Your nurses will work with you to manage pain, nausea, and other symptoms safely
+- Walking and early movement help with recovery, though sedation or nausea may delay this slightly compared to opioid-free approaches
 
 **Benefits:**
 - Familiar, conventional approach
