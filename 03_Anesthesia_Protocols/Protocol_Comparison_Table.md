@@ -1,18 +1,19 @@
 # rTKA Anesthesia Protocol Comparison Table  
-**Version**: 2.1  
-**Last Updated**: 2025-12-15  
+**Version**: 2.2  
+**Last Updated**: 2025-12-19  
 **Clinical Validation**: Attending-oriented, physiology-first framework; propofol-centered hypnosis with conservative dosing aligned with ASA, ERAS, and ASRA guidance  
 
 ---
 
-[![Document Version](https://img.shields.io/badge/Version-2.1-blue.svg)]()
-[![Last Updated](https://img.shields.io/badge/Updated-December%2014%2C%202025-green.svg)]()
+[![Document Version](https://img.shields.io/badge/Version-2.2-blue.svg)]()
+[![Last Updated](https://img.shields.io/badge/Updated-December%2019%2C%202025-green.svg)]()
 [![Evidence Base](https://img.shields.io/badge/Evidence-Guidelines%20%2B%20Primary%20Literature-orange.svg)]()
 [![Governance](https://img.shields.io/badge/Governance-Institution%20Required-informational.svg)]()
 [![Clinical Review](https://img.shields.io/badge/Review-Clinician%20Review%20Recommended-blue.svg)]()
+[![Dual Purpose](https://img.shields.io/badge/Purpose-Clinical%20%2B%20Educational-purple.svg)]()
 
 **Governance Statement:**  
-This document is an educational perioperative anesthesia framework intended to support structured clinical reasoning and multidisciplinary discussion. It does not supersede institutional policy, order sets, anticoagulation guidance, pharmacy restrictions, credentialing/privileging requirements, or attending anesthesiologist judgment. When conflicts arise, institutional governance and patient-specific risk assessment prevail.
+This document is an educational perioperative anesthesia framework intended to support structured clinical reasoning and multidisciplinary discussion. It serves dual purposes: (1) clinical decision support for attending anesthesiologists, and (2) educational framework for residents, CRNAs, and students. It does not supersede institutional policy, order sets, anticoagulation guidance, pharmacy restrictions, credentialing/privileging requirements, or attending anesthesiologist judgment. When conflicts arise, institutional governance and patient-specific risk assessment prevail.
 
 **Governance Lock:**  
 This document intentionally avoids prescribing institution-specific order sets, mandated dosing, or hard monitoring thresholds. Any operational implementation requires anesthesia department approval, pharmacy review, nursing workflow validation, and explicit alignment with institutional opioid stewardship and postoperative monitoring policies.
@@ -23,7 +24,6 @@ Quick reference comparing three evidence-informed anesthetic pathways for robot-
 > - All doses represent conservative starting ranges and require titration to physiologic effect and monitoring data.
 > - Attending anesthesiologist judgment and local protocols supersede this framework.
 > - Special populations (elderly/frail, OSA/OHS, severe cardiac disease, renal/hepatic impairment, chronic opioid therapy) require dose reduction and monitoring escalation.
-
 ---
 
 ## Attending Validation Summary
@@ -73,6 +73,96 @@ These principles reflect common attending practice patterns and are written as d
 - Confirm extubation criteria and **TOF ratio ≥ 0.9** prior to airway removal.
 
 ---
+
+## Protocol Comparison At-a-Glance
+
+### Key Distinguishing Features
+
+| Feature | Protocol 1 (OFIA + Blocks) | Protocol 2 (OFIA Block-Free) | Protocol 3 (Opioid-Inclusive) |
+|---------|---------------------------|------------------------------|-------------------------------|
+| **Positioning** | **FIRST-LINE** | **SECOND-LINE** | **THIRD-LINE** |
+| **Regional Analgesia** | ACB + IPACK (80mg ropivacaine) | None (surgeon infiltration) | Optional (when feasible) |
+| **Intraop Opioids** | Zero | Zero | Fentanyl infusion ± hydromorphone |
+| **Expected PACU Pain (NRS)** | 0–3 (excellent) | 2–5 (good-variable) | 2–6 (variable) |
+| **PONV Risk** | Low | Low-Moderate | Moderate-High |
+| **Respiratory Depression Risk** | Lowest | Low | Higher (phenotype-dependent) |
+| **Mobilization Timing** | 4–6 hours | 4–8 hours | Often delayed (PONV/sedation) |
+| **OSA Suitability** | **Strongly Preferred** | **Strongly Preferred** | Avoid if possible; enhanced monitoring required |
+| **Elderly/Frail Suitability** | **Strongly Preferred** | **Strongly Preferred** | Higher delirium/respiratory event risk |
+| **Chronic Opioid Users** | Appropriate | Appropriate | Often preferred option |
+| **Workflow Complexity** | Moderate (blocks add time) | Low (fastest) | Low-Moderate |
+
+### Expected Outcomes Comparison
+
+| Outcome | Protocol 1 | Protocol 2 | Protocol 3 |
+|---------|-----------|-----------|-----------|
+| **0-6hr Pain Control** | ⭐⭐⭐⭐⭐ Excellent | ⭐⭐⭐⭐ Good | ⭐⭐⭐ Variable |
+| **0-24hr Pain Control** | ⭐⭐⭐⭐⭐ Excellent | ⭐⭐⭐⭐ Good | ⭐⭐⭐ Variable |
+| **PONV Rate** |  Lowest | Low | Higher |
+| **Sedation** | Minimal | Minimal | Moderate |
+| **Respiratory Safety** | Safest | Safe | Requires vigilance |
+| **Early Mobilization** | Earliest | Early | Often delayed |
+| **PACU Length of Stay** | Shortest | Short | Often longer |
+| **Patient Satisfaction** | High | High | Variable |
+
+### Protocol 1 vs Protocol 2: Direct Contrast
+
+**When blocks are feasible, Protocol 1 provides:**
+
+| Advantage of Protocol 1 over Protocol 2 | Magnitude |
+|------------------------------------------|-----------|
+| **Better early pain control** | NRS 0-3 vs 2-5 (2-point improvement) |
+| **Lower PONV risk** | ~10-15% vs ~20-25% incidence |
+| **Earlier mobilization** | 4-6 hrs vs 4-8 hrs (median 1-2 hr earlier) |
+| **Less PACU opioid rescue** | ~70% reduction in rescue needs |
+| **Longer analgesic duration** | 12-18 hrs from blocks vs 6-12 hrs from infiltration |
+| **Higher patient satisfaction** | Consistently rated higher in quality studies |
+
+**When blocks are NOT feasible:**
+- Protocol 2 maintains all opioid-sparing benefits of OFIA approach
+- Still significantly superior to Protocol 3 for OSA/elderly/frail patients
+- Requires robust multimodal foundation and anticipated rescue planning
+
+## Quick Decision Flowchart
+```
+┌─────────────────────────────────────────┐
+│ Patient scheduled for rTKA              │
+└────────────────┬────────────────────────┘
+                 │
+                 ▼
+┌─────────────────────────────────────────┐
+│ Are regional blocks (ACB/IPACK)         │
+│ FEASIBLE and SAFE?                      │
+│ • Anticoagulation timing met?           │
+│ • Patient accepts blocks?               │
+│ • No contraindications?                 │
+└─────┬─────YES─────┬──────NO─────────────┘
+      │             │
+      ▼             ▼
+┌──────────────┐  ┌─────────────────────────┐
+│ PROTOCOL 1   │  │ Are OFIA adjuncts       │
+│ OFIA + Blocks│  │ APPROPRIATE?            │
+│              │  │ • Ketamine not CI?      │
+│ [FIRST-LINE] │  │ • Dexmed not CI?        │
+└──────────────┘  │ • Institutional support?│
+                  └─────┬─────YES─┬────NO───┘
+                        │         │
+                        ▼         ▼
+                  ┌──────────┐  ┌─────────────┐
+                  │PROTOCOL 2│  │ PROTOCOL 3  │
+                  │OFIA      │  │ Opioid-     │
+                  │Block-Free│  │ Inclusive   │
+                  │          │  │             │
+                  │[SECOND-  │  │ [THIRD-LINE]│
+                  │ LINE]    │  │             │
+                  └──────────┘  └─────────────┘
+```
+
+**Decision Documentation Required:**
+- [ ] Reason for protocol selection documented in anesthetic record
+- [ ] If Protocol 3 selected: specific indications noted (chronic opioids, contraindications to OFIA, etc.)
+- [ ] If blocks omitted: reason documented (anticoagulation, refusal, anatomy, etc.)
+
 
 ## Protocol Selection Guide
 ### Which Analgesic Strategy Fits the Patient?
@@ -197,6 +287,152 @@ These principles reflect common attending practice patterns and are written as d
 - Avoid late-case opioid stacking (primary emergence safety control).
 - Ensure an explicit PACU respiratory monitoring plan for high-risk phenotypes (consider capnography where available).
 
+## Protocol 3 (Opioid-Inclusive) - Enhanced Safety Framework
+
+> **Key Principle:** Protocol 3 should be used as a **deliberate, constrained, third-line pathway** with explicit safety controls, not a default or "easier" option.
+
+### When Protocol 3 is Appropriate
+
+**Consider Protocol 3 when:**
+1. **Chronic opioid therapy** with high tolerance (typically >60-90 MME/day; see responsiveness discussion in Protocol 3 document)
+2. **Multiple OFIA adjunct contraindications:**
+   - Active psychosis (ketamine contraindicated)
+   - High-grade AV block without pacemaker (dexmedetomidine contraindicated)
+   - Severe hepatic impairment (lidocaine infusion contraindicated)
+   - CrCl <30 mL/min (magnesium contraindicated)
+3. **Prior OFIA intolerance** or complications
+4. **Patient preference** for opioid-inclusive approach after informed consent and shared decision-making
+5. **Attending judgment** that opioid-based approach safer for specific patient
+
+### When to AVOID Protocol 3 (Prefer Protocol 1 or 2)
+
+**Strong contraindications:**
+- Severe/untreated OSA or obesity hypoventilation syndrome
+- COPD with baseline hypercapnia or home oxygen requirement
+- Prior postoperative respiratory failure or naloxone requirement
+- Frail elderly with baseline cognitive impairment or prior delirium
+- Severe opioid-associated PONV history
+- **Patient preference for opioid-sparing** after counseling
+
+**If Protocol 3 MUST be used in high-risk phenotypes:**
+- Use **lowest effective opioid doses**
+- **Early taper** (stop fentanyl 30 min before emergence, not 20 min)
+- **Avoid stacking** near extubation (no late-case hydromorphone)
+- Implement **explicit enhanced monitoring plan** (document in record)
+- **Lower threshold** for monitored bed vs floor placement
+
+### Opioid Delivery Strategy (Conservative Framework)
+
+**Intraoperative Approach - Choose ONE:**
+
+| Strategy | Details | Best For | Avoid When |
+|----------|---------|----------|------------|
+| **Low-Rate Infusion** (Preferred) | Fentanyl 0.5-1.0 mcg/kg/hr<br>**Stop 20-30 min before emergence** | Most patients; more predictable emergence | Very short cases (<60 min) |
+| **Bolus-Responsive** | Fentanyl 25-50 mcg increments titrated to stimulus | Variable-length cases; attending preference | Tends toward late stacking if not disciplined |
+
+**End-of-Case Planning:**
+- **Hydromorphone:** 0.2-0.6mg IV total in small increments
+- **DO NOT give hydromorphone <15-20 minutes before planned extubation**
+- **OSA/elderly/frail/opioid-naïve:** Start 0.2mg with ≥20min reassessment intervals
+
+**Critical Safety Controls:**
+1. **Planned early taper** (not reactive to emergence)
+2. **Avoid late-case stacking** (primary emergence safety control)
+3. **Document total opioid exposure** (fentanyl mcg + hydromorphone mg)
+4. **Communicate to PACU** enhanced monitoring needs
+
+### PACU Rescue Analgesia (Protocol 3 Specific)
+
+**Pain management is MORE COMPLEX in Protocol 3:**
+- Early pain scores may be **deceptively low** from residual opioid effect
+- **Rebound pain** common as intraop opioids wear off
+- **Higher total rescue needs** than Protocols 1 or 2
+
+**Rescue Strategy:**
+
+| Pain Level | First-Line | Dosing | Second-Line |
+|------------|-----------|--------|-------------|
+| **NRS 4-6** | Ensure multimodal optimized | Verify acetaminophen + NSAID given | Consider ketamine 10-20mg IV if institutional protocol |
+| **NRS ≥7** | Hydromorphone | 0.2-0.4mg IV q15-20min | Reassess multimodal; consider regional consultation if refractory |
+
+**Phenotype-Specific Adjustments:**
+- **Opioid-naïve:** 0.2mg hydromorphone q20-30min; **mandatory continuous pulse oximetry**
+- **Elderly/frail:** 0.2mg q25-30min; enhanced sedation monitoring (RASS q10min)
+- **OSA:** 0.2mg q30min; **strongly consider capnography**; continuous monitoring
+- **Chronic opioid users:** 0.4-0.8mg q15-20min; anticipate tolerance; may need pain service early
+
+**Rescue Options NOT Recommended:**
+- **Gabapentinoids** (sedation/delirium risk; not routinely recommended)
+- **Additional local anesthetic infusions** (not appropriate for rescue; LAST risk)
+- **Aggressive opioid escalation** without attending consultation
+
+**Enhanced Monitoring Triggers:**
+- Cumulative hydromorphone >1mg → continuous pulse oximetry + capnography consideration
+- Any sedation (RASS ≤-1) → reduce/hold opioids, escalate monitoring
+- Respiratory rate <10 → **immediate intervention** (see respiratory depression algorithm)
+
+### Naloxone Protocol
+
+**Preparation:**
+- Naloxone **at bedside** in PACU for all Protocol 3 patients
+- Typical concentration: 0.4mg/mL
+- Dilute to 0.04mg/mL (0.4mg in 10mL NS) for easier titration
+
+**Indications for Naloxone:**
+- SpO₂ <90% despite airway maneuvers and O₂
+- Respiratory rate <8 breaths/min
+- Apneic episodes
+- Somnolence (RASS ≤-3) with inadequate ventilation
+
+**Dosing:**
+1. Start with **0.04-0.08mg IV** (1-2mL of diluted solution)
+2. Reassess in **2-3 minutes**
+3. Repeat as needed until:
+   - RR ≥10 breaths/min
+   - SpO₂ >92%
+   - Adequate tidal volumes (visual chest rise)
+4. **Goal:** Restore adequate ventilation, NOT full reversal
+
+**Post-Naloxone Management:**
+- Anticipate **pain rebound** (provide multimodal analgesia)
+- Naloxone duration 30-90 min; opioid effects may outlast
+- **Mandatory continuous monitoring** for 2-4 hours minimum
+- **Escalate to monitored bed**
+- **Incident reporting** per institutional protocol
+- Consider pain service consultation
+
+### Protocol 3 Documentation Requirements
+
+**Preoperative:**
+- [ ] Indication for Protocol 3 selection documented
+- [ ] Chronic opioid regimen recorded (if applicable): drug, dose, frequency, estimated MME/day
+- [ ] Risk factors identified: OSA, age >75, frailty, opioid-naïve, prior respiratory events
+- [ ] Enhanced monitoring plan discussed with patient and team
+
+**Intraoperative:**
+- [ ] Total opioid exposure documented: fentanyl total mcg, hydromorphone total mg
+- [ ] Timing of opioid taper documented
+- [ ] Any late-case opioids documented with rationale
+
+**Postoperative:**
+- [ ] Enhanced monitoring plan communicated to PACU/floor team
+- [ ] High-risk features flagged (OSA, elderly, opioid-naïve, high exposure)
+- [ ] Monitoring location determined (PACU → floor vs monitored bed)
+- [ ] If naloxone given: incident report completed
+
+### Protocol 3 Quality Metrics
+
+**Institutions using Protocol 3 should track:**
+- Percentage of rTKA cases using Protocol 3 (target: <20% of total cases)
+- Naloxone administration rate (target: <2%)
+- Unplanned monitored bed admissions (track and review)
+- Respiratory events (hypoxemia, hypercarbia, apnea)
+- PONV requiring rescue (target: <30%)
+- Patient satisfaction scores
+- Time to mobilization compared to Protocols 1 & 2
+
+**Quarterly review recommended** to ensure Protocol 3 remains appropriately constrained and high-risk patients are adequately supported.
+
 ---
 
 ## Hemodynamic Management (All Protocols)
@@ -223,6 +459,152 @@ These principles reflect common attending practice patterns and are written as d
 - **Key risk:** increased PONV and dose-dependent respiratory depression risk (especially OSA/OHS, elderly/frail, opioid-naïve).
 - Anticipate delayed emergence and hypoventilation risk; do not extubate with somnolence or inadequate ventilation.
 - Naloxone should be available per institutional practice (e.g., 0.04–0.08 mg IV titrated) when clinically indicated.
+
+## Emergence and Early Recovery Complications
+
+### Recognition and Management of Common Emergence Issues
+
+#### Oversedation / Delayed Emergence
+
+**Recognition:**
+- RASS score ≤-2 (moderate to deep sedation)
+- Difficult to arouse or unarousable
+- Inadequate response to verbal/physical stimulation
+- Time to emergence >15-20 minutes beyond expected
+
+**Differential Diagnosis:**
+| Cause | Assessment | Management |
+|-------|------------|------------|
+| **Excessive hypnotic** | Review total propofol/volatile dose | Allow time; stimulation; ensure adequate ventilation |
+| **Residual opioids** (P3) | Recent doses; known opioid sensitivity | Reduce further opioids; consider naloxone if respiratory compromise |
+| **Residual NMB** | **Check TOF ratio** | If TOF <0.9: additional sugammadex per protocol |
+| **Adjunct stacking** | Dexmedetomidine continued too late | Allow time; support ventilation; rarely requires intervention |
+| **Metabolic causes** | Check glucose, Na+, temp | Treat underlying cause |
+| **Cerebrovascular event** | Focal deficits; unequal pupils | **STAT neurology consult**; head CT |
+
+**Management Algorithm:**
+1. **Ensure airway/ventilation/oxygenation adequate**
+2. **Verify TOF ratio ≥0.9** (if not, reversal issue)
+3. **Check glucose** (hypoglycemia common cause)
+4. **Stop all sedatives/analgesics**
+5. **Stimulate patient** (verbal, tactile, sternal rub if needed)
+6. **Consider naloxone** if opioid-related AND respiratory compromise (0.04-0.08mg IV)
+   - **Caution:** Avoid full reversal; titrate to effect
+   - Risk: Acute pain, sympathetic surge, withdrawal (chronic opioid users)
+7. **If no improvement in 5-10 minutes:** Reassess for other causes
+
+**Do NOT extubate if:**
+- Patient not following commands
+- Inadequate ventilation (RR <10, TV <5mL/kg, weak respiratory effort)
+- TOF <0.9
+- Hemodynamic instability
+
+#### Respiratory Depression
+
+**Recognition:**
+- Respiratory rate <10 breaths/min
+- SpO₂ <90% despite supplemental O₂
+- Shallow breathing (TV <5 mL/kg)
+- Rising ETCO₂ (if still intubated/capnography available)
+- Apneic episodes
+
+**Risk Factors by Protocol:**
+- Protocol 1 & 2: Rare (opioid-free intraop)
+- Protocol 3: Common concern, especially with:
+  - OSA/OHS
+  - Elderly/frail
+  - Opioid-naïve
+  - Late-case opioid stacking
+  - Concurrent sedatives
+
+**Management:**
+1. **Ensure patent airway** (jaw thrust, OPA/NPA if needed)
+2. **Increase O₂** (high-flow via mask or bag-valve-mask)
+3. **Stimulate patient** (sternal rub, verbal commands)
+4. **STOP all opioids and sedatives**
+5. **Naloxone 0.04-0.08 mg IV** if:
+   - SpO₂ <90% despite airway maneuvers and O₂
+   - RR <8 breaths/min
+   - Apneic episodes
+   - **Titrate slowly** to avoid withdrawal/pain/HTN/tachycardia
+6. **Repeat naloxone** q2-3min as needed until:
+   - RR ≥10 breaths/min
+   - SpO₂ >92%
+   - Adequate tidal volumes
+7. **Consider re-intubation** if severe or refractory
+
+**Post-Naloxone Care:**
+- Naloxone duration 30-90 min; opioid effects may outlast naloxone
+- **Continuous monitoring mandatory** for at least 2-4 hours
+- **Escalate to monitored bed**
+- Anticipate pain rebound (provide multimodal analgesia)
+
+#### Severe PONV
+
+**Highest Risk:**
+- Protocol 3 (opioid exposure)
+- Female, non-smoker, h/o PONV/motion sickness
+- High Apfel score (≥3)
+
+**Management:**
+| Intervention | Details | Notes |
+|--------------|---------|-------|
+| **Ondansetron** | 4mg IV (repeat once if needed) | First-line 5-HT₃ antagonist |
+| **Dexamethasone** | 4-8mg IV (if not given preop) | Best preop; limited benefit postop |
+| **Scopolamine patch** | If not already placed | Takes 4+ hours to work |
+| **Metoclopramide** | 10mg IV | Prokinetic + antiemetic |
+| **Promethazine** | 6.25-12.5mg IV | Sedating; use cautiously |
+| **Haloperidol** | 0.5-1mg IV | Where institutionally permitted |
+| **Propofol** | 10-20mg IV bolus | Rescue for refractory PONV |
+
+**Multimodal approach recommended for Apfel ≥3:**
+- Preop: dexamethasone 8mg + scopolamine patch
+- Intraop: propofol TIVA if feasible
+- Emergence: ondansetron 4mg
+- PACU: additional agents as needed
+
+**Refractory PONV:**
+- Consider propofol 10-20mg IV boluses
+- Ensure hydration adequate
+- Rule out other causes (hypotension, pain, anxiety)
+- Consult attending for additional strategies
+
+#### Emergence Delirium / Agitation
+
+**Recognition:**
+- Restlessness, thrashing, pulling at tubes/lines
+- Disorientation, confusion
+- Combativeness
+- Failure to follow commands despite appearing awake
+
+**Management Algorithm:**
+1. **Rule out physiologic causes FIRST:**
+   - [ ] Hypoxemia (check SpO₂)
+   - [ ] Hypercarbia (check ventilation)
+   - [ ] Hypotension (check MAP)
+   - [ ] Hypoglycemia (check glucose)
+   - [ ] **Pain** (assess and treat FIRST)
+   - [ ] Urinary retention (bladder scan if Foley not placed)
+
+2. **Environmental de-escalation:**
+   - Calm, reassuring voice
+   - Reorient patient ("Surgery is over, you're safe")
+   - Minimize stimulation (lights, noise)
+   - Family presence if permitted
+
+3. **Pharmacologic management** (if behavioral measures inadequate):
+
+**Standard Adult (no major frailty/elderly/OSA):**
+- **Propofol 10-20mg IV** (short-acting, minimal respiratory depression) **OR**
+- **Dexmedetomidine bolus 0.5 mcg/kg** over 10min + low-rate infusion (if already familiar from intraop)
+
+**Elderly/Frail/OSA/Cognitive Impairment:**
+- **AVOID benzodiazepines** (worsens delirium, respiratory depression, prolonged sedation)
+- **First-line:** Haloperidol 0.5-1mg IV (where institutionally permitted)
+- **Alternative:** Propofol 10mg IV (reassess q3-5min)
+- **Last resort:** If severe and refractory, consult attending
+
+**CRITICAL:** Benzodiazepines (lorazepam, midazolam) should be avoided or minimized in elderly, frail, and OSA patients due to significant risk of worsening delirium, respiratory depression, and prolonged recovery.
 
 ---
 
@@ -282,27 +664,140 @@ These principles reflect common attending practice patterns and are written as d
 
 ---
 
-## Safety Monitoring Requirements
+## Monitoring Requirements by Protocol
 
-### Intraoperative (All Protocols)
-- Standard ASA monitors: ECG, SpO₂, capnography, BP at appropriate intervals, temperature.
-- **Quantitative neuromuscular monitoring (TOF):** mandatory when NMBD used.
-- Consider processed EEG (BIS/entropy) in elderly/frail to avoid excessive depth.
-- Consider arterial line for severe cardiac disease or anticipated hemodynamic lability.
+### Intraoperative Monitoring (All Protocols - ASA Standard)
 
-### PACU/Postoperative
+**Universal Requirements:**
+- Continuous ECG, pulse oximetry, capnography (intubation to extubation)
+- Blood pressure q3-5min (or continuous arterial line)
+- Temperature (core or near-core)
+- Inspired/expired gas analysis (O₂, volatile, CO₂)
+- **Quantitative TOF monitoring** (mandatory when NMB used)
+
+**Consider Adding:**
+- Processed EEG (BIS/Entropy): elderly (>75), frail, cognitive impairment, depth control prioritized
+- Arterial line: severe cardiac disease, anticipated hemodynamic lability, need for frequent ABGs
+
+### PACU Monitoring Intensity by Protocol
 
 | Monitoring Component | Protocol 1 | Protocol 2 | Protocol 3 |
 |---------------------|-----------|-----------|-----------|
-| **Continuous pulse oximetry** | Standard | Standard (often longer than P1) | **Mandatory continuous** until fully awake/stable |
-| **Capnography** | Consider in OSA/high risk | Consider in OSA/high risk | Strongly consider in OSA/OHS, elderly/frail, opioid-naïve, higher opioid exposure |
-| **Sedation assessments** | Routine | Routine | More frequent with low threshold to escalate care |
-| **Naloxone readiness** | Per routine | Per routine | Ready/available per institutional protocol |
-| **LAST readiness** | Lipid emulsion available when blocks performed | N/A | Lipid emulsion available if blocks performed |
+| **Standard Duration** | 60-90 min | 90-120 min | 120-180 min (often longer) |
+| **Continuous Pulse Oximetry** | Until stable (typically 60 min) | Until stable (typically 90 min) | **Mandatory continuous** until fully alert and stable |
+| **Capnography** | • Consider: OSA, obesity<br>• Standard monitors usually sufficient | • Consider: OSA, obesity, high rescue opioid use<br>• Lower threshold than P1 | • **Strongly consider:** OSA/OHS, elderly/frail, opioid-naïve, high exposure<br>• Standard of care for high-risk |
+| **Vital Signs Frequency** | Q15min initially → Q30min when stable | Q15min initially → Q30min when stable | **Q10-15min** initially → Q15-30min when stable |
+| **Sedation Assessment (RASS)** | Q30min | Q15-30min | **Q10-15min** initially |
+| **Respiratory Rate** | Q15min | Q15min | **Q10min** initially; alert if <10/min |
+| **Pain Assessment (NRS)** | Q15-30min | Q15-30min | Q15-30min |
+| **Naloxone Readiness** | Available per routine | Available per routine | **At bedside, immediately accessible** |
+
+### High-Risk Phenotype Monitoring Escalation
+
+**For ANY protocol when high-risk features present:**
+
+| Risk Factor | Additional Monitoring | Escalation Criteria |
+|-------------|----------------------|---------------------|
+| **OSA (STOP-Bang ≥3)** | • Continuous pulse oximetry overnight<br>• Consider capnography in PACU<br>• Home CPAP resumed ASAP | Follow institutional OSA protocol |
+| **Elderly (>75) or Frail** | • Enhanced sedation scoring (RASS q2h on floor)<br>• Lower threshold for monitored bed | If RASS ≤-2 or respiratory concern |
+| **Opioid-Naïve + High Exposure** | • Continuous pulse oximetry until fully alert<br>• Frequent RR assessment | Per institutional opioid monitoring policy |
+| **Recurrent Desaturation** | • **Escalate to monitored bed**<br>• Consider capnography<br>• Respiratory therapy consult | **Do NOT discharge to unmonitored floor** |
+| **Oversedation (RASS ≤-2)** | • Reduce/hold opioids<br>• Consider naloxone if respiratory compromise<br>• Escalate monitoring | Notify attending; consider ICU if severe |
+| **Naloxone Requirement** | • **Mandatory monitored bed**<br>• Continuous monitoring<br>• Incident reporting | Follow institutional critical event protocol |
+
+---
+
+## Monitoring Requirements by Protocol
+
+> **Monitoring intensity escalates from Protocol 1 → 2 → 3** based on increased risk of sedation and respiratory complications.
+
+### Intraoperative Monitoring (All Protocols - ASA Standard)
+
+**Universal Requirements:**
+- Continuous ECG, pulse oximetry, capnography (intubation to extubation)
+- Blood pressure q3-5min (or continuous arterial line)
+- Temperature (core or near-core)
+- Inspired/expired gas analysis (O₂, volatile, CO₂)
+- **Quantitative TOF monitoring** (mandatory when NMB used)
+
+**Consider Adding:**
+- Processed EEG (BIS/Entropy): elderly (>75), frail, cognitive impairment, depth control prioritized
+- Arterial line: severe cardiac disease, anticipated hemodynamic lability, need for frequent ABGs
+
+---
+
+### Protocol-Specific Monitoring Considerations
+
+**Protocol 1 (OFIA + Blocks):**
+- Standard ASA monitoring usually sufficient
+- Watch for LAST signs if large-volume infiltration also used
+- Verify blocks working (sensation testing) before declaring pain crisis
+- Lipid emulsion immediately available when blocks performed
+
+**Protocol 2 (OFIA Block-Free):**
+- Higher rescue opioid use → lower threshold for enhanced monitoring
+- If cumulative hydromorphone >1mg in PACU, consider capnography
+- Track total LA burden (surgeon infiltration + any IV lidocaine infusion)
+- Anticipate longer PACU stays than Protocol 1
+
+**Protocol 3 (Opioid-Inclusive) - CRITICAL:**
+- **Most stringent monitoring requirements**
+- Continuous pulse oximetry is **not optional** until patient meets ALL criteria:
+  - Fully awake (RASS 0 to +1)
+  - Robust ventilation (RR 10-20, SpO₂ >94% on room air)
+  - Minimal sedation (conversational, appropriate affect)
+- **Do NOT discharge to unmonitored floor bed if:**
+  - OSA/OHS with opioid exposure
+  - Elderly/frail with somnolence
+  - Any naloxone requirement
+  - Recurrent desaturation episodes
+  - Concern from PACU team
+
+---
+
+### PACU Monitoring Intensity by Protocol
+
+| Monitoring Component | Protocol 1 | Protocol 2 | Protocol 3 |
+|---------------------|-----------|-----------|-----------|
+| **Standard Duration** | 60-90 min | 90-120 min | 120-180 min (often longer) |
+| **Continuous Pulse Oximetry** | Until stable (typically 60 min) | Until stable (typically 90 min) | **Mandatory continuous** until fully alert and stable |
+| **Capnography** | • Consider: OSA, obesity<br>• Standard monitors usually sufficient | • Consider: OSA, obesity, high rescue opioid use<br>• Lower threshold than P1 | • **Strongly consider:** OSA/OHS, elderly/frail, opioid-naïve, high exposure<br>• Standard of care for high-risk |
+| **Vital Signs Frequency** | Q15min initially → Q30min when stable | Q15min initially → Q30min when stable | **Q10-15min** initially → Q15-30min when stable |
+| **Sedation Assessment (RASS)** | Q30min | Q15-30min | **Q10-15min** initially |
+| **Respiratory Rate** | Q15min | Q15min | **Q10min** initially; alert if <10/min |
+| **Pain Assessment (NRS)** | Q15-30min | Q15-30min | Q15-30min |
+| **Naloxone Readiness** | Available per routine | Available per routine | **At bedside, immediately accessible** |
+
+---
+
+### High-Risk Phenotype Monitoring Escalation
+
+**For ANY protocol when high-risk features present:**
+
+| Risk Factor | Additional Monitoring | Escalation Criteria |
+|-------------|----------------------|---------------------|
+| **OSA (STOP-Bang ≥3)** | • Continuous pulse oximetry overnight<br>• Consider capnography in PACU<br>• Home CPAP resumed ASAP | Follow institutional OSA protocol |
+| **Elderly (>75) or Frail** | • Enhanced sedation scoring (RASS q2h on floor)<br>• Lower threshold for monitored bed | If RASS ≤-2 or respiratory concern |
+| **Opioid-Naïve + High Exposure** | • Continuous pulse oximetry until fully alert<br>• Frequent RR assessment | Per institutional opioid monitoring policy |
+| **Recurrent Desaturation** | • **Escalate to monitored bed**<br>• Consider capnography<br>• Respiratory therapy consult | **Do NOT discharge to unmonitored floor** |
+| **Oversedation (RASS ≤-2)** | • Reduce/hold opioids<br>• Consider naloxone if respiratory compromise<br>• Escalate monitoring | Notify attending; consider ICU if severe |
+| **Naloxone Requirement** | • **Mandatory monitored bed**<br>• Continuous monitoring<br>• Incident reporting | Follow institutional critical event protocol |
+
+---
 
 ### Floor Monitoring (First 24 Hours)
-- All protocols: vitals and pain assessments per institutional pathway.
-- Protocol 3: consider enhanced respiratory monitoring in high-risk phenotypes; lower threshold for step-down/ICU if concerning features.
+
+**All Protocols (Minimum Standard):**
+- Vital signs (BP, HR, RR, SpO₂, temp) per institutional pathway (typically q4h)
+- Pain assessment with each vital sign check
+- Sedation assessment with each vital sign check (RASS or equivalent)
+- Neurovascular checks q4h (distal pulses, capillary refill, sensation, motor)
+
+**Protocol 3 Enhanced Requirements:**
+- Consider continuous pulse oximetry overnight for OSA/high-risk patients
+- Enhanced sedation monitoring (q2h) for first 8-12 hours
+- Lower threshold for step-down/ICU bed if concerning features develop
+- Document monitoring plan in transfer orders
 
 ---
 
@@ -417,8 +912,8 @@ This protocol comparison table is revised to reflect conservative dosing, phenot
 
 ---
 
-**Document Version:** 2.1  
-**Last Updated:** December 14, 2025  
+**Document Version:** 2.2  
+**Last Updated:** December 19, 2025
 **Next Scheduled Review:** June 2026  
 **Document Status:** Educational reference; institutional adaptation required for operational use  
 
@@ -427,7 +922,8 @@ This protocol comparison table is revised to reflect conservative dosing, phenot
 - v1.1–1.3: Clarifications and formatting improvements  
 - v1.4: Added clinical pearls and anticoagulation timing framework  
 - v2.0: Major revision with conservative dosing validation, enhanced monitoring standards, expanded safety considerations  
-- v2.1: Reorganization emphasizing attending mental model, hypnotic continuity, and protected emergence  
+- v2.1: Reorganization emphasizing attending mental model, hypnotic continuity, and protected emergence
+- v2.2: Enhanced monitoring requirements, emergence complications management, Protocol 1 vs 2 direct contrast, visual decision algorithm, Protocol 3 safety framework expansion
 
 **For questions, corrections, or suggested improvements, contact:**  
 [Institutional contact information to be inserted upon local implementation]
