@@ -26,10 +26,11 @@ This document is an educational clinical framework intended to support structure
 | **Analgesia Strategy** | Opioid-inclusive (fentanyl infusion ± hydromorphone end-of-case), multimodal foundation maintained |
 | **Regional Analgesia** | Optional ACB/IPACK when feasible (follow ASRA/institutional policy); otherwise surgeon periarticular infiltration |
 | **Induction** | Propofol 1.5–2 mg/kg IV + fentanyl 1–2 mcg/kg IV + rocuronium 0.6–1.0 mg/kg |
-| **Maintenance Hypnosis** | Propofol TIVA 75–150 mcg/kg/min **±** sevoflurane 0.8–1.2 MAC (age-adjusted) |
+| **Maintenance Hypnosis** | Propofol TIVA 75–150 mcg/kg/min **OR** sevoflurane 0.8–1.2 MAC (age-adjusted); balanced technique optional |
 | **Opioid Delivery** | **Fentanyl infusion 0.5–2.0 mcg/kg/hr**, taper/stop 20–30 min before emergence; hydromorphone 0.2–0.6 mg IV optional |
 | **Expected PACU Pain** | Variable; typically higher rescue opioid needs than Protocol 1/2, especially without blocks |
 | **Key Risk** | Increased PONV + respiratory depression risk (OSA/elderly/frail/opioid-naïve) |
+| **Neuromuscular Recovery** | Quantitative TOF monitoring; **extubation requires TOF ratio ≥0.9** |
 | **Mobilization** | May be delayed by sedation/PONV relative to OFIA pathways |
 | **Key Advantage** | Familiar workflow for chronic opioid users or when OFIA pathways are contraindicated |
 
@@ -328,7 +329,8 @@ The decision to use Protocol 3 should prioritize **patient-specific opioid respo
   - Monitor for CNS toxicity (perioral numbness, tinnitus, dizziness, confusion, seizures)
   - **Reduce to 1 mg/kg/hr maximum** in elderly (>75), low body mass (<50 kg), or hepatic dysfunction
   - **Stop immediately** if any signs/symptoms of toxicity
-  - **Do NOT exceed 3 mg/kg total dose** or institutional maximum duration (typically 2–3 hours)
+  - **Do NOT exceed institutional maximum rate and duration** (commonly 1–2 mg/kg/hr for ≤2–3 hours)
+  - **Track cumulative local anesthetic exposure** when combined with surgeon infiltration
 - **Contraindications:** Severe hepatic impairment (Child-Pugh C), complete heart block, amide LA allergy, severe cardiac conduction disease
 - **LAST preparedness:** When lidocaine infusion is combined with surgeon infiltration, cumulative LA burden must be tracked and lipid emulsion must be immediately available
 
@@ -367,6 +369,13 @@ The decision to use Protocol 3 should prioritize **patient-specific opioid respo
 - Neuromuscular reversal per TOF depth and institutional policy
 - **Verify TOF ratio ≥0.9 before extubation (mandatory)**
 
+**Multimodal PONV Prophylaxis:**
+
+Opioid-inclusive pathways carry higher baseline PONV risk. For high-risk patients (Apfel score ≥3):
+- Use **multimodal PONV prophylaxis** per institutional policy
+- Typical regimen: Dexamethasone (preop) + 5-HT₃ antagonist (ondansetron at emergence) ± scopolamine patch ± antidopaminergic agent (droperidol/haloperidol where permitted)
+- **Do NOT rely on single-agent prophylaxis** in Apfel ≥3 phenotypes with opioid exposure
+
 ### 6.4 Extubation Criteria (More Stringent With Opioids)
 
 - Awake or easily arousable; follows commands; minimal sedation
@@ -392,6 +401,27 @@ The decision to use Protocol 3 should prioritize **patient-specific opioid respo
 - Continuous SpO₂ in PACU; consider **capnography** in high-risk phenotypes (OSA, obesity, elderly, high opioid exposure)
 - Sedation assessments (e.g., RASS) with escalation pathways for oversedation/hypoventilation
 - Early mobilization when alert (RASS ~0), pain controlled, hemodynamically stable, and PONV controlled
+
+### 8.1 High-Risk Phenotype Monitoring Escalation
+
+**For patients receiving intraoperative opioids with high-risk phenotypes:**
+
+| Risk Factor | Monitoring Escalation | Institutional Criteria |
+|-------------|----------------------|------------------------|
+| **OSA (STOP-Bang ≥3)** | Continuous pulse oximetry overnight; consider capnography in PACU | Follow institutional OSA monitoring protocol |
+| **Elderly (>75) or frail** | Enhanced sedation scoring (RASS q2h); lower threshold for monitored bed | Consult with PACU/floor attending |
+| **Opioid-naïve with high exposure** | Continuous pulse oximetry until fully alert and stable; frequent respiratory rate assessment | Per institutional opioid monitoring policy |
+| **Recurrent desaturation** | Escalate to monitored bed; consider capnography; respiratory therapy consult | Do NOT discharge to unmonitored floor bed |
+| **Oversedation (RASS -2 or lower)** | Reduce/hold opioids; consider naloxone if respiratory compromise; escalate monitoring | Notify attending; consider ICU if severe |
+| **Naloxone requirement** | **Mandatory escalation to monitored bed**; continuous monitoring; incident reporting | Follow institutional critical event protocol |
+
+**General Principle:** Follow institutional criteria for continuous oximetry and escalation to monitored bed. When in doubt, err on side of enhanced monitoring rather than assuming stability.
+
+**Documentation Requirement:** When Protocol 3 is used in high-risk phenotypes, document:
+- [ ] Risk factors identified (OSA/elderly/frail/opioid-naïve)
+- [ ] Enhanced monitoring plan implemented
+- [ ] Postoperative monitoring location (PACU → floor vs monitored bed)
+- [ ] Any special precautions or escalation criteria discussed with receiving team
 
 ---
 
