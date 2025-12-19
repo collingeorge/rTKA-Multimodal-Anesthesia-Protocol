@@ -1,11 +1,11 @@
----
-title: Opioid-Free Intraoperative Anesthesia (OFIA) With ACB + IPACK
-version: 2.0
-last-updated: 2025-12-18
-clinical-validation: Aligned with Protocol Comparison Table v2.1; propofol-centered hypnosis with conservative dosing
+# Opioid-Free Intraoperative Anesthesia (OFIA) With ACB + IPACK  
+**Version**: 2.0  
+**Last Updated**: 2025-12-18  
+**Clinical Validation**: Aligned with Protocol Comparison Table v2.1; conservative hypnosis/analgesia framework; institutional governance required
+
 ---
 
-# Protocol 1: Opioid-Free Intraoperative Anesthesia (OFIA) + ACB/IPACK
+## Protocol 1: Opioid-Free Intraoperative Anesthesia (OFIA) + ACB/IPACK  
 **Default Educational Pathway for Robot-Assisted Total Knee Arthroplasty**
 
 [![Protocol Version](https://img.shields.io/badge/Version-2.0-blue.svg)]()
@@ -41,7 +41,7 @@ This document is an educational clinical framework intended to support structure
 
 **Critical Requirements:**
 - All medication selection and dosing must be individualized to patient physiology, comorbidities, monitoring strategy, and local formulary/policies
-- Supervision by a licensed attending anesthesiologist is required under institutional policy
+- Supervision by a licensed attending anesthesiologist is mandatory
 - Any clinical use requires formal local review and governance approval
 - Institutional protocols supersede all recommendations herein
 
