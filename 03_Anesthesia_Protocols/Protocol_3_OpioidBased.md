@@ -4,6 +4,15 @@ version: 1.4
 last-updated: 2025-12-14
 ---
 
+[![Protocol Version](https://img.shields.io/badge/Version-1.4-blue.svg)]()
+[![Last Updated](https://img.shields.io/badge/Updated-December%2014%2C%202025-green.svg)]()
+[![Evidence Base](https://img.shields.io/badge/Evidence-Guidelines%20%2B%20Primary%20Literature-orange.svg)]()
+[![Governance](https://img.shields.io/badge/Governance-Institution%20Required-informational.svg)]()
+[![Clinical Review](https://img.shields.io/badge/Review-Clinician%20Review%20Recommended-blue.svg)]()
+
+**Governance Statement:**  
+This document is an educational clinical framework intended to support structured decision-making. It does not supersede institutional policy, order sets, anticoagulation tables, or attending anesthesiologist judgment. When conflicts arise, local governance and patient-specific risk assessment prevail.
+
 # Protocol 3 – Conventional Opioid-Inclusive Anesthesia (rTKA)
 
 Conventional, **opioid-inclusive** general anesthetic framework for robot-assisted total knee arthroplasty (rTKA). This pathway is **not intended as the default ERAS strategy**; when feasible, **OFIA-based pathways (with or without blocks)** are generally preferred for opioid-naïve patients and ERAS optimization.
