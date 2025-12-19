@@ -26,7 +26,7 @@ This document is an educational clinical framework intended to support structure
 | **Regional Analgesia** | None - Surgeon periarticular infiltration (100-150 mL ropivacaine 0.2%) |
 | **Induction** | Propofol 1.5–2 mg/kg IV (reduce in elderly/frail) |
 | **Maintenance Hypnosis** | Propofol TIVA 75–125 mcg/kg/min **OR** Sevoflurane 0.7–1 MAC |
-| **OFIA Adjuncts** | Dexmedetomidine 0.2–0.7 mcg/kg/hr ± Ketamine 0.1–0.25 mg/kg/hr ± Lidocaine infusion 1–1.5 mg/kg/hr |
+| **OFIA Adjuncts** | Dexmedetomidine 0.2–0.4 mcg/kg/hr (0.7 mcg/kg/hr in select patients without bradycardia risk) ± Ketamine 0.1–0.25 mg/kg/hr ± Lidocaine infusion 1–1.5 mg/kg/hr |
 | **Expected PACU Pain** | NRS 2–5 (good analgesia, higher than Protocol 1) |
 | **Mobilization** | POD 0 within 4–8 hours |
 | **Key Advantage** | Fast workflow, no block contraindications, opioid-sparing maintained |
@@ -239,6 +239,20 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 - [ ] Ensure surgeon will document: drug(s), concentration(s), volume(s), total dose (mg)
 - [ ] Plan for cumulative local anesthetic dose tracking
 
+**CRITICAL DOCUMENTATION REQUIREMENT:**
+
+The anesthesiologist must document in the anesthetic record:
+- [ ] Surgeon infiltration confirmed: **YES / NO**
+- [ ] If YES, agent: **[ropivacaine]**, concentration: **[0.2%]**, volume: **[___ mL]**, total dose: **[___ mg]**
+- [ ] IV lidocaine infusion used: **YES / NO**
+- [ ] If YES, rate: **[___ mg/kg/hr]**, duration: **[___ hours]**, total dose: **[___ mg]**
+- [ ] **TOTAL LA BURDEN: [___ mg ropivacaine] + [___ mg lidocaine] = [___ mg total]**
+- [ ] **Mg/kg calculation: [total mg] ÷ [body weight kg] = [___ mg/kg]**
+
+**Safety threshold:** Most references cite ropivacaine toxicity threshold ~3 mg/kg (~210 mg for 70 kg). Protocol 2 typical total (200-300 mg ropivacaine + 100-150 mg lidocaine if infusion used) remains below toxic threshold for standard adult, but approaches limit in low body mass patients.
+
+**Flag for review if:** Total LA burden >3.5 mg/kg or patient exhibits any concerning signs during/after administration.
+
 **Typical surgeon periarticular infiltration:**
 - **Ropivacaine 0.2%, 100–150 mL** injected into posterior capsule, medial/lateral soft tissues, periosteum
 - **Total ropivacaine dose:** 200–300 mg (higher than Protocol 1 blocks, still below toxic threshold)
@@ -258,7 +272,7 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 |------------|-----------|------|-------|
 | **Scopolamine patch** | High PONV risk only (Apfel ≥3) | 1.5 mg transdermal | Apply evening prior or ≥4 hours preop<br>**Contraindicated:** Narrow-angle glaucoma |
 | **Midazolam** | Anxiolysis if needed | 0.5–2 mg IV | Reduce to 0.5 mg or avoid in age >75, frailty, OSA, cognitive impairment |
-| **Gabapentinoids** | **NOT recommended** | — | Risk of sedation, delirium, respiratory depression outweighs benefit |
+| **Gabapentinoids** | **NOT recommended** | — | Risk of sedation, delirium, respiratory depression outweighs benefit in modern multimodal protocols |
 | **Home opioids** | Chronic opioid use | Baseline dose | Continue morning dose; do not escalate preoperatively |
 
 **Documentation:**
@@ -470,6 +484,13 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 | **Start Time** | After intubation | After intubation | Titrate to effect |
 | **Stop Time** | 10–15 min before case end | 10–15 min before case end | Prevents prolonged sedation |
 
+**Dosing Strategy:**
+- **Default range: 0.2–0.4 mcg/kg/hr** for most patients
+- **Higher range (0.5–0.7 mcg/kg/hr)** may be used in Protocol 2 to compensate for lack of blocks, BUT:
+  - **Exclude if:** Baseline HR <60, any AV conduction disease, age >75, or severe cardiac disease
+  - **Monitor closely:** HR/BP every 5 minutes when using higher rates
+  - **Taper early:** Stop 15–20 minutes before case end when using higher rates
+
 **Monitoring Requirements:**
 - Continuous HR/BP monitoring
 - **Stop if HR <50 with symptoms** or **<45 regardless of symptoms**
@@ -666,75 +687,304 @@ In preoperative note, **explicitly document reason blocks NOT performed:**
 | **OSA** | More stringent criteria; ensure robust ventilation |
 | **Cardiac Disease** | Ensure hemodynamic stability before airway manipulation |
 
-### 6.5 Post-Extubation Care
+**Assessment and Management:**
 
-**Immediate post-extubation:**
-- Apply supplemental O₂ (nasal cannula 2–4 L/min or simple face mask 6–8 L/min)
-- Continue standard ASA monitoring (ECG, pulse oximetry, BP, RR)
-- Position patient semi-upright (30–45 degrees if not contraindicated)
-- Suction oropharyngeal secretions as needed
-- Monitor for signs of airway obstruction (stridor, desaturation, increased work of breathing)
+**Pain Assessment:**
+- Assess pain level using NRS (0-10 scale) as soon as patient responsive
+- **If NRS ≥4:** Consider IV acetaminophen 1g if not already given; prepare for opioid rescue if NRS ≥7
 
-**Pain and Emergence Delirium Management:**
-- **If moderate to severe pain (NRS ≥4):**
-  - Consider parenteral acetaminophen 1g IV
-  - Administer short-acting opioids if necessary (e.g., morphine 1–2 mg IV) 
-  - Start opioid-sparing oral medications (e.g., ibuprofen, acetaminophen) as soon as tolerated
-  - Reassess pain at 15-minute intervals until pain is controlled
+**Delirium Prevention Strategies (Start Preoperatively):**
 
-- **Emergence delirium (common in children, frail elderly, and OSA):**
-  - Monitor closely for agitation or confusion
-  - Reorient and reassure the patient
-  - Administer low-dose benzodiazepine (e.g., lorazepam 0.5 mg IV) if agitation persists
-  - Assess for hypoxia and hypercarbia
+Non-pharmacologic interventions reduce delirium incidence and should be implemented throughout perioperative period:
 
-**Repositioning and Airway Management:**
-- Ensure patient remains in **semi-upright position** unless contraindicated (e.g., abdominal surgery, severe hypotension)
-- Consider using a **soft oral airway** or **nasal cannula with higher O₂ flow** if signs of airway obstruction
-- For **OSA patients**: Place on continuous positive airway pressure (CPAP) or BiPAP as per institutional protocol
+**Preoperative:**
+- Identify high-risk patients (age >75, baseline cognitive impairment, frailty, depression, alcohol use)
+- Ensure corrective lenses and hearing aids available postoperatively
+- Family education on expected recovery and their role in reorientation
 
-**Oxygen Saturation Monitoring:**
-- Continuous pulse oximetry monitoring should continue in the PACU or monitored recovery area
-- **SpO₂ ≥92%** is the goal; administer supplemental oxygen to maintain target range
-- **If SpO₂ <90%** for more than 2 minutes: Consider CPAP or BiPAP
-- **If SpO₂ remains <85%** for more than 5 minutes: Reassess for possible re-intubation or escalation of airway management
+**Intraoperative:**
+- Minimize benzodiazepine use (already emphasized in Protocol 2)
+- Avoid excessive anesthetic depth (BIS 40–60 when using processed EEG)
+- Maintain normothermia (>36°C)
+- Avoid severe hypotension (MAP >65 mmHg)
+- Minimize blood loss and transfusion
+
+**Postoperative (PACU and Floor):**
+- Early mobilization (target POD 0 within 4–8 hours)
+- Minimize sleep disruption (cluster care activities)
+- Ensure glasses, hearing aids, dentures in place
+- Frequent reorientation (clocks, calendars, family presence)
+- Adequate pain control WITHOUT over-sedation
+- Avoid urinary catheters when possible (remove early if placed)
+- Maintain regular bowel function
+
+**Emergence Delirium Recognition and Management:**
+
+Emergence delirium presents as agitation, confusion, disorientation, or combativeness in the immediate post-extubation period. It is more common in elderly, frail, OSA, and patients with baseline cognitive impairment.
+
+**Management Algorithm:**
+
+1. **FIRST: Rule out physiologic causes**
+   - [ ] **Hypoxemia:** Check SpO₂; ensure ≥92%; increase O₂ as needed
+   - [ ] **Hypercarbia:** Consider capnography; ensure adequate ventilation
+   - [ ] **Hypotension:** Check MAP; ensure ≥65 mmHg; treat if low
+   - [ ] **Hypoglycemia:** Check fingerstick glucose if diabetic or prolonged NPO
+   - [ ] **Pain:** Assess NRS; treat pain FIRST before considering sedation
+
+2. **SECOND: Environmental and behavioral de-escalation**
+   - Calm, reassuring voice
+   - Reorient patient ("Surgery is over, you're in the recovery room")
+   - Minimize stimulation (lights, noise, unnecessary procedures)
+   - Family presence if institutional policy allows
+
+3. **THIRD: Medication management (if behavioral measures inadequate)**
+
+**Standard Adult (no frailty/elderly/OSA):**
+- Consider **low-dose propofol 10–20 mg IV** (short-acting, minimal respiratory depression)
+- OR **dexmedetomidine bolus 0.5 mcg/kg over 10 min** followed by low-rate infusion (if already familiar to patient from intraoperative use)
+
+**Elderly/Frail/OSA/Cognitive Impairment:**
+- **AVOID benzodiazepines** (high delirium risk, respiratory depression, prolonged sedation)
+- **First-line:** Low-dose **haloperidol 0.5–1 mg IV** (where institutionally permitted)
+- **Alternative:** Low-dose **propofol 10 mg IV** (reassess q3–5min)
+- **Last resort:** If agitation severe and refractory, consult attending for decision-making
+
+**Institutional Variability:**
+- Some institutions prefer haloperidol or droperidol for agitation
+- Some institutions have specific delirium protocols
+- Verify local policy before proceeding
+
+**Critical Note:** Benzodiazepines (lorazepam, midazolam) should be **avoided or minimized** in elderly, frail, and OSA patients due to significant risk of worsening delirium, respiratory depression, and prolonged recovery.
 
 ---
 
 ## 7. Postoperative Pain Management
 
-**Pain Management Approach (Opioid-Sparing):**
-- **Primary Strategy:** NSAIDs and acetaminophen for mild to moderate pain
-- **Adjuncts:** Gabapentinoids (e.g., gabapentin 300 mg PO) and local anesthesia as indicated
+> **Expected pain profile WITHOUT regional blocks:** NRS 2–5 is typical, representing good but not excellent analgesia. This is HIGHER than Protocol 1 and requires robust multimodal foundation plus planned rescue pathway.
 
-| Medication | Dose | Route | Timing | Notes |
-|------------|------|-------|--------|-------|
-| **Acetaminophen** | 1000 mg | IV/PO | Q6H | Continue until POD 2-3 |
-| **Ibuprofen** | 400–600 mg | PO | Q6H | Consider for mild-moderate pain; use with caution in renal dysfunction |
-| **Gabapentin** | 300 mg | PO | Daily | Start on POD 1 to reduce opioid use |
-| **Celecoxib** | 400 mg | PO | Single dose preop | Continue 200 mg daily for 2–3 days |
-| **Opioids** | As needed | IV/PO | PRN | Use as a last resort for breakthrough pain (e.g., morphine 1-2 mg IV, hydrocodone 5 mg PO) |
-| **Lidocaine patches** | 1–2 patches | Topical | Q12H | Apply to surgical site for localized pain |
+### 7.1 Expected Pain Profile
 
-### 7.1 Monitoring for Pain Management Side Effects
-- **Monitor for PONV (postoperative nausea/vomiting):**  
-  - If high risk (Apfel score ≥3), administer antiemetic prophylaxis (e.g., ondansetron 4 mg IV)
-  - **Treat PONV if it occurs** with standard antiemetics, avoiding opioids
+**With surgeon periarticular infiltration (NO nerve blocks):**
 
-- **Sedation Levels:**  
-  - If opioids are used, monitor **RASS (Richmond Agitation-Sedation Scale)** to avoid over-sedation
-  - **RASS Score -2 or below:** Reassess sedation level and consider reducing opioid dose
-  - **Avoid excessive opioid administration**: Utilize multimodal analgesia for best results
+| Time Period | Expected NRS | Description |
+|-------------|--------------|-------------|
+| **0–4 hours** | 2–4 | Good analgesia from infiltration; some rescue needs |
+| **4–8 hours** | 3–5 | Infiltration wearing off; transition to oral regimen |
+| **8–12 hours** | 3–5 | Oral multimodal regimen primary |
+| **12–24 hours** | 3–5 | Continued multimodal regimen |
 
-### 7.2 Special Considerations for High-Risk Populations
-- **Elderly/Frail:**  
-  - **Lower threshold for opioid use**: Given the risk of delirium, use the smallest effective dose and start with non-opioid agents.
-  - **Frequent reassessment** of pain and sedation levels is critical, especially if there are signs of cognitive decline.
+**If NRS ≥6 at any time:**
+- Reassess adequacy of surgeon infiltration
+- Rule out surgical complications (hematoma, compartment syndrome)
+- Implement rescue analgesia pathway (see Section 7.3)
 
-- **Chronic Opioid Users:**  
-  - **Continue chronic opioid regimen** in the immediate postoperative period to avoid withdrawal symptoms
-  - **Enhanced rescue analgesia**: Anticipate higher pain levels and opioid needs postoperatively
-  - **Monitor for opioid tolerance** and ensure a planned transition to multimodal analgesia as the acute pain phase resolves
+### 7.2 Scheduled Multimodal Analgesia (Foundation for All Patients)
+
+**Start immediately in PACU and continue on floor:**
+
+| Medication | Dose | Route | Frequency | Maximum Daily | Notes |
+|------------|------|-------|-----------|---------------|-------|
+| **Acetaminophen** | 650–1000 mg | PO/IV | Every 6 hours | 3 g/day (hepatic impairment)<br>4 g/day (normal liver) | Reduce to 650 mg if <50 kg |
+| **Celecoxib** | 200 mg | PO | Every 12 hours | 400 mg/day | **First-line NSAID** (selective COX-2)<br>**Avoid:** CrCl <30, active GI bleed, recent CV event |
+| **Ketorolac** (alternative) | 15 mg | IV | Every 6 hours | 60 mg/day; max 5 days | **Use with caution:** Age >65, CrCl <50, bleeding risk<br>Consider avoiding in elderly |
+| **Meloxicam** (alternative) | 7.5–15 mg | PO | Once daily | 15 mg/day | Alternative NSAID if celecoxib not available |
+
+**Gabapentinoid Use (Institutional Variability):**
+
+Gabapentinoids (gabapentin, pregabalin) are **NOT routinely recommended** in Protocol 2 due to:
+- Increased sedation and delirium risk
+- Respiratory depression concerns, especially in OSA
+- Limited benefit in opioid-naïve patients within modern multimodal protocols
+
+**Exception:** Some institutions use gabapentinoids for **select chronic pain phenotypes** (e.g., neuropathic pain, chronic opioid users). If institutional protocol includes gabapentinoids:
+- **Explicitly exclude:** Frail, elderly (>75), OSA (STOP-Bang ≥3), cognitive impairment, or baseline sedation
+- **Dosing:** Gabapentin 100–300 mg PO (NOT 600–900 mg commonly cited in older literature)
+- **Timing:** Single preoperative dose only; NOT continued postoperatively in routine cases
+- **Monitoring:** Enhanced sedation and respiratory monitoring required
+
+**Default recommendation:** Omit gabapentinoids from Protocol 2 unless compelling institutional data supports benefit in your specific patient population.
+
+**NSAID Decision-Making:**
+- **Strong benefit when safe:** Reduce opioid requirement by 30–50%
+- **High caution required in:**
+  - Elderly (>75 years)
+  - Renal impairment (CrCl <50)
+  - Cardiovascular disease (recent MI/stroke, heart failure)
+  - Concurrent anticoagulation (bleeding risk)
+  - Gastrointestinal disease (ulcer, bleeding history)
+- **Prefer selective COX-2 (celecoxib)** over ketorolac in higher-risk patients
+- **Duration:** Limit to 5 days maximum; reassess daily
+
+**Gabapentinoids:**
+- **NOT routinely recommended** in Protocol 2
+- Risk of sedation, delirium, and respiratory depression outweighs benefit
+- May be considered in select institutional protocols for chronic pain phenotypes, but requires explicit exclusion of frail/elderly/OSA/cognitive impairment patients
+
+### 7.3 Rescue Analgesia (Conservative Stepwise Approach)
+
+> **Protocol 2 Expectation:** More rescue analgesia will be needed compared to Protocol 1 due to absence of regional blocks. This is ANTICIPATED and PLANNED FOR.
+
+#### Step 1: Reassess and Optimize
+
+**Before administering rescue medications:**
+- [ ] Verify scheduled multimodal medications given on time
+- [ ] Ensure surgeon periarticular infiltration was performed (verify in operative note)
+- [ ] Reposition patient for comfort
+- [ ] Apply ice to surgical site (if not contraindicated)
+- [ ] Assess for surgical complications (see Section 9.2)
+
+#### Step 2: Ketamine Rescue (If Institutional Protocol Allows)
+
+**Indication:** Moderate to severe pain (NRS 5–7) unresponsive to multimodal foundation
+
+| Patient Population | Dose | Administration | Maximum |
+|-------------------|------|----------------|---------|
+| **Standard adult** | **10–20 mg IV** (0.1–0.15 mg/kg) | Slow push over 1–2 minutes | ~3 doses per reassessment period |
+| **Elderly (>75)** | **7–10 mg IV** (0.1 mg/kg) | Slow push over 2 minutes | 2 doses maximum |
+| **Frail** | **7–10 mg IV** or **omit** | Slow push over 2 minutes | Consider opioid alternative |
+
+**Reassessment Interval:** 10–15 minutes after each dose
+
+**Monitoring:**
+- Continuous pulse oximetry
+- Blood pressure every 5 minutes for first 15 minutes after dose
+- Assess for dissociative effects (patients may appear "zoned out" - reassure)
+
+**Institutional Variability:**
+- Ketamine as PACU rescue is **not universally adopted**
+- Verify local policy before implementation
+- Some institutions prefer opioid rescue as first-line
+
+#### Step 3: Opioid Rescue (Conservative Incremental Dosing)
+
+**Indication:** Severe pain (NRS ≥7) unresponsive to multimodal + ketamine, OR ketamine contraindicated/unavailable
+
+**Protocol 2 Reality:** Opioid rescue requirements are HIGHER than Protocol 1 due to absence of regional blocks. This does not represent pathway failure.
+
+| Patient Population | First Dose | Reassessment Interval | Subsequent Doses |
+|-------------------|------------|----------------------|------------------|
+| **Standard adult (opioid-naïve)** | **Hydromorphone 0.2–0.4 mg IV** | 15–20 minutes | 0.2–0.4 mg IV |
+| **Elderly (>75)** | **Hydromorphone 0.2 mg IV** | 20–30 minutes | 0.2 mg IV |
+| **Frail** | **Hydromorphone 0.2 mg IV** | 20–30 minutes | 0.2 mg IV |
+| **OSA (STOP-Bang ≥3)** | **Hydromorphone 0.2 mg IV** | 20–30 minutes | 0.2 mg IV; longer intervals; enhanced monitoring |
+| **Chronic opioid use** | **Hydromorphone 0.4–0.8 mg IV** | 15–20 minutes | Titrate to effect; anticipate tolerance |
+
+**Phenotype-Specific Considerations:**
+
+| Population | Interval Adjustment | Additional Precautions |
+|------------|---------------------|------------------------|
+| **Frail** | **Extend to 25–30 min** between doses | Use lowest effective dose; consider stopping at 2–3 total doses |
+| **Elderly (>80)** | **Extend to 25–30 min** between doses | Enhanced sedation monitoring; lower threshold for capnography |
+| **OSA (STOP-Bang ≥3)** | **Extend to 25–30 min** between doses | Mandatory continuous pulse oximetry; strongly consider capnography |
+| **Severe cardiac disease** | **Standard intervals OK** but **lower doses** | Close hemodynamic monitoring; arterial line if concern for instability |
+| **Chronic opioid (>120 MME/day)** | **May shorten to 10–15 min** with higher doses | Anticipate tolerance; early pain service consultation if inadequate |
+
+**General Principle:** When in doubt, extend the interval and use the lowest effective dose. Respiratory safety > speed of titration.
+
+**Alternative: Fentanyl (if institutional preference):**
+- **Standard adult:** Fentanyl 25–50 mcg IV q5–10min
+- **Elderly/frail:** Fentanyl 12.5–25 mcg IV q10–15min
+- **Advantage:** Shorter duration; disadvantage: more frequent redosing
+
+**Enhanced Monitoring Requirements:**
+- **Mandatory continuous pulse oximetry** until stable and pain controlled
+- **Consider capnography** for OSA, elderly, opioid-naïve, or high cumulative opioid dose
+- **Sedation assessment** every 10–15 minutes using standardized scale (RASS, Pasero)
+- **Respiratory rate** every 10–15 minutes; alert if <10 breaths/min
+
+**Naloxone Availability:**
+- **Immediately available** at bedside (0.4 mg ampules)
+- Dosing if respiratory depression: **0.04–0.08 mg IV** titrated (avoid full reversal/withdrawal)
+- May repeat every 2–3 minutes until respiratory rate ≥10 and adequate TV
+
+**Escalation Criteria:**
+- If NRS remains ≥6 despite maximal multimodal + ketamine + opioids → **Consult attending anesthesiologist**
+- Consider alternative strategies:
+  - Postoperative ACB catheter placement (if now feasible)
+  - Regional anesthesia consultation
+  - Pain medicine consultation
+- **Evaluate for surgical complications** (see Section 9.2)
+
+### 7.4 Oral Opioid Transition (If Needed)
+
+**Protocol 2 patients often require SHORT-TERM oral opioids:**
+
+| Medication | Dose | Frequency | Duration | Notes |
+|------------|------|-----------|----------|-------|
+| **Oxycodone** | 5 mg PO | q4–6h PRN | 3–5 days maximum | **First-line oral opioid**<br>Continue scheduled multimodal |
+| **Hydrocodone/APAP** | 5/325 mg PO | q4–6h PRN | 3–5 days maximum | Alternative if oxycodone unavailable |
+
+**Patient Counseling:**
+- Take scheduled non-opioid medications FIRST (acetaminophen, celecoxib)
+- Use opioids only for breakthrough pain (NRS ≥6)
+- Constipation prophylaxis (senna, docusate)
+- Safe storage and disposal of unused medications
+- Do not drive or operate machinery while taking opioids
+- Expected duration: 3–5 days, then transition to non-opioid regimen
+
+### 7.5 Mobilization and Physical Therapy
+
+**Goal:** POD 0 ambulation within 4–8 hours post-op (slightly longer than Protocol 1 due to pain management needs)
+
+**Mobilization Protocol:**
+- **Phase 1 (2–4 hours):** Sit at edge of bed with assistance
+- **Phase 2 (4–6 hours):** Stand with walker and PT assistance
+- **Phase 3 (6–8 hours):** Ambulate 10–20 feet with walker
+- **Progression:** As tolerated per PT assessment and pain control
+
+**Barriers to Early Mobilization:**
+- Inadequate pain control (NRS >6)
+- Excessive sedation (from opioids or adjuncts)
+- PONV
+- Hypotension or dizziness
+
+### 7.6 Local Anesthetic Burden and LAST Preparedness
+
+> **Critical Safety Note:** Even without regional nerve blocks, Protocol 2 involves significant local anesthetic exposure through surgeon periarticular infiltration and (optionally) IV lidocaine infusion. LAST risk remains present.
+
+**Cumulative Local Anesthetic Accounting:**
+
+| Source | Typical Dose | Notes |
+|--------|--------------|-------|
+| **Surgeon periarticular infiltration** | 200–300 mg ropivacaine | Most significant LA source in Protocol 2 |
+| **IV lidocaine infusion** (if used) | ~100–150 mg/hr | Typical 1–1.5 mg/kg/hr x 2 hours |
+| **Total potential exposure** | 400–600 mg | Below toxic threshold for most adults, but approach with caution |
+
+**High-Risk Scenarios for LAST:**
+- **Low body mass** (<50 kg): Mg/kg thresholds approached more quickly
+- **Frail/elderly:** Reduced hepatic clearance, lower protein binding
+- **Hepatic impairment:** Reduced metabolism of amide local anesthetics
+- **Inadvertent intravascular injection** during infiltration (surgeon technique-dependent)
+- **Stacking** multiple amide sources without awareness (infiltration + IV lidocaine + any topical)
+
+**LAST Preparedness Requirements:**
+- [ ] **20% lipid emulsion immediately available** in OR and PACU (same as Protocol 1)
+- [ ] **LAST treatment protocol** posted and visible
+- [ ] **Staff trained** in LAST recognition and management
+- [ ] **Cumulative LA dose documented** in anesthetic record (infiltration + IV lidocaine if used)
+
+**LAST Recognition (Early Signs):**
+- CNS: Perioral numbness, metallic taste, tinnitus, dizziness, confusion, seizures
+- Cardiovascular: Tachycardia → bradycardia → arrhythmias → cardiovascular collapse
+
+**LAST Treatment Algorithm:**
+1. **Stop any ongoing LA administration** (stop IV lidocaine infusion if running)
+2. **Call for help** (announce "Local anesthetic toxicity")
+3. **Airway management:** 100% O₂, support ventilation
+4. **Seizure control:** Benzodiazepines (midazolam 1–2 mg IV) or propofol if needed
+5. **Lipid emulsion therapy:**
+   - Initial bolus: 1.5 mL/kg (~100 mL for 70 kg) over 1 minute
+   - Infusion: 0.25 mL/kg/min for 10 minutes
+   - Repeat bolus if persistent cardiovascular collapse
+6. **ACLS with modifications:** Small doses epi (≤1 mcg/kg), avoid vasopressin, avoid calcium channel blockers, prolonged resuscitation
+
+**Documentation Requirements:**
+- Total ropivacaine dose from surgeon infiltration (mg)
+- IV lidocaine total dose if used (mg)
+- Combined mg/kg calculation
+- Any signs/symptoms concerning for LAST
+
+**Clinical Pearl:** LAST can occur even with "safe" total doses if rapid vascular absorption occurs. Maintain high index of suspicion throughout case and into PACU period.
 
 ---
 
@@ -925,10 +1175,11 @@ Ask your anesthesiologist or surgeon for more information.
 - [ ] PT staff aware of POD 0 mobilization goals
 
 **Equipment:**
-- [ ] Ultrasound machines with high-frequency linear probes
-- [ ] Regional anesthesia supply kits (needles, tubing, sterile supplies for infiltration)
 - [ ] Quantitative TOF monitors available
-- [ ] Infusion pumps for dexmedetomidine, ketamine (if used)
+- [ ] Infusion pumps for dexmedetomidine, ketamine, lidocaine (if used)
+- [ ] 20% lipid emulsion immediately available in OR and PACU (for LAST management related to surgeon infiltration and/or IV lidocaine)
+- [ ] Code cart with full ACLS medications
+- [ ] Standard airway management equipment
 
 **Pharmacy:**
 - [ ] Ropivacaine 0.2% available in appropriate volumes for infiltration
