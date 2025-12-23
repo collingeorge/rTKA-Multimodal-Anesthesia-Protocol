@@ -453,62 +453,71 @@ This repository does **not** constitute medical advice and must **not** be used 
 
 ### Current Limitations
 
-* No prospective clinical outcomes linked specifically to this exact bundle
-* No formal cost-effectiveness analysis
-* Not tailored to any specific EHR/order-entry system
-* Flowcharts are conceptual and intended for educational use
+- No formal cost-effectiveness analysis
+- Not tailored to any specific EHR or order-entry system
+- Flowcharts are conceptual and intended for educational use only
+- No prospective validation or clinical trial data
+- Evidence synthesis represents author's interpretation of published literature
 
 ### Future Directions
 
-* Pilot implementation with QI or IRB oversight
-* Multi-center validation
-* EHR order-set integration only after local governance approval
-* Extension to other arthroplasty procedures and surgical populations
-* Ongoing evidence updates for OFIA adjuncts and monitoring considerations
+**For institutional implementation (requires governance approval):**
+- Pilot implementation with quality improvement or IRB oversight
+- Multi-center validation studies
+- EHR order-set integration only after local governance approval
+- Extension to other arthroplasty procedures and surgical populations
+
+**For ongoing educational development:**
+- Continuous evidence updates for OFIA adjuncts and monitoring considerations
+- Incorporation of emerging guidelines and safety communications
+- Refinement based on peer feedback and literature review
 
 ---
 
 ## References
 
-Complete Vancouver-style references are provided in:
+Complete Vancouver-style references are provided in:  
 [`07_References_Evidence_2024.md`](07_References_Evidence_2024.md)
 
 ---
 
-## Author and Contact
+## Author Information
 
 **Author:** Collin B. George, BS  
-**Project Type:** Independent pre-medical research and educational portfolio development  
-**Educational Context:** Literature synthesis informed by clinical observation opportunities at University of Washington Medical Center  
+**Project Type:** Independent pre-medical research and educational portfolio  
+**Educational Context:** Literature synthesis informed by clinical observation at University of Washington Medical Center  
+**Status:** Preparing for medical school matriculation 2026
 
-### Important Disclaimers
+**GitHub:** [github.com/collingeorge](https://github.com/collingeorge)  
+**License:** CC BY 4.0
 
-* This is an independent educational project, NOT an official University of Washington or UW Medicine document
-* This work is not affiliated with, endorsed by, or approved by UW Medicine, its faculty, or staff
-* Developed solely for medical school application portfolio purposes
-* Not intended for clinical implementation without appropriate institutional review and approval
+---
 
-### Acknowledgments
+## Acknowledgments
 
-This framework was informed by:
+This educational framework was informed by:
 
-* ERAS Society arthroplasty publications
-* ASRA practice advisories and publications on regional anesthesia safety
-* ASA/APSF safety communications relevant to perioperative risk
-* **Clinical practice feedback from Drs. Shane Mandalia, Dr. Pauldine, and Chief CRNA Brian Buchanan** regarding standard anesthetic practices including midazolam anxiolysis and sevoflurane/propofol maintenance
-* The author is grateful to University of Washington faculty and staff for clinical observation opportunities and mentorship that informed this educational work.
+**Professional Guidelines:**
+- ERAS Society arthroplasty publications
+- ASRA practice advisories on regional anesthesia safety
+- ASA/APSF safety communications on perioperative risk management
 
-### For Feedback or Collaboration
+**Clinical Education:**
+The author is grateful to University of Washington faculty and staff for clinical observation opportunities and mentorship that informed this educational work.
 
-* Open a GitHub issue on this repository
-* Or submit a pull request with proposed edits
+**Note:** Clinical observation informed educational learning. This does not constitute institutional collaboration or endorsement of this project.
 
-### Important Disclaimers
+---
 
-* This is an independent educational project, NOT an official University of Washington or UW Medicine document
-* This work is not affiliated with, endorsed by, or approved by UW Medicine, its faculty, or staff
-* Developed solely for medical school application portfolio purposes
-* Not intended for clinical implementation without appropriate institutional review and approval
+## Contributing and Feedback
+
+This is a living educational document. Constructive feedback is welcome:
+
+- **Issues:** Open a GitHub issue for corrections or suggestions
+- **Pull Requests:** Submit proposed edits or improvements
+- **Discussions:** Use GitHub Discussions for questions
+
+**Note:** This repository is not seeking clinical implementation partners. Feedback is welcome for educational improvement only.
 
 ---
 
@@ -516,27 +525,28 @@ This framework was informed by:
 
 If you reference this work in presentations or academic writing:
 ```text
-George, Collin B. (2025). Multimodal and Opioid-Free Intraoperative Anesthesia Framework for Robot-Assisted Total Knee Arthroplasty (rTKA). GitHub Repository. Version 1.2. Accessed [date].
-https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol
+George CB. Multimodal and Opioid-Free Intraoperative Anesthesia Framework 
+for Robot-Assisted Total Knee Arthroplasty (rTKA). GitHub Repository. 
+Version 2.2. Published December 2025. Available from: 
+https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol 
+[Accessed: date]
 ```
-
 
 ---
 
 ## License
 
-This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-You are free to:
+**You are free to:**
+- Share and redistribute the material in any medium or format
+- Adapt, remix, transform, and build upon the material for any purpose
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material for any purpose, even commercially
+**Under the following terms:**
+- **Attribution:** Give appropriate credit to Collin B. George, provide a link to the license, and indicate if changes were made
+- Do not suggest that the author or any institution endorses you or your use
 
-Under the following terms:
-
-* Attribution — You must give appropriate credit to the original author (Collin B. George), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in a way that suggests the licensor or any institution endorses you or your use.
-
-Full license text: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+**Full license:** https://creativecommons.org/licenses/by/4.0/
 
 © 2025 Collin B. George — Licensed under CC BY 4.0
 
