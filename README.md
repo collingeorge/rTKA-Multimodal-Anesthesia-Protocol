@@ -13,9 +13,63 @@ last-updated: 2025-12-07
 
 ---
 
-## Educational Use Only
+## Educational Use Only — Not for Clinical Application
 
-**Educational Use Only (Non-Clinical Use).** This repository is an educational synthesis for discussion, training, and research documentation. It is **not medical advice**, not a substitute for clinical judgment, and not an institutional guideline, policy, or order set. Medication selection and dosing must be individualized to patient physiology, comorbidities, monitoring strategy, and local formulary/policies, under **supervision of a licensed attending anesthesiologist**. Any clinical use requires **formal local review and governance approval**.
+**CRITICAL NOTICE:** This repository contains educational materials developed for medical school application portfolio purposes. It is **NOT** intended for clinical use.
+
+### Purpose and Scope
+
+This is an **independent pre-medical research project** consisting of literature synthesis, protocol analysis, and educational framework development. This work represents:
+
+- Educational portfolio material for medical school applications
+- Literature review and synthesis of published guidelines
+- Structured clinical reasoning exercises
+- Demonstration of systems thinking and protocol design competency
+
+This work is **NOT:**
+
+- Medical advice or clinical guidance
+- A substitute for clinical judgment or attending physician oversight
+- An institutional guideline, policy, or order set
+- Endorsed or approved for clinical implementation
+- A validated clinical protocol
+
+### Clinical Implementation Warning
+
+**Any consideration of clinical use would require:**
+
+1. **Institutional Review:** Formal review by medical staff, pharmacy, nursing, and administration
+2. **Local Adaptation:** Modification for local formulary, policies, and practice patterns  
+3. **Governance Approval:** Explicit approval through proper clinical governance channels
+4. **Attending Oversight:** Implementation only under supervision of licensed attending physicians
+5. **Patient-Specific Individualization:** All medication selection, dosing, and monitoring must be individualized to patient physiology, comorbidities, and clinical context
+
+**This repository does NOT constitute approval for clinical use.**
+
+---
+
+## Important Disclaimers
+
+### Institutional Affiliation
+
+* This is an **independent educational project**, NOT an official University of Washington or UW Medicine document
+* This work is **not affiliated with, endorsed by, or approved by** UW Medicine, its faculty, staff, or administration
+* Clinical observation opportunities at UW Medical Center informed this educational work but **do not constitute institutional collaboration or endorsement**
+* Developed solely for **medical school application portfolio purposes**
+
+### Liability and Use
+
+* **No Clinical Validation:** These materials have not undergone institutional validation, peer review, or regulatory approval for clinical use
+* **No Warranty:** This work is provided "as is" without warranty of any kind, express or implied
+* **User Responsibility:** Any individual or institution considering use of these materials assumes full responsibility for validation, adaptation, and outcomes
+* **Professional Judgment Required:** Clinical decision-making must always involve qualified healthcare professionals exercising independent clinical judgment
+
+### Educational Context
+
+* **Author Status:** Pre-medical student conducting independent scholarly work
+* **Not Professional Medical Literature:** This repository represents educational portfolio development, not professional medical research or clinical trials
+* **Synthesis, Not Original Research:** Content is synthesized from published literature, guidelines, and educational resources
+* **Learning Demonstration:** Purpose is to demonstrate clinical reasoning, systems thinking, and protocol development competency for medical school applications
 
 ---
 
