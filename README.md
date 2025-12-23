@@ -6,10 +6,11 @@ last-updated: 2025-12-07
 
 # Multimodal Anesthesia Protocol for Robot-Assisted Total Knee Arthroplasty
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Version](https://img.shields.io/badge/Version-1.2-blue.svg)]()
-[![Last Updated](https://img.shields.io/badge/Updated-December%207%2C%202025-green.svg)]()
-[![Evidence Base](https://img.shields.io/badge/Evidence-2023--2025-orange.svg)]()
+![Status](https://img.shields.io/badge/Status-Educational%20Portfolio-orange)
+![Project Type](https://img.shields.io/badge/Project-Pre--Medical-blue)
+![Version](https://img.shields.io/badge/Version-1.0-green)
+![Last Updated](https://img.shields.io/badge/Updated-December%202025-lightgrey)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
