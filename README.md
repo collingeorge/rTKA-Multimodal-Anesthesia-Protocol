@@ -450,14 +450,16 @@ Complete Vancouver-style references are provided in:
 
 ## Author and Contact
 
-**Author:** Collin George
+**Author:** Collin B. George, BS  
+**Project Type:** Independent pre-medical research and educational portfolio development  
+**Educational Context:** Literature synthesis informed by clinical observation opportunities at University of Washington Medical Center  
 
-**Institutional context (non-affiliated):** Developed as an independent educational portfolio project informed by clinical observation and training exposure. This repository is **not affiliated with, endorsed by, or an official document of** UW Medicine or any institution.
+### Important Disclaimers
 
-**For feedback or collaboration:**
-
-* Open a GitHub issue on this repository
-* Or submit a pull request with proposed edits
+* This is an independent educational project, NOT an official University of Washington or UW Medicine document
+* This work is not affiliated with, endorsed by, or approved by UW Medicine, its faculty, or staff
+* Developed solely for medical school application portfolio purposes
+* Not intended for clinical implementation without appropriate institutional review and approval
 
 ---
 
@@ -469,6 +471,8 @@ This framework was informed by:
 * ASRA practice advisories and publications on regional anesthesia safety
 * ASA/APSF safety communications relevant to perioperative risk
 * **Clinical practice feedback from Drs. Shane Mandalia, Dr. Pauldine, and Chief CRNA Brian Buchanan** regarding standard anesthetic practices including midazolam anxiolysis and sevoflurane/propofol maintenance
+* The author is grateful to University of Washington faculty and staff for clinical observation opportunities and mentorship that informed this educational work.
+
 
 ---
 
