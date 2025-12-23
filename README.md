@@ -488,9 +488,7 @@ Complete Vancouver-style references are provided in:
 * Developed solely for medical school application portfolio purposes
 * Not intended for clinical implementation without appropriate institutional review and approval
 
----
-
-## Acknowledgments
+### Acknowledgments
 
 This framework was informed by:
 
@@ -500,6 +498,17 @@ This framework was informed by:
 * **Clinical practice feedback from Drs. Shane Mandalia, Dr. Pauldine, and Chief CRNA Brian Buchanan** regarding standard anesthetic practices including midazolam anxiolysis and sevoflurane/propofol maintenance
 * The author is grateful to University of Washington faculty and staff for clinical observation opportunities and mentorship that informed this educational work.
 
+### For Feedback or Collaboration
+
+* Open a GitHub issue on this repository
+* Or submit a pull request with proposed edits
+
+### Important Disclaimers
+
+* This is an independent educational project, NOT an official University of Washington or UW Medicine document
+* This work is not affiliated with, endorsed by, or approved by UW Medicine, its faculty, or staff
+* Developed solely for medical school application portfolio purposes
+* Not intended for clinical implementation without appropriate institutional review and approval
 
 ---
 
@@ -510,6 +519,7 @@ If you reference this work in presentations or academic writing:
 George, Collin B. (2025). Multimodal and Opioid-Free Intraoperative Anesthesia Framework for Robot-Assisted Total Knee Arthroplasty (rTKA). GitHub Repository. Version 1.2. Accessed [date].
 https://github.com/collingeorge/rTKA-Multimodal-Anesthesia-Protocol
 ```
+
 
 ---
 
